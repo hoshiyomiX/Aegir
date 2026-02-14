@@ -35,8 +35,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          # Cache disabled because no package-lock.json exists yet (using bun.lockb)
-          # cache: 'npm' 
 
       - name: Deploy and Capture Log
         id: deploy_step
@@ -56,7 +54,7 @@ jobs:
             echo -e "\nStep 1: Deleting existing worker..."
             # Optional: Delete existing worker to clear history/state (Fresh Deploy)
             # Ignoring errors (e.g. if worker doesn't exist yet)
-            npx wrangler delete --force || true
+            npx wrangler delete --force 2>/dev/null || echo "Worker doesn't exist yet, skipping delete"
             
             echo -e "\nStep 2: Deploying new version..."
             npx wrangler deploy
@@ -73,18 +71,25 @@ jobs:
           echo "EXIT_CODE=$EXIT_CODE" >> $GITHUB_ENV
 
       - name: Commit Deployment Log
-        if: always()
+        # Only run for push events, not PRs (PR refs like 7/merge are not valid push targets)
+        if: always() && github.event_name == 'push'
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          
-          # Pull latest to avoid conflict
-          git pull origin ${{ github.ref_name }} --rebase || true
           
           # Ensure log exists even if previous step crashed
           if [ ! -f deployment.log ]; then
             echo "Deployment step crashed or failed to create log." > deployment.log
           fi
+          
+          # Stash any local changes before pulling
+          git stash -u || true
+          
+          # Pull latest to avoid conflict
+          git pull origin ${{ github.ref_name }} --rebase || true
+          
+          # Pop stashed changes
+          git stash pop || true
           
           # Force add ignored file
           git add -f deployment.log
