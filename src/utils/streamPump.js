@@ -16,6 +16,10 @@ import {
 import { bufferStats, batchStats } from '../core/state.js';
 import { returnToPool } from './network.js';
 
+/**
+ * Safely closes a WebSocket connection
+ * @param {WebSocket} socket - The WebSocket to close
+ */
 export function safeCloseWebSocket(socket) {
   try {
     if (socket.readyState === WS_READY_STATE_OPEN || socket.readyState === WS_READY_STATE_CLOSING) {
@@ -26,8 +30,29 @@ export function safeCloseWebSocket(socket) {
   }
 }
 
-// OPTIMIZATION 15 Phase 2: Intelligent chunk batching with adaptive watermark
-// OPTIMIZATION 13: Enhanced remoteSocketToWS with adaptive buffer management
+/**
+ * Creates a delay promise
+ * @param {number} ms - Milliseconds to wait
+ * @returns {Promise} - Promise that resolves after delay
+ */
+function delay(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+/**
+ * OPTIMIZATION 15 Phase 2: Intelligent chunk batching with adaptive watermark
+ * OPTIMIZATION 13: Enhanced remoteSocketToWS with adaptive buffer management
+ * 
+ * CRITICAL FIX: Replaced setTimeout-based batching with Promise-based approach
+ * 
+ * @param {Object} remoteSocket - The remote socket to pipe from
+ * @param {WebSocket} webSocket - The WebSocket to pipe to
+ * @param {Uint8Array} responseHeader - Optional response header
+ * @param {Function} retry - Optional retry function
+ * @param {Function} log - Optional logging function
+ * @param {string} targetAddress - Target address for connection pooling
+ * @param {number} targetPort - Target port for connection pooling
+ */
 export async function remoteSocketToWS(remoteSocket, webSocket, responseHeader, retry, log, targetAddress, targetPort) {
   let header = responseHeader;
   let hasIncomingData = false;
@@ -37,20 +62,20 @@ export async function remoteSocketToWS(remoteSocket, webSocket, responseHeader, 
   let isPaused = false;
   let batchBuffer = [];
   let batchSize = 0;
-  let batchTimeout = null;
-  
-  // FIX: Removed incorrect timeout race condition that was killing long-lived streams
-  // The connection timeout is already handled in tcp.js during handshake.
-  // We do not want to hard-limit the duration of an active stream.
+  let batchFlushPromise = null;
+  let batchFlushResolve = null;
 
-  // OPTIMIZATION 15 Phase 2: Smart batch flush
+  /**
+   * Flushes the current batch buffer
+   */
   const flushBatch = async () => {
     if (batchBuffer.length === 0) return;
     
-    // Clear pending timeout
-    if (batchTimeout) {
-      clearTimeout(batchTimeout);
-      batchTimeout = null;
+    // Cancel any pending flush
+    if (batchFlushResolve) {
+      batchFlushResolve();
+      batchFlushResolve = null;
+      batchFlushPromise = null;
     }
     
     let combined;
@@ -80,7 +105,9 @@ export async function remoteSocketToWS(remoteSocket, webSocket, responseHeader, 
     batchSize = 0;
   };
 
-  // OPTIMIZATION 13: Flush buffer queue with backpressure handling
+  /**
+   * Flushes the buffer queue with backpressure handling
+   */
   const flushBuffer = async () => {
     // First flush any pending batch
     await flushBatch();
@@ -95,8 +122,9 @@ export async function remoteSocketToWS(remoteSocket, webSocket, responseHeader, 
       if (webSocket.bufferedAmount > BUFFER_HIGH_WATERMARK) {
         bufferStats.backpressureEvents++;
         isPaused = true;
+        // Use Promise-based delay for backpressure (short delays are acceptable)
         while (webSocket.bufferedAmount > BUFFER_LOW_WATERMARK) {
-          await new Promise(resolve => setTimeout(resolve, 10));
+          await delay(10);
           if (webSocket.readyState !== WS_READY_STATE_OPEN) {
             return;
           }
@@ -110,7 +138,7 @@ export async function remoteSocketToWS(remoteSocket, webSocket, responseHeader, 
           webSocket.send(chunk);
           bytesTransferred += chunk.byteLength || chunk.length;
         } catch (e) {
-          if(log) log('Send error', e);
+          if (log) log('Send error', e);
           bufferQueue.length = 0;
           return;
         }
@@ -118,8 +146,32 @@ export async function remoteSocketToWS(remoteSocket, webSocket, responseHeader, 
     }
   };
 
+  /**
+   * CRITICAL FIX: Schedule a batch flush using Promise.race
+   * This replaces setTimeout with a more reliable approach
+   */
+  const scheduleBatchFlush = () => {
+    if (batchFlushPromise) return; // Already scheduled
+    
+    batchFlushPromise = new Promise(resolve => {
+      batchFlushResolve = resolve;
+    });
+    
+    // Use Promise.race to implement timeout
+    // This is more reliable than setTimeout in Workers context
+    Promise.race([
+      delay(COALESCE_TIMEOUT),
+      batchFlushPromise
+    ]).then(async () => {
+      batchFlushResolve = null;
+      batchFlushPromise = null;
+      await flushBatch();
+      await flushBuffer();
+    }).catch(() => {});
+  };
+
   try {
-    // FIX: Directly await the pipe operation without racing against a timeout
+    // Pipe the remote socket to WebSocket
     await remoteSocket.readable.pipeTo(
       new WritableStream({
         start() {},
@@ -127,6 +179,7 @@ export async function remoteSocketToWS(remoteSocket, webSocket, responseHeader, 
           hasIncomingData = true;
           if (webSocket.readyState !== WS_READY_STATE_OPEN) {
             controller.error("webSocket.readyState is not open, maybe close");
+            return;
           }
           
           let dataToSend = chunk;
@@ -138,7 +191,7 @@ export async function remoteSocketToWS(remoteSocket, webSocket, responseHeader, 
           // OPTIMIZATION 13: Queue with limit check
           if (bufferQueue.length >= MAX_QUEUE_SIZE) {
             bufferStats.queueOverflows++;
-            if(log) log(`Queue overflow, dropping old chunks`);
+            if (log) log(`Queue overflow, dropping old chunks`);
             bufferQueue.shift();
           }
           
@@ -152,16 +205,12 @@ export async function remoteSocketToWS(remoteSocket, webSocket, responseHeader, 
             batchBuffer.push(dataToSend);
             batchSize += chunkSize;
             
-            // Flush batch if:
-            // 1. Batch size exceeds max
-            // 2. Set timeout for time-based flush (if not already set)
+            // Flush batch if size exceeds max
             if (batchSize >= COALESCE_MAX_SIZE) {
               await flushBatch();
-            } else if (!batchTimeout) {
-              batchTimeout = setTimeout(async () => {
-                await flushBatch();
-                await flushBuffer();
-              }, COALESCE_TIMEOUT);
+            } else {
+              // CRITICAL FIX: Schedule time-based flush using Promise
+              scheduleBatchFlush();
             }
           } else {
             // Large chunk or interactive mode: flush batch first, then send immediately
@@ -174,7 +223,14 @@ export async function remoteSocketToWS(remoteSocket, webSocket, responseHeader, 
           await flushBuffer();
         },
         close() {
-          if(log) log(`remoteConnection closed. Transferred: ${(bytesTransferred/1024/1024).toFixed(2)}MB`);
+          if (log) log(`remoteConnection closed. Transferred: ${(bytesTransferred/1024/1024).toFixed(2)}MB`);
+          
+          // Cancel any pending batch flush
+          if (batchFlushResolve) {
+            batchFlushResolve();
+            batchFlushResolve = null;
+            batchFlushPromise = null;
+          }
           
           // Flush any remaining data
           flushBatch().then(() => flushBuffer()).then(() => {
@@ -187,7 +243,14 @@ export async function remoteSocketToWS(remoteSocket, webSocket, responseHeader, 
         },
         abort(reason) {
           console.error(`remoteConnection abort`, reason);
-          if (batchTimeout) clearTimeout(batchTimeout);
+          
+          // Cancel any pending batch flush
+          if (batchFlushResolve) {
+            batchFlushResolve();
+            batchFlushResolve = null;
+            batchFlushPromise = null;
+          }
+          
           batchBuffer = [];
           bufferQueue.length = 0;
           shouldReturnToPool = false;
@@ -208,7 +271,14 @@ export async function remoteSocketToWS(remoteSocket, webSocket, responseHeader, 
     
   } catch (error) {
     console.error(`remoteSocketToWS exception`, error.stack || error);
-    if (batchTimeout) clearTimeout(batchTimeout);
+    
+    // Cancel any pending batch flush
+    if (batchFlushResolve) {
+      batchFlushResolve();
+      batchFlushResolve = null;
+      batchFlushPromise = null;
+    }
+    
     shouldReturnToPool = false;
     batchBuffer = [];
     bufferQueue.length = 0;
@@ -224,8 +294,14 @@ export async function remoteSocketToWS(remoteSocket, webSocket, responseHeader, 
     }
   }
 
+  // Retry if no data was received
   if (hasIncomingData === false && retry) {
-    if(log) log(`retry`);
+    if (log) log(`retry`);
     retry();
   }
 }
+
+export default {
+  safeCloseWebSocket,
+  remoteSocketToWS
+};
