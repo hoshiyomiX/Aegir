@@ -1,12 +1,11 @@
 === START CLEAN DEPLOY ===
 Step 0: Installing Dependencies...
 
-up to date, audited 1 package in 563ms
+up to date, audited 1 package in 625ms
 
 found 0 vulnerabilities
 
 Step 1: Deleting existing worker...
-npm warn exec The following package was not found and will be installed: wrangler@4.65.0
 
  ⛅️ wrangler 4.65.0
 ───────────────────
@@ -19,7 +18,7 @@ Step 2: Deploying new version...
 
 Cloudflare collects anonymous telemetry about your usage of Wrangler. Learn more at https://github.com/cloudflare/workers-sdk/tree/main/packages/wrangler/telemetry.md
 Total Upload: 70.99 KiB / gzip: 18.91 KiB
-Uploaded aegir (1.65 sec)
-Deployed aegir triggers (1.20 sec)
+Uploaded aegir (4.06 sec)
+Deployed aegir triggers (0.90 sec)
   https://aegir.katahiranaruse-daydream.workers.dev
-Current Version ID: 25001baa-44ab-4cbe-9e64-095c73bbed8f
+Current Version ID: 1d029fe6-55ca-432e-bff5-4be1b36bfc05
