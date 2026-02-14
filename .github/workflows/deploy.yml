@@ -8,6 +8,7 @@ on:
     branches:
       - main
       - refactor-modular
+      - fix/critical-memory-leak-and-race-conditions
   pull_request:
     branches:
       - main
