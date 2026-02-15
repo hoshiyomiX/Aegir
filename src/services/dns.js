@@ -2,6 +2,7 @@ import { dnsCache, dnsStats } from '../core/state.js';
 import { DNS_RESOLVER, DNS_CACHE_TTL, KNOWN_DOMAINS } from '../config/constants.js';
 
 // OPTIMIZATION 18: DNS-over-HTTPS helpers
+// CRITICAL FIX: Handle cache race conditions safely
 export async function resolveDNS(hostname) {
   const now = Date.now();
   
@@ -12,8 +13,14 @@ export async function resolveDNS(hostname) {
       dnsStats.hits++;
       return cached.ip;
     } else {
-      // Expired, remove from cache
-      dnsCache.delete(hostname);
+      // RACE CONDITION FIX: Schedule cleanup in background instead of immediate delete
+      // This prevents race conditions where multiple requests try to access the same entry
+      Promise.resolve().then(() => {
+        const entry = dnsCache.get(hostname);
+        if (entry && now - entry.timestamp >= DNS_CACHE_TTL) {
+          dnsCache.delete(hostname);
+        }
+      });
     }
   }
   
