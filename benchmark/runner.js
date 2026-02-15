@@ -549,7 +549,9 @@ async function runBenchmarks() {
     else if (result.avgThroughput) metric = result.avgThroughput;
     else if (result.avgTime) metric = formatDuration(result.avgTime);
     
-    const details = result.details?.substring(0, 40) || '-';
+    const details = typeof result.details === 'string' 
+      ? result.details.substring(0, 40) 
+      : (Array.isArray(result.details) ? result.details[0]?.substring(0, 40) || '-' : '-');
     
     console.log(`| ${result.name.substring(0, 25).padEnd(25)} | ${status.padEnd(8)} | ${metric.padEnd(15)} | ${details} |`);
   }
