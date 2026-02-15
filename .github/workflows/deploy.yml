@@ -8,6 +8,7 @@ on:
     branches:
       - main
       - refactor-modular
+      - fix/critical-memory-leak-and-race-conditions
   pull_request:
     branches:
       - main
@@ -34,8 +35,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          # Cache disabled because no package-lock.json exists yet (using bun.lockb)
-          # cache: 'npm' 
 
       - name: Deploy and Capture Log
         id: deploy_step
@@ -55,7 +54,7 @@ jobs:
             echo -e "\nStep 1: Deleting existing worker..."
             # Optional: Delete existing worker to clear history/state (Fresh Deploy)
             # Ignoring errors (e.g. if worker doesn't exist yet)
-            npx wrangler delete --force || true
+            npx wrangler delete --force 2>/dev/null || echo "Worker doesn't exist yet, skipping delete"
             
             echo -e "\nStep 2: Deploying new version..."
             npx wrangler deploy
@@ -72,28 +71,55 @@ jobs:
           echo "EXIT_CODE=$EXIT_CODE" >> $GITHUB_ENV
 
       - name: Commit Deployment Log
-        if: always()
+        # Only run for push events, not PRs (PR refs like 7/merge are not valid push targets)
+        if: always() && github.event_name == 'push'
+        env:
+          TARGET_BRANCH: ${{ github.ref_name }}
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          
-          # Pull latest to avoid conflict
-          git pull origin ${{ github.ref_name }} --rebase || true
-          
+
           # Ensure log exists even if previous step crashed
           if [ ! -f deployment.log ]; then
             echo "Deployment step crashed or failed to create log." > deployment.log
           fi
-          
+
+          # Validate target branch is a real branch name (not PR merge refs like "7/merge")
+          if [[ "$TARGET_BRANCH" == *"merge"* ]] || [[ "$TARGET_BRANCH" =~ ^[0-9]+$ ]]; then
+            echo "Skipping commit for PR merge ref: $TARGET_BRANCH"
+            echo "Deployment log content:"
+            cat deployment.log
+            exit 0
+          fi
+
+          # Fetch the target branch to ensure we have latest
+          git fetch origin "$TARGET_BRANCH" || true
+
+          # Stash any local changes before pulling
+          git stash -u || true
+
+          # Pull latest to avoid conflict - use full ref path
+          git pull origin "$TARGET_BRANCH" --rebase || {
+            echo "Pull failed, attempting to continue anyway..."
+          }
+
+          # Pop stashed changes
+          git stash pop || true
+
           # Force add ignored file
           git add -f deployment.log
-          
+
           # Only commit if there are changes
           if git diff --staged --quiet; then
             echo "No changes to deployment log."
           else
             git commit -m "chore: update deployment logs [skip ci]"
-            git push origin HEAD:${{ github.ref_name }}
+            # Push using full refspec to avoid ambiguity
+            git push origin "HEAD:refs/heads/$TARGET_BRANCH" || {
+              echo "Push failed, but deployment was successful."
+              echo "Deployment log content:"
+              cat deployment.log
+            }
           fi
 
       - name: Check Deployment Status
