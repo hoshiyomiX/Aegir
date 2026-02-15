@@ -3,6 +3,14 @@ import { arrayBufferToHex } from '../utils/helpers.js';
 const TEXT_DECODER = new TextDecoder();
 
 export function readSsHeader(ssBuffer) {
+  // Validate buffer size - minimum 7 bytes (1 type + 4 IPv4 + 2 port)
+  if (!ssBuffer || ssBuffer.byteLength < 7) {
+    return {
+      hasError: true,
+      message: `SS header too short: ${ssBuffer?.byteLength || 0} bytes, minimum 7 required`,
+    };
+  }
+
   const view = new DataView(ssBuffer);
 
   const addressType = view.getUint8(0);
@@ -13,15 +21,43 @@ export function readSsHeader(ssBuffer) {
   switch (addressType) {
     case 1:
       addressLength = 4;
+      // Validate buffer has enough bytes for IPv4
+      if (ssBuffer.byteLength < addressValueIndex + addressLength + 2) {
+        return {
+          hasError: true,
+          message: `SS header truncated for IPv4: expected ${addressValueIndex + addressLength + 2} bytes, got ${ssBuffer.byteLength}`,
+        };
+      }
       addressValue = new Uint8Array(ssBuffer.slice(addressValueIndex, addressValueIndex + addressLength)).join(".");
       break;
     case 3:
+      // Validate buffer has length byte
+      if (ssBuffer.byteLength < addressValueIndex + 1) {
+        return {
+          hasError: true,
+          message: `SS header truncated for domain: cannot read length byte`,
+        };
+      }
       addressLength = new Uint8Array(ssBuffer.slice(addressValueIndex, addressValueIndex + 1))[0];
       addressValueIndex += 1;
+      // Validate buffer has enough bytes for domain + port
+      if (ssBuffer.byteLength < addressValueIndex + addressLength + 2) {
+        return {
+          hasError: true,
+          message: `SS header truncated for domain: expected ${addressValueIndex + addressLength + 2} bytes, got ${ssBuffer.byteLength}`,
+        };
+      }
       addressValue = TEXT_DECODER.decode(ssBuffer.slice(addressValueIndex, addressValueIndex + addressLength));
       break;
     case 4:
       addressLength = 16;
+      // Validate buffer has enough bytes for IPv6
+      if (ssBuffer.byteLength < addressValueIndex + addressLength + 2) {
+        return {
+          hasError: true,
+          message: `SS header truncated for IPv6: expected ${addressValueIndex + addressLength + 2} bytes, got ${ssBuffer.byteLength}`,
+        };
+      }
       const dataView = new DataView(ssBuffer.slice(addressValueIndex, addressValueIndex + addressLength));
       const ipv6 = [];
       for (let i = 0; i < 8; i++) {
@@ -32,7 +68,7 @@ export function readSsHeader(ssBuffer) {
     default:
       return {
         hasError: true,
-        message: `Invalid addressType for SS: ${addressType}`,
+        message: `Invalid addressType for SS: ${addressType} (expected 1=IPv4, 3=Domain, 4=IPv6)`,
       };
   }
 

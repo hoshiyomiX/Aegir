@@ -68,13 +68,14 @@ export async function websocketHandler(request, prxIP) {
           } else if (protocol === "ss") {
             protocolHeader = readSsHeader(chunk);
           } else {
-            console.error(`Unknown Protocol detected, closing connection`);
+            // protocol is null - unrecognized pattern
+            console.error(`Unknown Protocol detected, closing connection. First few bytes: ${arrayBufferToHex(chunk.slice(0, 10))}`);
             safeCloseWebSocket(webSocket);
             return;
           }
 
           if (protocolHeader.hasError) {
-             console.error(`Protocol Error: ${protocolHeader.message}`);
+             console.error(`Protocol Error [${protocol}]: ${protocolHeader.message}`);
              safeCloseWebSocket(webSocket);
              return;
           }
