@@ -75,6 +75,7 @@ function getRequestKey(request) {
 /**
  * Request deduplication with proper cleanup
  * CRITICAL FIX: Removed setTimeout, using explicit cleanup instead
+ * CRITICAL FIX v2: Handle streaming responses properly with tee()
  * 
  * @param {Request} request - The incoming request
  * @param {Function} handler - The request handler function
@@ -98,7 +99,18 @@ async function deduplicateRequest(request, handler) {
       coalesceStats.saved++;
       try {
         const result = await pendingEntry.promise;
-        // Return a clone since Response can only be consumed once
+        
+        // CRITICAL FIX: Handle streaming responses properly
+        // Use tee() to create two identical streams
+        if (result.body) {
+          const [stream1, stream2] = result.body.tee();
+          // Replace the original body with one stream
+          const originalResponse = new Response(stream1, result);
+          // Return the other stream to the waiting client
+          return new Response(stream2, originalResponse);
+        }
+        
+        // For non-streaming responses, clone is safe
         return result.clone();
       } catch (err) {
         // If the pending promise rejects, remove it and try again

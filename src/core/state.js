@@ -14,6 +14,7 @@ const STATS_RESET_THRESHOLD = 1000000; // Reset stats after 1M operations to pre
 
 /**
  * Creates a bounded Map that automatically removes oldest entries when size limit is exceeded
+ * CRITICAL FIX: Added safety checks to prevent infinite loops and edge cases
  * @param {number} maxSize - Maximum number of entries
  * @returns {Map} - Bounded Map instance
  */
@@ -23,16 +24,25 @@ function createBoundedMap(maxSize) {
   // Store original set method
   const originalSet = map.set.bind(map);
   
+  // Safety check: ensure maxSize is valid
+  const safeMaxSize = Math.max(1, maxSize || 50);
+  
   // Override set method to enforce size limit
   map.set = function(key, value) {
     // If key already exists, delete it first (to update insertion order)
     if (map.has(key)) {
       map.delete(key);
+      // After deletion, we have space, so just set the new value
+      return originalSet(key, value);
     }
-    // Enforce size limit by removing oldest entry
-    while (map.size >= maxSize) {
+    
+    // Enforce size limit by removing oldest entry (only if needed)
+    if (map.size >= safeMaxSize) {
       const oldestKey = map.keys().next().value;
-      map.delete(oldestKey);
+      // CRITICAL FIX: Check if oldestKey is defined before deleting
+      if (oldestKey !== undefined) {
+        map.delete(oldestKey);
+      }
     }
     return originalSet(key, value);
   };
