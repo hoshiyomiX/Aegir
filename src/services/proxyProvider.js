@@ -25,15 +25,27 @@ export async function getKVPrxList(kvPrxUrl = KV_PRX_URL, env) {
 export async function getPrxListPaginated(prxBankUrl = PRX_BANK_URL, options = {}, env) {
   const targetUrl = prxBankUrl || env.PRX_BANK_URL || PRX_BANK_URL;
   
+  // Input validation
   if (!targetUrl) {
     throw new Error("No URL Provided!");
   }
+  
+  // Validate URL format
+  try {
+    new URL(targetUrl);
+  } catch {
+    throw new Error(`Invalid proxy bank URL: ${targetUrl}`);
+  }
 
-  const {
-    offset = 0,
-    limit = MAX_CONFIGS_PER_REQUEST,
-    filterCC = [],
-  } = options;
+  // Sanitize and validate options
+  const offset = Math.max(0, parseInt(options.offset) || 0);
+  const limit = Math.min(
+    Math.max(1, parseInt(options.limit) || MAX_CONFIGS_PER_REQUEST),
+    MAX_CONFIGS_PER_REQUEST
+  );
+  const filterCC = Array.isArray(options.filterCC) 
+    ? options.filterCC.filter(c => typeof c === 'string' && c.length <= 3)
+    : [];
 
   // Optimization: Cache the raw lines instead of parsed objects to save memory
   // Parsing is done lazily only on the requested slice
@@ -83,16 +95,17 @@ export async function getPrxListPaginated(prxBankUrl = PRX_BANK_URL, options = {
     };
   } else {
     // Slow path: Country filter active
-    // We filter first, then slice. Ideally we should stop iterating once we fill the limit
-    // but paginateArray helper expects a full array. 
-    // For now, let's optimize the mapping to be lightweight.
-    
+    // PERFORMANCE FIX: Early exit once we have enough items
     const filteredParsed = [];
     const lowerFilterCC = filterCC.map(c => c.toLowerCase());
+    const targetCount = offset + limit; // We only need this many items
     
     for (const line of rawLines) {
-      // Quick check if line might contain the country code before full split?
-      // Comma splitting is fast enough.
+      // Early exit: Stop if we have enough items
+      if (filteredParsed.length >= targetCount) {
+        break;
+      }
+      
       const parts = line.split(",");
       const country = parts[2] || "Unknown";
       
