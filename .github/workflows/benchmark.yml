@@ -45,19 +45,25 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ env.NODE_VERSION }}
-          cache: 'npm'
+          # Don't use cache - no package-lock.json
 
       - name: Create benchmark directory
         run: mkdir -p benchmark/results
 
-      - name: Install dependencies
+      - name: Check benchmark files exist
+        id: check
         run: |
-          if [ -f package.json ]; then
-            npm install || true
+          if [ ! -f "benchmark/runner.js" ]; then
+            echo "⚠️ Benchmark files not found in this branch."
+            echo "Please merge the benchmark PR first or run from the correct branch."
+            echo "benchmark_exists=false" >> $GITHUB_OUTPUT
+          else
+            echo "benchmark_exists=true" >> $GITHUB_OUTPUT
           fi
 
       - name: Run benchmarks
         id: benchmark
+        if: steps.check.outputs.benchmark_exists == 'true'
         run: |
           echo "::group::Running Performance Benchmarks"
           node benchmark/runner.js 2>&1 | tee benchmark/output.log
@@ -85,14 +91,19 @@ jobs:
           echo "**Commit:** ${{ github.sha }}" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           
-          # Add benchmark results
-          if [ -f benchmark/summary.md ]; then
+          # Check if benchmark was skipped
+          if [ "${{ steps.check.outputs.benchmark_exists }}" != "true" ]; then
+            echo "## ⚠️ Benchmark Skipped" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "Benchmark files not found in this branch." >> $GITHUB_STEP_SUMMARY
+            echo "Merge the benchmark infrastructure PR to enable benchmarks." >> $GITHUB_STEP_SUMMARY
+          elif [ -f benchmark/summary.md ]; then
             # Skip the separator line and get the actual content
             tail -n +4 benchmark/summary.md >> $GITHUB_STEP_SUMMARY
           fi
 
       - name: Upload benchmark results
-        if: always()
+        if: always() && steps.check.outputs.benchmark_exists == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: benchmark-results-${{ github.run_id }}
@@ -100,9 +111,11 @@ jobs:
             benchmark/results.json
             benchmark/output.log
           retention-days: 30
+          if-no-files-found: ignore
 
       - name: Check benchmark thresholds
-        id: check
+        id: check_thresholds
+        if: steps.benchmark.outputs.benchmark_completed == 'true'
         run: |
           # Parse results and check if any benchmarks failed
           if [ -f benchmark/results.json ]; then
@@ -123,7 +136,7 @@ jobs:
           fi
 
       - name: Create issue on failure
-        if: steps.check.outputs.threshold_passed == 'false' && github.event_name == 'schedule'
+        if: steps.check_thresholds.outputs.threshold_passed == 'false' && github.event_name == 'schedule' && steps.benchmark.outputs.benchmark_completed == 'true'
         uses: actions/github-script@v7
         with:
           script: |
