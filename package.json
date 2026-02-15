@@ -1,0 +1,22 @@
+{
+  "name": "aegir-proxy",
+  "version": "2.0.0",
+  "description": "High-performance, modular serverless proxy generator inspired by Abyssal technology.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "wrangler deploy",
+    "benchmark": "node benchmark/runner.js",
+    "benchmark:quick": "BENCH_ITER_STANDARD=100 node benchmark/runner.js",
+    "benchmark:thorough": "BENCH_ITER_STANDARD=5000 BENCH_ITER_THOROUGH=10000 node benchmark/runner.js",
+    "lint": "eslint src/ || true"
+  },
+  "author": "HoshiyomiX",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
