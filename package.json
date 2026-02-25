@@ -1,22 +1,42 @@
 {
   "name": "aegir-proxy",
   "version": "2.0.0",
-  "description": "High-performance, modular serverless proxy generator inspired by Abyssal technology.",
+  "description": "High-performance, modular serverless proxy generator for Cloudflare Workers.",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "lint": "eslint src/",
     "benchmark": "node benchmark/runner.js",
     "benchmark:quick": "BENCH_ITER_STANDARD=100 node benchmark/runner.js",
-    "benchmark:thorough": "BENCH_ITER_STANDARD=5000 BENCH_ITER_THOROUGH=10000 node benchmark/runner.js",
-    "lint": "eslint src/ || true"
+    "benchmark:thorough": "BENCH_ITER_STANDARD=5000 BENCH_ITER_THOROUGH=10000 node benchmark/runner.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoshiyomiX/Aegir.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hoshiyomiX/Aegir/issues"
+  },
+  "homepage": "https://github.com/hoshiyomiX/Aegir#readme",
   "author": "HoshiyomiX",
   "license": "ISC",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^9.0.0"
+  },
   "engines": {
     "node": ">=18.0.0"
-  }
+  },
+  "keywords": [
+    "cloudflare-workers",
+    "proxy",
+    "vless",
+    "trojan",
+    "shadowsocks",
+    "vpn",
+    "subscription"
+  ]
 }

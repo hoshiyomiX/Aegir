@@ -186,3 +186,12 @@ rawProxyList.txt
 
 # Bun binary lock file (can be regenerated)
 bun.lockb
+
+# Cloudflare Workers
+.wrangler/
+
+# Deployment logs
+deployment.log
+
+# Benchmark results (generated)
+benchmark/results.json
