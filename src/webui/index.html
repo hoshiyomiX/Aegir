@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aegir Config v2.3</title>
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="card">
+    <!-- Header -->
+    <h2 class="page-title">
+      Aegir 🌊 <span class="version-badge">v2.3</span>
+    </h2>
+
+    <!-- Bug IP / Server Address -->
+    <div class="group">
+      <label for="bug">Bug IP / Server Address</label>
+      <input 
+        id="bug" 
+        type="text" 
+        placeholder="e.g. 104.16.x.x or cdn.domain.com"
+      >
+    </div>
+
+    <!-- SNI / WebSocket Host -->
+    <div class="group">
+      <label for="sni">SNI / WebSocket Host</label>
+      <input 
+        id="sni" 
+        type="text" 
+        placeholder="Auto-detect (Worker Host)"
+      >
+    </div>
+
+    <!-- Country & Limit Grid -->
+    <div class="group-grid">
+      <!-- Country Code -->
+      <div class="group">
+        <label for="cc">Country (CC)</label>
+        <input 
+          id="cc" 
+          type="text" 
+          placeholder="SG,ID"
+        >
+      </div>
+      
+      <!-- Limit Selection -->
+      <div class="group">
+        <label for="limit">Limit</label>
+        <select id="limit">
+          <option value="1">Single</option>
+          <option value="10">List (10)</option>
+          <option value="50" selected>Bulk (50)</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Output Format -->
+    <div class="group">
+      <label for="fmt">Output Format</label>
+      <select id="fmt">
+        <option value="raw">Raw URI (VLESS/Trojan)</option>
+        <option value="v2ray">V2Ray / Xray (Base64)</option>
+        <option value="clash">Clash Provider (YAML)</option>
+      </select>
+    </div>
+
+    <!-- Main Action Button -->
+    <button 
+      id="main-btn" 
+      class="btn btn-primary"
+    >
+      Generate & Fetch Config
+    </button>
+    
+    <!-- Error Message -->
+    <div id="error" class="error-msg"></div>
+
+    <!-- Result Area -->
+    <div id="result-area">
+      <label for="output">Result Content</label>
+      <textarea 
+        id="output" 
+        readonly 
+        onclick="this.select()"
+      ></textarea>
+      
+      <!-- Action Buttons -->
+      <div class="actions">
+        <button class="btn btn-secondary copy-btn">
+          Copy All
+        </button>
+        <button class="btn btn-secondary open-link-btn">
+          Open Link
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Application Script -->
+  <script src="app.js"></script>
+</body>
+</html>
