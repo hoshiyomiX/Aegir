@@ -1,0 +1,28 @@
+=== START CLEAN DEPLOY ===
+Step 0: Installing Dependencies...
+
+added 85 packages, and audited 86 packages in 2s
+
+22 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+Step 1: Deleting existing worker...
+
+ ⛅️ wrangler 4.68.1
+───────────────────
+Successfully deleted aegir
+
+Step 2: Deploying new version...
+
+ ⛅️ wrangler 4.68.1
+───────────────────
+
+Cloudflare collects anonymous telemetry about your usage of Wrangler. Learn more at https://github.com/cloudflare/workers-sdk/tree/main/packages/wrangler/telemetry.md
+Total Upload: 75.05 KiB / gzip: 19.71 KiB
+Worker Startup Time: 1 ms
+Uploaded aegir (3.11 sec)
+Deployed aegir triggers (2.00 sec)
+  https://aegir.katahiranaruse-daydream.workers.dev
+Current Version ID: fd35bb34-8603-4f24-a1ca-a40b9d7f1eeb
