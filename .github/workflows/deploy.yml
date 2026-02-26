@@ -7,11 +7,13 @@ on:
   push:
     branches:
       - main
+      - release
       - refactor-modular
       - fix/critical-memory-leak-and-race-conditions
   pull_request:
     branches:
       - main
+      - release
       - refactor-modular
   repository_dispatch:
   workflow_dispatch:
