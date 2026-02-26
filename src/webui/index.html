@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aegir Config v2.3</title>
+    <!-- 
+        Aegir WebUI v2.3
+        ================
+        Development: Edit this file for HTML structure changes
+        Production: Run `bun run build:webui` to inline CSS/JS and encode to Base64
+        
+        Note: During build, CSS and JS are inlined directly into this file,
+        then the entire HTML is encoded as Base64 for Cloudflare Workers.
+    -->
+    <!-- CSS will be inlined here during build -->
+    <style>{{CSS}}</style>
+</head>
+<body>
+    <div class="card">
+        <h2>Aegir 🌊 <span>v2.3</span></h2>
+
+        <div class="group">
+            <label>Bug IP / Server Address</label>
+            <input id="bug" type="text" placeholder="e.g. 104.16.x.x or cdn.domain.com">
+        </div>
+
+        <div class="group">
+            <label>SNI / WebSocket Host</label>
+            <input id="sni" type="text" placeholder="Auto-detect (Worker Host)">
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+            <div class="group">
+                <label>Country (CC)</label>
+                <input id="cc" type="text" placeholder="SG,ID">
+            </div>
+            <div class="group">
+                <label>Limit</label>
+                <select id="limit">
+                    <option value="1">Single</option>
+                    <option value="10">List (10)</option>
+                    <option value="50" selected>Bulk (50)</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="group">
+            <label>Output Format</label>
+            <select id="fmt">
+                <option value="raw">Raw URI (VLESS/Trojan)</option>
+                <option value="v2ray">V2Ray / Xray (Base64)</option>
+                <option value="clash">Clash Provider (YAML)</option>
+            </select>
+        </div>
+
+        <button id="main-btn" onclick="run()">Generate & Fetch Config</button>
+        <div id="error" class="error-msg"></div>
+
+        <div id="result-area">
+            <label>Result Content</label>
+            <textarea id="output" readonly onclick="this.select()"></textarea>
+            <div class="actions">
+                <button class="sec-btn" onclick="copy()">Copy All</button>
+                <button class="sec-btn" onclick="openUrl()">Open Link</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript will be inlined here during build -->
+    <script>{{JS}}</script>
+</body>
+</html>

@@ -1,0 +1,159 @@
+/**
+ * Aegir WebUI Styles v2.3
+ * =======================
+ * Clean, modern dark theme for Aegir Config Generator
+ * 
+ * Usage: Edit this file for styling changes
+ * Build: Run `bun run build:webui` to encode to Base64
+ */
+
+/* CSS Variables - Easy theming */
+:root {
+  --primary: #00f2ea;
+  --bg: #050505;
+  --panel: #111;
+  --text: #eee;
+  --border: #333;
+}
+
+/* Reset & Base */
+* { box-sizing: border-box; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  padding: 15px;
+}
+
+/* Card Container */
+.card {
+  background: var(--panel);
+  width: 100%;
+  max-width: 420px;
+  padding: 25px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  box-shadow: 0 10px 40px rgba(0,0,0,0.6);
+}
+
+/* Typography */
+h2 {
+  text-align: center;
+  margin: 0 0 20px;
+  color: var(--primary);
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+
+h2 span {
+  font-size: 0.4em;
+  color: #666;
+  vertical-align: middle;
+  background: #222;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+/* Form Groups */
+.group { margin-bottom: 15px; }
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 0.75rem;
+  color: #888;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+/* Form Inputs */
+input, select, textarea {
+  width: 100%;
+  background: #000;
+  border: 1px solid #2a2a2a;
+  color: #fff;
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 14px;
+  transition: border 0.2s;
+}
+
+input:focus, select:focus {
+  border-color: var(--primary);
+  outline: none;
+}
+
+/* Primary Button */
+button {
+  width: 100%;
+  background: var(--primary);
+  color: #000;
+  font-weight: 800;
+  border: none;
+  padding: 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 10px;
+  transition: opacity 0.2s;
+}
+
+button:hover { opacity: 0.9; }
+button:disabled { opacity: 0.5; cursor: not-allowed; }
+
+/* Result Area */
+#result-area {
+  margin-top: 20px;
+  display: none;
+  animation: fadeIn 0.3s ease;
+}
+
+textarea {
+  height: 120px;
+  font-family: monospace;
+  font-size: 12px;
+  line-height: 1.4;
+  color: #a5f3fc;
+  resize: vertical;
+  border-color: #333;
+}
+
+/* Action Buttons Grid */
+.actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-top: 5px;
+}
+
+.sec-btn {
+  background: #222;
+  color: #fff;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.sec-btn:hover { background: #333; }
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Error Message */
+.error-msg {
+  color: #ff4444;
+  font-size: 12px;
+  margin-top: 10px;
+  text-align: center;
+  display: none;
+}

@@ -9,6 +9,7 @@
     "deploy": "wrangler deploy",
     "dev": "wrangler dev",
     "lint": "eslint src/",
+    "build:webui": "node scripts/build-webui.js",
     "benchmark": "node benchmark/runner.js",
     "benchmark:quick": "BENCH_ITER_STANDARD=100 node benchmark/runner.js",
     "benchmark:thorough": "BENCH_ITER_STANDARD=5000 BENCH_ITER_THOROUGH=10000 node benchmark/runner.js"
