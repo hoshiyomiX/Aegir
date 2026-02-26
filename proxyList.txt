@@ -1,147 +1,117 @@
-46.161.6.165,8080,RU,LLC horizon
-84.21.172.174,4145,LV,Baykov Ilya Sergeevich
-192.145.29.38,54633,BG,Baykov Ilya Sergeevich
-192.145.29.38,54633,BG,Baykov Ilya Sergeevich
-94.130.24.194,3534,DE,Hetzner Online GmbH
-84.21.172.174,8888,LV,Baykov Ilya Sergeevich
-91.107.160.34,5050,DE,Hetzner Online GmbH
-91.98.232.106,10809,DE,Hetzner Online GmbH
-84.21.172.174,8080,LV,Baykov Ilya Sergeevich
-94.156.236.221,8888,EE,Baykov Ilya Sergeevich
-84.21.172.174,5678,LV,Baykov Ilya Sergeevich
-109.232.106.150,52435,RU,Thyphone Communications LLC
-161.35.70.249,8080,DE,DigitalOcean  LLC
-84.21.172.174,1080,LV,Baykov Ilya Sergeevich
-5.129.214.202,10521,NL,Timeweb  LLP
-178.63.72.110,3129,DE,Hetzner Online GmbH
-94.130.24.194,3534,DE,Hetzner Online GmbH
-199.68.196.157,10528,CH,Datasource AG
-176.126.103.194,44214,RU,Cloud Hosting Solutions  Limited.
-193.233.254.7,1080,DE,WAIcore Ltd
-161.35.70.249,80,DE,DigitalOcean  LLC
-193.233.254.8,1080,DE,WAIcore Ltd
-193.233.254.9,1080,DE,WAIcore Ltd
-193.168.198.216,16777,FI,Baykov Ilya Sergeevich
-142.132.139.242,5141,GB,British Telecommunications PLC
-62.60.131.185,5494,FR,OVH SAS
-91.107.170.243,6825,DE,Hetzner Online GmbH
-134.209.29.120,3128,GB,DigitalOcean  LLC
-36.255.98.163,9597,FR,OVH SAS
-174.138.61.184,1080,US,DigitalOcean  LLC
-91.107.160.34,5050,DE,Hetzner Online GmbH
-88.99.29.50,5133,US,Cox Communications Inc.
-88.99.27.22,5081,US,Cox Communications Inc.
-88.99.29.50,5133,US,Cox Communications Inc.
-109.107.181.151,51553,DE,Aeza International Ltd
-62.60.131.205,7352,US,New Dream Network  LLC
-36.255.98.161,4989,CA,Internet Names For Business Inc.
-36.255.98.161,4024,DE,OVH SAS
-178.130.47.129,1082,US,Global Connectivity Solutions Llp
-181.78.48.237,999,GT,COMCEL GUATEMALA S.A.
-193.168.198.216,16777,FI,Baykov Ilya Sergeevich
-88.99.30.148,5051,US,Allstream Business US  LLC
+193.242.106.191,1080,LV,RETN Limited
+95.165.82.189,1080,RU,PJSC Moscow city telephone network
+37.27.100.112,443,FI,Hetzner Online GmbH
+185.246.90.163,10808,RU,Denis Dmitrievich Galyamin
+81.177.48.54,2080,RU,JSC RTComm.RU
+37.27.100.107,443,FI,Hetzner Online GmbH
+217.173.31.28,1080,XX,Unknown
+185.246.90.163,10808,RU,Denis Dmitrievich Galyamin
+37.27.100.107,443,FI,Hetzner Online GmbH
+5.255.117.250,1080,NL,The Infrastructure Group B.V.
+45.8.88.236,1080,RU,Voronezh Telecom LLC
+188.43.31.236,1080,RU,JSC Rosin.telekom
+194.26.135.214,1080,RU,Voronezh Telecom LLC
+173.249.5.133,1080,FR,Contabo GmbH
+81.177.48.54,2080,RU,JSC RTComm.RU
+5.129.230.96,1080,NL,Timeweb  LLP
+213.111.146.71,8888,NL,Datacamp Limited
+173.249.3.59,1080,FR,Contabo GmbH
+5.255.99.75,1080,NL,The Infrastructure Group B.V.
+95.178.108.189,5678,FR,Eurofiber France SAS
+87.121.49.238,4145,BG,SKAT TV Ltd.
+185.191.236.162,3128,CH,GRUPO PANAGLOBAL 15 S.A
 31.43.194.184,1080,RU,Sotrudnik LTD
-47.86.53.59,8080,HK,Alibaba US Technology Co.  Ltd.
-209.97.150.167,8080,US,DigitalOcean  LLC
-36.255.98.176,4403,US,DigitalOcean  LLC
-62.60.131.191,17638,SG,OVH SAS
-185.114.89.74,1080,LB,Bitar Net Sarl
-37.18.73.60,5566,US,Emerald Onion
-62.60.131.193,4060,CA,Internet Names For Business Inc.
-89.248.164.155,443,NL,IP Volume inc
-91.107.170.243,6825,DE,Hetzner Online GmbH
-36.255.98.164,5586,US,Amazon.com  Inc.
-124.248.189.223,1080,KH,Cogetel Online  Cambodia  ISP
-95.213.217.168,52004,RU,JSC Selectel
-139.162.78.109,3128,JP,Akamai Connected Cloud
-36.255.98.154,7968,VN,EZ TECHNOLOGY COMPANY LIMITED
-62.113.119.14,8080,RU,Hosting technology LTD
-123.200.6.153,4126,BD,Link3 Technologies Ltd.
-62.60.131.194,6372,SG,GoDaddy.com  LLC
-36.255.98.161,4871,US,Amazon.com  Inc.
-113.167.196.223,8080,VN,VNPT Corp
-110.235.248.150,1080,KH,Cogetel Online  Cambodia  ISP
-83.219.250.8,62920,SE,Baykov Ilya Sergeevich
-36.255.98.161,4186,US,Liquid Web  L.L.C
-36.255.98.154,11140,CA,Internet Names For Business Inc.
-62.60.131.191,10099,SG,GoDaddy.com  LLC
-62.60.131.253,13827,SG,GoDaddy.com  LLC
-128.199.202.122,8080,SG,DigitalOcean  LLC
-62.60.131.193,4359,CA,Internet Names For Business Inc.
-8.219.97.248,80,SG,Alibaba US Technology Co.  Ltd.
-36.255.98.168,5042,IN,OVH SAS
-36.255.98.169,17705,SG,GoDaddy.com  LLC
-194.163.167.32,1080,FR,Contabo GmbH
-36.255.98.151,12174,CA,Internet Names For Business Inc.
-162.240.154.26,3128,US,Unified Layer
-36.255.98.178,15647,SG,GoDaddy.com  LLC
-62.60.131.205,4444,US,Liquid Web  L.L.C
-47.245.117.43,80,SG,Alibaba US Technology Co.  Ltd.
-195.35.113.29,1080,NL,Gigahost AS
-36.255.98.163,4551,CA,Internet Names For Business Inc.
-202.62.62.51,1080,KH,Cogetel Online  Cambodia  ISP
-222.228.171.92,8080,JP,ARTERIA Networks Corporation
-36.255.98.167,4432,CA,Internet Names For Business Inc.
-38.180.189.145,80,HK,M247 Europe SRL
-195.158.8.123,3128,UZ,Uzbektelekom Joint Stock Company
-36.255.98.151,22241,NL,Microsoft Corporation
-147.45.179.84,1082,GB,Global Connectivity Solutions Llp
-36.255.98.165,5293,CA,Internet Names For Business Inc.
-163.223.117.213,7777,ID,PT Signall Network Nusantara
-68.235.35.171,3128,US,tzulo  inc.
-217.217.254.94,8080,SG,Contabo Asia Private Limited
-36.255.98.165,5264,CA,Internet Names For Business Inc.
-62.60.131.191,9320,SG,GoDaddy.com  LLC
-203.189.136.18,1080,KH,Cogetel Online  Cambodia  ISP
-36.255.98.169,4038,SG,OVH SAS
-147.45.73.0,18288,SE,Aeza International Ltd
-36.255.98.161,5751,IN,TECHNO FAQ DIGITAL MEDIA
-216.229.112.25,8080,US,Five Area Systems  LLC
-52.188.28.218,3128,US,Microsoft Corporation
-195.133.77.82,31742,CZ,Timeweb  LLP
-36.255.98.184,4649,BR,Net Turbo Telecom
-155.212.170.93,10808,FI,Hetzner Online GmbH
-38.191.88.128,999,DO,LAUAM MEGARED TELECOM  S.R.L.
-34.96.238.40,8080,HK,Google LLC
-36.255.98.168,10716,VN,EZ TECHNOLOGY COMPANY LIMITED
-62.60.131.185,19927,CA,Internet Names For Business Inc.
-203.189.153.170,1080,KH,Cogetel Online  Cambodia  ISP
-36.255.98.184,11179,CA,Internet Names For Business Inc.
-194.233.73.36,8080,SG,Contabo Asia Private Limited
-5.255.117.127,1080,NL,The Infrastructure Group B.V.
-36.255.98.164,4094,CA,Internet Names For Business Inc.
-43.245.249.22,7878,ID,PT Smart Media Pratama
-203.196.8.6,3128,CN,CTGNet
-41.196.16.234,1981,EG,LINKdotNET
-62.60.131.191,4223,IN,DigitalOcean  LLC
-103.157.117.11,10810,ID,PT. Internet Madju Abad Millenindo
-205.164.192.115,999,MX,MULTICARRIER JE S. DE R.L. DE C.V.
+43.132.106.29,21080,HK,Tencent Building  Kejizhongyi Avenue
+104.238.30.68,63744,IT,AkhaliNet LLC
+104.238.30.50,59741,IT,AkhaliNet LLC
+104.238.30.39,59741,IT,AkhaliNet LLC
+104.238.30.91,63900,IT,AkhaliNet LLC
+104.238.30.40,59741,IT,AkhaliNet LLC
+104.238.30.63,63744,IT,AkhaliNet LLC
+88.245.138.87,1080,TR,Turk Telekom
+104.238.30.45,59741,IT,AkhaliNet LLC
+185.216.18.138,44550,RU,Mega Tec LLC
+154.64.235.206,58367,US,NetLab Global
+50.63.12.101,45801,US,GoDaddy.com  LLC
+72.56.59.23,61937,US,AkhaliNet LLC
+72.56.59.62,63133,US,AkhaliNet LLC
+72.56.59.17,61931,US,AkhaliNet LLC
+72.56.50.17,59787,US,AkhaliNet LLC
+194.233.68.54,1088,SG,Contabo Asia Private Limited
+41.223.119.156,3128,ZM,MTN Zambia
+104.238.30.38,59741,IT,AkhaliNet LLC
+13.70.6.6,50161,HK,Microsoft Corporation
+72.56.59.56,63127,US,AkhaliNet LLC
+104.238.30.58,63744,IT,AkhaliNet LLC
 103.3.246.71,3128,VN,Bach Kim Network solutions Join stock company
-200.59.191.235,999,VE,TotalCom Venezuela C.A.
-194.246.82.89,13447,NL,Servers Tech Fzco
-116.80.47.45,3172,JP,NTT PC Communications  Inc.
-1.52.45.246,16000,VN,FPT Telecom Company
-185.242.119.236,1080,RU,Interfonica LLC
-36.255.98.153,11708,CA,Internet Names For Business Inc.
-200.24.130.148,999,EC,UFINET PANAMA S.A.
-36.255.98.175,4149,US,DigitalOcean  LLC
-59.6.25.118,3128,KR,Korea Telecom
-36.255.98.167,4628,CA,Internet Names For Business Inc.
-123.200.26.134,4126,BD,Link3 Technologies Ltd.
-36.255.98.175,20785,SG,GoDaddy.com  LLC
-36.255.98.180,6529,SG,OVH SAS
-203.189.137.214,1080,KH,Cogetel Online  Cambodia  ISP
-103.61.17.22,8080,ID,PT Twins Data Pratama
-36.255.98.178,4557,IN,Tier 4 Cloud Services
-43.167.193.58,3128,JP,Tencent Building  Kejizhongyi Avenue
-62.60.131.193,14953,IN,Natsav
-36.255.98.184,6796,CA,Internet Names For Business Inc.
-36.255.98.154,11306,CA,Internet Names For Business Inc.
-146.103.104.48,54101,NL,Servers Tech Fzco
-150.249.255.91,3128,JP,Sony Network Communications Inc.
-77.105.138.163,54101,NL,Servers Tech Fzco
-62.60.131.191,10523,SG,GoDaddy.com  LLC
-36.255.98.164,4147,CA,Internet Names For Business Inc.
-36.255.98.153,15573,SG,GoDaddy.com  LLC
-195.133.77.82,65535,CZ,Timeweb  LLP
-36.255.98.165,5399,CA,Internet Names For Business Inc.
+13.70.6.6,50161,HK,Microsoft Corporation
+170.246.183.250,3128,AR,AIQUEL EDUARDO RAUL CABLE VISION SP
+212.33.248.45,1080,RU,JSC ER-Telecom Holding
+89.151.134.157,3629,RU,Rostelecom
+103.195.6.37,30048,HK,Kamatera  Inc.
+103.195.6.37,30000,HK,Kamatera  Inc.
+61.72.110.54,3128,KR,Korea Telecom
+91.147.235.203,4145,HU,Magyar Telekom Plc.
+58.235.170.51,5678,KR,SK Broadband Co Ltd
+194.163.160.97,10808,FR,Contabo GmbH
+14.56.107.244,3128,KR,Korea Telecom
+31.131.135.247,4153,RU,Miranda-Media Ltd
+121.128.121.244,3128,KR,Korea Telecom
+103.195.6.37,30268,HK,Kamatera  Inc.
+52.188.28.218,3128,US,Microsoft Corporation
+80.180.68.29,1080,IT,TIM
+8.219.97.248,80,SG,Alibaba US Technology Co.  Ltd.
+42.115.72.172,1081,VN,FPT Telecom Company
+101.47.73.135,3128,HK,Byteplus Pte. Ltd.
+61.72.110.24,3128,KR,Korea Telecom
+149.62.186.244,1080,IT,Host SpA
+5.252.177.254,1080,US,MivoCloud SRL
+14.56.118.214,3128,KR,Korea Telecom
+43.160.195.20,20005,SG,Tencent Building  Kejizhongyi Avenue
+75.81.166.118,39593,US,Charter Communications Inc
+37.27.100.112,443,FI,Hetzner Online GmbH
+185.244.49.248,1080,NL,Hostkey B.v.
+90.182.147.170,4145,CZ,O2 Czech Republic  a.s.
+83.220.46.106,4145,RU,PJSC MegaFon
+185.176.94.75,1080,DE,Aurorix Gaming Solutions Limited
+47.83.199.137,58367,HK,Alibaba US Technology Co.  Ltd.
+83.218.186.22,5678,AT,myNet GmbH
+61.72.221.64,3128,KR,Korea Telecom
+124.243.151.58,50161,SG,HUAWEI CLOUDS
+61.72.110.94,3128,KR,Korea Telecom
+92.62.149.82,8080,RU,JSC ER-Telecom Holding
+152.32.255.24,27197,VN,UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+20.57.134.61,1080,US,Microsoft Corporation
+103.166.91.60,8090,ID,PT Regynet Data Solusindo
+14.56.177.44,3128,KR,Korea Telecom
+158.160.215.167,8123,RU,JSC Selectel
+109.232.106.150,52435,RU,Thyphone Communications LLC
+95.163.20.1,4153,RU,LLC Digital Network
+37.27.100.102,443,FI,Hetzner Online GmbH
+37.27.100.108,443,FI,Hetzner Online GmbH
+61.72.221.84,3128,KR,Korea Telecom
+37.27.100.80,443,FI,Hetzner Online GmbH
+77.241.20.215,55915,RU,Limited liability company Kursktelecom
+125.128.12.74,3128,KR,Korea Telecom
+14.56.118.184,3128,KR,Korea Telecom
+115.69.210.60,1080,BD,NReach Net Pvt. Ltd
+213.230.110.191,3128,UZ,Uzbektelekom Joint Stock Company
+93.123.98.80,5678,BG,SKAT TV Ltd.
+121.128.121.184,3128,KR,Korea Telecom
+159.65.230.91,20240,US,PureVoltage Hosting Inc.
+64.188.124.97,1080,US,u1host ltd
+217.29.209.22,8865,ZA,Hero-Telecoms
+91.200.163.190,8088,RU,Dubrovskaya Nataliya Vladislavovna
+116.80.48.38,7777,JP,NTT PC Communications  Inc.
+104.238.30.37,59741,IT,AkhaliNet LLC
+202.51.206.5,8080,ID,PT Jala Lintas Media
+46.188.2.42,5678,RU,LLC SETEL
+37.27.100.102,443,FI,Hetzner Online GmbH
+14.56.118.154,3128,KR,Korea Telecom
+116.80.48.217,7777,JP,NTT PC Communications  Inc.
+162.240.154.26,3128,US,Unified Layer
+61.72.221.204,3128,KR,Korea Telecom
+84.52.123.163,4145,RU,JSC ER-Telecom Holding
+212.220.13.98,4153,RU,Rostelecom
+95.188.83.253,1080,RU,Rostelecom
+121.128.121.54,3128,KR,Korea Telecom
