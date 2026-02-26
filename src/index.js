@@ -27,17 +27,118 @@ import { generateConfigsStream, createStreamingResponse } from './services/confi
 import { reverseWeb } from './services/httpReverse.js';
 import { prewarmDNS, cleanupDNSCache, fetchWithDNS } from './services/dns.js';
 
-// Import WebUI template from separate module
-// This makes maintenance easier - edit src/webui/*.css, *.js, *.html files
-import { getWebUI } from './webui/template.js';
+// ============ WebUI HTML Template v2.3 ============
+// Clean HTML/CSS/JS embedded directly (no Base64, easier to maintain)
+// To modify: edit src/webui/*.css, *.js, *.html and rebuild
+
+const WEBUI_HTML = `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aegir Config v2.3</title>
+<style>
+:root{--primary:#00f2ea;--bg:#050505;--panel:#111;--text:#eee;--border:#333}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;display:flex;justify-content:center;align-items:center;min-height:100vh;margin:0;padding:15px}
+.card{background:var(--panel);width:100%;max-width:420px;padding:25px;border-radius:12px;border:1px solid var(--border);box-shadow:0 10px 40px rgba(0,0,0,0.6)}
+h2{text-align:center;margin:0 0 20px;color:var(--primary);font-weight:800;letter-spacing:1px}
+h2 span{font-size:0.4em;color:#666;vertical-align:middle;background:#222;padding:2px 6px;border-radius:4px}
+.group{margin-bottom:15px}
+label{display:block;margin-bottom:5px;font-size:0.75rem;color:#888;text-transform:uppercase;font-weight:700;letter-spacing:0.5px}
+input,select,textarea{width:100%;background:#000;border:1px solid #2a2a2a;color:#fff;padding:10px;border-radius:6px;font-size:14px;transition:border 0.2s}
+input:focus,select:focus,textarea:focus{border-color:var(--primary);outline:none}
+button{width:100%;background:var(--primary);color:#000;font-weight:800;border:none;padding:12px;border-radius:6px;cursor:pointer;text-transform:uppercase;letter-spacing:1px;margin-top:10px;transition:opacity 0.2s}
+button:hover{opacity:0.9}
+button:disabled{opacity:0.5;cursor:not-allowed}
+#result-area{margin-top:20px;display:none;animation:fadeIn 0.3s ease}
+textarea{height:120px;font-family:monospace;font-size:12px;line-height:1.4;color:#a5f3fc;resize:vertical;border-color:#333}
+.actions{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:5px}
+.sec-btn{background:#222;color:#fff;font-weight:600;font-size:12px}
+.sec-btn:hover{background:#333}
+@keyframes fadeIn{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+.error-msg{color:#ff4444;font-size:12px;margin-top:10px;text-align:center;display:none}
+</style>
+</head>
+<body>
+<div class="card">
+<h2>Aegir 🌊 <span>v2.3</span></h2>
+<div class="group"><label>Bug IP / Server Address</label><input id="bug" type="text" placeholder="e.g. 104.16.x.x or cdn.domain.com"></div>
+<div class="group"><label>SNI / WebSocket Host</label><input id="sni" type="text" placeholder="Auto-detect (Worker Host)"></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:10px">
+<div class="group"><label>Country (CC)</label><input id="cc" type="text" placeholder="SG,ID"></div>
+<div class="group"><label>Limit</label><select id="limit"><option value="1">Single</option><option value="10">List (10)</option><option value="50" selected>Bulk (50)</option></select></div>
+</div>
+<div class="group"><label>Output Format</label><select id="fmt"><option value="raw">Raw URI (VLESS/Trojan)</option><option value="v2ray">V2Ray / Xray (Base64)</option><option value="clash">Clash Provider (YAML)</option></select></div>
+<button id="main-btn" onclick="run()">Generate & Fetch Config</button>
+<div id="error" class="error-msg"></div>
+<div id="result-area"><label>Result Content</label><textarea id="output" readonly onclick="this.select()"></textarea><div class="actions"><button class="sec-btn" onclick="copy()">Copy All</button><button class="sec-btn" onclick="openUrl()">Open Link</button></div></div>
+</div>
+<script>
+const host=location.hostname;
+document.getElementById('bug').placeholder=host;
+document.getElementById('sni').placeholder=host;
+async function run(){
+const btn=document.getElementById('main-btn');
+const errDiv=document.getElementById('error');
+const resDiv=document.getElementById('result-area');
+const out=document.getElementById('output');
+btn.disabled=true;
+btn.innerText="Processing...";
+errDiv.style.display='none';
+resDiv.style.display='none';
+out.value='';
+try{
+const bug=document.getElementById('bug').value.trim();
+const sni=document.getElementById('sni').value.trim();
+const cc=document.getElementById('cc').value.trim();
+const limit=document.getElementById('limit').value;
+const fmt=document.getElementById('fmt').value;
+const p=new URLSearchParams();
+if(bug)p.append('domain',bug);
+if(sni)p.append('sni',sni);
+if(cc)p.append('cc',cc.toUpperCase());
+p.append('limit',limit);
+let path='/api/v1/sub';
+if(fmt==='clash'){path='/sub';p.append('format','clash');if(sni)p.append('host',sni)}else{p.append('format',fmt)}
+const targetUrl=location.origin+path+'?'+p.toString();
+const controller=new AbortController();
+const timeoutId=setTimeout(()=>controller.abort(),15000);
+const res=await fetch(targetUrl,{signal:controller.signal});
+clearTimeout(timeoutId);
+if(!res.ok)throw new Error('HTTP '+res.status);
+const text=await res.text();
+out.value=text;
+resDiv.style.display='block';
+window.generatedUrl=targetUrl;
+}catch(e){
+errDiv.innerText=e.name==='AbortError'?'Timeout: Server took too long':'Error: '+e.message;
+errDiv.style.display='block';
+}finally{
+btn.disabled=false;
+btn.innerText="Generate & Fetch Config";
+}
+}
+function copy(){
+const el=document.getElementById('output');
+el.select();
+navigator.clipboard.writeText(el.value);
+const btn=document.querySelector('.actions button');
+const old=btn.innerText;
+btn.innerText="Copied!";
+setTimeout(()=>btn.innerText=old,1500);
+}
+function openUrl(){if(window.generatedUrl)window.open(window.generatedUrl,'_blank')}
+</script>
+</body>
+</html>`;
 
 /**
  * Get the WebUI HTML
- * Uses the template module which embeds CSS and JS
  * @returns {string} Complete HTML document
  */
 function getDecodedHtml() {
-  return getWebUI();
+  return WEBUI_HTML;
 }
 
 // ============ REQUEST DEDUPLICATION (FIXED) ============
