@@ -838,8 +838,9 @@ generateBtn.addEventListener('click', async () => {
         // Get raw URI from API
         rawConfig = await response.text();
         
-        // Store subscription URL for copy URL button (Clash format)
-        subscriptionUrl = targetUrl;
+        // Store subscription URL for copy URL button (with correct format)
+        // Replace format=raw with actual format for subscription
+        subscriptionUrl = targetUrl.replace('format=raw', `format=${format}`);
         
         // Convert locally based on selected format
         generatedConfig = ConfigConverter.convert(rawConfig, format);
