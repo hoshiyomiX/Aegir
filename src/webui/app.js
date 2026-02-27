@@ -234,27 +234,68 @@ const ConfigConverter = {
     
     /**
      * Build Clash YAML string
+     * Optimized for performance & battery balance
      */
     buildClashYAML(proxies, proxyNames) {
         const lines = [];
         
-        // Header
+        // Header - Optimized settings
         lines.push('mixed-port: 7890');
         lines.push('allow-lan: true');
         lines.push('bind-address: "*"');
         lines.push('mode: rule');
-        lines.push('log-level: info');
+        lines.push('log-level: warning');  // Reduce logging for battery
         lines.push('ipv6: false');
+        lines.push('unified-delay: true');  // Better latency measurement
+        lines.push('tcp-concurrent: true');  // Faster TCP connections
+        lines.push('geodata-mode: true');   // Use geodata instead of geoip
+        lines.push('geox-url:');            // Use built-in geodata
+        lines.push('  geoip: "https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/geoip.dat"');
+        lines.push('  geosite: "https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/geosite.dat"');
+        lines.push('  mmdb: "https://cdn.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country.mmdb"');
+        lines.push('find-process-mode: strict');  // Reduce CPU for process matching
         lines.push('external-controller: 127.0.0.1:9090');
         lines.push('');
         
-        // DNS - Use simple DNS to avoid DoH timeout issues
+        // Sniffer - Improve routing accuracy
+        lines.push('sniffer:');
+        lines.push('  enable: true');
+        lines.push('  force-dns-mapping: true');
+        lines.push('  parse-pure-ip: true');
+        lines.push('  sniff:');
+        lines.push('    HTTP:');
+        lines.push('      ports: [80, 8080-8880]');
+        lines.push('      override-destination: true');
+        lines.push('    TLS:');
+        lines.push('      ports: [443, 8443]');
+        lines.push('    QUIC:');
+        lines.push('      ports: [443, 8443]');
+        lines.push('');
+        
+        // DNS - Optimized for speed & battery
         lines.push('dns:');
         lines.push('  enable: true');
+        lines.push('  prefer-h3: false');  // Disable DoH3 to save battery
         lines.push('  ipv6: false');
         lines.push('  enhanced-mode: fake-ip');
         lines.push('  fake-ip-range: 198.18.0.1/16');
-        lines.push('  listen: 0.0.0.0:7874');
+        lines.push('  fake-ip-filter:');
+        lines.push('    - "*.lan"');
+        lines.push('    - "*.local"');
+        lines.push('    - "*.localhost"');
+        lines.push('    - "*.localhost.localdomain"');
+        lines.push('    - "*.localdomain"');
+        lines.push('    - "localhost.ptlogin2.qq.com"');
+        lines.push('    - "localhost.sec.qq.com"');
+        lines.push('    - "+.stun.*.*"');
+        lines.push('    - "+.stun.*.*.*"');
+        lines.push('    - "+.stun.*.*.*.*"');
+        lines.push('    - "+.stun.*.*.*.*.*"');
+        lines.push('    - "lens.l.google.com"');
+        lines.push('    - "stun.l.google.com"');
+        lines.push('    - "+.nflxvideo.net"');
+        lines.push('    - "+.nflxext.com"');
+        lines.push('    - "+.nflxso.net"');
         lines.push('  default-nameserver:');
         lines.push('    - 8.8.8.8');
         lines.push('    - 1.1.1.1');
@@ -264,6 +305,11 @@ const ConfigConverter = {
         lines.push('  fallback:');
         lines.push('    - 8.8.4.4');
         lines.push('    - 1.0.0.1');
+        lines.push('  fallback-filter:');
+        lines.push('    geoip: true');
+        lines.push('    geoip-code: ID');  // User's country
+        lines.push('    ipcidr:');
+        lines.push('      - 240.0.0.0/4');
         lines.push('');
         
         // Proxies (as list items)
@@ -273,19 +319,32 @@ const ConfigConverter = {
         });
         lines.push('');
         
-        // Proxy Groups
+        // Proxy Groups - Optimized intervals
         lines.push('proxy-groups:');
         lines.push('  - name: Tunnel');
         lines.push('    type: select');
         lines.push('    proxies:');
         lines.push('      - UrlTest');
+        lines.push('      - Fallback');
         lines.push('      - Selector');
         proxyNames.forEach(name => {
             lines.push(`      - "${name}"`);
         });
         lines.push('  - name: UrlTest');
         lines.push('    type: url-test');
-        lines.push('    interval: 300');
+        lines.push('    url: http://www.gstatic.com/generate_204');
+        lines.push('    interval: 600');        // Check every 10 min (battery saver)
+        lines.push('    tolerance: 150');       // 150ms tolerance before switching
+        lines.push('    lazy: true');           // Only check when used
+        lines.push('    proxies:');
+        proxyNames.forEach(name => {
+            lines.push(`      - "${name}"`);
+        });
+        lines.push('  - name: Fallback');
+        lines.push('    type: fallback');
+        lines.push('    url: http://www.gstatic.com/generate_204');
+        lines.push('    interval: 600');
+        lines.push('    lazy: true');
         lines.push('    proxies:');
         proxyNames.forEach(name => {
             lines.push(`      - "${name}"`);
@@ -298,9 +357,21 @@ const ConfigConverter = {
         });
         lines.push('');
         
-        // Rules
+        // Rules - Essential rules only
         lines.push('rules:');
         lines.push('  - GEOIP,PRIVATE,DIRECT,no-resolve');
+        lines.push('  - GEOSITE,category-ads-all,REJECT');
+        lines.push('  - GEOSITE,google,Tunnel');
+        lines.push('  - GEOSITE,youtube,Tunnel');
+        lines.push('  - GEOSITE,github,Tunnel');
+        lines.push('  - GEOSITE,telegram,Tunnel');
+        lines.push('  - GEOSITE,instagram,Tunnel');
+        lines.push('  - GEOSITE,facebook,Tunnel');
+        lines.push('  - GEOSITE,twitter,Tunnel');
+        lines.push('  - GEOSITE,spotify,Tunnel');
+        lines.push('  - GEOSITE,netflix,Tunnel');
+        lines.push('  - GEOSITE,tiktok,Tunnel');
+        lines.push('  - GEOIP,ID,DIRECT');      // Direct for local country
         lines.push('  - MATCH,Tunnel');
         
         return lines.join('\n');
