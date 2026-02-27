@@ -1,110 +1,84 @@
-185.246.90.163,10808,RU,Denis Dmitrievich Galyamin
-81.177.48.54,2080,RU,JSC RTComm.RU
-81.177.48.54,2080,RU,JSC RTComm.RU
-37.27.100.112,443,FI,Hetzner Online GmbH
-37.27.100.79,443,FI,Hetzner Online GmbH
-37.27.100.107,443,FI,Hetzner Online GmbH
-37.27.100.108,443,FI,Hetzner Online GmbH
-5.129.230.96,1080,NL,Timeweb  LLP
-31.59.129.75,1080,NL,Wojciech Czapkowicz
-5.255.99.75,1080,NL,The Infrastructure Group B.V.
-213.111.146.68,8888,NL,Datacamp Limited
-173.249.5.133,1080,FR,Contabo GmbH
-138.124.53.25,7443,DE,Aeza International Ltd
-185.244.49.248,1080,NL,Hostkey B.v.
+194.67.206.117,443,RU,I-servers Ltd
+195.123.209.48,3128,LV,Green Floid LLC
 173.249.3.59,1080,FR,Contabo GmbH
-46.146.204.175,1080,RU,JSC ER-Telecom Holding
-168.119.232.8,1080,DE,Hetzner Online GmbH
-95.106.227.205,1080,RU,Rostelecom
-185.65.202.186,1080,DE,Baykov Ilya Sergeevich
-81.177.48.54,2080,RU,JSC RTComm.RU
-80.78.70.253,65530,AL,Vodafone Albania Sh.A.
-52.188.28.218,3128,US,Microsoft Corporation
-85.208.108.43,2094,CA,TANGRAM CANADA INC.
-85.132.37.9,1313,AZ,Azintex.com LLC
-64.64.152.248,39593,US,Great Plains Communications LLC
-149.62.186.244,1080,IT,Host SpA
-43.132.106.29,21080,HK,Tencent Building  Kejizhongyi Avenue
-101.47.73.135,3128,HK,Byteplus Pte. Ltd.
-104.238.30.50,59741,IT,AkhaliNet LLC
-104.238.30.38,59741,IT,AkhaliNet LLC
-104.238.30.68,63744,IT,AkhaliNet LLC
-104.238.30.45,59741,IT,AkhaliNet LLC
-104.238.30.37,59741,IT,AkhaliNet LLC
-20.3.145.242,50161,US,Microsoft Corporation
-14.143.222.113,10158,IN,TATA Communications formerly VSNL is Leading ISP
-90.188.224.98,1080,RU,Rostelecom
-41.223.119.156,3128,ZM,MTN Zambia
-72.56.50.17,59787,US,AkhaliNet LLC
-72.56.59.23,61937,US,AkhaliNet LLC
-72.56.59.56,63127,US,AkhaliNet LLC
-104.238.30.63,63744,IT,AkhaliNet LLC
-104.238.30.39,59741,IT,AkhaliNet LLC
-72.56.59.17,61931,US,AkhaliNet LLC
-104.238.30.40,59741,IT,AkhaliNet LLC
-72.56.59.62,63133,US,AkhaliNet LLC
-104.238.30.86,63900,IT,AkhaliNet LLC
-104.238.30.58,63744,IT,AkhaliNet LLC
-104.238.30.91,63900,IT,AkhaliNet LLC
-37.27.100.108,443,FI,Hetzner Online GmbH
-5.45.123.10,10808,EE,P.a.g.m. Ou
-115.69.210.60,1080,BD,NReach Net Pvt. Ltd
-52.233.95.147,1080,US,Microsoft Corporation
-185.176.94.75,1080,DE,Aurorix Gaming Solutions Limited
+5.255.99.75,1080,NL,The Infrastructure Group B.V.
+90.182.147.170,4145,CZ,O2 Czech Republic  a.s.
 77.241.20.215,55915,RU,Limited liability company Kursktelecom
-185.41.152.110,3128,FR,Techcrea Solutions SAS
-194.233.68.54,1088,SG,Contabo Asia Private Limited
-5.252.177.254,1080,US,MivoCloud SRL
-42.115.72.184,1036,VN,FPT Telecom Company
-170.246.183.250,3128,AR,AIQUEL EDUARDO RAUL CABLE VISION SP
-47.237.175.109,443,SG,Alibaba US Technology Co.  Ltd.
-95.80.103.216,1080,RU,Quantum CJSC
-130.254.47.243,50161,US,GigeNET
-61.72.110.24,3128,KR,Korea Telecom
-159.65.230.91,20764,US,Global Transit Systems LLC
-31.58.158.150,8080,ID,PT Telekomunikasi Indonesia
-43.252.106.26,1111,ID,Lintas Data Prima  PT
-91.221.177.40,80,RU,NesterTelecom LLC
-37.27.100.102,443,FI,Hetzner Online GmbH
-52.233.95.88,1080,US,Microsoft Corporation
-103.87.171.12,1080,IN,Tejays Dynamic Limited
-175.194.173.105,3128,KR,Korea Telecom
-103.163.111.56,1111,ID,PT Galunggung Access Solutions
-162.240.154.26,3128,US,Unified Layer
-121.128.121.214,3128,KR,Korea Telecom
-107.172.51.161,50161,US,HostPapa
-95.165.82.189,1080,NO,HERN Labs AB
-121.128.121.34,3128,KR,Korea Telecom
-14.56.107.244,3128,KR,Korea Telecom
-116.80.48.217,7777,JP,NTT PC Communications  Inc.
-181.78.65.252,999,CO,UFINET PANAMA S.A.
-43.160.195.20,20005,SG,Tencent Building  Kejizhongyi Avenue
-61.72.221.184,3128,KR,Korea Telecom
-93.183.175.6,5678,BG,ESCOM Ltd. - Haskovo
-5.45.123.10,10808,EE,P.a.g.m. Ou
-94.232.11.178,58028,RU,PJSC MegaFon
-80.78.78.106,65530,AL,Vodafone Albania Sh.A.
-14.56.118.154,3128,KR,Korea Telecom
-20.210.39.153,8561,JP,Microsoft Corporation
-113.168.118.213,1080,VN,VNPT Corp
+31.59.129.75,1080,NL,Wojciech Czapkowicz
+95.178.108.189,5678,FR,Eurofiber France SAS
+173.249.5.133,1080,FR,Contabo GmbH
+205.209.118.30,3138,US,Interserver  Inc
+37.193.178.241,1080,RU,Novotelecom Ltd
+185.65.202.186,1080,DE,Baykov Ilya Sergeevich
+69.164.245.247,1080,US,Interserver  Inc
+91.223.52.141,5678,PL,InterWan Sp. z o.o.
+109.168.173.173,1080,RU,Rostelecom
 194.163.160.97,10808,FR,Contabo GmbH
-64.188.124.97,1080,US,u1host ltd
-14.56.118.24,3128,KR,Korea Telecom
+64.64.152.248,39593,US,Great Plains Communications LLC
+43.132.106.29,21080,HK,Tencent Building  Kejizhongyi Avenue
+104.238.30.40,59741,IT,AkhaliNet LLC
+104.238.30.86,63900,IT,AkhaliNet LLC
+104.238.30.91,63900,IT,AkhaliNet LLC
+104.238.30.37,59741,IT,AkhaliNet LLC
+104.238.30.63,63744,IT,AkhaliNet LLC
+104.238.30.50,59741,IT,AkhaliNet LLC
+104.238.30.45,59741,IT,AkhaliNet LLC
+104.238.30.39,59741,IT,AkhaliNet LLC
+72.56.59.62,63133,US,AkhaliNet LLC
+104.238.30.58,63744,IT,AkhaliNet LLC
+95.165.82.189,1080,RU,Cloudflare  Inc.
+104.238.30.38,59741,IT,AkhaliNet LLC
+41.223.119.156,3128,ZM,MTN Zambia
+90.84.188.97,8000,FR,Orange
+170.246.183.250,3128,AR,AIQUEL EDUARDO RAUL CABLE VISION SP
+5.252.177.254,1080,US,MivoCloud SRL
+115.69.210.60,1080,BD,NReach Net Pvt. Ltd
+92.42.8.23,4153,RU,Stavtelecom LLC
+72.56.50.17,59787,US,AkhaliNet LLC
+194.233.68.54,1088,SG,Contabo Asia Private Limited
+13.70.6.6,50161,HK,Microsoft Corporation
+42.115.72.172,2035,VN,FPT Telecom Company
+37.110.225.76,1080,RU,Closed Joint Stock Company Oskolnet
+43.160.195.20,20005,SG,Tencent Building  Kejizhongyi Avenue
+103.176.94.234,1080,ID,PT Mitra Internet Indonesia
+116.80.82.92,7777,JP,NTT PC Communications  Inc.
+45.88.0.111,3128,ES,IPv4 Superhub Limited
+202.87.210.20,57833,WS,Digicel Samoa Ltd
+45.88.0.113,3128,ES,IPv4 Superhub Limited
+159.65.230.91,20033,SC,Fast Servers (Pty) Ltd
+116.80.63.64,7777,JP,NTT PC Communications  Inc.
+185.176.94.75,1080,DE,Aurorix Gaming Solutions Limited
+104.238.30.68,63744,IT,AkhaliNet LLC
+62.4.37.104,60606,ME,Drustvo za telekomunikacije MTEL DOO
+87.117.11.57,1080,RU,Rostelecom
+159.65.230.91,20849,US,PureVoltage Hosting Inc.
+94.73.251.19,1080,RU,Orion Telecom LLC
+61.72.221.84,3128,KR,Korea Telecom
+52.188.28.218,3128,US,Microsoft Corporation
 185.246.90.163,10808,RU,Denis Dmitrievich Galyamin
-43.161.214.161,1081,HK,Tencent Building  Kejizhongyi Avenue
-37.27.100.102,443,FI,Hetzner Online GmbH
-20.27.11.248,8561,JP,Microsoft Corporation
-20.78.26.206,8561,JP,Microsoft Corporation
-163.61.112.247,8080,ID,PT VESAKHA SECEPAT KILAT
-45.175.171.4,8085,BR,Inffotreini Provedores e Informatica LTDA - ME
-103.189.218.85,6969,BD,Comfort Solutions
-103.3.246.71,3128,VN,Bach Kim Network solutions Join stock company
-154.94.238.147,50161,SC,cognetcloud INC
+185.246.90.163,10808,RU,Denis Dmitrievich Galyamin
+109.232.106.150,52435,RU,Thyphone Communications LLC
+213.230.110.191,3128,UZ,Uzbektelekom Joint Stock Company
+103.155.199.71,8090,ID,PT Global Media Jaringan Nasional
+5.255.117.250,1080,NL,The Infrastructure Group B.V.
+107.172.51.161,50161,US,HostPapa
+45.88.0.117,3128,ES,IPv4 Superhub Limited
+47.83.199.137,58367,HK,Alibaba US Technology Co.  Ltd.
+81.12.157.98,5678,RO,Vodafone Romania S.A.
+159.65.230.91,20900,US,Global Transit Systems LLC
+81.12.169.254,4153,RO,Vodafone Romania S.A.
+43.131.226.70,50161,KR,Tencent Building  Kejizhongyi Avenue
+149.62.186.244,1080,IT,Host SpA
 61.72.110.54,3128,KR,Korea Telecom
-159.65.230.91,20884,US,Fast Servers (Pty) Ltd
-116.80.81.13,7777,JP,NTT PC Communications  Inc.
-159.65.230.91,20028,US,Fast Servers (Pty) Ltd
-61.72.221.194,3128,KR,Korea Telecom
-43.161.214.161,1081,HK,Tencent Building  Kejizhongyi Avenue
-61.72.221.234,3128,KR,Korea Telecom
-61.72.221.54,3128,KR,Korea Telecom
+89.43.132.233,8080,HU,High Speed For Internet Services L.L.C
+50.233.111.162,32100,US,Comcast Cable Communications  LLC
+91.150.67.17,8080,RS,TELEKOM SRBIJA a.d.
+159.65.230.91,20342,US,PureVoltage Hosting Inc.
+43.252.106.26,1111,ID,Lintas Data Prima  PT
+94.198.211.217,5678,IT,LA Wireless Srl
+45.88.0.116,3128,ES,IPv4 Superhub Limited
+31.207.196.151,5678,RU,Intersvyaz-2 JSC
+82.132.19.108,4153,HR,Croatian Academic and Research Network
+83.168.101.27,5678,PL,Korbank S. A.
+5.255.113.177,1080,NL,The Infrastructure Group B.V.
+61.72.110.94,3128,KR,Korea Telecom
