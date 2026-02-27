@@ -248,21 +248,22 @@ const ConfigConverter = {
         lines.push('external-controller: 127.0.0.1:9090');
         lines.push('');
         
-        // DNS
+        // DNS - Use simple DNS to avoid DoH timeout issues
         lines.push('dns:');
         lines.push('  enable: true');
         lines.push('  ipv6: false');
-        lines.push('  enhanced-mode: redir-host');
+        lines.push('  enhanced-mode: fake-ip');
+        lines.push('  fake-ip-range: 198.18.0.1/16');
         lines.push('  listen: 0.0.0.0:7874');
         lines.push('  default-nameserver:');
         lines.push('    - 8.8.8.8');
         lines.push('    - 1.1.1.1');
         lines.push('  nameserver:');
-        lines.push('    - https://8.8.8.8/dns-query');
-        lines.push('    - https://8.8.4.4/dns-query');
-        lines.push('  fallback:');
-        lines.push('    - https://1.1.1.1/dns-query');
         lines.push('    - 8.8.8.8');
+        lines.push('    - 1.1.1.1');
+        lines.push('  fallback:');
+        lines.push('    - 8.8.4.4');
+        lines.push('    - 1.0.0.1');
         lines.push('');
         
         // Proxies (as list items)
