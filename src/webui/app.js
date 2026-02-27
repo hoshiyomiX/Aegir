@@ -270,30 +270,20 @@ const ConfigConverter = {
         // DNS - Optimized for speed & battery
         lines.push('dns:');
         lines.push('  enable: true');
-        lines.push('  prefer-h3: false');  // Disable DoH3 to save battery
+        lines.push('  prefer-h3: false');
         lines.push('  ipv6: false');
         lines.push('  enhanced-mode: fake-ip');
         lines.push('  fake-ip-range: 198.18.0.1/16');
         lines.push('  fake-ip-filter:');
         lines.push('    - "*.lan"');
         lines.push('    - "*.local"');
-        lines.push('    - "localhost.ptlogin2.qq.com"');
         lines.push('    - "+.stun.*.*"');
-        lines.push('    - "stun.l.google.com"');
         lines.push('  default-nameserver:');
         lines.push('    - 8.8.8.8');
         lines.push('    - 1.1.1.1');
         lines.push('  nameserver:');
         lines.push('    - 8.8.8.8');
         lines.push('    - 1.1.1.1');
-        lines.push('  fallback:');
-        lines.push('    - 8.8.4.4');
-        lines.push('    - 1.0.0.1');
-        lines.push('  fallback-filter:');
-        lines.push('    geoip: true');
-        lines.push('    geoip-code: ID');
-        lines.push('    ipcidr:');
-        lines.push('      - 240.0.0.0/4');
         lines.push('');
         
         // Proxies (as list items)
@@ -344,7 +334,6 @@ const ConfigConverter = {
         // Rules - Simple rules only
         lines.push('rules:');
         lines.push('  - GEOIP,PRIVATE,DIRECT,no-resolve');
-        lines.push('  - GEOIP,ID,DIRECT');
         lines.push('  - MATCH,Tunnel');
         
         return lines.join('\n');
