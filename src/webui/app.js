@@ -642,126 +642,57 @@ function updateGenerateButton() {
     generateBtn.disabled = !selectedProxy;
 }
 
-// ========== QR Code Generator ==========
-// Simple QR Code generator using canvas
-const QRCode = {
-    // QR Code capacity table (version, modules, capacity for alphanumeric)
-    generate: function(text, canvas, size = 200) {
-        const ctx = canvas.getContext('2d');
-        const moduleCount = 25; // Version 2
-        const cellSize = Math.floor(size / moduleCount);
-        const actualSize = cellSize * moduleCount;
+// ========== QR Code Generation ==========
+function generateQRCode(text, canvas) {
+    try {
+        // Use 0 for auto type detection
+        const qr = qrcode(0, 'M');  // Medium error correction
+        qr.addData(text);
+        qr.make();
         
-        canvas.width = actualSize;
-        canvas.height = actualSize;
+        // Draw on canvas
+        const ctx = canvas.getContext('2d');
+        const moduleCount = qr.getModuleCount();
+        const cellSize = Math.max(4, Math.floor(220 / moduleCount));  // Min 4px per cell
+        const size = cellSize * moduleCount;
+        
+        canvas.width = size;
+        canvas.height = size;
         
         // White background
         ctx.fillStyle = '#ffffff';
-        ctx.fillRect(0, 0, actualSize, actualSize);
-        
-        // Generate QR matrix
-        const matrix = this.createMatrix(text, moduleCount);
+        ctx.fillRect(0, 0, size, size);
         
         // Draw modules
         ctx.fillStyle = '#000000';
         for (let row = 0; row < moduleCount; row++) {
             for (let col = 0; col < moduleCount; col++) {
-                if (matrix[row][col]) {
+                if (qr.isDark(row, col)) {
                     ctx.fillRect(col * cellSize, row * cellSize, cellSize, cellSize);
                 }
             }
         }
-    },
-    
-    createMatrix: function(text, size) {
-        const matrix = Array(size).fill(null).map(() => Array(size).fill(false));
         
-        // Add finder patterns (top-left, top-right, bottom-left)
-        this.addFinderPattern(matrix, 0, 0);
-        this.addFinderPattern(matrix, size - 7, 0);
-        this.addFinderPattern(matrix, 0, size - 7);
+        return true;
+    } catch (e) {
+        console.error('QR generation failed:', e);
         
-        // Add timing patterns
-        for (let i = 8; i < size - 8; i++) {
-            matrix[6][i] = i % 2 === 0;
-            matrix[i][6] = i % 2 === 0;
-        }
+        // Fallback: show error on canvas
+        const ctx = canvas.getContext('2d');
+        canvas.width = 220;
+        canvas.height = 220;
+        ctx.fillStyle = '#ffffff';
+        ctx.fillRect(0, 0, 220, 220);
+        ctx.fillStyle = '#ff0000';
+        ctx.font = '14px Roboto';
+        ctx.textAlign = 'center';
+        ctx.fillText('Content too long', 110, 100);
+        ctx.fillText('for QR code', 110, 120);
+        ctx.fillText(`(${text.length} chars)`, 110, 145);
         
-        // Add alignment pattern (center for version 2)
-        this.addAlignmentPattern(matrix, size - 9, size - 9);
-        
-        // Add format info area
-        for (let i = 0; i < 9; i++) {
-            matrix[8][i] = true;
-            matrix[i][8] = true;
-            if (i < 8) {
-                matrix[8][size - 1 - i] = true;
-                matrix[size - 1 - i][8] = true;
-            }
-        }
-        matrix[8][size - 8] = true;
-        
-        // Encode data (simplified - just visualize text length pattern)
-        const dataBytes = new TextEncoder().encode(text);
-        let bitIndex = 0;
-        for (let col = size - 1; col > 0; col -= 2) {
-            if (col === 6) col--;
-            for (let row = 0; row < size; row++) {
-                for (let c = 0; c < 2; c++) {
-                    const x = col - c;
-                    const y = row;
-                    if (!this.isReserved(matrix, x, y, size)) {
-                        const byteIndex = Math.floor(bitIndex / 8);
-                        const bitOffset = bitIndex % 8;
-                        if (byteIndex < dataBytes.length) {
-                            matrix[y][x] = (dataBytes[byteIndex] >> (7 - bitOffset)) & 1;
-                        } else {
-                            matrix[y][x] = bitIndex % 2 === 0;
-                        }
-                        bitIndex++;
-                    }
-                }
-            }
-        }
-        
-        return matrix;
-    },
-    
-    addFinderPattern: function(matrix, startRow, startCol) {
-        for (let r = 0; r < 7; r++) {
-            for (let c = 0; c < 7; c++) {
-                if (r === 0 || r === 6 || c === 0 || c === 6 ||
-                    (r >= 2 && r <= 4 && c >= 2 && c <= 4)) {
-                    matrix[startRow + r][startCol + c] = true;
-                }
-            }
-        }
-    },
-    
-    addAlignmentPattern: function(matrix, centerRow, centerCol) {
-        for (let r = -2; r <= 2; r++) {
-            for (let c = -2; c <= 2; c++) {
-                if (Math.abs(r) === 2 || Math.abs(c) === 2 || (r === 0 && c === 0)) {
-                    matrix[centerRow + r][centerCol + c] = true;
-                }
-            }
-        }
-    },
-    
-    isReserved: function(matrix, x, y, size) {
-        // Finder patterns
-        if ((x < 9 && y < 9) || (x < 9 && y >= size - 8) || (x >= size - 8 && y < 9)) {
-            return true;
-        }
-        // Timing patterns
-        if (x === 6 || y === 6) return true;
-        // Alignment pattern
-        if (x >= size - 11 && x <= size - 7 && y >= size - 11 && y <= size - 7) {
-            return true;
-        }
         return false;
     }
-};
+}
 
 // ========== Initialize ==========
 async function init() {
@@ -916,8 +847,8 @@ generateBtn.addEventListener('click', async () => {
         configOutput.value = generatedConfig;
         resultSection.style.display = 'block';
         
-        // Show copy URL button only for Clash format
-        copyUrlBtn.style.display = format === 'clash' ? 'flex' : 'none';
+        // Show copy URL button for Clash and sing-box formats
+        copyUrlBtn.style.display = (format === 'clash' || format === 'singbox') ? 'flex' : 'none';
         
         resultSection.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
         
@@ -977,20 +908,39 @@ qrBtn.addEventListener('click', () => {
     const format = document.querySelector('input[name="format"]:checked').value;
     let qrContent;
     
-    // For Clash format, use URL; for others, use the config content
+    // For Clash format, always use URL (config is too long for QR)
     if (format === 'clash') {
         qrContent = subscriptionUrl;
         qrHint.textContent = 'Scan to import subscription URL';
-    } else {
+    } else if (format === 'singbox') {
+        // sing-box JSON is also long, use URL
+        qrContent = subscriptionUrl;
+        qrHint.textContent = 'Scan to import subscription URL';
+    } else if (format === 'v2ray') {
+        // V2Ray is base64 encoded, usually short enough
         qrContent = generatedConfig;
-        qrHint.textContent = 'Scan to import config';
+        qrHint.textContent = 'Scan to import V2Ray config';
+    } else {
+        // For raw URI, use the URI (short)
+        qrContent = rawConfig;
+        qrHint.textContent = 'Scan to import proxy URI';
+    }
+    
+    // Check if content is too long for QR
+    if (qrContent.length > 2900) {
+        showSnackbar('Config too long for QR code. Use subscription URL instead.');
+        return;
     }
     
     // Generate QR code
-    QRCode.generate(qrContent, qrCanvas, 220);
+    const success = generateQRCode(qrContent, qrCanvas);
     
-    // Show modal
-    qrModal.style.display = 'flex';
+    if (success) {
+        // Show modal
+        qrModal.style.display = 'flex';
+    } else {
+        showSnackbar('Failed to generate QR code');
+    }
 });
 
 // Close QR modal
