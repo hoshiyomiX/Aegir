@@ -39,10 +39,13 @@ export async function getPrxListPaginated(prxBankUrl = PRX_BANK_URL, options = {
 
   // Sanitize and validate options
   const offset = Math.max(0, parseInt(options.offset) || 0);
-  const limit = Math.min(
-    Math.max(1, parseInt(options.limit) || MAX_CONFIGS_PER_REQUEST),
-    MAX_CONFIGS_PER_REQUEST
-  );
+  const fetchAll = options.fetchAll;  // If true, return all proxies (for WebUI)
+  const limit = fetchAll 
+    ? parseInt(options.limit) || 10000  // No cap for fetchAll mode
+    : Math.min(
+        Math.max(1, parseInt(options.limit) || MAX_CONFIGS_PER_REQUEST),
+        MAX_CONFIGS_PER_REQUEST
+      );
   const filterCC = Array.isArray(options.filterCC)
     ? options.filterCC.filter(c => typeof c === 'string' && c.length <= 3)
     : [];

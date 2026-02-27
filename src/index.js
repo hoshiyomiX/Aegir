@@ -413,7 +413,8 @@ export default {
           
         } else if (apiPath.startsWith("/proxies")) {
           // Return proxy list for WebUI with ISP info (from proxy bank)
-          const { data: prxList } = await getPrxListPaginated(PRX_BANK_URL, { limit: 1000 }, env);
+          // Use fetchAll to bypass limit cap and get all proxies
+          const { data: prxList } = await getPrxListPaginated(PRX_BANK_URL, { fetchAll: true }, env);
 
           // Group by country and format for WebUI
           const groupedProxies = {};
