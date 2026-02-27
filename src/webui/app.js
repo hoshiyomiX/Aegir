@@ -299,7 +299,7 @@ const ConfigConverter = {
     },
     
     /**
-     * Convert object to YAML entry
+     * Convert object to YAML entry (recursive)
      */
     toYamlEntry(obj, indent = 0) {
         const spaces = ' '.repeat(indent);
@@ -310,8 +310,19 @@ const ConfigConverter = {
             
             if (typeof value === 'object' && !Array.isArray(value)) {
                 lines.push(`${spaces}${key}:`);
+                // Recursively handle nested objects
                 Object.entries(value).forEach(([k, v]) => {
-                    if (typeof v === 'string' && (v.includes(':') || v.includes('#'))) {
+                    if (typeof v === 'object' && v !== null && !Array.isArray(v)) {
+                        // Double nested object (like headers inside ws-opts)
+                        lines.push(`${spaces}  ${k}:`);
+                        Object.entries(v).forEach(([nk, nv]) => {
+                            if (typeof nv === 'string' && (nv.includes(':') || nv.includes('#') || nv.includes(' '))) {
+                                lines.push(`${spaces}    ${nk}: "${nv}"`);
+                            } else {
+                                lines.push(`${spaces}    ${nk}: ${nv}`);
+                            }
+                        });
+                    } else if (typeof v === 'string' && (v.includes(':') || v.includes('#') || v.includes(' '))) {
                         lines.push(`${spaces}  ${k}: "${v}"`);
                     } else {
                         lines.push(`${spaces}  ${k}: ${v}`);
