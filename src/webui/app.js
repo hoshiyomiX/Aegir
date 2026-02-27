@@ -12,6 +12,7 @@ let generatedConfig = '';
 const countrySelect = document.getElementById('country-select');
 const proxySelect = document.getElementById('proxy-select');
 const bugHostInput = document.getElementById('bug-host');
+const reverseSniCheckbox = document.getElementById('reverse-sni');
 const generateBtn = document.getElementById('generate-btn');
 const errorMsg = document.getElementById('error-msg');
 const resultSection = document.getElementById('result-section');
@@ -133,7 +134,7 @@ function populateCountries() {
 function populateProxies(countryCode) {
     const proxies = proxyData[countryCode] || [];
     
-    proxySelect.innerHTML = '<option value="">-- Select Server --</option>';
+    proxySelect.innerHTML = '<option value="">-- Select Proxy --</option>';
     proxySelect.disabled = proxies.length === 0;
     
     proxies.forEach((proxy) => {
@@ -185,11 +186,29 @@ generateBtn.addEventListener('click', async () => {
     try {
         const protocol = document.querySelector('input[name="protocol"]:checked').value;
         const port = document.querySelector('input[name="port"]:checked').value;
-        const bugHost = bugHostInput.value.trim() || window.location.hostname;
+        const bugHost = bugHostInput.value.trim();
+        const reverseSni = reverseSniCheckbox.checked;
+        const workerHost = window.location.hostname;
+        
+        // Determine domain and SNI based on reverse SNI option
+        let domain, sni;
+        if (reverseSni && bugHost) {
+            // Reverse: Bug Host becomes SNI, Worker becomes domain
+            domain = workerHost;
+            sni = bugHost;
+        } else if (bugHost) {
+            // Normal: Bug Host as both domain and SNI
+            domain = bugHost;
+            sni = bugHost;
+        } else {
+            // Default: Worker host for both
+            domain = workerHost;
+            sni = workerHost;
+        }
         
         const params = new URLSearchParams();
-        params.append('domain', bugHost);
-        params.append('sni', bugHost);
+        params.append('domain', domain);
+        params.append('sni', sni);
         params.append('limit', '1');
         params.append('vpn', protocol);
         params.append('port', port);

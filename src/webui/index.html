@@ -37,7 +37,7 @@
                 </div>
 
                 <div class="form-group">
-                    <label class="form-label" for="proxy-select">Server</label>
+                    <label class="form-label" for="proxy-select">Proxy IP</label>
                     <div class="select-wrapper">
                         <select id="proxy-select" class="form-select" disabled>
                             <option value="">-- Select country first --</option>
@@ -98,6 +98,17 @@
                         <span class="material-icons-round input-icon">dns</span>
                         <input type="text" id="bug-host" class="form-input" placeholder="Leave empty to use Worker host">
                     </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="switch-row">
+                        <label class="switch-label" for="reverse-sni">Reverse SNI</label>
+                        <label class="switch">
+                            <input type="checkbox" id="reverse-sni">
+                            <span class="switch-track"></span>
+                        </label>
+                    </div>
+                    <p class="form-hint">Swap Bug Host and Worker Host in config</p>
                 </div>
             </section>
 

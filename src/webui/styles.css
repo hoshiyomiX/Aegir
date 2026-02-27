@@ -16,7 +16,7 @@
     /* Secondary */
     --md-sys-color-secondary: #4A636D;
     --md-sys-color-on-secondary: #FFFFFF;
-    --md-sys-color-secondary-container: #CDE7F2;
+    --md-sys-color-secondary-container: #1A3A44;
     
     /* Tertiary */
     --md-sys-color-tertiary: #525E7D;
@@ -258,6 +258,71 @@ body {
     pointer-events: none;
 }
 
+.form-hint {
+    font: var(--md-sys-typescale-body-small);
+    color: var(--md-sys-color-on-surface-variant);
+    margin-top: 4px;
+}
+
+/* ========== Switch (MD3) ========== */
+.switch-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.switch-label {
+    font: var(--md-sys-typescale-body-large);
+    color: var(--md-sys-color-on-surface);
+    cursor: pointer;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 52px;
+    height: 32px;
+    cursor: pointer;
+}
+
+.switch input {
+    display: none;
+}
+
+.switch-track {
+    position: absolute;
+    inset: 0;
+    background: var(--md-sys-color-surface-container-highest);
+    border: 2px solid var(--md-sys-color-outline);
+    border-radius: var(--md-sys-shape-corner-full);
+    transition: all var(--md-sys-motion-duration-short) var(--md-sys-motion-easing-standard);
+}
+
+.switch-track::after {
+    content: '';
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 6px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: var(--md-sys-color-outline);
+    border-radius: 50%;
+    transition: all var(--md-sys-motion-duration-short) var(--md-sys-motion-easing-standard);
+}
+
+.switch input:checked + .switch-track {
+    background: var(--md-sys-color-primary);
+    border-color: var(--md-sys-color-primary);
+}
+
+.switch input:checked + .switch-track::after {
+    width: 24px;
+    height: 24px;
+    left: calc(100% - 26px);
+    background: var(--md-sys-color-on-primary);
+}
+
 /* ========== Chips (MD3 Filter Chips) ========== */
 .chip-group {
     display: flex;
@@ -296,7 +361,8 @@ body {
 }
 
 .chip:has(input:checked) .chip-text {
-    color: var(--md-sys-color-on-surface);
+    color: #E0E3E5;
+    font-weight: 500;
 }
 
 /* ========== Filled Button (MD3) ========== */
@@ -336,8 +402,8 @@ body {
 }
 
 .btn-primary:disabled {
-    background: rgba(0, 180, 216, 0.12);
-    color: rgba(0, 180, 216, 0.38);
+    background: #2D3033;
+    color: #6B7378;
     cursor: not-allowed;
 }
 
@@ -435,7 +501,7 @@ body {
     background: var(--md-sys-color-surface-dim);
     border: 1px solid var(--md-sys-color-outline-variant);
     border-radius: var(--md-sys-shape-corner-small);
-    color: var(--md-sys-color-primary);
+    color: #80EEFF;
     font: 400 13px/1.5 'Roboto Mono', monospace;
     resize: vertical;
 }
