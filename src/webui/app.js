@@ -186,6 +186,7 @@ generateBtn.addEventListener('click', async () => {
     try {
         const protocol = document.querySelector('input[name="protocol"]:checked').value;
         const port = document.querySelector('input[name="port"]:checked').value;
+        const format = document.querySelector('input[name="format"]:checked').value;
         const bugHost = bugHostInput.value.trim();
         const reverseSni = reverseSniCheckbox.checked;
         const workerHost = window.location.hostname;
@@ -212,6 +213,7 @@ generateBtn.addEventListener('click', async () => {
         params.append('limit', '1');
         params.append('vpn', protocol);
         params.append('port', port);
+        params.append('format', format);
         
         const targetUrl = `${window.location.origin}/api/v1/sub?${params.toString()}`;
         
