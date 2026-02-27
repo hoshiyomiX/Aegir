@@ -697,22 +697,25 @@ generateBtn.addEventListener('click', async () => {
         const reverseSni = reverseSniCheckbox.checked;
         const workerHost = window.location.hostname;
         
-        // Determine domain and SNI based on reverse SNI option
-        // Normal: domain=bug, sni=bug, host=bug
-        // Reverse: domain=bug, sni=worker, host=worker
+        // Determine domain, sni, and host based on mode:
+        // No bug: server=worker, sni=worker, host=worker
+        // Bug + Reverse SNI OFF: server=worker, sni=bug, host=bug
+        // Bug + Reverse SNI ON: server=bug, sni=worker, host=worker
         let domain, sni, host;
-        if (reverseSni && bugHost) {
-            // Reverse SNI: Server connects to bug host, but TLS shows worker hostname
-            domain = bugHost;      // server = bug host
-            sni = workerHost;      // TLS SNI = worker hostname
-            host = workerHost;     // Host header = worker hostname
-        } else if (bugHost) {
-            // Normal: Bug Host as server, SNI, and Host header
-            domain = bugHost;
-            sni = bugHost;
-            host = bugHost;
+        if (bugHost) {
+            if (reverseSni) {
+                // Reverse SNI ON: Server = bug, SNI & Host = worker
+                domain = bugHost;      // server = bug host
+                sni = workerHost;      // TLS SNI = worker hostname
+                host = workerHost;     // Host header = worker hostname
+            } else {
+                // Reverse SNI OFF: Server = worker, SNI & Host = bug
+                domain = workerHost;   // server = worker hostname
+                sni = bugHost;         // TLS SNI = bug host
+                host = bugHost;        // Host header = bug host
+            }
         } else {
-            // Default: Worker host for everything
+            // No bug input: everything = worker
             domain = workerHost;
             sni = workerHost;
             host = workerHost;
