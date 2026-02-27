@@ -172,9 +172,10 @@ const ConfigConverter = {
                 if (config.sni) proxy.sni = config.sni;
                 if (config.flow) proxy.flow = config.flow;
                 if (config.type === 'ws') {
+                    // Host header harus = server (Worker hostname), bukan bug host
                     proxy['ws-opts'] = {
                         path: decodeURIComponent(config.path),
-                        headers: { Host: config.host || config.server }
+                        headers: { Host: config.server }
                     };
                 }
                 if (proxy.tls) {
@@ -192,7 +193,7 @@ const ConfigConverter = {
                 if (config.type === 'ws') {
                     proxy['ws-opts'] = {
                         path: decodeURIComponent(config.path),
-                        headers: { Host: config.host || config.server }
+                        headers: { Host: config.server }
                     };
                 }
                 if (proxy.tls) {
@@ -208,7 +209,7 @@ const ConfigConverter = {
                 if (config.type === 'ws') {
                     proxy['ws-opts'] = {
                         path: decodeURIComponent(config.path),
-                        headers: { Host: config.host || config.server }
+                        headers: { Host: config.server }
                     };
                 }
                 proxy.udp = true;
