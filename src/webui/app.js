@@ -822,6 +822,7 @@ generateBtn.addEventListener('click', async () => {
         params.append('vpn', protocol);
         params.append('port', port);
         params.append('format', 'raw');  // Always raw from API
+        params.append('proxy', selectedProxy);  // Selected proxy IP:PORT
         
         const targetUrl = `${window.location.origin}/api/v1/sub?${params.toString()}`;
         

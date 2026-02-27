@@ -43,9 +43,10 @@ export async function getPrxListPaginated(prxBankUrl = PRX_BANK_URL, options = {
     Math.max(1, parseInt(options.limit) || MAX_CONFIGS_PER_REQUEST),
     MAX_CONFIGS_PER_REQUEST
   );
-  const filterCC = Array.isArray(options.filterCC) 
+  const filterCC = Array.isArray(options.filterCC)
     ? options.filterCC.filter(c => typeof c === 'string' && c.length <= 3)
     : [];
+  const filterProxy = options.filterProxy;  // Specific proxy IP:PORT
 
   // Optimization: Cache the raw lines instead of parsed objects to save memory
   // Parsing is done lazily only on the requested slice
@@ -64,9 +65,51 @@ export async function getPrxListPaginated(prxBankUrl = PRX_BANK_URL, options = {
     env
   );
 
-  // If we have country filters, we unfortunately MUST parse all (or until we find enough)
-  // to check the country. But if filterCC is empty, we can just slice.
-  
+  // Priority 1: If specific proxy is requested, find and return it
+  if (filterProxy) {
+    const [targetIP, targetPort] = filterProxy.split(":");
+
+    for (const line of rawLines) {
+      const parts = line.split(",");
+      const ip = parts[0];
+      const port = parts[1];
+
+      if (ip === targetIP && port === targetPort) {
+        return {
+          data: [{
+            prxIP: ip || "Unknown",
+            prxPort: port || "Unknown",
+            country: parts[2] || "Unknown",
+            org: parts[3] || "Unknown Org",
+          }],
+          pagination: {
+            total: 1,
+            offset: 0,
+            limit: 1,
+            hasMore: false,
+            nextOffset: null
+          }
+        };
+      }
+    }
+
+    // Proxy not found, return empty
+    return {
+      data: [],
+      pagination: {
+        total: 0,
+        offset: 0,
+        limit: 1,
+        hasMore: false,
+        nextOffset: null
+      }
+    };
+  }
+
+  // Priority 2: Country filter
+  // If we have country filters, we MUST parse to check the country.
+  // But if filterCC is empty, we can just slice.
+
   if (filterCC.length === 0) {
     // Fast path: No country filter, just slice the raw array
     // This avoids parsing thousands of lines we won't use
