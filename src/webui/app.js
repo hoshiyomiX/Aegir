@@ -248,11 +248,6 @@ const ConfigConverter = {
         lines.push('ipv6: false');
         lines.push('unified-delay: true');  // Better latency measurement
         lines.push('tcp-concurrent: true');  // Faster TCP connections
-        lines.push('geodata-mode: true');   // Use geodata instead of geoip
-        lines.push('geox-url:');            // Use built-in geodata
-        lines.push('  geoip: "https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/geoip.dat"');
-        lines.push('  geosite: "https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/geosite.dat"');
-        lines.push('  mmdb: "https://cdn.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country.mmdb"');
         lines.push('find-process-mode: strict');  // Reduce CPU for process matching
         lines.push('external-controller: 127.0.0.1:9090');
         lines.push('');
@@ -282,20 +277,9 @@ const ConfigConverter = {
         lines.push('  fake-ip-filter:');
         lines.push('    - "*.lan"');
         lines.push('    - "*.local"');
-        lines.push('    - "*.localhost"');
-        lines.push('    - "*.localhost.localdomain"');
-        lines.push('    - "*.localdomain"');
         lines.push('    - "localhost.ptlogin2.qq.com"');
-        lines.push('    - "localhost.sec.qq.com"');
         lines.push('    - "+.stun.*.*"');
-        lines.push('    - "+.stun.*.*.*"');
-        lines.push('    - "+.stun.*.*.*.*"');
-        lines.push('    - "+.stun.*.*.*.*.*"');
-        lines.push('    - "lens.l.google.com"');
         lines.push('    - "stun.l.google.com"');
-        lines.push('    - "+.nflxvideo.net"');
-        lines.push('    - "+.nflxext.com"');
-        lines.push('    - "+.nflxso.net"');
         lines.push('  default-nameserver:');
         lines.push('    - 8.8.8.8');
         lines.push('    - 1.1.1.1');
@@ -307,7 +291,7 @@ const ConfigConverter = {
         lines.push('    - 1.0.0.1');
         lines.push('  fallback-filter:');
         lines.push('    geoip: true');
-        lines.push('    geoip-code: ID');  // User's country
+        lines.push('    geoip-code: ID');
         lines.push('    ipcidr:');
         lines.push('      - 240.0.0.0/4');
         lines.push('');
@@ -357,21 +341,10 @@ const ConfigConverter = {
         });
         lines.push('');
         
-        // Rules - Essential rules only
+        // Rules - Simple rules only
         lines.push('rules:');
         lines.push('  - GEOIP,PRIVATE,DIRECT,no-resolve');
-        lines.push('  - GEOSITE,category-ads-all,REJECT');
-        lines.push('  - GEOSITE,google,Tunnel');
-        lines.push('  - GEOSITE,youtube,Tunnel');
-        lines.push('  - GEOSITE,github,Tunnel');
-        lines.push('  - GEOSITE,telegram,Tunnel');
-        lines.push('  - GEOSITE,instagram,Tunnel');
-        lines.push('  - GEOSITE,facebook,Tunnel');
-        lines.push('  - GEOSITE,twitter,Tunnel');
-        lines.push('  - GEOSITE,spotify,Tunnel');
-        lines.push('  - GEOSITE,netflix,Tunnel');
-        lines.push('  - GEOSITE,tiktok,Tunnel');
-        lines.push('  - GEOIP,ID,DIRECT');      // Direct for local country
+        lines.push('  - GEOIP,ID,DIRECT');
         lines.push('  - MATCH,Tunnel');
         
         return lines.join('\n');
