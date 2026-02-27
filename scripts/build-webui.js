@@ -58,15 +58,30 @@ console.log('\n📝 Updating src/index.js...');
 const indexContent = fs.readFileSync(INDEX_FILE, 'utf-8');
 
 // Find and replace the BASE64_HTML constant
+const base64Match = indexContent.match(/const BASE64_HTML = "[^"]+";/);
+
+if (!base64Match) {
+    console.error('❌ Error: Could not find BASE64_HTML constant in index.js');
+    console.error('   Trying alternate regex...');
+    
+    // Try multiline version
+    const altMatch = indexContent.match(/const BASE64_HTML = "[^"]+";/s);
+    if (altMatch) {
+        console.error('   Alternate match found!');
+    } else {
+        console.error('   Still not found. Checking for BASE64_HTML string...');
+        const idx = indexContent.indexOf('BASE64_HTML');
+        console.error(`   Found at position: ${idx}`);
+    }
+    process.exit(1);
+}
+
+console.log(`   Found BASE64_HTML (${base64Match[0].length} chars)`);
+
 const updatedIndex = indexContent.replace(
     /const BASE64_HTML = "[^"]+";/,
     `const BASE64_HTML = "${base64Html}";`
 );
-
-if (updatedIndex === indexContent) {
-    console.error('❌ Error: Could not find BASE64_HTML constant in index.js');
-    process.exit(1);
-}
 
 fs.writeFileSync(INDEX_FILE, updatedIndex);
 console.log('   ✅ BASE64_HTML updated successfully!');
