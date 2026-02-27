@@ -258,10 +258,10 @@ const ConfigConverter = {
         lines.push('    - 8.8.8.8');
         lines.push('');
         
-        // Proxies
+        // Proxies (as list items)
         lines.push('proxies:');
         proxies.forEach(proxy => {
-            lines.push(this.toYamlEntry(proxy, 2));
+            lines.push(this.toYamlListItem(proxy, 2));
         });
         lines.push('');
         
@@ -339,6 +339,62 @@ const ConfigConverter = {
                 lines.push(`${spaces}${key}: ${value}`);
             } else {
                 lines.push(`${spaces}${key}: ${value}`);
+            }
+        });
+        
+        return lines.join('\n');
+    },
+    
+    /**
+     * Convert object to YAML list item (for proxies array)
+     * First property gets the `- ` prefix
+     */
+    toYamlListItem(obj, indent = 0) {
+        const spaces = ' '.repeat(indent);
+        const lines = [];
+        const entries = Object.entries(obj).filter(([_, v]) => v !== undefined && v !== null);
+        
+        entries.forEach(([key, value], index) => {
+            if (index === 0) {
+                // First entry: use "- key: value" format
+                if (typeof value === 'string' && (value.includes(':') || value.includes('#') || value.includes(' '))) {
+                    lines.push(`${spaces}- ${key}: "${value}"`);
+                } else {
+                    lines.push(`${spaces}- ${key}: ${value}`);
+                }
+            } else {
+                // Subsequent entries: use "  key: value" format
+                if (typeof value === 'object' && !Array.isArray(value)) {
+                    lines.push(`${spaces}  ${key}:`);
+                    Object.entries(value).forEach(([k, v]) => {
+                        if (typeof v === 'object' && v !== null && !Array.isArray(v)) {
+                            // Nested object (like headers inside ws-opts)
+                            lines.push(`${spaces}    ${k}:`);
+                            Object.entries(v).forEach(([nk, nv]) => {
+                                if (typeof nv === 'string' && (nv.includes(':') || nv.includes('#') || nv.includes(' '))) {
+                                    lines.push(`${spaces}      ${nk}: "${nv}"`);
+                                } else {
+                                    lines.push(`${spaces}      ${nk}: ${nv}`);
+                                }
+                            });
+                        } else if (typeof v === 'string' && (v.includes(':') || v.includes('#') || v.includes(' '))) {
+                            lines.push(`${spaces}    ${k}: "${v}"`);
+                        } else {
+                            lines.push(`${spaces}    ${k}: ${v}`);
+                        }
+                    });
+                } else if (Array.isArray(value)) {
+                    lines.push(`${spaces}  ${key}:`);
+                    value.forEach(v => {
+                        lines.push(`${spaces}    - "${v}"`);
+                    });
+                } else if (typeof value === 'string' && (value.includes(':') || value.includes('#') || value.includes(' '))) {
+                    lines.push(`${spaces}  ${key}: "${value}"`);
+                } else if (typeof value === 'boolean') {
+                    lines.push(`${spaces}  ${key}: ${value}`);
+                } else {
+                    lines.push(`${spaces}  ${key}: ${value}`);
+                }
             }
         });
         
