@@ -21,8 +21,8 @@ Step 2: Deploying new version...
 
 Cloudflare collects anonymous telemetry about your usage of Wrangler. Learn more at https://github.com/cloudflare/workers-sdk/tree/main/packages/wrangler/telemetry.md
 Total Upload: 145.46 KiB / gzip: 37.31 KiB
-Worker Startup Time: 10 ms
-Uploaded aegir (7.50 sec)
-Deployed aegir triggers (3.13 sec)
+Worker Startup Time: 8 ms
+Uploaded aegir (8.16 sec)
+Deployed aegir triggers (2.86 sec)
   https://aegir.katahiranaruse-daydream.workers.dev
-Current Version ID: bfb24532-d056-4be7-b6b0-a55c97708d88
+Current Version ID: d52b0e98-2e11-49f4-aedf-9fbd23b7c36f
