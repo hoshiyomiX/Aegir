@@ -737,8 +737,14 @@ function populateProxies(countryCode) {
     
     proxies.forEach((proxy) => {
         const option = document.createElement('option');
-        option.value = proxy;
-        option.textContent = proxy;
+        // Handle both old format (string) and new format (object)
+        if (typeof proxy === 'object') {
+            option.value = proxy.value || `${proxy.ip}:${proxy.port}`;
+            option.textContent = `${proxy.org} (${proxy.ip}:${proxy.port})`;
+        } else {
+            option.value = proxy;
+            option.textContent = proxy;
+        }
         proxySelect.appendChild(option);
     });
 }
