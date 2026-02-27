@@ -20,7 +20,7 @@ import {
 import { formatStats } from './core/diagnostics.js';
 import { websocketHandler } from './handlers/websocket.js';
 import { getKVPrxList, getPrxListPaginated } from './services/proxyProvider.js';
-import { generateConfigsStream, createStreamingResponse } from './services/configGenerator.js';
+import { generateConfigsStream, createStreamingResponse, generateClashYAML } from './services/configGenerator.js';
 import { reverseWeb } from './services/httpReverse.js';
 import { prewarmDNS, cleanupDNSCache } from './services/dns.js';
 
@@ -356,6 +356,7 @@ export default {
               const filterPort = url.searchParams.get("port")?.split(",").map(p => parseInt(p)).filter(p => p > 0 && p < 65536) || PORTS;
               const filterVPN = url.searchParams.get("vpn")?.split(",").filter(Boolean) || PROTOCOLS;
               const filterLimit = Math.min(Math.max(1, parseInt(url.searchParams.get("limit")) || MAX_CONFIGS_PER_REQUEST), MAX_CONFIGS_PER_REQUEST);
+              const outputFormat = url.searchParams.get("format") || "raw";  // raw or clash
               
               const fillerDomain = url.searchParams.get("domain") || appDomain;
               const customSNI = url.searchParams.get("sni") || appDomain;
@@ -369,7 +370,7 @@ export default {
               
               const responseHeaders = {
                 ...CORS_HEADER_OPTIONS,
-                "Content-Type": "text/plain; charset=utf-8",
+                "Content-Type": outputFormat === "clash" ? "text/yaml; charset=utf-8" : "text/plain; charset=utf-8",
                 "X-Pagination-Offset": offset.toString(),
                 "X-Pagination-Limit": filterLimit.toString(),
                 "X-Pagination-Total": pagination.total.toString(),
@@ -392,9 +393,20 @@ export default {
               
               addCacheHeaders(responseHeaders, 3600, 1800);
 
-              // Always return raw URI format - conversion done client-side
-              const configStream = generateConfigsStream(prxList, filterPort, filterVPN, filterLimit, fillerDomain, uuid, ssUsername, wsHost, customSNI, serviceName);
-              return createStreamingResponse(configStream, responseHeaders, "raw");
+              // Handle different output formats
+              if (outputFormat === "clash") {
+                // Generate Clash YAML format
+                const configs = [];
+                for await (const config of generateConfigsStream(prxList, filterPort, filterVPN, filterLimit, fillerDomain, uuid, ssUsername, wsHost, customSNI, serviceName)) {
+                  configs.push(config);
+                }
+                const clashYAML = generateClashYAML(configs, serviceName);
+                return new Response(clashYAML, { headers: responseHeaders });
+              } else {
+                // Default: raw URI format
+                const configStream = generateConfigsStream(prxList, filterPort, filterVPN, filterLimit, fillerDomain, uuid, ssUsername, wsHost, customSNI, serviceName);
+                return createStreamingResponse(configStream, responseHeaders, "raw");
+              }
             });
           });
           
