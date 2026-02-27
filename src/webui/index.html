@@ -148,14 +148,38 @@
         <section class="result-card" id="result-section" style="display: none;">
             <div class="result-header">
                 <h3>Generated Config</h3>
-                <button id="copy-btn" class="btn-icon" title="Copy to clipboard">
-                    <span class="material-icons-round">content_copy</span>
-                </button>
+                <div class="result-actions">
+                    <button id="copy-url-btn" class="btn-icon" title="Copy subscription URL" style="display: none;">
+                        <span class="material-icons-round">link</span>
+                    </button>
+                    <button id="qr-btn" class="btn-icon" title="Show QR Code">
+                        <span class="material-icons-round">qr_code</span>
+                    </button>
+                    <button id="copy-btn" class="btn-icon" title="Copy to clipboard">
+                        <span class="material-icons-round">content_copy</span>
+                    </button>
+                </div>
             </div>
             <div class="result-content">
                 <textarea id="config-output" readonly></textarea>
             </div>
         </section>
+        
+        <!-- QR Code Modal -->
+        <div id="qr-modal" class="qr-modal" style="display: none;">
+            <div class="qr-modal-content">
+                <div class="qr-modal-header">
+                    <h3>QR Code</h3>
+                    <button id="qr-close-btn" class="btn-icon" title="Close">
+                        <span class="material-icons-round">close</span>
+                    </button>
+                </div>
+                <div class="qr-modal-body">
+                    <canvas id="qr-canvas"></canvas>
+                    <p id="qr-hint">Scan to import config</p>
+                </div>
+            </div>
+        </div>
 
         <!-- Footer -->
         <footer class="footer">

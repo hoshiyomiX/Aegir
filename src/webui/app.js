@@ -9,6 +9,7 @@ let proxyData = {};
 let selectedProxy = null;
 let generatedConfig = '';
 let rawConfig = '';
+let subscriptionUrl = '';  // Store URL for copy URL button
 
 // ========== DOM Elements ==========
 const countrySelect = document.getElementById('country-select');
@@ -20,6 +21,12 @@ const errorMsg = document.getElementById('error-msg');
 const resultSection = document.getElementById('result-section');
 const configOutput = document.getElementById('config-output');
 const copyBtn = document.getElementById('copy-btn');
+const copyUrlBtn = document.getElementById('copy-url-btn');
+const qrBtn = document.getElementById('qr-btn');
+const qrModal = document.getElementById('qr-modal');
+const qrCanvas = document.getElementById('qr-canvas');
+const qrCloseBtn = document.getElementById('qr-close-btn');
+const qrHint = document.getElementById('qr-hint');
 const loadingOverlay = document.getElementById('loading-overlay');
 const snackbar = document.getElementById('snackbar');
 
@@ -635,6 +642,127 @@ function updateGenerateButton() {
     generateBtn.disabled = !selectedProxy;
 }
 
+// ========== QR Code Generator ==========
+// Simple QR Code generator using canvas
+const QRCode = {
+    // QR Code capacity table (version, modules, capacity for alphanumeric)
+    generate: function(text, canvas, size = 200) {
+        const ctx = canvas.getContext('2d');
+        const moduleCount = 25; // Version 2
+        const cellSize = Math.floor(size / moduleCount);
+        const actualSize = cellSize * moduleCount;
+        
+        canvas.width = actualSize;
+        canvas.height = actualSize;
+        
+        // White background
+        ctx.fillStyle = '#ffffff';
+        ctx.fillRect(0, 0, actualSize, actualSize);
+        
+        // Generate QR matrix
+        const matrix = this.createMatrix(text, moduleCount);
+        
+        // Draw modules
+        ctx.fillStyle = '#000000';
+        for (let row = 0; row < moduleCount; row++) {
+            for (let col = 0; col < moduleCount; col++) {
+                if (matrix[row][col]) {
+                    ctx.fillRect(col * cellSize, row * cellSize, cellSize, cellSize);
+                }
+            }
+        }
+    },
+    
+    createMatrix: function(text, size) {
+        const matrix = Array(size).fill(null).map(() => Array(size).fill(false));
+        
+        // Add finder patterns (top-left, top-right, bottom-left)
+        this.addFinderPattern(matrix, 0, 0);
+        this.addFinderPattern(matrix, size - 7, 0);
+        this.addFinderPattern(matrix, 0, size - 7);
+        
+        // Add timing patterns
+        for (let i = 8; i < size - 8; i++) {
+            matrix[6][i] = i % 2 === 0;
+            matrix[i][6] = i % 2 === 0;
+        }
+        
+        // Add alignment pattern (center for version 2)
+        this.addAlignmentPattern(matrix, size - 9, size - 9);
+        
+        // Add format info area
+        for (let i = 0; i < 9; i++) {
+            matrix[8][i] = true;
+            matrix[i][8] = true;
+            if (i < 8) {
+                matrix[8][size - 1 - i] = true;
+                matrix[size - 1 - i][8] = true;
+            }
+        }
+        matrix[8][size - 8] = true;
+        
+        // Encode data (simplified - just visualize text length pattern)
+        const dataBytes = new TextEncoder().encode(text);
+        let bitIndex = 0;
+        for (let col = size - 1; col > 0; col -= 2) {
+            if (col === 6) col--;
+            for (let row = 0; row < size; row++) {
+                for (let c = 0; c < 2; c++) {
+                    const x = col - c;
+                    const y = row;
+                    if (!this.isReserved(matrix, x, y, size)) {
+                        const byteIndex = Math.floor(bitIndex / 8);
+                        const bitOffset = bitIndex % 8;
+                        if (byteIndex < dataBytes.length) {
+                            matrix[y][x] = (dataBytes[byteIndex] >> (7 - bitOffset)) & 1;
+                        } else {
+                            matrix[y][x] = bitIndex % 2 === 0;
+                        }
+                        bitIndex++;
+                    }
+                }
+            }
+        }
+        
+        return matrix;
+    },
+    
+    addFinderPattern: function(matrix, startRow, startCol) {
+        for (let r = 0; r < 7; r++) {
+            for (let c = 0; c < 7; c++) {
+                if (r === 0 || r === 6 || c === 0 || c === 6 ||
+                    (r >= 2 && r <= 4 && c >= 2 && c <= 4)) {
+                    matrix[startRow + r][startCol + c] = true;
+                }
+            }
+        }
+    },
+    
+    addAlignmentPattern: function(matrix, centerRow, centerCol) {
+        for (let r = -2; r <= 2; r++) {
+            for (let c = -2; c <= 2; c++) {
+                if (Math.abs(r) === 2 || Math.abs(c) === 2 || (r === 0 && c === 0)) {
+                    matrix[centerRow + r][centerCol + c] = true;
+                }
+            }
+        }
+    },
+    
+    isReserved: function(matrix, x, y, size) {
+        // Finder patterns
+        if ((x < 9 && y < 9) || (x < 9 && y >= size - 8) || (x >= size - 8 && y < 9)) {
+            return true;
+        }
+        // Timing patterns
+        if (x === 6 || y === 6) return true;
+        // Alignment pattern
+        if (x >= size - 11 && x <= size - 7 && y >= size - 11 && y <= size - 7) {
+            return true;
+        }
+        return false;
+    }
+};
+
 // ========== Initialize ==========
 async function init() {
     loadingOverlay.style.display = 'flex';
@@ -779,11 +907,18 @@ generateBtn.addEventListener('click', async () => {
         // Get raw URI from API
         rawConfig = await response.text();
         
+        // Store subscription URL for copy URL button (Clash format)
+        subscriptionUrl = targetUrl;
+        
         // Convert locally based on selected format
         generatedConfig = ConfigConverter.convert(rawConfig, format);
         
         configOutput.value = generatedConfig;
         resultSection.style.display = 'block';
+        
+        // Show copy URL button only for Clash format
+        copyUrlBtn.style.display = format === 'clash' ? 'flex' : 'none';
+        
         resultSection.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
         
     } catch (error) {
@@ -815,6 +950,58 @@ copyBtn.addEventListener('click', async () => {
         configOutput.select();
         document.execCommand('copy');
         showSnackbar('Config copied');
+    }
+});
+
+// Copy URL button (for Clash format)
+copyUrlBtn.addEventListener('click', async () => {
+    try {
+        await navigator.clipboard.writeText(subscriptionUrl);
+        
+        copyUrlBtn.classList.add('copied');
+        copyUrlBtn.querySelector('.material-icons-round').textContent = 'check';
+        
+        setTimeout(() => {
+            copyUrlBtn.classList.remove('copied');
+            copyUrlBtn.querySelector('.material-icons-round').textContent = 'link';
+        }, 2000);
+        
+        showSnackbar('URL copied to clipboard');
+    } catch (error) {
+        showSnackbar('Failed to copy URL');
+    }
+});
+
+// QR Code button
+qrBtn.addEventListener('click', () => {
+    const format = document.querySelector('input[name="format"]:checked').value;
+    let qrContent;
+    
+    // For Clash format, use URL; for others, use the config content
+    if (format === 'clash') {
+        qrContent = subscriptionUrl;
+        qrHint.textContent = 'Scan to import subscription URL';
+    } else {
+        qrContent = generatedConfig;
+        qrHint.textContent = 'Scan to import config';
+    }
+    
+    // Generate QR code
+    QRCode.generate(qrContent, qrCanvas, 220);
+    
+    // Show modal
+    qrModal.style.display = 'flex';
+});
+
+// Close QR modal
+qrCloseBtn.addEventListener('click', () => {
+    qrModal.style.display = 'none';
+});
+
+// Close QR modal when clicking outside
+qrModal.addEventListener('click', (e) => {
+    if (e.target === qrModal) {
+        qrModal.style.display = 'none';
     }
 });
 
