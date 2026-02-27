@@ -4,7 +4,7 @@ import { PROTOCOL_HORSE, PROTOCOL_FLASH, PROTOCOL_V2 } from '../config/constants
 
 // OPTIMIZATION 11: Streaming response generator
 // OPTIMIZATION 19: Use String Interpolation instead of URL objects for massive perf gain
-export async function* generateConfigsStream(prxList, filterPort, filterVPN, filterLimit, fillerDomain, uuid, ssUsername, appDomain, serviceName) {
+export async function* generateConfigsStream(prxList, filterPort, filterVPN, filterLimit, fillerDomain, uuid, ssUsername, wsHost, sni, serviceName) {
   let configCount = 0;
   
   // REMOVED LOGGING to prevent CPU time limit issues
@@ -54,19 +54,19 @@ export async function* generateConfigsStream(prxList, filterPort, filterVPN, fil
         if (protocol === "ss") {
           // Shadowsocks URL format: ss://base64(method:password)@server:port?plugin=...#name
           const pluginParam = encodeURIComponent(
-            `${PROTOCOL_V2}-plugin${isTLS ? ";tls" : ""};mux=0;mode=websocket;path=${proxyPath};host=${appDomain}`
+            `${PROTOCOL_V2}-plugin${isTLS ? ";tls" : ""};mux=0;mode=websocket;path=${proxyPath};host=${wsHost}`
           );
           configStr = `${protocol}://${ssUsername}@${fillerDomain}:${port}?plugin=${pluginParam}#${hashName}`;
         } else {
           // Standard V2Ray/Trojan/Vmess URL format
           // protocol://uuid@host:port?params#name
           
-          let params = `security=${security}&type=ws&host=${appDomain}&path=${encodedProxyPath}&encryption=none`;
+          let params = `security=${security}&type=ws&host=${wsHost}&path=${encodedProxyPath}&encryption=none`;
           
-          // SNI handling
-          const sni = (port === 80 && protocol === PROTOCOL_FLASH) ? "" : appDomain;
-          if (sni) {
-            params += `&sni=${sni}`;
+          // SNI handling - use separate sni parameter
+          const finalSNI = (port === 80 && protocol === PROTOCOL_FLASH) ? "" : sni;
+          if (finalSNI) {
+            params += `&sni=${finalSNI}`;
           }
 
           configStr = `${protocol}://${uuid}@${fillerDomain}:${port}?${params}#${hashName}`;

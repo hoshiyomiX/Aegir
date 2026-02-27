@@ -172,10 +172,10 @@ const ConfigConverter = {
                 if (config.sni) proxy.sni = config.sni;
                 if (config.flow) proxy.flow = config.flow;
                 if (config.type === 'ws') {
-                    // Host header harus = server (Worker hostname), bukan bug host
+                    // Use host from URI (Worker hostname) for WebSocket Host header
                     proxy['ws-opts'] = {
                         path: decodeURIComponent(config.path),
-                        headers: { Host: config.server }
+                        headers: { Host: config.host || config.server }
                     };
                 }
                 if (proxy.tls) {
@@ -193,7 +193,7 @@ const ConfigConverter = {
                 if (config.type === 'ws') {
                     proxy['ws-opts'] = {
                         path: decodeURIComponent(config.path),
-                        headers: { Host: config.server }
+                        headers: { Host: config.host || config.server }
                     };
                 }
                 if (proxy.tls) {
@@ -209,7 +209,7 @@ const ConfigConverter = {
                 if (config.type === 'ws') {
                     proxy['ws-opts'] = {
                         path: decodeURIComponent(config.path),
-                        headers: { Host: config.server }
+                        headers: { Host: config.host || config.server }
                     };
                 }
                 proxy.udp = true;
@@ -698,25 +698,31 @@ generateBtn.addEventListener('click', async () => {
         const workerHost = window.location.hostname;
         
         // Determine domain and SNI based on reverse SNI option
-        let domain, sni;
+        // Normal: domain=bug, sni=bug, host=bug
+        // Reverse: domain=bug, sni=worker, host=worker
+        let domain, sni, host;
         if (reverseSni && bugHost) {
-            // Reverse: Bug Host becomes SNI, Worker becomes domain
-            domain = workerHost;
-            sni = bugHost;
+            // Reverse SNI: Server connects to bug host, but TLS shows worker hostname
+            domain = bugHost;      // server = bug host
+            sni = workerHost;      // TLS SNI = worker hostname
+            host = workerHost;     // Host header = worker hostname
         } else if (bugHost) {
-            // Normal: Bug Host as both domain and SNI
+            // Normal: Bug Host as server, SNI, and Host header
             domain = bugHost;
             sni = bugHost;
+            host = bugHost;
         } else {
-            // Default: Worker host for both
+            // Default: Worker host for everything
             domain = workerHost;
             sni = workerHost;
+            host = workerHost;
         }
         
         // Always fetch raw URI from API
         const params = new URLSearchParams();
         params.append('domain', domain);
         params.append('sni', sni);
+        params.append('host', host);  // Add host parameter for ws header
         params.append('limit', '1');
         params.append('vpn', protocol);
         params.append('port', port);
