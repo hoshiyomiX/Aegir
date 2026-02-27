@@ -169,13 +169,16 @@ const ConfigConverter = {
                 proxy.uuid = config.uuid;
                 proxy.network = config.type;
                 proxy.tls = config.security === 'tls';
-                if (config.sni) proxy.servername = config.sni;
+                if (config.sni) proxy.sni = config.sni;
                 if (config.flow) proxy.flow = config.flow;
                 if (config.type === 'ws') {
                     proxy['ws-opts'] = {
                         path: decodeURIComponent(config.path),
-                        headers: { Host: config.host }
+                        headers: { Host: config.host || config.server }
                     };
+                }
+                if (proxy.tls) {
+                    proxy['skip-cert-verify'] = true;
                 }
                 proxy.udp = true;
                 proxy['client-fingerprint'] = 'chrome';
@@ -185,12 +188,15 @@ const ConfigConverter = {
                 proxy.cipher = 'auto';
                 proxy.network = config.type;
                 proxy.tls = config.security === 'tls';
-                if (config.sni) proxy.servername = config.sni;
+                if (config.sni) proxy.sni = config.sni;
                 if (config.type === 'ws') {
                     proxy['ws-opts'] = {
                         path: decodeURIComponent(config.path),
-                        headers: { Host: config.host }
+                        headers: { Host: config.host || config.server }
                     };
+                }
+                if (proxy.tls) {
+                    proxy['skip-cert-verify'] = true;
                 }
                 proxy.udp = true;
             } else if (config.protocol === 'trojan') {
@@ -198,11 +204,11 @@ const ConfigConverter = {
                 proxy.network = config.type || 'tcp';
                 proxy.tls = config.security === 'tls' || true;
                 if (config.sni) proxy.sni = config.sni;
-                proxy['skip-cert-verify'] = false;
+                proxy['skip-cert-verify'] = true;
                 if (config.type === 'ws') {
                     proxy['ws-opts'] = {
                         path: decodeURIComponent(config.path),
-                        headers: { Host: config.host }
+                        headers: { Host: config.host || config.server }
                     };
                 }
                 proxy.udp = true;
@@ -236,7 +242,7 @@ const ConfigConverter = {
         lines.push('allow-lan: true');
         lines.push('bind-address: "*"');
         lines.push('mode: rule');
-        lines.push('log-level: silent');
+        lines.push('log-level: info');
         lines.push('ipv6: false');
         lines.push('external-controller: 127.0.0.1:9090');
         lines.push('');
