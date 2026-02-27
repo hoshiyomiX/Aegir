@@ -1,7 +1,7 @@
 === START CLEAN DEPLOY ===
 Step 0: Installing Dependencies...
 
-added 85 packages, and audited 86 packages in 2s
+added 85 packages, and audited 86 packages in 3s
 
 22 packages are looking for funding
   run `npm fund` for details
@@ -20,9 +20,9 @@ Step 2: Deploying new version...
 ───────────────────
 
 Cloudflare collects anonymous telemetry about your usage of Wrangler. Learn more at https://github.com/cloudflare/workers-sdk/tree/main/packages/wrangler/telemetry.md
-Total Upload: 110.05 KiB / gzip: 28.16 KiB
+Total Upload: 110.21 KiB / gzip: 28.20 KiB
 Worker Startup Time: 5 ms
-Uploaded aegir (6.76 sec)
-Deployed aegir triggers (1.27 sec)
+Uploaded aegir (3.30 sec)
+Deployed aegir triggers (1.16 sec)
   https://aegir.katahiranaruse-daydream.workers.dev
-Current Version ID: 966db62d-d87e-4928-8a7f-d5bf5ed70872
+Current Version ID: ccc990ce-2225-4f18-9300-49162656ff52
