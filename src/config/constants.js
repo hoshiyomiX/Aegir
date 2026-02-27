@@ -78,7 +78,6 @@ export const RELAY_SERVER_UDP = {
   port: 7300,
 };
 export const PRX_HEALTH_CHECK_API = "https://id1.foolvpn.web.id/api/v1/check";
-export const CONVERTER_URL = "https://api.foolvpn.web.id/convert";
 
 export const WS_READY_STATE_OPEN = 1;
 export const WS_READY_STATE_CLOSING = 2;
