@@ -1,35 +1,26 @@
 /**
  * Aegir WebUI JavaScript v3.0
- * ===========================
- * Complete rewrite with new features:
- * - Proxy selection from API
- * - Protocol options (Trojan, VMess, SS)
- * - Bug inject support
- * - Copy to clipboard
+ * Material Design 3 Implementation
  */
 
 // ========== State ==========
 let proxyData = {};
 let selectedProxy = null;
 let generatedConfig = '';
-let generatedUrl = '';
 
 // ========== DOM Elements ==========
 const countrySelect = document.getElementById('country-select');
 const proxySelect = document.getElementById('proxy-select');
-const proxyInfo = document.getElementById('proxy-info');
-const proxyBadge = document.getElementById('proxy-badge');
 const bugHostInput = document.getElementById('bug-host');
 const generateBtn = document.getElementById('generate-btn');
 const errorMsg = document.getElementById('error-msg');
 const resultSection = document.getElementById('result-section');
 const configOutput = document.getElementById('config-output');
 const copyBtn = document.getElementById('copy-btn');
-const openBtn = document.getElementById('open-btn');
 const loadingOverlay = document.getElementById('loading-overlay');
-const toast = document.getElementById('toast');
+const snackbar = document.getElementById('snackbar');
 
-// ========== Country Code to Flag Emoji ==========
+// ========== Country Flags ==========
 const countryFlags = {
     'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮',
     'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷',
@@ -84,10 +75,10 @@ const countryFlags = {
 };
 
 // ========== Utility Functions ==========
-function showToast(message) {
-    toast.textContent = message;
-    toast.classList.add('show');
-    setTimeout(() => toast.classList.remove('show'), 2500);
+function showSnackbar(message) {
+    snackbar.textContent = message;
+    snackbar.classList.add('show');
+    setTimeout(() => snackbar.classList.remove('show'), 3000);
 }
 
 function showError(message) {
@@ -134,7 +125,7 @@ function populateCountries() {
         const count = proxyData[code].length;
         const option = document.createElement('option');
         option.value = code;
-        option.textContent = `${flag} ${code} (${count} proxies)`;
+        option.textContent = `${flag} ${code} (${count})`;
         countrySelect.appendChild(option);
     });
 }
@@ -142,23 +133,20 @@ function populateCountries() {
 function populateProxies(countryCode) {
     const proxies = proxyData[countryCode] || [];
     
-    proxySelect.innerHTML = '<option value="">-- Select Proxy --</option>';
+    proxySelect.innerHTML = '<option value="">-- Select Server --</option>';
     proxySelect.disabled = proxies.length === 0;
     
-    proxies.forEach((proxy, index) => {
+    proxies.forEach((proxy) => {
         const option = document.createElement('option');
         option.value = proxy;
         option.textContent = proxy;
         proxySelect.appendChild(option);
     });
-    
-    proxyInfo.style.display = 'none';
 }
 
 // ========== Event Handlers ==========
 countrySelect.addEventListener('change', (e) => {
     selectedProxy = null;
-    proxyInfo.style.display = 'none';
     updateGenerateButton();
     
     if (e.target.value) {
@@ -172,17 +160,9 @@ countrySelect.addEventListener('change', (e) => {
 proxySelect.addEventListener('change', (e) => {
     if (e.target.value) {
         selectedProxy = e.target.value;
-        
-        // Show proxy info badge
-        const flag = countryFlags[countrySelect.value] || '🏳️';
-        proxyBadge.textContent = `${flag} ${selectedProxy}`;
-        proxyInfo.style.display = 'block';
-        
-        // Set bug host placeholder to current host
         bugHostInput.placeholder = window.location.hostname;
     } else {
         selectedProxy = null;
-        proxyInfo.style.display = 'none';
     }
     
     updateGenerateButton();
@@ -191,11 +171,11 @@ proxySelect.addEventListener('change', (e) => {
 
 generateBtn.addEventListener('click', async () => {
     if (!selectedProxy) {
-        showError('Please select a proxy first');
+        showError('Please select a proxy server');
         return;
     }
     
-    const btnText = generateBtn.querySelector('.btn-text');
+    const btnText = generateBtn.querySelector('span:last-child');
     const originalText = btnText.textContent;
     
     generateBtn.disabled = true;
@@ -207,7 +187,6 @@ generateBtn.addEventListener('click', async () => {
         const port = document.querySelector('input[name="port"]:checked').value;
         const bugHost = bugHostInput.value.trim() || window.location.hostname;
         
-        // Build API URL
         const params = new URLSearchParams();
         params.append('domain', bugHost);
         params.append('sni', bugHost);
@@ -215,10 +194,8 @@ generateBtn.addEventListener('click', async () => {
         params.append('vpn', protocol);
         params.append('port', port);
         
-        // Use the proxy as prx-list parameter (single proxy mode)
         const targetUrl = `${window.location.origin}/api/v1/sub?${params.toString()}`;
         
-        // Fetch config
         const controller = new AbortController();
         const timeoutId = setTimeout(() => controller.abort(), 15000);
         
@@ -230,13 +207,9 @@ generateBtn.addEventListener('click', async () => {
         }
         
         generatedConfig = await response.text();
-        generatedUrl = targetUrl;
         
-        // Show result
         configOutput.value = generatedConfig;
         resultSection.style.display = 'block';
-        
-        // Scroll to result
         resultSection.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
         
     } catch (error) {
@@ -256,32 +229,23 @@ copyBtn.addEventListener('click', async () => {
         await navigator.clipboard.writeText(configOutput.value);
         
         copyBtn.classList.add('copied');
-        copyBtn.querySelector('.btn-icon').textContent = '✓';
+        copyBtn.querySelector('.material-icons-round').textContent = 'check';
         
         setTimeout(() => {
             copyBtn.classList.remove('copied');
-            copyBtn.querySelector('.btn-icon').textContent = '📋';
+            copyBtn.querySelector('.material-icons-round').textContent = 'content_copy';
         }, 2000);
         
-        showToast('Config copied to clipboard!');
+        showSnackbar('Config copied to clipboard');
     } catch (error) {
-        // Fallback for older browsers
         configOutput.select();
         document.execCommand('copy');
-        showToast('Config copied!');
+        showSnackbar('Config copied');
     }
 });
 
-openBtn.addEventListener('click', () => {
-    if (generatedUrl) {
-        window.open(generatedUrl, '_blank');
-    }
-});
-
-// Select all text when clicking on textarea
 configOutput.addEventListener('click', function() {
     this.select();
 });
 
-// Initialize on page load
 document.addEventListener('DOMContentLoaded', init);

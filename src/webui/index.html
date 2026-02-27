@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aegir Config Generator v3.0</title>
     <meta name="description" content="Generate proxy configs with ease">
-    <!-- CSS will be inlined here during build -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round" rel="stylesheet">
     <style>{{CSS}}</style>
 </head>
 <body>
@@ -13,7 +14,7 @@
         <!-- Header -->
         <header class="header">
             <div class="logo">
-                <span class="logo-icon">🌊</span>
+                <span class="material-icons-round logo-icon">waves</span>
                 <h1>Aegir</h1>
             </div>
             <span class="version">v3.0</span>
@@ -21,105 +22,89 @@
 
         <!-- Main Card -->
         <main class="card">
-            <!-- Step 1: Select Proxy -->
-            <section class="step" id="step1">
-                <div class="step-header">
-                    <span class="step-number">1</span>
-                    <h2>Select Proxy Server</h2>
-                </div>
+            <!-- Proxy Selection -->
+            <section class="section">
+                <h2 class="section-title">Proxy Server</h2>
                 
                 <div class="form-group">
-                    <label for="country-select">Country</label>
+                    <label class="form-label" for="country-select">Country</label>
                     <div class="select-wrapper">
-                        <select id="country-select">
+                        <select id="country-select" class="form-select">
                             <option value="">-- Loading countries... --</option>
                         </select>
-                        <span class="select-arrow">▼</span>
+                        <span class="material-icons-round select-icon">expand_more</span>
                     </div>
                 </div>
 
                 <div class="form-group">
-                    <label for="proxy-select">Proxy Server</label>
+                    <label class="form-label" for="proxy-select">Server</label>
                     <div class="select-wrapper">
-                        <select id="proxy-select" disabled>
+                        <select id="proxy-select" class="form-select" disabled>
                             <option value="">-- Select country first --</option>
                         </select>
-                        <span class="select-arrow">▼</span>
-                    </div>
-                    <div class="proxy-info" id="proxy-info" style="display: none;">
-                        <span class="proxy-badge" id="proxy-badge"></span>
+                        <span class="material-icons-round select-icon">expand_more</span>
                     </div>
                 </div>
             </section>
 
-            <!-- Step 2: Config Options -->
-            <section class="step" id="step2">
-                <div class="step-header">
-                    <span class="step-number">2</span>
-                    <h2>Config Options</h2>
-                </div>
+            <!-- Config Options -->
+            <section class="section">
+                <h2 class="section-title">Config Options</h2>
 
                 <div class="form-group">
-                    <label>Protocol</label>
-                    <div class="radio-group">
-                        <label class="radio-item">
+                    <label class="form-label">Protocol</label>
+                    <div class="chip-group">
+                        <label class="chip">
                             <input type="radio" name="protocol" value="vless" checked>
-                            <span class="radio-custom"></span>
-                            <span class="radio-label">VLESS</span>
+                            <span class="chip-text">VLESS</span>
                         </label>
-                        <label class="radio-item">
+                        <label class="chip">
                             <input type="radio" name="protocol" value="trojan">
-                            <span class="radio-custom"></span>
-                            <span class="radio-label">Trojan</span>
+                            <span class="chip-text">Trojan</span>
                         </label>
-                        <label class="radio-item">
+                        <label class="chip">
                             <input type="radio" name="protocol" value="vmess">
-                            <span class="radio-custom"></span>
-                            <span class="radio-label">VMess</span>
+                            <span class="chip-text">VMess</span>
                         </label>
-                        <label class="radio-item">
+                        <label class="chip">
                             <input type="radio" name="protocol" value="ss">
-                            <span class="radio-custom"></span>
-                            <span class="radio-label">SS</span>
+                            <span class="chip-text">SS</span>
                         </label>
                     </div>
                 </div>
 
                 <div class="form-group">
-                    <label>Port</label>
-                    <div class="radio-group">
-                        <label class="radio-item">
+                    <label class="form-label">Port</label>
+                    <div class="chip-group">
+                        <label class="chip">
                             <input type="radio" name="port" value="443" checked>
-                            <span class="radio-custom"></span>
-                            <span class="radio-label">443 (TLS)</span>
+                            <span class="chip-text">443 (TLS)</span>
                         </label>
-                        <label class="radio-item">
+                        <label class="chip">
                             <input type="radio" name="port" value="80">
-                            <span class="radio-custom"></span>
-                            <span class="radio-label">80 (Non-TLS)</span>
+                            <span class="chip-text">80 (Non-TLS)</span>
                         </label>
                     </div>
                 </div>
             </section>
 
-            <!-- Step 3: Bug Inject -->
-            <section class="step" id="step3">
-                <div class="step-header">
-                    <span class="step-number">3</span>
-                    <h2>Bug Inject (Optional)</h2>
-                </div>
+            <!-- Bug Inject -->
+            <section class="section">
+                <h2 class="section-title">Bug Inject</h2>
 
                 <div class="form-group">
-                    <label for="bug-host">Bug Host / SNI</label>
-                    <input type="text" id="bug-host" placeholder="e.g., cdn.example.com or leave empty">
-                    <p class="hint">Leave empty to use Worker hostname</p>
+                    <label class="form-label" for="bug-host">Bug Host / SNI (Optional)</label>
+                    <div class="input-wrapper">
+                        <span class="material-icons-round input-icon">dns</span>
+                        <input type="text" id="bug-host" class="form-input" placeholder="Leave empty to use Worker host">
+                    </div>
                 </div>
             </section>
 
             <!-- Generate Button -->
-            <button id="generate-btn" class="generate-btn" disabled>
-                <span class="btn-icon">⚡</span>
-                <span class="btn-text">Generate Config</span>
+            <button id="generate-btn" class="btn-primary" disabled>
+                <span class="material-icons-round">bolt</span>
+                <span>Generate Config</span>
             </button>
 
             <!-- Error Message -->
@@ -130,16 +115,9 @@
         <section class="result-card" id="result-section" style="display: none;">
             <div class="result-header">
                 <h3>Generated Config</h3>
-                <div class="result-actions">
-                    <button id="copy-btn" class="action-btn copy-btn">
-                        <span class="btn-icon">📋</span>
-                        Copy
-                    </button>
-                    <button id="open-btn" class="action-btn open-btn">
-                        <span class="btn-icon">🔗</span>
-                        Open URL
-                    </button>
-                </div>
+                <button id="copy-btn" class="btn-icon" title="Copy to clipboard">
+                    <span class="material-icons-round">content_copy</span>
+                </button>
             </div>
             <div class="result-content">
                 <textarea id="config-output" readonly></textarea>
@@ -148,18 +126,18 @@
 
         <!-- Footer -->
         <footer class="footer">
-            <p>Made with 💙 by Aegir Team</p>
+            <p>Powered by Aegir</p>
         </footer>
     </div>
 
     <!-- Loading Overlay -->
     <div id="loading-overlay" class="loading-overlay" style="display: none;">
-        <div class="spinner"></div>
+        <div class="loading-spinner"></div>
         <p>Loading proxies...</p>
     </div>
 
-    <!-- Toast Notification -->
-    <div id="toast" class="toast"></div>
+    <!-- Snackbar -->
+    <div id="snackbar" class="snackbar"></div>
 
     <!-- JavaScript will be inlined here during build -->
     <script>{{JS}}</script>
