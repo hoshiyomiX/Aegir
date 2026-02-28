@@ -1,104 +1,66 @@
-81.177.48.54,2080,RU,JSC RTComm.RU
-109.232.106.150,52435,RU,Thyphone Communications LLC
-37.27.100.112,443,FI,Hetzner Online GmbH
-34.7.88.87,3128,NL,Google LLC
-212.34.135.86,5000,NL,Servers Tech Fzco
-5.255.99.75,1080,NL,The Infrastructure Group B.V.
-31.59.129.75,1080,NL,Wojciech Czapkowicz
-37.27.100.79,443,FI,Hetzner Online GmbH
-46.105.189.70,1090,FR,OVH SAS
-173.249.5.133,1080,FR,Contabo GmbH
-193.233.254.57,1080,DE,WAIcore Ltd
-81.177.48.54,2080,RU,JSC RTComm.RU
-78.63.115.20,8899,LT,Telia Lietuva  AB
+95.43.244.15,4153,BG,Vivacom Bulgaria EAD
+193.124.225.175,1080,FI,Hostkey B.v.
 148.251.88.242,1080,DE,Hetzner Online GmbH
-188.93.64.242,4153,RU,Timer  LLC
-173.249.3.59,1080,FR,Contabo GmbH
-3.213.157.4,3128,US,Amazon.com  Inc.
-185.155.19.77,10808,FI,Aeza International Ltd
-93.123.98.80,5678,BG,SKAT TV Ltd.
-198.199.86.11,3128,US,DigitalOcean  LLC
-185.65.202.186,1080,DE,Baykov Ilya Sergeevich
+65.108.203.36,18080,NO,HERN Labs AB
 205.209.118.30,3138,US,Interserver  Inc
-69.164.245.247,1080,US,Interserver  Inc
-81.177.48.54,2080,RU,JSC RTComm.RU
-35.225.22.61,80,US,Google LLC
-8.42.68.249,39593,US,Visionary Communications LLC
-20.3.145.242,50161,US,Microsoft Corporation
-62.16.33.187,1080,RU,MTS PJSC
-43.132.106.29,21080,HK,Tencent Building  Kejizhongyi Avenue
-104.238.30.40,59741,IT,AkhaliNet LLC
-185.208.74.38,1080,RU,JSC ER-Telecom Holding
-176.34.238.188,1080,IT,Wind Tre S.p.A.
-104.238.30.45,59741,IT,AkhaliNet LLC
-47.82.66.142,1080,HK,Alibaba US Technology Co.  Ltd.
-202.8.107.115,1080,HK,SAKURA LTD.
-14.143.222.113,10158,IN,TATA Communications formerly VSNL is Leading ISP
-142.171.85.32,1080,US,MULTACOM CORPORATION
-91.247.250.215,4145,RU,Ivstar Ltd
-37.27.100.79,443,FI,Hetzner Online GmbH
-203.77.239.218,50574,ID,PT. Total Info Kharisma
-20.3.145.242,50161,US,Microsoft Corporation
-86.100.63.246,4145,LT,UAB Balticum TV
-115.69.210.60,1080,BD,NReach Net Pvt. Ltd
-13.70.6.6,50161,HK,Microsoft Corporation
-37.27.100.102,443,FI,Hetzner Online GmbH
-41.223.119.156,3128,ZM,MTN Zambia
-5.255.113.177,1080,NL,The Infrastructure Group B.V.
-194.233.68.54,1088,SG,Contabo Asia Private Limited
-52.188.28.218,3128,US,Microsoft Corporation
-91.107.189.95,1080,DE,Hetzner Online GmbH
-43.139.118.27,10808,HK,NEXET LIMITED
-177.11.49.41,1088,BR,Brasil Site Informatica LTDA
-49.156.42.22,1080,KH,WiCAM Corporation Ltd.
-117.1.48.242,20038,VN,Viettel Group
-160.25.237.117,3125,ID,PT Nada Freedom Indonesia
-14.56.107.244,3128,KR,Korea Telecom
-144.31.69.170,1080,DE,u1host ltd
-62.113.119.14,8080,RU,Hosting technology LTD
-185.216.18.138,44550,RU,Mega Tec LLC
-144.31.69.170,1080,DE,u1host ltd
-72.56.50.17,59787,US,AkhaliNet LLC
-37.27.100.112,443,FI,Hetzner Online GmbH
-104.238.30.50,59741,IT,AkhaliNet LLC
-158.160.215.167,8127,RU,It Hostline Ltd
-185.176.94.75,1080,DE,StormWall s.r.o.
-47.83.199.137,58367,HK,Alibaba US Technology Co.  Ltd.
-132.145.93.138,1080,KR,Oracle Corporation
-81.12.157.98,5678,RO,Vodafone Romania S.A.
-195.158.10.99,8080,UZ,Uzbektelekom Joint Stock Company
-104.238.30.91,63900,IT,AkhaliNet LLC
-83.143.29.161,1080,BW,BOFINET
-113.168.118.213,1080,VN,VNPT Corp
-75.81.166.118,39593,US,Charter Communications Inc
-37.27.100.107,443,FI,Hetzner Online GmbH
-37.27.100.80,443,FI,Hetzner Online GmbH
-37.27.100.108,443,FI,Hetzner Online GmbH
-95.80.103.217,1080,RU,Quantum CJSC
-104.238.30.58,63744,IT,AkhaliNet LLC
-64.188.124.97,1080,US,u1host ltd
-186.148.184.18,999,CO,TV AZTECA SUCURSAL COLOMBIA
-88.216.98.200,53983,US,Windstream Communications LLC
-132.145.93.138,1080,KR,Oracle Corporation
-97.105.12.186,4153,US,Charter Communications Inc
-50.250.205.21,32100,US,Comcast Cable Communications  LLC
-37.27.100.80,443,FI,Hetzner Online GmbH
-202.146.228.249,8088,ID,PT Centrin Utama
-103.166.90.133,8090,ID,PT Regynet Data Solusindo
-121.148.239.82,3127,KR,Korea Telecom
-162.240.154.26,3128,US,Unified Layer
-5.255.117.250,1080,NL,The Infrastructure Group B.V.
+3.213.157.4,3128,US,Amazon.com  Inc.
 213.226.122.5,7788,RU,Ubilink LLC
-94.232.11.178,58028,RU,PJSC MegaFon
-116.80.64.157,7777,JP,NTT PC Communications  Inc.
-181.78.195.137,999,EC,TELECU TELECOMUNICACIONES DEL ECUADOR TELECUSA S.A.S.
-116.80.64.158,7777,JP,NTT PC Communications  Inc.
-104.238.30.37,59741,IT,AkhaliNet LLC
-72.56.59.62,63133,US,AkhaliNet LLC
-104.238.30.68,63744,IT,AkhaliNet LLC
-213.35.110.67,10855,SG,Oracle Corporation
-154.94.238.147,50161,SC,cognetcloud INC
+209.97.150.167,3128,US,DigitalOcean  LLC
+159.203.61.169,3128,CA,DigitalOcean  LLC
+173.249.5.133,1080,FR,Contabo GmbH
+173.249.3.59,1080,FR,Contabo GmbH
+43.132.106.29,21080,HK,Tencent Building  Kejizhongyi Avenue
+156.254.114.47,58367,HK,DATAWING LIMITED
+138.68.60.8,3128,US,DigitalOcean  LLC
+139.59.1.14,8080,IN,DigitalOcean  LLC
+64.227.131.240,1080,IN,DigitalOcean  LLC
+31.59.129.75,8080,NL,Wojciech Czapkowicz
+148.135.85.87,1080,US,MULTACOM CORPORATION
+222.228.171.92,8080,JP,ARTERIA Networks Corporation
+202.8.107.115,1080,HK,SAKURA LTD.
+177.11.49.41,1088,BR,Brasil Site Informatica LTDA
+91.223.52.141,5678,PL,InterWan Sp. z o.o.
+69.164.245.247,1080,US,Interserver  Inc
+109.106.196.250,4145,RU,PJSC MegaFon
+8.219.97.248,80,SG,Alibaba US Technology Co.  Ltd.
+103.166.90.177,8090,ID,PT Regynet Data Solusindo
+27.147.153.34,10888,BD,Link3 Technologies Ltd.
+101.47.73.135,3128,HK,Byteplus Pte. Ltd.
+88.210.11.250,1080,NL,Servers Tech Fzco
+103.177.60.215,1080,ID,PT Telekomunikasi Indonesia
+124.6.141.83,8082,PH,Globe Telecoms
+198.199.86.11,3128,US,DigitalOcean  LLC
+185.216.18.138,44550,RU,Mega Tec LLC
+140.116.29.163,10808,TW,Taiwan Academic Network TANet Information Center
+194.233.68.54,1088,SG,Contabo Asia Private Limited
+81.12.157.98,5678,RO,Vodafone Romania S.A.
+88.213.214.254,4145,BG,NETBOX LTD
+190.61.55.243,999,CO,UFINET PANAMA S.A.
 43.160.195.20,20005,SG,Tencent Building  Kejizhongyi Avenue
-200.174.198.32,8888,BR,CLARO S.A.
-72.56.59.56,63127,US,AkhaliNet LLC
+116.80.80.173,3172,JP,NTT PC Communications  Inc.
+116.203.139.209,5678,DE,Hetzner Online GmbH
+194.163.160.97,10808,FR,Contabo GmbH
+88.245.138.87,1080,TR,Turk Telekom
+185.162.94.28,8080,RU,Miran Ltd.
+80.78.74.56,65530,AL,Vodafone Albania Sh.A.
+103.3.246.71,3128,VN,Bach Kim Network solutions Join stock company
+102.0.13.202,8080,KE,CKL1-ASN
+187.111.144.102,8080,BR,Caezar Provedor de Internet EIRELI
+203.175.103.11,3125,ID,PT. Mitra Kita Brilian
+104.238.30.63,63744,IT,AkhaliNet LLC
+81.177.48.54,2080,RU,JSC RTComm.RU
+104.238.30.58,63744,IT,AkhaliNet LLC
+61.109.216.213,8080,KR,KAKAO Enterprise
+5.23.104.251,1080,RU,Vidikon-K  CJSC
+46.188.2.42,5678,RU,LLC SETEL
+37.27.100.79,443,FI,Hetzner Online GmbH
+90.84.188.97,8000,FR,Orange
+49.48.66.40,8080,TH,Triple T Broadband Public Company Limited
+177.243.209.133,999,MX,Mega Cable  S.A. de C.V.
+47.83.199.137,58367,HK,Alibaba US Technology Co.  Ltd.
+5.157.64.213,1080,GB,IP River Limited
+217.150.43.249,8080,RU,Rostelecom
+93.184.4.254,1080,PS,BCI Telecommunication & Advanced Technology Company
 104.238.30.38,59741,IT,AkhaliNet LLC
+104.238.30.86,63900,IT,AkhaliNet LLC
+104.238.30.40,59741,IT,AkhaliNet LLC
