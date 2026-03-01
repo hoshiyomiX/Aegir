@@ -1,98 +1,100 @@
-45.88.0.99,3128,ES,IPv4 Superhub Limited
-5.23.104.251,1080,RU,Vidikon-K  CJSC
-212.34.135.86,5000,NL,Servers Tech Fzco
-138.124.53.25,7443,DE,Aeza International Ltd
-188.191.164.55,4890,RU,Intelsc Ltd.
-185.65.202.186,1080,DE,Baykov Ilya Sergeevich
-46.105.189.70,1090,FR,OVH SAS
-5.255.99.75,1080,NL,The Infrastructure Group B.V.
-173.249.3.59,1080,FR,Contabo GmbH
-148.251.88.242,1080,DE,Hetzner Online GmbH
-209.97.150.167,3128,US,DigitalOcean  LLC
-198.199.86.11,3128,US,DigitalOcean  LLC
-213.165.58.6,1080,DE,WAIcore Ltd
-205.209.118.30,3138,US,Interserver  Inc
-173.249.5.133,1080,FR,Contabo GmbH
-69.164.245.247,1080,US,Interserver  Inc
-159.203.61.169,3128,CA,DigitalOcean  LLC
-49.0.156.20,32000,MN,YOKOZUNANET LLC
-88.210.11.250,1080,NL,Servers Tech Fzco
-176.34.238.188,1080,IT,Wind Tre S.p.A.
-148.135.85.87,1080,US,MULTACOM CORPORATION
-3.213.157.4,3128,US,Amazon.com  Inc.
-212.67.31.235,8080,RU,BaikalWestCom
-103.84.95.54,7890,HK,TRS
-104.238.30.58,63744,IT,AkhaliNet LLC
-104.238.30.50,59741,IT,AkhaliNet LLC
-104.238.30.40,59741,IT,AkhaliNet LLC
-104.238.30.39,59741,IT,AkhaliNet LLC
-159.65.230.91,20067,IL,PureVoltage Hosting Inc.
-156.244.33.210,20002,MX,Kaopu Cloud HK Limited
-100.21.101.62,6000,US,Amazon.com  Inc.
-156.244.2.246,20002,SC,Kaopu Cloud HK Limited
-170.168.64.136,1080,XX,Unknown
-103.84.95.54,7890,HK,TRS
-43.161.214.161,1080,HK,Tencent Building  Kejizhongyi Avenue
-139.59.1.14,8080,IN,DigitalOcean  LLC
-64.227.131.240,1080,IN,DigitalOcean  LLC
-148.135.85.87,1080,US,MULTACOM CORPORATION
-43.161.253.215,1080,HK,Tencent Building  Kejizhongyi Avenue
-47.82.66.142,1080,HK,Alibaba US Technology Co.  Ltd.
-41.223.119.156,3128,ZM,MTN Zambia
-194.233.68.54,1088,SG,Contabo Asia Private Limited
-143.198.37.6,8888,CA,tzulo  inc.
-104.238.30.45,59741,IT,AkhaliNet LLC
-115.69.210.60,1080,BD,NReach Net Pvt. Ltd
-34.96.238.40,8080,HK,Google LLC
-185.215.53.253,3629,AM,Fnet LLC
-156.244.39.37,20002,SC,Kaopu Cloud HK Limited
-156.244.39.83,20002,SC,Kaopu Cloud HK Limited
-5.255.113.177,1080,NL,The Infrastructure Group B.V.
-38.54.57.26,20002,BR,Kaopu Cloud HK Limited
-43.161.214.161,1080,HK,Tencent Building  Kejizhongyi Avenue
-156.244.39.41,20002,SC,Kaopu Cloud HK Limited
-13.70.6.6,50161,HK,Microsoft Corporation
-185.241.5.57,3128,IL,O.m.c. Computers & Communications Ltd
-156.244.2.102,20002,SC,Kaopu Cloud HK Limited
-104.238.30.86,63900,IT,AkhaliNet LLC
-104.238.30.91,63900,IT,AkhaliNet LLC
-5.252.33.13,2025,US,MacStadium  Inc.
-64.64.152.248,39593,US,Great Plains Communications LLC
-159.65.230.91,20547,IL,PureVoltage Hosting Inc.
-117.1.48.242,20056,VN,Viettel Group
-94.253.95.241,3629,RU,Ivanteevskie telecommunicacii Ltd
-109.172.84.215,1080,RU,Hosting technology LTD
-121.128.121.144,3128,KR,Korea Telecom
 37.27.100.80,443,FI,Hetzner Online GmbH
-47.238.79.105,1080,US,eSited Solutions
-116.80.81.13,7777,JP,NTT PC Communications  Inc.
-125.128.12.164,3128,KR,Korea Telecom
-158.160.215.167,8124,RU,JSC Selectel
+37.27.100.79,443,FI,Hetzner Online GmbH
+81.177.214.249,1080,FI,Global Connectivity Solutions Llp
+91.217.76.97,1080,FI,First Server Limited
+95.85.252.153,21064,DE,Oc Networks Limited
+173.249.5.133,1080,FR,Contabo GmbH
+144.31.25.69,21064,DE,Kyonix Networks Limited
+5.255.99.75,1080,NL,The Infrastructure Group B.V.
+148.251.88.242,1080,DE,Hetzner Online GmbH
+91.223.52.141,5678,PL,InterWan Sp. z o.o.
+173.249.3.59,1080,FR,Contabo GmbH
+205.209.118.30,3138,US,Interserver  Inc
+85.175.219.236,1080,RU,Rostelecom
+52.188.28.218,3128,US,Microsoft Corporation
+209.97.150.167,3128,US,DigitalOcean  LLC
+3.213.157.4,3128,US,Amazon.com  Inc.
+78.140.13.97,10801,GB,OVH SAS
+88.210.11.250,1080,NL,Servers Tech Fzco
+159.203.61.169,3128,CA,DigitalOcean  LLC
+206.123.156.251,34304,IT,Reevo S.p.A.
+35.225.22.61,80,US,Google LLC
+185.208.74.38,1080,RU,JSC ER-Telecom Holding
+138.124.53.25,7443,DE,Aeza International Ltd
+148.135.85.87,1080,US,MULTACOM CORPORATION
+69.164.245.247,1080,US,Interserver  Inc
+198.199.86.11,3128,US,DigitalOcean  LLC
+46.105.189.70,1090,FR,OVH SAS
+104.238.30.37,59741,IT,AkhaliNet LLC
+104.238.30.40,59741,IT,AkhaliNet LLC
+104.238.30.63,63744,IT,AkhaliNet LLC
+104.238.30.39,59741,IT,AkhaliNet LLC
+74.208.234.198,443,US,IONOS SE
+156.244.2.246,20002,SC,Kaopu Cloud HK Limited
+8.217.110.202,9999,HK,Alibaba US Technology Co.  Ltd.
+13.70.6.6,50161,HK,Microsoft Corporation
+205.185.113.92,1080,US,FranTech Solutions
+64.227.131.240,1080,IN,DigitalOcean  LLC
+139.59.1.14,8080,IN,DigitalOcean  LLC
+31.59.129.75,8080,NL,Wojciech Czapkowicz
+41.223.119.156,3128,ZM,MTN Zambia
+156.244.39.41,20002,SC,Kaopu Cloud HK Limited
+104.238.30.86,63900,IT,AkhaliNet LLC
+104.238.30.38,59741,IT,AkhaliNet LLC
+43.250.9.46,10088,HK,SunnyVision Limited
 37.27.100.102,443,FI,Hetzner Online GmbH
-222.228.171.92,8080,JP,ARTERIA Networks Corporation
-14.56.118.164,3128,KR,Korea Telecom
-83.228.224.172,1090,BD,Bijoy Online Ltd. Multihome Internet Service Provider
-8.219.97.248,80,SG,Alibaba US Technology Co.  Ltd.
+104.238.30.58,63744,IT,AkhaliNet LLC
+104.238.30.45,59741,IT,AkhaliNet LLC
+104.238.30.91,63900,IT,AkhaliNet LLC
+104.238.30.50,59741,IT,AkhaliNet LLC
+85.237.51.73,4145,RU,Rostelecom
+148.135.85.87,1080,US,MULTACOM CORPORATION
+90.84.188.97,8000,FR,Orange
+158.160.215.167,8123,RU,JSC Selectel
+115.69.210.60,1080,BD,NReach Net Pvt. Ltd
+103.84.95.54,7890,HK,TRS
+185.65.202.186,1080,DE,Baykov Ilya Sergeevich
+177.243.209.133,999,MX,Mega Cable  S.A. de C.V.
+179.96.28.58,80,BR,Megatelecom Telecomunicacoes Ltda
+194.233.68.54,1088,SG,Contabo Asia Private Limited
+83.228.227.81,1090,ID,PT Telekomunikasi Indonesia
+100.21.101.62,6000,US,Amazon.com  Inc.
+64.188.124.97,1080,US,u1host ltd
+182.53.202.208,8080,TH,TOT Public Company Limited
+101.47.73.135,3128,HK,Byteplus Pte. Ltd.
+158.160.215.167,8127,RU,It Hostline Ltd
+185.176.94.75,1080,DE,Aurorix Gaming Solutions Limited
+83.56.15.57,5678,ES,Telefonica De Espana S.a.u.
 43.160.195.20,20005,SG,Tencent Building  Kejizhongyi Avenue
-104.238.30.68,63744,IT,AkhaliNet LLC
-37.27.100.102,443,FI,Hetzner Online GmbH
-116.80.82.92,7777,JP,NTT PC Communications  Inc.
-182.253.109.91,8080,ID,BIZNET NETWORKS
-37.193.71.189,1080,RU,Novotelecom Ltd
-92.62.149.82,8080,RU,JSC ER-Telecom Holding
-116.80.48.38,7777,JP,NTT PC Communications  Inc.
-38.76.200.182,58367,US,cognetcloud INC
-205.198.76.38,1111,TW,Akari Networks
-103.163.111.56,1111,ID,PT Galunggung Access Solutions
-202.58.73.216,1111,ID,PT Data Buana Nusantara
+116.80.63.64,7777,JP,NTT PC Communications  Inc.
+91.211.100.35,44744,PL,Lukman Multimedia Sp. z o.o
+195.158.10.99,8080,UZ,Uzbektelekom Joint Stock Company
+47.83.199.137,58367,HK,Alibaba US Technology Co.  Ltd.
+222.228.171.92,8080,JP,ARTERIA Networks Corporation
+5.252.33.13,2025,US,MacStadium  Inc.
+92.247.12.136,9510,BG,A1 Bulgaria EAD
+159.65.230.91,20547,IL,PureVoltage Hosting Inc.
+20.210.39.153,8561,JP,Microsoft Corporation
+121.128.121.134,3128,KR,Korea Telecom
+156.244.46.156,20002,QA,Kaopu Cloud HK Limited
+103.153.63.150,8080,ID,PT Ikhlas Cipta Teknologi
+61.72.110.54,3128,KR,Korea Telecom
+5.255.113.177,1080,NL,The Infrastructure Group B.V.
+125.128.12.164,3128,KR,Korea Telecom
+5.255.117.250,1080,NL,The Infrastructure Group B.V.
+194.163.160.97,10808,FR,Contabo GmbH
+213.230.110.191,3128,UZ,Uzbektelekom Joint Stock Company
+103.39.51.140,8181,ID,PT Mega Mentari Mandiri
+82.132.19.108,4153,HR,Croatian Academic and Research Network
+138.0.207.246,8082,BR,GARCIA TELECOMUNICACOES LTDA
+112.201.191.84,8080,PH,Philippine Long Distance Telephone Company
+91.200.163.190,8088,RU,Dubrovskaya Nataliya Vladislavovna
 31.59.129.75,1080,NL,Wojciech Czapkowicz
-85.208.108.43,2094,CA,TANGRAM CANADA INC.
-94.247.241.70,51006,RU,JSC ER-Telecom Holding
-14.56.118.244,3128,KR,Korea Telecom
-125.128.12.14,3128,KR,Korea Telecom
-213.165.58.5,1080,DE,WAIcore Ltd
-114.35.9.239,1080,TW,Data Communication Business Group
-14.56.107.244,3128,KR,Korea Telecom
-159.65.230.91,20254,IL,PureVoltage Hosting Inc.
-116.80.64.41,7777,JP,NTT PC Communications  Inc.
-61.72.221.234,3128,KR,Korea Telecom
+213.165.58.8,1080,DE,WAIcore Ltd
+104.238.30.68,63744,IT,AkhaliNet LLC
+176.117.104.68,8080,TR,High Speed For Internet Services L.L.C
+58.18.39.58,10800,CN,CHINA UNICOM China169 Backbone
+105.27.180.194,1080,ZA,SEACOM-AS
+121.128.121.214,3128,KR,Korea Telecom
+125.128.12.194,3128,KR,Korea Telecom
+14.56.118.164,3128,KR,Korea Telecom
