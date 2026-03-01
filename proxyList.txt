@@ -1,89 +1,72 @@
-147.45.141.187,50308,RU,Jsc timeweb
-94.253.95.241,3629,RU,Ivanteevskie telecommunicacii Ltd
-37.27.100.102,443,FI,Hetzner Online GmbH
-90.84.188.97,8000,FR,Orange
-170.168.64.136,1080,XX,Unknown
-173.249.5.133,1080,FR,Contabo GmbH
-185.65.202.186,1080,DE,Baykov Ilya Sergeevich
-5.255.99.75,1080,NL,The Infrastructure Group B.V.
-5.255.117.250,1080,NL,The Infrastructure Group B.V.
+31.128.36.64,1080,RU,Beget LLC
 109.172.84.215,1080,RU,Hosting technology LTD
-198.199.86.11,3128,US,DigitalOcean  LLC
 148.251.88.242,1080,DE,Hetzner Online GmbH
-95.178.108.189,5678,FR,Eurofiber France SAS
-209.97.150.167,3128,US,DigitalOcean  LLC
-35.225.22.61,80,US,Google LLC
-78.111.149.103,1080,RU,MTS PJSC
-90.188.224.98,1080,RU,Rostelecom
-159.203.61.169,3128,CA,DigitalOcean  LLC
-185.208.74.38,1080,RU,JSC ER-Telecom Holding
-74.208.234.198,443,US,IONOS SE
-74.208.234.198,443,US,IONOS SE
-138.68.60.8,3128,US,DigitalOcean  LLC
+185.65.202.186,1080,DE,Baykov Ilya Sergeevich
+173.249.5.133,1080,FR,Contabo GmbH
+149.62.186.244,1080,IT,Host SpA
+91.223.52.141,5678,PL,InterWan Sp. z o.o.
+198.199.86.11,3128,US,DigitalOcean  LLC
+95.182.78.7,5678,UA,PE UAinet
 69.164.245.247,1080,US,Interserver  Inc
-47.82.66.142,1080,HK,Alibaba US Technology Co.  Ltd.
-107.174.55.219,10808,US,HostPapa
-159.65.230.91,20547,IL,PureVoltage Hosting Inc.
-156.244.33.210,20002,MX,Kaopu Cloud HK Limited
-154.64.235.206,58367,US,NetLab Global
-64.49.67.164,5678,US,WNET TELECOM USA Corp.
-13.70.6.6,50161,HK,Microsoft Corporation
-139.59.1.14,8080,IN,DigitalOcean  LLC
-159.65.230.91,20254,IL,PureVoltage Hosting Inc.
-194.233.68.54,1088,SG,Contabo Asia Private Limited
-94.247.241.70,51006,RU,JSC ER-Telecom Holding
-41.223.119.156,3128,ZM,MTN Zambia
-209.209.59.139,50161,US,Misaka Network  Inc.
-185.21.141.238,1080,RU,Directive LLC
-209.74.81.113,1080,SG,Namecheap  Inc.
-45.66.131.94,50161,JP,xTom Japan Corporation
-194.28.162.12,1080,RU,IP Andreev Boris Vladimirovich
-103.87.171.12,1080,IN,Tejays Dynamic Limited
-156.244.39.37,20002,SC,Kaopu Cloud HK Limited
-109.238.102.54,1080,XX,Unknown
-52.188.28.218,3128,US,Microsoft Corporation
-83.228.227.81,1090,VN,Viettel Group
-195.46.183.181,1080,RU,PVimpelCom
-115.69.210.60,1080,BD,NReach Net Pvt. Ltd
-83.228.224.172,1090,PS,Palestine Telecommunications Company (PALTEL)
-101.47.73.135,3128,HK,Byteplus Pte. Ltd.
-156.244.2.246,20002,SC,Kaopu Cloud HK Limited
-144.31.25.69,21064,DE,Kyonix Networks Limited
-47.83.199.137,58367,HK,Alibaba US Technology Co.  Ltd.
-50.67.100.178,8080,CA,Shaw Communications
-148.135.85.87,1080,US,MULTACOM CORPORATION
-177.243.209.133,999,MX,Mega Cable  S.A. de C.V.
-37.27.100.102,443,FI,Hetzner Online GmbH
-185.176.94.75,1080,DE,Aurorix Gaming Solutions Limited
-5.255.113.177,1080,NL,The Infrastructure Group B.V.
-43.160.195.20,20005,SG,Tencent Building  Kejizhongyi Avenue
-158.160.215.167,8126,RU,It Hostline Ltd
-62.4.37.104,60606,ME,Drustvo za telekomunikacije MTEL DOO
-185.176.94.75,1080,DE,Aurorix Gaming Solutions Limited
-81.12.157.98,5678,RO,Vodafone Romania S.A.
-61.72.221.84,3128,KR,Korea Telecom
-95.165.82.189,1080,NO,HERN Labs AB
-3.213.157.4,3128,US,Amazon.com  Inc.
-159.65.230.91,20067,IL,PureVoltage Hosting Inc.
 205.209.118.30,3138,US,Interserver  Inc
-113.192.30.43,8090,ID,PT Indo Telemedia Solusi
-165.99.151.246,10001,ID,PT Jala Lintas Media
-103.189.197.212,8080,ID,PT Graha Sumber Teknologi
-78.128.124.108,5678,BG,Sarnica-Net LTD
-8.219.97.248,80,SG,Alibaba US Technology Co.  Ltd.
-121.128.121.134,3128,KR,Korea Telecom
-37.187.109.70,10111,FR,OVH SAS
-222.228.171.92,8080,JP,ARTERIA Networks Corporation
-61.72.110.54,3128,KR,Korea Telecom
-125.128.12.194,3128,KR,Korea Telecom
-116.80.80.173,3172,JP,NTT PC Communications  Inc.
-20.57.138.93,1080,US,Microsoft Corporation
-87.121.49.238,4145,BG,SKAT TV Ltd.
-104.238.30.91,63900,IT,AkhaliNet LLC
-104.238.30.40,59741,IT,AkhaliNet LLC
-50.238.47.86,32100,US,Comcast Cable Communications  LLC
-121.128.121.214,3128,KR,Korea Telecom
+52.188.28.218,3128,US,Microsoft Corporation
+74.208.234.198,443,US,IONOS SE
+38.47.116.249,80,US,NetLab Global
+141.11.210.35,1080,US,GSL Networks Pty LTD
+185.208.74.38,1080,RU,JSC ER-Telecom Holding
 104.238.30.63,63744,IT,AkhaliNet LLC
-104.238.30.58,63744,IT,AkhaliNet LLC
+104.238.30.45,59741,IT,AkhaliNet LLC
+176.34.238.188,1080,IT,Wind Tre S.p.A.
 104.238.30.39,59741,IT,AkhaliNet LLC
+209.209.59.139,50161,US,Misaka Network  Inc.
+148.135.85.87,1080,US,MULTACOM CORPORATION
+107.174.55.219,10808,US,HostPapa
+154.64.235.206,58367,US,NetLab Global
+47.82.66.142,1080,HK,Alibaba US Technology Co.  Ltd.
+88.210.11.250,1080,NL,Servers Tech Fzco
+156.244.39.83,20002,SC,Kaopu Cloud HK Limited
+139.59.1.14,8080,IN,DigitalOcean  LLC
+81.211.73.243,1080,RU,PVimpelCom
+64.227.131.240,1080,IN,DigitalOcean  LLC
+104.238.30.38,59741,IT,AkhaliNet LLC
+86.100.63.246,4145,LT,UAB Balticum TV
+5.255.99.75,1080,NL,The Infrastructure Group B.V.
+104.238.30.58,63744,IT,AkhaliNet LLC
+156.244.39.37,20002,SC,Kaopu Cloud HK Limited
+194.233.68.54,1088,SG,Contabo Asia Private Limited
+46.105.189.70,1090,FR,OVH SAS
+115.69.210.60,1080,BD,NReach Net Pvt. Ltd
+41.223.119.156,3128,ZM,MTN Zambia
+5.252.33.13,2025,US,MacStadium  Inc.
+74.208.234.198,443,US,IONOS SE
+83.228.227.81,1090,KE,Veenet-Africa
+148.135.85.87,1080,US,MULTACOM CORPORATION
+94.253.95.241,3629,RU,Ivanteevskie telecommunicacii Ltd
+116.80.80.173,3172,JP,NTT PC Communications  Inc.
+104.238.30.37,59741,IT,AkhaliNet LLC
+201.20.79.182,5678,BR,DB3 SERVICOS DE TELECOMUNICACOES S.A
+101.47.73.135,3128,HK,Byteplus Pte. Ltd.
+185.176.94.75,1080,DE,Aurorix Gaming Solutions Limited
+43.160.195.20,20005,SG,Tencent Building  Kejizhongyi Avenue
+116.80.77.99,7777,JP,NTT PC Communications  Inc.
+206.123.156.185,7803,US,Oracle Corporation
+156.244.33.210,20002,MX,Kaopu Cloud HK Limited
+109.172.84.215,1080,RU,Hosting technology LTD
+60.217.64.237,35292,CN,CHINA UNICOM China169 Backbone
+104.238.30.91,63900,IT,AkhaliNet LLC
+181.129.74.58,30431,CO,UNE EPM TELECOMUNICACIONES S.A.
+181.48.243.194,4153,CO,Telmex Colombia S.A.
+94.247.241.70,51006,RU,JSC ER-Telecom Holding
+158.160.215.167,8125,RU,It Hostline Ltd
 104.238.30.86,63900,IT,AkhaliNet LLC
+5.102.109.41,999,MX,Guillermo Robles Ramirez
+209.97.150.167,3128,US,DigitalOcean  LLC
+87.121.49.238,4145,BG,SKAT TV Ltd.
+95.70.235.241,8080,TR,TurkNet Iletisim Hizmetleri A.S.
+154.94.238.147,50161,SC,cognetcloud INC
+103.99.27.156,3125,ID,PT Lintas Network Solusi
+138.124.53.25,7443,DE,Aeza International Ltd
+61.72.221.74,3128,KR,Korea Telecom
+104.238.30.68,63744,IT,AkhaliNet LLC
+61.72.221.64,3128,KR,Korea Telecom
+156.244.2.102,20002,SC,Kaopu Cloud HK Limited
