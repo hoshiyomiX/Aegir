@@ -1,94 +1,112 @@
-162.248.165.238,1080,DE,Fornex Hosting S.L.
-212.118.52.3,1080,NL,Servers Tech Fzco
-77.221.141.244,21406,SE,Aeza International Ltd
-193.233.254.57,1080,DE,WAIcore Ltd
-173.249.5.133,1080,FR,Contabo GmbH
-5.255.99.75,1080,NL,The Infrastructure Group B.V.
-46.0.205.4,1080,RU,JSC ER-Telecom Holding
+95.85.252.153,21064,DE,Oc Networks Limited
+91.99.99.83,9000,DE,Hetzner Online GmbH
+160.238.65.8,3128,HK,GZ REMITTANCE CHINA INDUSTRY LIMITED
+45.140.147.155,1082,GB,WorkTitans B.V.
+160.238.65.6,3128,HK,GZ REMITTANCE CHINA INDUSTRY LIMITED
+160.238.65.2,3128,HK,GZ REMITTANCE CHINA INDUSTRY LIMITED
+45.88.0.98,3128,ES,IPv4 Superhub Limited
+160.238.65.5,3128,HK,GZ REMITTANCE CHINA INDUSTRY LIMITED
+46.249.103.192,443,SE,BitCommand LLC
 185.115.74.185,8080,CZ,TeamCity s.r.o.
-95.216.104.118,8888,AE,Hydra Communications Ltd
-46.8.60.2,1080,RU,LLC avanta Telecom
-205.209.118.30,3138,US,Interserver  Inc
-103.161.35.160,2080,IR,Ali Monfared
+213.111.146.81,8888,NL,Datacamp Limited
+173.249.5.133,1080,FR,Contabo GmbH
+170.168.64.136,1080,RU,Voronezh Telecom LLC
+193.233.254.57,1080,DE,WAIcore Ltd
+158.160.215.167,8126,RU,It Hostline Ltd
+160.238.65.4,3128,HK,GZ REMITTANCE CHINA INDUSTRY LIMITED
+185.65.202.186,1080,DE,Baykov Ilya Sergeevich
+5.255.99.75,1080,NL,The Infrastructure Group B.V.
+160.238.65.9,3128,HK,GZ REMITTANCE CHINA INDUSTRY LIMITED
+45.136.198.40,3128,BG,M247 Europe SRL
+81.162.195.35,4153,CZ,Martin Vicenik
+103.113.70.189,1081,MD,WorkTitans B.V.
+46.249.103.192,443,SE,BitCommand LLC
+185.26.168.17,4153,RU,OOO PKF Delta Telekom
+209.97.150.167,3128,US,DigitalOcean  LLC
+46.0.205.4,1080,XX,Unknown
 159.203.61.169,3128,CA,DigitalOcean  LLC
-185.208.74.38,1080,RU,JSC ER-Telecom Holding
-138.68.60.8,3128,US,DigitalOcean  LLC
-137.184.14.135,3128,US,DigitalOcean  LLC
-95.78.118.172,1080,RU,JSC ER-Telecom Holding
-213.165.58.7,1080,DE,WAIcore Ltd
-77.246.111.238,1080,NL,Servers Tech Fzco
-178.156.224.42,3128,DE,Global Transit Systems LLC
-162.240.154.26,3128,US,Unified Layer
-139.59.1.14,8080,IN,DigitalOcean  LLC
-37.27.100.107,443,FI,Hetzner Online GmbH
-37.27.100.80,443,FI,Hetzner Online GmbH
-13.70.6.6,50161,HK,Microsoft Corporation
-170.81.140.79,61437,MX,NUEVA RED INTERNET DE MEXICO S DE RL DE CV
-37.27.100.79,443,FI,Hetzner Online GmbH
-198.199.86.11,3128,US,DigitalOcean  LLC
-34.101.184.164,3128,ID,Google LLC
-13.70.6.6,50161,HK,Microsoft Corporation
-158.160.215.167,8127,RU,It Hostline Ltd
-194.233.68.54,1088,SG,Contabo Asia Private Limited
-134.199.159.23,1080,AU,DigitalOcean  LLC
-85.208.108.43,10808,CA,TANGRAM CANADA INC.
-212.220.13.98,4153,RU,Rostelecom
-93.123.98.80,5678,BG,SKAT TV Ltd.
-14.56.177.44,3128,KR,Korea Telecom
-144.31.0.166,3128,PL,H2nexus Ltd
-181.78.65.252,999,CO,UFINET PANAMA S.A.
-37.27.100.80,443,FI,Hetzner Online GmbH
-116.80.80.173,3172,JP,NTT PC Communications  Inc.
-43.160.195.20,20005,SG,Tencent Building  Kejizhongyi Avenue
-37.27.100.107,443,FI,Hetzner Online GmbH
-115.76.5.32,10010,VN,Viettel Group
-156.244.2.102,20002,SC,Kaopu Cloud HK Limited
-5.75.196.26,40000,DE,Hetzner Online GmbH
 158.160.215.167,8124,RU,JSC Selectel
-77.238.79.111,5678,BG,Fiber 1 Ltd.
-213.165.58.8,1080,DE,WAIcore Ltd
-38.60.209.182,20002,BR,Kaopu Cloud HK Limited
-91.223.52.141,5678,PL,InterWan Sp. z o.o.
-38.60.209.216,20002,BR,Kaopu Cloud HK Limited
-154.64.235.206,58367,US,NetLab Global
-170.244.0.179,4145,BR,ITANET CONECTA LTDA
-163.223.78.79,8080,ID,PT Big Network Indonesia
-58.235.170.51,5678,KR,SK Broadband Co Ltd
-93.184.7.26,1080,PS,BCI Telecommunication & Advanced Technology Company
-64.64.152.248,39593,US,Great Plains Communications LLC
-125.128.12.144,3128,KR,Korea Telecom
-156.244.33.210,20002,MX,Kaopu Cloud HK Limited
-38.60.209.180,20002,BR,Kaopu Cloud HK Limited
-206.123.156.254,6499,FR,OVH SAS
-149.62.186.244,1080,IT,Host SpA
-45.87.41.237,1080,BR,Kaopu Cloud HK Limited
-37.27.100.102,443,FI,Hetzner Online GmbH
-156.244.2.246,20002,SC,Kaopu Cloud HK Limited
-76.81.6.107,31008,US,Charter Communications Inc
-5.255.113.177,1080,NL,The Infrastructure Group B.V.
-194.87.250.190,1080,CZ,Timeweb  LLP
-194.176.114.36,3128,RU,Electronniy gorod  Ltd.
-194.163.160.97,10808,FR,Contabo GmbH
-101.47.73.135,3128,HK,Byteplus Pte. Ltd.
-209.74.81.113,1080,SG,Namecheap  Inc.
-138.124.53.25,7443,DE,Aeza International Ltd
-116.80.63.64,7777,JP,NTT PC Communications  Inc.
-64.188.124.97,1080,US,u1host ltd
-31.129.147.102,1080,RU,Home Computer Networks ltd.
-50.174.248.190,1080,US,Comcast Cable Communications  LLC
+198.199.86.11,3128,US,DigitalOcean  LLC
+62.201.212.198,4673,IQ,IQ Networks for Data and Internet Services Ltd
+213.165.58.7,1080,DE,WAIcore Ltd
+138.68.60.8,3128,US,DigitalOcean  LLC
 212.34.135.86,5000,NL,Servers Tech Fzco
-85.116.120.106,3629,RU,Rostelecom
-37.27.100.112,443,FI,Hetzner Online GmbH
-217.76.39.4,1080,RU,OOO NIIR-RadioNet
-117.216.46.148,1080,IN,National Internet Backbone
-161.248.226.7,80,ID,PT Intan Digital Internet
-116.99.49.187,10002,VN,Viettel Group
+77.246.111.238,1080,NL,Servers Tech Fzco
+50.238.47.86,32100,US,Comcast Cable Communications  LLC
+76.81.6.107,31008,US,Charter Communications Inc
+139.59.1.14,8080,IN,DigitalOcean  LLC
+154.64.235.206,58367,US,NetLab Global
+20.3.145.242,50161,US,Microsoft Corporation
+99.56.147.242,53096,US,AT&T Enterprises  LLC
+162.240.154.26,3128,US,Unified Layer
+103.161.35.160,2080,IR,Ali Monfared
+209.74.81.113,1080,SG,Namecheap  Inc.
+193.233.254.63,1080,DE,WAIcore Ltd
+45.140.147.155,1081,GB,WorkTitans B.V.
+185.208.74.38,1080,RU,JSC ER-Telecom Holding
+213.165.58.6,1080,DE,WAIcore Ltd
+41.223.119.156,3128,ZM,MTN Zambia
+45.88.0.111,3128,ES,IPv4 Superhub Limited
+206.123.156.204,6125,FR,OVH SAS
+61.72.221.94,3128,KR,Korea Telecom
+43.160.195.20,20005,SG,Tencent Building  Kejizhongyi Avenue
+14.56.177.44,3128,KR,Korea Telecom
+194.233.68.54,1088,SG,Contabo Asia Private Limited
+103.154.53.238,8080,ID,PT Inditech Global Network
+5.9.52.236,60000,US,Comcast Cable Communications  LLC
+34.176.140.244,443,CL,Google LLC
+138.2.72.115,1090,SG,Oracle Corporation
+121.128.121.54,3128,KR,Korea Telecom
+144.31.69.170,1080,DE,u1host ltd
 5.252.33.13,2025,US,MacStadium  Inc.
-76.26.114.253,39593,US,Comcast Cable Communications  LLC
-109.224.242.209,8080,TR,High Speed For Internet Services L.L.C
-38.60.209.66,20002,BR,Kaopu Cloud HK Limited
-181.209.82.154,14888,AR,Empresa Argentina de Soluciones Satelitales S.A.
-206.123.156.251,22497,IN,TECHNO FAQ DIGITAL MEDIA
-114.130.175.146,1088,BD,Bangladesh Telecommunications Company Limited BTCL  Nationwide PSTN Operator and Data and In
-103.178.41.51,8080,ID,PT Starlink Services Indonesia
-125.128.12.194,3128,KR,Korea Telecom
+103.84.95.54,7890,HK,TRS
+125.128.12.144,3128,KR,Korea Telecom
+47.238.79.105,1080,US,eSited Solutions
+38.60.209.180,20002,BR,Kaopu Cloud HK Limited
+37.187.109.70,10111,FR,OVH SAS
+116.80.64.41,7777,JP,NTT PC Communications  Inc.
+116.80.64.157,7777,JP,NTT PC Communications  Inc.
+188.143.169.22,33333,RU,Petersburg Internet Network ltd.
+61.72.110.94,3128,KR,Korea Telecom
+45.88.0.99,3128,ES,IPv4 Superhub Limited
+188.191.164.55,4890,RU,Intelsc Ltd.
+77.238.79.111,5678,BG,Fiber 1 Ltd.
+31.211.142.115,8192,BG,5KOM OOD
+185.98.208.98,28000,SK,GOLEM TECH s.r.o.
+31.131.135.247,4153,UA,IE Parhomenko Aleksey Aleksandrovich
+45.88.0.113,3128,ES,IPv4 Superhub Limited
+91.187.113.68,8080,XK,IPKO Telecommunications LLC
+176.213.141.107,8080,RU,JSC ER-Telecom Holding
+177.136.124.46,56113,BR,ITS TELECOMUNICACOES LTDA
+165.99.151.246,10001,ID,PT Jala Lintas Media
+156.244.2.246,20002,SC,Kaopu Cloud HK Limited
+61.72.110.54,3128,KR,Korea Telecom
+103.189.218.85,6969,BD,Comfort Solutions
+58.19.55.17,15134,CN,CHINA UNICOM China169 Backbone
+156.244.39.37,20002,SC,Kaopu Cloud HK Limited
+89.23.105.206,20002,NL,Ztv Corp LLC
+61.72.221.194,3128,KR,Korea Telecom
+115.76.5.32,10005,VN,Viettel Group
+181.78.195.137,999,EC,TELECU TELECOMUNICACIONES DEL ECUADOR TELECUSA S.A.S.
+125.128.12.84,3128,KR,Korea Telecom
+37.27.100.79,443,FI,Hetzner Online GmbH
+116.80.63.67,7777,JP,NTT PC Communications  Inc.
+37.27.100.108,443,FI,Hetzner Online GmbH
+5.255.113.177,1080,NL,The Infrastructure Group B.V.
+185.176.94.75,1080,DE,Aurorix Gaming Solutions Limited
+45.88.0.115,3128,ES,IPv4 Superhub Limited
+149.62.186.244,1080,IT,Host SpA
+115.76.5.32,10010,VN,Viettel Group
+14.56.107.244,3128,KR,Korea Telecom
+110.74.195.34,25,KH,EZECOM CO.  LTD.
+158.160.215.167,8123,RU,JSC Selectel
+204.157.168.74,1081,MM,Global Technology Co.  Ltd.
+37.27.100.80,443,FI,Hetzner Online GmbH
+85.114.45.210,4153,HR,Telemach Hrvatska d.o.o.
+123.136.24.161,1080,BD,Royal Green Communication Limited
+61.109.216.213,8080,KR,KAKAO Enterprise
+64.188.124.97,1080,US,u1host ltd
+197.164.101.14,1976,EG,LINKdotNET
+116.80.48.38,7777,JP,NTT PC Communications  Inc.
+142.171.85.32,1080,US,MULTACOM CORPORATION
+115.76.5.32,10007,VN,Viettel Group
