@@ -1,82 +1,104 @@
-5.129.237.45,49488,RU,Timeweb  LLP
-62.113.119.14,8080,RU,Hosting technology LTD
-5.75.196.26,40000,DE,Hetzner Online GmbH
-173.249.5.133,1080,FR,Contabo GmbH
-45.140.147.82,1081,GB,WorkTitans B.V.
-78.63.115.20,8899,LT,Telia Lietuva  AB
-198.199.86.11,3128,US,DigitalOcean  LLC
-149.62.186.244,1080,IT,Host SpA
-93.90.212.2,4153,RU,Stavtelecom LLC
-209.97.150.167,3128,US,DigitalOcean  LLC
-92.42.8.22,4153,RU,Stavtelecom LLC
-159.203.61.169,3128,CA,DigitalOcean  LLC
-103.113.70.189,1081,MD,WorkTitans B.V.
-95.182.78.18,5678,UA,PE UAinet
-87.117.11.57,1080,RU,Rostelecom
-129.159.119.154,1080,US,Oracle Corporation
+213.165.58.6,1080,SA,WAIcore Ltd
+51.89.25.241,1080,GB,OVH SAS
+5.255.113.177,1080,NL,The Infrastructure Group B.V.
+213.165.58.7,1080,SA,WAIcore Ltd
+213.165.58.8,1080,SA,WAIcore Ltd
 185.26.168.17,4153,RU,OOO PKF Delta Telekom
-35.225.22.61,80,US,Google LLC
-77.246.111.238,1080,NL,Servers Tech Fzco
+149.62.186.244,1080,IT,Host SpA
+93.171.58.169,1080,RU,Intercity Ltd.
+89.134.125.5,4153,HU,One Hungary Ltd.
+209.97.150.167,3128,US,DigitalOcean  LLC
+205.209.118.30,3138,US,Interserver  Inc
+213.165.58.5,1080,SA,WAIcore Ltd
+83.219.250.8,62920,SE,Baykov Ilya Sergeevich
+159.203.61.169,3128,CA,DigitalOcean  LLC
+188.132.141.249,443,TR,Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.
+198.199.86.11,3128,US,DigitalOcean  LLC
+69.48.179.20,3128,US,A2 Hosting  Inc.
 3.144.232.24,11111,US,Amazon.com  Inc.
 138.68.60.8,3128,US,DigitalOcean  LLC
-47.77.193.180,1080,US,Alibaba US Technology Co.  Ltd.
-188.132.141.249,443,TR,Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.
-139.59.1.14,8080,IN,DigitalOcean  LLC
-162.240.154.26,3128,US,Unified Layer
-34.213.132.214,6000,US,Amazon.com  Inc.
-47.77.193.180,1080,US,Alibaba US Technology Co.  Ltd.
-172.86.126.35,443,US,RouterHosting LLC
-193.233.254.38,1080,RU,WAIcore Ltd
-64.227.131.240,1080,IN,DigitalOcean  LLC
-45.129.140.213,1080,NL,Digital City FZE
-15.235.219.112,1080,SG,OVH SAS
-15.235.219.112,1080,SG,OVH SAS
-46.8.48.143,1080,RU,ZagorodTelecom LLC
-188.132.141.249,443,TR,Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.
-109.232.106.150,52435,RU,Thyphone Communications LLC
-194.233.68.54,1088,SG,Contabo Asia Private Limited
-206.123.156.200,5669,US,CoreSpace  Inc.
-91.211.100.35,44744,PL,Lukman Multimedia Sp. z o.o
-109.120.135.192,1080,SE,Aeza International Ltd
-81.12.169.254,4153,RO,Vodafone Romania S.A.
+47.253.43.155,443,US,Alibaba US Technology Co.  Ltd.
+173.249.5.133,1080,FR,Contabo GmbH
+18.216.63.243,56789,US,Amazon.com  Inc.
 103.84.95.54,7890,HK,TRS
-46.105.189.70,1090,FR,OVH SAS
-67.210.146.50,11080,US,JAB Wireless  INC.
-212.34.135.86,5000,NL,Servers Tech Fzco
-116.80.63.64,7777,JP,NTT PC Communications  Inc.
-47.83.199.137,58367,HK,Alibaba US Technology Co.  Ltd.
-89.237.35.10,51549,RU,Joint Stock Company TransTeleCom
-181.78.79.155,999,CO,UFINET PANAMA S.A.
-15.204.151.142,3128,US,OVH SAS
-46.249.103.192,443,SE,BitCommand LLC
-82.132.19.108,4153,HR,Croatian Academic and Research Network
-5.75.196.26,40000,DE,Hetzner Online GmbH
-62.201.233.59,4145,IQ,IQ Networks for Data and Internet Services Ltd
-94.176.3.43,7443,NL,Hostkey B.v.
-83.168.101.27,5678,PL,Korbank S. A.
-194.163.160.97,10808,FR,Contabo GmbH
-138.124.53.25,7443,DE,Aeza International Ltd
-158.160.215.167,8125,RU,It Hostline Ltd
-76.26.114.253,39593,US,Comcast Cable Communications  LLC
-101.47.73.135,3128,HK,Byteplus Pte. Ltd.
-173.212.246.157,3128,FR,Contabo GmbH
-206.123.156.197,5825,US,CoreSpace  Inc.
-138.2.72.115,1090,SG,Oracle Corporation
-99.56.147.242,53096,US,AT&T Enterprises  LLC
-119.148.20.109,22122,BD,Agni Systems Limited
-90.182.147.170,4145,CZ,O2 Czech Republic  a.s.
-116.80.82.217,3172,JP,NTT PC Communications  Inc.
-77.235.31.24,8080,KG,Mega-Line Ltd.
-119.148.45.82,22122,BD,Agni Systems Limited
-183.81.91.186,1094,VN,Viettel Group
-43.160.195.20,20005,SG,Tencent Building  Kejizhongyi Avenue
+205.185.113.92,1080,US,FranTech Solutions
+139.59.1.14,8080,IN,DigitalOcean  LLC
+104.224.152.189,1234,US,IT7 Networks Inc
+154.64.235.206,58367,US,NetLab Global
+185.191.236.162,3128,CH,GRUPO PANAGLOBAL 15 S.A
+206.123.156.200,5915,DE,Hetzner Online GmbH
+3.21.154.33,8000,US,Amazon.com  Inc.
+46.188.2.42,5678,RU,LLC SETEL
+172.86.126.35,443,US,RouterHosting LLC
+77.246.111.238,1080,NL,Servers Tech Fzco
+183.81.91.186,1053,VN,FPT Telecom Company
+64.227.131.240,1080,IN,DigitalOcean  LLC
+94.253.95.241,3629,RU,Ivanteevskie telecommunicacii Ltd
+91.107.175.112,10801,DE,Hetzner Online GmbH
+177.11.49.41,1088,BR,Brasil Site Informatica LTDA
+188.132.141.249,443,TR,Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.
 222.228.171.92,8080,JP,ARTERIA Networks Corporation
-92.241.92.218,14888,GE,JSC Silknet
-194.87.43.46,8080,RU,Jsc timeweb
-5.255.113.177,1080,NL,The Infrastructure Group B.V.
+115.69.210.60,1080,BD,NReach Net Pvt. Ltd
+194.233.68.54,1088,SG,Contabo Asia Private Limited
+144.31.199.9,1080,NL,u1host ltd
+37.18.73.60,5566,US,Emerald Onion
+95.182.78.4,5678,UA,PE UAinet
+194.163.160.97,10808,FR,Contabo GmbH
+31.130.131.142,1080,NL,Timeweb  LLP
+103.160.202.158,3125,ID,PT Sembilan Mediadata Nusaraya
+101.47.73.135,3128,HK,Byteplus Pte. Ltd.
+43.160.195.20,20005,SG,Tencent Building  Kejizhongyi Avenue
+181.78.79.155,999,CO,UFINET PANAMA S.A.
+45.129.140.213,1080,NL,Digital City FZE
+119.148.62.42,22122,BD,Agni Systems Limited
+71.168.71.12,8890,CH,FSIT AG
+46.105.189.70,1090,FR,OVH SAS
+138.2.72.115,1090,SG,Oracle Corporation
+212.34.135.86,5000,NL,Servers Tech Fzco
+206.123.156.249,6099,FR,OVH SAS
+5.9.52.236,60000,US,Comcast Cable Communications  LLC
+121.128.121.54,3128,KR,Korea Telecom
+192.166.82.55,1080,US,CloudBlast LLC
+91.107.148.58,53967,DE,Cloudflare  Inc.
+119.148.19.162,22122,BD,Agni Systems Limited
+202.154.18.25,8080,ID,PT Digital Media Telematika
+119.148.28.141,22122,BD,Agni Systems Limited
+119.148.45.82,22122,BD,Agni Systems Limited
+5.102.109.41,999,MX,Guillermo Robles Ramirez
+87.117.11.57,1080,RU,Rostelecom
+209.38.54.154,8443,NL,DigitalOcean  LLC
+103.39.51.93,8099,ID,PT Mega Mentari Mandiri
+213.230.110.191,3128,UZ,Uzbektelekom Joint Stock Company
+103.87.169.68,32650,IN,Tejays Dynamic Limited
+14.56.107.244,3128,KR,Korea Telecom
+85.117.61.74,8080,GE,Caucasus Online Ltd.
+27.147.245.189,7735,BD,Link3 Technologies Ltd.
+182.253.158.240,3128,ID,BIZNET NETWORKS
+71.168.71.12,8889,SE,QuxLabs AB
+46.8.48.143,1080,RU,ZagorodTelecom LLC
+61.72.110.94,3128,KR,Korea Telecom
+61.72.221.194,3128,KR,Korea Telecom
+91.223.52.141,5678,PL,InterWan Sp. z o.o.
+119.148.3.84,22122,BD,Agni Systems Limited
+109.120.135.192,1080,SE,Aeza International Ltd
+144.31.69.170,1080,DE,u1host ltd
+129.213.162.27,17777,US,Oracle Corporation
+158.160.215.167,8124,RU,JSC Selectel
+101.255.208.17,8090,ID,PT Remala Abadi
+102.68.79.213,8080,KE,Unwired-Communications
+158.160.215.167,8125,RU,It Hostline Ltd
 5.255.117.250,1080,NL,The Infrastructure Group B.V.
-119.148.49.37,22122,BD,Agni Systems Limited
-95.178.108.189,5678,FR,Eurofiber France SAS
-94.232.11.178,58028,RU,PJSC MegaFon
-50.238.47.86,32100,US,Comcast Cable Communications  LLC
-213.165.58.6,1080,SA,WAIcore Ltd
+49.207.177.65,5678,IN,Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA
+61.91.202.211,8080,TH,TRUE INTERNET Co. Ltd.
+103.18.79.189,8082,ID,PT. Usaha Adisanggoro
+82.132.19.108,4153,HR,Croatian Academic and Research Network
+119.148.33.90,22122,BD,Agni Systems Limited
+49.146.57.185,8082,PH,Philippine Long Distance Telephone Company
+64.49.67.164,5678,US,WNET TELECOM USA Corp.
+116.80.82.218,3172,JP,NTT PC Communications  Inc.
+14.56.177.44,3128,KR,Korea Telecom
+125.128.12.144,3128,KR,Korea Telecom
+38.10.91.115,8084,PH,Panay Broadband Buenavista Cable TV Inc.
+154.94.238.147,50161,SC,cognetcloud INC
+61.72.221.94,3128,KR,Korea Telecom
+206.123.156.212,6236,US,CoreSpace  Inc.
