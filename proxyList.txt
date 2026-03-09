@@ -1,69 +1,63 @@
-89.151.134.157,3629,RU,Rostelecom
-104.238.158.167,1080,DE,The Constant Company  LLC
-173.249.5.133,1080,FR,Contabo GmbH
+109.232.106.150,52435,RU,Thyphone Communications LLC
+46.188.2.42,5678,RU,LLC SETEL
+193.168.173.136,443,IL,Kamatera Inc
+46.249.103.192,443,SE,BitCommand LLC
+92.42.8.22,4153,RU,Stavtelecom LLC
 198.199.86.11,3128,US,DigitalOcean  LLC
-45.136.198.40,3128,BG,M247 Europe SRL
-92.62.149.82,8080,RU,JSC ER-Telecom Holding
-80.78.70.253,65530,AL,Vodafone Albania Sh.A.
-103.113.70.189,1081,MD,WorkTitans B.V.
-81.12.157.98,5678,RO,Vodafone Romania S.A.
-159.203.61.169,3128,CA,DigitalOcean  LLC
-162.248.165.72,1080,DE,Fornex Hosting S.L.
-85.105.194.113,4153,TR,Turk Telekom
+213.165.58.6,1080,SA,WAIcore Ltd
+213.165.58.5,1080,SA,WAIcore Ltd
 209.97.150.167,3128,US,DigitalOcean  LLC
-138.68.60.8,3128,US,DigitalOcean  LLC
-172.86.126.35,443,US,RouterHosting LLC
-139.59.1.14,8080,IN,DigitalOcean  LLC
-212.67.31.235,8080,RU,BaikalWestCom
-83.56.15.57,5678,ES,Telefonica De Espana S.a.u.
-185.216.18.138,44550,RU,Mega Tec LLC
-94.176.3.43,7443,NL,Hostkey B.v.
-103.78.83.24,8083,ID,PT Mora Telematika Indonesia
-154.64.235.206,58367,US,NetLab Global
-202.155.12.161,443,JP,Datacamp Limited
-88.213.214.254,4145,BG,NETBOX LTD
-61.72.110.114,3128,KR,Korea Telecom
-152.42.213.210,8080,SG,DigitalOcean  LLC
-1.231.81.166,3128,KR,SK Broadband Co Ltd
-206.123.156.249,4230,US,B2 Net Solutions Inc.
-177.136.124.46,56113,BR,ITS TELECOMUNICACOES LTDA
-67.169.98.211,443,US,Comcast Cable Communications  LLC
-76.26.114.253,39593,US,Comcast Cable Communications  LLC
-76.81.6.107,31008,US,Charter Communications Inc
-154.64.232.9,58367,US,NetLab Global
-116.80.49.168,3172,JP,NTT PC Communications  Inc.
-206.123.156.203,11777,FR,OVH SAS
-206.123.156.181,6053,US,B2 Net Solutions Inc.
-206.123.156.190,11853,FR,OVH SAS
-205.209.118.30,3138,US,Interserver  Inc
-119.148.3.84,22122,BD,Agni Systems Limited
-5.157.64.213,1080,GB,IP River Limited
-151.240.0.20,1664,ID,PT Telekomunikasi Indonesia
-58.235.170.51,5678,KR,SK Broadband Co Ltd
-158.160.215.167,8123,RU,JSC Selectel
-193.228.139.78,8888,AE,Cloud Hosting Solutions  Limited.
-116.80.49.172,3172,JP,NTT PC Communications  Inc.
-5.255.113.177,1080,NL,The Infrastructure Group B.V.
-123.54.197.49,20335,CN,China Mobile Communications Group Co.  Ltd.
-116.80.49.170,3172,JP,NTT PC Communications  Inc.
+46.249.103.192,443,SE,BitCommand LLC
+45.136.198.40,3128,BG,M247 Europe SRL
 162.240.154.26,3128,US,Unified Layer
+101.47.73.135,3128,HK,Byteplus Pte. Ltd.
+139.59.1.14,8080,IN,DigitalOcean  LLC
+138.68.60.8,3128,US,DigitalOcean  LLC
+67.169.98.211,443,US,Comcast Cable Communications  LLC
+34.101.184.164,3128,ID,Google LLC
+64.227.131.240,1080,IN,DigitalOcean  LLC
+37.18.73.60,5566,US,Emerald Onion
+88.213.214.254,4145,BG,NETBOX LTD
+58.235.170.51,5678,KR,SK Broadband Co Ltd
+202.155.12.161,443,JP,Datacamp Limited
+93.123.98.80,5678,BG,SKAT TV Ltd.
+46.183.25.8,443,US,Datacamp Limited
+209.38.90.219,1080,AU,DigitalOcean  LLC
+1.231.81.166,3128,KR,SK Broadband Co Ltd
+103.165.157.250,3125,ID,MEGADATA-ISP
+193.233.254.63,1080,RU,WAIcore Ltd
+116.80.96.101,3172,JP,NTT PC Communications  Inc.
 116.80.49.162,3172,JP,NTT PC Communications  Inc.
-59.153.16.105,20909,BD,S.M. ZAKIR HOSSAIN ta EUROtelbd Online Ltd.
-49.156.42.22,1080,KH,WiCAM Corporation Ltd.
-125.27.155.78,8080,TH,TOT Public Company Limited
-93.91.112.247,41258,RU,Fast Link Ltd
-14.56.107.244,3128,KR,Korea Telecom
-67.206.213.202,55555,PR,Liberty Communications of Puerto Rico LLC
+116.80.49.172,3172,JP,NTT PC Communications  Inc.
+120.50.10.106,5555,BD,Telnet Communication Limited Network and Transit Service Provider. Having Nationwide MPLS Ne
+158.160.215.167,8123,RU,JSC Selectel
+162.248.165.72,1080,DE,Fornex Hosting S.L.
+5.255.117.250,1080,NL,The Infrastructure Group B.V.
+158.160.215.167,8127,RU,It Hostline Ltd
+80.78.74.66,65530,AL,Vodafone Albania Sh.A.
+116.80.96.95,3172,JP,NTT PC Communications  Inc.
+62.201.212.198,4673,IQ,IQ Networks for Data and Internet Services Ltd
+14.225.212.37,7890,HK,IT7 Networks Inc
+64.64.152.248,39593,US,Great Plains Communications LLC
+61.72.110.114,3128,KR,Korea Telecom
+64.49.67.164,5678,US,WNET TELECOM USA Corp.
+94.176.3.43,7443,NL,Hostkey B.v.
+116.80.49.166,3172,JP,NTT PC Communications  Inc.
+206.123.156.178,11972,VN,Rainbow E-Commerce Company Limited
+38.210.179.106,999,MX,Jair Lozano
+45.224.149.77,999,EC,UFINET PANAMA S.A.
+116.80.49.169,3172,JP,NTT PC Communications  Inc.
+116.80.49.170,3172,JP,NTT PC Communications  Inc.
+116.80.49.167,3172,JP,NTT PC Communications  Inc.
+116.80.96.100,3172,JP,NTT PC Communications  Inc.
 116.80.49.163,3172,JP,NTT PC Communications  Inc.
-84.32.6.251,49146,US,Windstream Communications LLC
-212.5.132.74,5678,BG,Vivacom Bulgaria EAD
-116.80.49.156,3172,JP,NTT PC Communications  Inc.
-31.131.135.247,4153,RU,Miranda-Media Ltd
+46.29.116.3,4145,RU,Stavtelecom LLC
+14.225.222.164,7890,HK,IT7 Networks Inc
 116.80.49.159,3172,JP,NTT PC Communications  Inc.
-14.56.177.44,3128,KR,Korea Telecom
-119.148.28.141,22122,BD,Agni Systems Limited
-103.181.255.105,8080,ID,PT Giga Digital Nusantara
-178.34.190.6,8080,RU,Miranda-Media Ltd
-185.82.99.114,8724,LB,Net 360 S.a.r.l
-116.80.49.161,3172,JP,NTT PC Communications  Inc.
-154.64.240.39,1080,US,Cogent Communications  LLC
+49.147.105.33,8082,PH,Philippine Long Distance Telephone Company
+46.8.60.2,1080,RU,LLC avanta Telecom
+45.229.17.17,999,EC,TURBONET S.A.
+91.192.25.158,4145,IT,T&T Tecnologie e Telecomunicazioni Srl
+49.147.115.210,8082,PH,Philippine Long Distance Telephone Company
+116.80.96.104,3172,JP,NTT PC Communications  Inc.
+206.123.156.207,6754,VN,TaDu Joint Stock Company
