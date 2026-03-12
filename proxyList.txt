@@ -1,97 +1,106 @@
 85.198.96.242,1080,RU,Beget LLC
-109.232.106.150,52435,RU,Thyphone Communications LLC
-85.198.97.71,1080,RU,Beget LLC
 178.253.55.88,1080,RU,NetCrafters OU
+45.140.147.155,1082,GB,WorkTitans B.V.
+193.168.173.136,443,IL,Kamatera Inc
 213.202.225.11,1080,DE,WIIT AG
+45.140.147.82,1081,GB,WorkTitans B.V.
+77.50.104.110,1080,RU,Megasvyaz LLC
 147.45.251.242,8888,RU,Jsc timeweb
-159.122.99.26,1080,DE,IBM Cloud
-185.115.74.185,8080,CZ,TeamCity s.r.o.
-5.255.113.177,1080,NL,The Infrastructure Group B.V.
-159.122.99.25,1080,DE,IBM Cloud
-45.88.0.111,3128,ES,IPv4 Superhub Limited
-138.124.53.25,7443,DE,Aeza Group LLC
-46.8.60.2,1080,RU,LLC avanta Telecom
-173.249.5.133,1080,FR,Contabo GmbH
-206.123.156.199,4196,ES,Fibraworld Telecom S.a.u.
-198.199.86.11,3128,US,DigitalOcean  LLC
-31.43.194.184,1080,RU,Sotrudnik LTD
-159.203.61.169,3128,CA,DigitalOcean  LLC
-83.218.186.22,5678,AT,myNet GmbH
-209.97.150.167,3128,US,DigitalOcean  LLC
-109.248.162.174,54321,NL,Cgi Global Limited
-205.209.118.30,3138,US,Interserver  Inc
-195.19.50.44,1080,RU,ZAO GTNT
-144.31.65.8,1080,US,u1host ltd
-195.19.50.79,1080,RU,ZAO GTNT
-139.59.1.14,8080,IN,DigitalOcean  LLC
-213.220.62.62,3128,ES,IPv4 Superhub Limited
-178.130.47.15,8080,US,Global Connectivity Solutions Llp
-206.123.156.211,4029,US,Contabo Inc.
-64.227.131.240,1080,IN,DigitalOcean  LLC
-206.123.156.209,4560,US,Contabo Inc.
-156.255.90.27,58367,HK,DATAWING LIMITED
-46.105.189.70,1090,FR,OVH SAS
-61.0.226.241,3128,IN,National Internet Backbone
-101.47.73.135,3128,HK,Byteplus Pte. Ltd.
-154.64.235.206,58367,US,NetLab Global
-172.86.126.35,443,US,RouterHosting LLC
-20.210.113.32,8123,JP,Microsoft Corporation
-115.69.210.60,1080,BD,NReach Net Pvt. Ltd
-86.102.77.67,1081,KZ,Modern Server Solutions LLP
-113.160.132.26,8080,VN,VNPT Corp
-119.148.25.170,22122,BD,Agni Systems Limited
-213.165.58.8,1080,SA,WAIcore Ltd
-171.251.172.78,5104,VN,Viettel Group
-213.210.67.186,3629,RU,Rostelecom
-92.86.207.198,8080,RO,Orange Romania S.A.
-206.123.156.234,35260,US,GoDaddy.com  LLC
-194.233.68.54,1088,SG,Contabo Asia Private Limited
-116.80.49.166,3172,JP,NTT PC Communications  Inc.
-105.214.9.59,5678,ZA,MTN Business Solutions
-116.80.49.169,3172,JP,NTT PC Communications  Inc.
-116.80.96.102,3172,JP,NTT PC Communications  Inc.
-116.80.96.106,3172,JP,NTT PC Communications  Inc.
-43.160.195.20,20005,SG,Tencent Building  Kejizhongyi Avenue
-93.183.124.28,1080,NL,Servers Tech Fzco
-182.253.121.149,8080,ID,BIZNET NETWORKS
-178.236.245.17,3128,RU,Cloud Hosting Solutions  Limited.
-206.123.156.200,4783,AU,Amazon.com  Inc.
-223.206.89.194,8080,TH,Triple T Broadband Public Company Limited
-105.214.3.153,5678,ZA,MTN Business Solutions
-116.80.49.165,3172,JP,NTT PC Communications  Inc.
-78.128.124.108,5678,BG,Sarnica-Net LTD
-149.62.186.244,1080,IT,Host SpA
-206.123.156.196,5125,ES,Fibraworld Telecom S.a.u.
-171.251.172.78,5106,VN,Viettel Group
-62.182.85.58,1080,UA,Virtual Systems LLC
-49.229.36.210,4153,TH,SBN-ISPAWN-ISP and SBN-NIXAWN-NIX
-213.165.58.7,1080,SA,WAIcore Ltd
-116.80.49.156,3172,JP,NTT PC Communications  Inc.
-152.42.213.210,8080,SG,DigitalOcean  LLC
-109.197.55.234,1080,RU,OOO Kolpinskie Internet-Seti
-91.221.70.29,1080,RU,The Center of Dedicated Servers LLC
-154.64.232.9,58367,US,NetLab Global
-213.165.58.6,1080,SA,WAIcore Ltd
-119.148.32.65,22122,BD,Agni Systems Limited
-116.80.49.159,3172,JP,NTT PC Communications  Inc.
-47.83.199.137,58367,HK,Alibaba US Technology Co.  Ltd.
-206.123.156.190,4082,US,Contabo Inc.
-116.99.49.187,10002,VN,Viettel Group
-179.49.157.10,999,PE,VEMAX S.A.C
-115.231.181.40,8128,CN,NINGBO  ZHEJIANG Province  P.R.China.
-116.80.49.167,3172,JP,NTT PC Communications  Inc.
-116.80.95.238,7777,JP,NTT PC Communications  Inc.
-116.80.49.162,3172,JP,NTT PC Communications  Inc.
-206.123.156.217,4463,CA,OVH SAS
-85.237.62.189,3629,RU,Rostelecom
-213.165.58.5,1080,SA,WAIcore Ltd
 5.255.99.75,1080,NL,The Infrastructure Group B.V.
-81.12.169.254,4153,RO,Vodafone Romania S.A.
-83.220.46.106,4145,RU,PJSC MegaFon
-62.201.212.198,4673,IQ,IQ Networks for Data and Internet Services Ltd
-119.148.6.1,22122,BD,Agni Systems Limited
+173.249.5.133,1080,FR,Contabo GmbH
+185.115.74.185,8080,CZ,TeamCity s.r.o.
+93.183.124.28,1080,NL,Servers Tech Fzco
+94.181.33.149,40840,RU,JSC ER-Telecom Holding
 89.200.217.250,8080,TR,Veganet Teknolojileri ve Hizmetleri LTD STI
+198.199.86.11,3128,US,DigitalOcean  LLC
+205.209.118.30,3138,US,Interserver  Inc
+213.165.58.5,1080,SA,WAIcore Ltd
+159.203.61.169,3128,CA,DigitalOcean  LLC
+209.97.150.167,3128,US,DigitalOcean  LLC
+195.19.48.251,1080,RU,ZAO GTNT
+93.123.98.80,5678,BG,SKAT TV Ltd.
+129.213.162.27,17777,US,Oracle Corporation
+47.83.199.137,58367,HK,Alibaba US Technology Co.  Ltd.
+195.19.50.44,1080,RU,ZAO GTNT
+139.59.1.14,8080,IN,DigitalOcean  LLC
 195.19.50.27,1080,RU,ZAO GTNT
-206.123.156.215,8858,TR,SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.
-79.141.174.23,1080,SE,HZ Hosting Ltd
-206.123.156.200,7052,CA,OVH SAS
+154.64.235.206,58367,US,NetLab Global
+45.136.130.191,8443,US,Enzu Inc
+178.130.47.15,8080,US,Global Connectivity Solutions Llp
+45.136.198.40,3128,BG,M247 Europe SRL
+138.68.60.8,3128,US,DigitalOcean  LLC
+81.12.157.98,5678,RO,Vodafone Romania S.A.
+103.84.95.54,7890,HK,TRS
+202.155.12.161,443,JP,Datacamp Limited
+13.70.6.6,50161,HK,Microsoft Corporation
+172.86.126.35,443,US,RouterHosting LLC
+213.165.58.7,1080,SA,WAIcore Ltd
+171.251.172.78,5104,VN,Viettel Group
+119.148.28.141,22122,BD,Agni Systems Limited
+37.18.73.60,5566,US,Emerald Onion
+85.143.254.38,1080,RU,Comfortel Ltd.
+154.18.255.73,3125,ID,PT Media Solusi Sukses
+152.70.84.108,8080,JP,Oracle Corporation
+113.160.132.26,8080,VN,VNPT Corp
+20.210.113.32,8123,JP,Microsoft Corporation
+194.233.68.54,1088,SG,Contabo Asia Private Limited
+86.53.183.16,1080,GB,GTT Communications Inc.
+46.105.189.70,1090,FR,OVH SAS
+62.201.233.59,4145,IQ,IQ Networks for Data and Internet Services Ltd
+86.53.183.16,1080,GB,GTT Communications Inc.
+222.184.48.236,22222,CN,Chinanet
+88.245.138.87,1080,TR,Turk Telekom
+120.240.29.51,22222,CN,China Mobile Communications Group Co.  Ltd.
+43.160.195.20,20005,SG,Tencent Building  Kejizhongyi Avenue
+171.251.172.78,5106,VN,Viettel Group
+115.231.181.40,8128,CN,NINGBO  ZHEJIANG Province  P.R.China.
+93.184.7.26,1080,PS,BCI Telecommunication & Advanced Technology Company
+46.161.196.139,8080,IQ,Valeen for General trading  Internet Services and Information Technology / Ltd
+144.124.227.90,21074,NL,Servers Tech Fzco
+116.80.49.166,3172,JP,NTT PC Communications  Inc.
+116.80.96.101,3172,JP,NTT PC Communications  Inc.
+185.41.152.110,3128,FR,Techcrea Solutions SAS
+116.80.96.102,3172,JP,NTT PC Communications  Inc.
+213.165.58.6,1080,SA,WAIcore Ltd
+116.80.49.168,3172,JP,NTT PC Communications  Inc.
+116.80.48.16,7777,JP,NTT PC Communications  Inc.
+162.240.154.26,3128,US,Unified Layer
+94.247.241.70,51006,RU,JSC ER-Telecom Holding
+95.31.11.204,2080,RU,PVimpelCom
+85.89.184.87,5678,PL,Toya sp.z.o.o
+1.231.81.166,3128,KR,SK Broadband Co Ltd
+80.78.74.66,65530,AL,Vodafone Albania Sh.A.
+195.19.50.72,1080,RU,ZAO GTNT
+58.69.158.22,8082,PH,Philippine Long Distance Telephone Company
+154.64.232.9,58367,US,NetLab Global
+119.18.144.3,20326,BD,Broad Band Telecom Services Ltd
+181.78.79.155,999,CO,UFINET PANAMA S.A.
+109.98.148.162,55555,RO,Orange Romania S.A.
+176.28.201.76,1080,JO,Jordanian mobile phone services Ltd
+123.54.197.16,21030,CN,Shandong Mobile Communication Company Limited
+76.26.114.253,39593,US,Comcast Cable Communications  LLC
+116.80.96.100,3172,JP,NTT PC Communications  Inc.
+116.80.95.238,7777,JP,NTT PC Communications  Inc.
+116.80.49.161,3172,JP,NTT PC Communications  Inc.
+116.80.60.44,7777,JP,NTT PC Communications  Inc.
+116.80.96.106,3172,JP,NTT PC Communications  Inc.
+102.68.79.62,8080,KE,Unwired-Communications
+103.181.255.105,8080,ID,PT Giga Digital Nusantara
+94.19.75.239,8080,RU,SkyNet Ltd.
+116.80.49.167,3172,JP,NTT PC Communications  Inc.
+46.8.60.2,1080,RU,LLC avanta Telecom
+116.80.82.92,7777,JP,NTT PC Communications  Inc.
+144.31.0.166,3128,PL,H2nexus Ltd
+49.156.44.115,8080,KH,WiCAM Corporation Ltd.
+200.10.31.45,999,CO,SUPER REDES S.A.S
+213.165.58.8,1080,SA,WAIcore Ltd
+92.62.149.82,8080,RU,JSC ER-Telecom Holding
+91.217.33.161,8080,SK,AIRNET s.r.o.
+121.126.185.63,25152,KR,Korea Telecom
+116.80.77.99,7777,JP,NTT PC Communications  Inc.
+116.80.96.105,3172,JP,NTT PC Communications  Inc.
+140.227.61.201,3128,JP,NTT PC Communications  Inc.
+203.205.49.2,10027,VN,CMC Telecom Infrastructure Company
+78.128.124.108,5678,BG,Sarnica-Net LTD
+76.81.6.107,31008,US,Charter Communications Inc
+116.80.64.157,7777,JP,NTT PC Communications  Inc.
