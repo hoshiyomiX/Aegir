@@ -3,71 +3,7 @@
  * Exports all core functionality for the Aegir proxy server
  */
 
-// Circuit Breaker
-export {
-  CircuitBreaker,
-  CircuitBreakerManager,
-  circuitBreakerManager,
-  CIRCUIT_STATE
-} from './circuitBreaker.js';
-
-// Connection Manager
-export {
-  EnhancedConnectionPool,
-  ConnectionHealthTracker,
-  connectionManager,
-  healthTracker,
-  CONNECTION_HEALTH
-} from './connectionManager.js';
-
-// Buffer Manager
-export {
-  BufferManager,
-  BufferPool,
-  MemoryPressureMonitor,
-  SmartCoalescer,
-  ZeroCopyHandler,
-  bufferManager,
-  MEMORY_PRESSURE
-} from './bufferManager.js';
-
-// DNS Manager
-export {
-  DNSManager,
-  ResolverHealthTracker,
-  SWRCache,
-  DNSPrefetcher,
-  dnsManager,
-  resolveDNS,
-  DNS_CONFIG
-} from './dnsManager.js';
-
-// Error Handler
-export {
-  AppError,
-  NetworkError,
-  ProtocolError,
-  TimeoutError,
-  DNSError,
-  MemoryError,
-  ValidationError,
-  ErrorBoundary,
-  ErrorAggregator,
-  errorAggregator,
-  ERROR_CATEGORY,
-  ERROR_SEVERITY,
-  RECOVERY_STRATEGY
-} from './errorHandler.js';
-
-// Service Container
-export {
-  ServiceContainer,
-  ApplicationContext,
-  appContext,
-  SERVICE_LIFECYCLE
-} from './serviceContainer.js';
-
-// State
+// State Management
 export {
   inMemoryCache,
   dnsCache,
@@ -93,73 +29,35 @@ export {
 export { formatStats } from './diagnostics.js';
 
 /**
- * Get comprehensive system status
+ * Get memory and cache summary
  */
-export async function getSystemStatus() {
-  const connectionStats = connectionManager.getStats();
-  const bufferStats = bufferManager.getStats();
-  const dnsStats = dnsManager.getStats();
-  const circuitStats = circuitBreakerManager.getAggregateStats();
-  const errorSummary = errorAggregator.getSummary();
+export function getSystemStatus() {
+  const memorySummary = getMemorySummary();
   
   return {
     timestamp: new Date().toISOString(),
-    connections: connectionStats,
-    buffers: bufferStats,
-    dns: dnsStats,
-    circuits: circuitStats,
-    errors: errorSummary,
-    uptime: process.uptime ? process.uptime() : null
+    memory: memorySummary,
+    stats: formatStats()
   };
 }
 
 /**
  * Perform system health check
  */
-export async function healthCheck() {
-  const status = await getSystemStatus();
+export function healthCheck() {
+  const status = getSystemStatus();
   const issues = [];
   
-  // Check for high memory pressure
-  if (status.buffers.pressure?.currentPressure === 'HIGH' || 
-      status.buffers.pressure?.currentPressure === 'CRITICAL') {
-    issues.push({
-      severity: 'HIGH',
-      category: 'MEMORY',
-      message: `Memory pressure is ${status.buffers.pressure.currentPressure}`
-    });
-  }
-  
-  // Check for open circuits
-  if (status.circuits.openCircuits > 0) {
-    issues.push({
-      severity: 'MEDIUM',
-      category: 'CIRCUIT_BREAKER',
-      message: `${status.circuits.openCircuits} circuit(s) are open`
-    });
-  }
-  
-  // Check DNS resolver health
-  const unhealthyResolvers = Object.entries(status.dns.resolvers)
-    .filter(([name, data]) => !data.isHealthy)
-    .map(([name]) => name);
-  
-  if (unhealthyResolvers.length > 0) {
-    issues.push({
-      severity: 'LOW',
-      category: 'DNS',
-      message: `DNS resolvers unhealthy: ${unhealthyResolvers.join(', ')}`
-    });
-  }
-  
-  // Check error rate
-  const recentErrors = status.errors.recent;
-  if (recentErrors > 10) {
-    issues.push({
-      severity: 'MEDIUM',
-      category: 'ERRORS',
-      message: `High error rate: ${recentErrors} errors in last minute`
-    });
+  // Check memory usage
+  const memoryUsage = status.memory;
+  for (const [name, size] of Object.entries(memoryUsage)) {
+    if (name.endsWith('Size') && size > 40) {
+      issues.push({
+        severity: 'MEDIUM',
+        category: 'MEMORY',
+        message: `${name} is at ${size} entries`
+      });
+    }
   }
   
   return {
