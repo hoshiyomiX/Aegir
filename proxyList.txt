@@ -1,538 +1,505 @@
 2.27.54.161,1080,US,DpkgSoft International Limited
-95.165.87.233,1080,RU,PJSC Moscow city telephone network
-46.188.2.42,5678,RU,LLC SETEL
 2.27.54.161,1080,US,DpkgSoft International Limited
-188.143.169.22,33333,RU,Petersburg Internet Network ltd.
-5.149.203.190,1080,RU,Svyaz-Energo Ltd.
-65.109.218.165,1080,FI,Hetzner Online GmbH
-95.216.64.116,12094,FI,Hetzner Online GmbH
-65.109.195.25,1080,FI,Hetzner Online GmbH
-159.223.225.118,8888,NL,DigitalOcean  LLC
+95.165.87.233,1080,RU,PJSC Moscow city telephone network
 65.109.128.96,1080,FI,Hetzner Online GmbH
-109.71.241.67,1080,RU,Timeweb  LLP
-167.172.161.22,1088,DE,DigitalOcean  LLC
-91.107.179.64,1616,DE,Hetzner Online GmbH
-167.172.161.22,1081,DE,DigitalOcean  LLC
-164.90.187.185,1085,DE,DigitalOcean  LLC
-91.107.172.17,1080,DE,Hetzner Online GmbH
-144.31.230.27,1080,SE,Play2go International Limited
-86.104.74.110,1081,MD,WorkTitans B.V.
-167.172.161.22,1084,DE,DigitalOcean  LLC
-212.33.245.33,1080,RU,JSC ER-Telecom Holding
-93.183.68.41,1080,NL,Livi Hosting Ltd
-130.61.174.200,1080,DE,Oracle Corporation
-81.88.26.10,1080,DE,dogado GmbH
+65.109.195.25,1080,FI,Hetzner Online GmbH
 188.150.229.60,5678,SE,Tele2 SWIPnet
+89.19.216.3,1080,RU,Timeweb  LLP
+93.171.90.110,1080,RU,Intercity Ltd.
+91.107.172.17,1080,DE,Hetzner Online GmbH
+93.90.212.2,4153,RU,Stavtelecom LLC
+81.88.26.10,1080,DE,dogado GmbH
+164.90.183.36,1085,DE,DigitalOcean  LLC
 158.178.198.31,1080,FR,Oracle Corporation
-167.172.161.22,1085,DE,DigitalOcean  LLC
-109.120.132.166,1080,SE,Aeza Group LLC
-2.27.32.81,1080,US,DpkgSoft International Limited
-213.21.233.242,1080,SE,Aeza Group LLC
-86.104.74.110,1081,MD,WorkTitans B.V.
-82.132.19.108,4153,HR,Croatian Academic and Research Network
-46.101.95.183,8888,GB,DigitalOcean  LLC
-132.145.77.107,1080,GB,Oracle Corporation
-62.60.151.74,1081,SE,Aeza Group LLC
-81.12.169.254,4153,RO,Vodafone Romania S.A.
+194.31.87.77,3128,TR,SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.
+144.31.230.27,1080,SE,Play2go International Limited
+109.71.241.67,1080,RU,Timeweb  LLP
+91.223.52.141,5678,PL,InterWan Sp. z o.o.
+94.72.35.36,1080,RU,MTS PJSC
+95.216.64.116,12094,FI,Hetzner Online GmbH
+31.13.239.4,5678,BG,Neterra Ltd.
 45.8.98.142,30010,RU,Jsc timeweb
-198.199.86.11,3128,US,DigitalOcean  LLC
-195.190.121.154,1080,RU,PVimpelCom
 209.97.150.167,3128,US,DigitalOcean  LLC
+195.19.49.119,1080,RU,ZAO GTNT
 77.232.142.77,31336,SE,Aeza Group LLC
-164.90.187.185,1081,DE,DigitalOcean  LLC
-198.13.190.60,1080,KZ,Modern Server Solutions LLP
-212.34.130.140,1080,NL,Servers Tech Fzco
-159.203.61.169,3128,CA,DigitalOcean  LLC
+47.85.51.197,1080,US,Alibaba US Technology Co.  Ltd.
 129.159.152.152,6666,IL,Oracle Corporation
-93.177.116.84,1080,NL,Baykov Ilya Sergeevich
-138.124.114.113,1080,DE,Aeza Group LLC
-213.87.101.134,1080,RU,MTS PJSC
-47.79.79.35,10808,HK,Alibaba US Technology Co.  Ltd.
-45.76.39.134,1080,NL,The Constant Company  LLC
-109.123.251.109,1080,FR,Contabo GmbH
+145.255.239.78,1080,RU,OBIT Ltd.
 35.225.22.61,80,US,Google LLC
+45.76.39.134,1080,NL,The Constant Company  LLC
+47.79.79.35,10808,HK,Alibaba US Technology Co.  Ltd.
+185.224.215.84,1080,NL,Podaon SIA
+138.68.60.8,3128,US,DigitalOcean  LLC
 5.255.103.55,1080,NL,The Infrastructure Group B.V.
-5.255.99.75,1080,NL,The Infrastructure Group B.V.
-195.19.50.76,1080,RU,ZAO GTNT
-147.45.166.46,1080,RU,Timeweb  LLP
-49.156.1.16,5678,KH,EZECOM CO.  LTD.
 139.59.1.14,8080,IN,DigitalOcean  LLC
-212.34.146.118,1080,NL,Servers Tech Fzco
-164.90.221.76,1080,DE,DigitalOcean  LLC
-38.34.25.98,2080,US,Cogent Communications  LLC
-185.21.141.238,1080,RU,Directive LLC
+5.255.99.75,1080,NL,The Infrastructure Group B.V.
+98.103.88.158,46104,US,Charter Communications Inc
+198.13.190.60,1080,KZ,Modern Server Solutions LLP
+82.148.18.242,443,RU,JSC Selectel
+35.237.28.196,2222,US,Google LLC
 64.227.131.240,1080,IN,DigitalOcean  LLC
-113.11.126.238,30226,BD,Rangs Nilu Square  5th Floor  House 75  Road 5A  Dhanmondi RA  Dhaka 1209
-1.231.81.166,3128,KR,SK Broadband Co Ltd
 146.235.230.154,21080,US,Oracle Corporation
-193.25.215.182,22222,US,ReadyDedis  LLC
+195.19.50.76,1080,RU,ZAO GTNT
 113.160.132.26,8080,VN,VNPT Corp
-144.124.232.204,443,NL,Servers Tech Fzco
-125.24.156.113,7080,TH,TOT Public Company Limited
-46.29.116.3,4145,RU,Stavtelecom LLC
-20.127.128.70,8080,US,Microsoft Corporation
-62.16.33.187,1080,RU,MTS PJSC
-146.103.121.43,11080,NL,Servers Tech Fzco
-43.163.54.18,21080,SG,Tencent Building  Kejizhongyi Avenue
-194.87.191.118,20090,NL,Baykov Ilya Sergeevich
-58.187.104.170,1081,VN,FPT Telecom Company
-64.118.142.102,5555,SG,Eons Data Communications Limited
-176.12.78.141,1080,KZ,HostLab LLC
-67.210.146.50,11080,US,JAB Wireless  INC.
-47.84.59.16,1080,SG,Alibaba US Technology Co.  Ltd.
-125.209.9.182,1080,KR,SK Broadband Co Ltd
-47.84.73.61,1080,SG,Alibaba US Technology Co.  Ltd.
-3.114.203.116,1080,US,Hawaiian Telcom Services Company  Inc.
-212.58.132.5,1080,US,NSFOCUS  Inc.
-20.127.128.70,8080,US,Microsoft Corporation
-158.101.8.92,1080,NL,Church of Cyberology
-168.144.75.9,3128,IN,DigitalOcean  LLC
-64.201.87.248,8899,US,LAUREL HIGHLAND TELEPHONE COMPANY
-89.169.10.248,1080,GB,Livi Hosting Ltd
-91.192.25.158,4145,IT,T&T Tecnologie e Telecomunicazioni Srl
-176.100.39.55,1080,DE,Florian Kolb
-3.114.203.116,1080,US,Hawaiian Telcom Services Company  Inc.
-173.212.246.157,3128,FR,Contabo GmbH
-47.84.76.30,1080,SG,Alibaba US Technology Co.  Ltd.
-91.108.243.203,3128,DE,DePowered Limited
-158.160.215.167,8126,RU,It Hostline Ltd
-37.187.109.70,10111,FR,OVH SAS
-65.20.105.241,10001,ES,The Constant Company  LLC
-181.205.113.218,1080,CO,Colombia Movil
+206.123.156.207,9020,US,Unified Layer
+198.199.86.11,3128,US,DigitalOcean  LLC
+92.101.193.58,1080,RU,Rostelecom
+38.34.25.98,2080,US,Cogent Communications  LLC
+159.203.61.169,3128,CA,DigitalOcean  LLC
+195.19.48.251,1080,RU,ZAO GTNT
+193.25.215.182,22222,US,ReadyDedis  LLC
+103.188.173.95,8080,ID,PT Satria Digital Media
+103.66.176.45,32251,BD,Muhammad Nasir ta Dhaka Information Technology
 177.93.132.244,3128,BR,MAGAZINE LUIZA SA
+89.208.106.138,10808,NL,Aeza Group LLC
+20.127.128.70,8080,US,Microsoft Corporation
+212.33.245.33,1080,RU,JSC ER-Telecom Holding
+206.123.156.207,6835,US,Amazon.com  Inc.
+64.118.142.102,5555,SG,Eons Data Communications Limited
+202.181.16.45,52929,BD,Level3 Carrier Ltd.
+47.85.51.197,1080,US,Alibaba US Technology Co.  Ltd.
+62.60.151.74,1081,SE,Aeza Group LLC
+89.110.65.39,9999,NL,Servers Tech Fzco
+31.43.194.184,1080,RU,Sotrudnik LTD
+206.123.156.207,12638,FR,OVH SAS
+103.219.163.246,1080,BD,ADN Telecom Ltd.
+45.76.207.177,40000,JP,Cloudflare  Inc.
+212.58.132.5,1080,US,NSFOCUS  Inc.
+43.163.54.18,21080,SG,Tencent Building  Kejizhongyi Avenue
+169.155.50.87,1080,AU,CacheFly
+202.79.27.12,1080,KH,WiCAM Corporation Ltd.
+206.123.156.207,6531,NL,Signet B.V.
+112.5.33.179,999,CN,China Mobile Communications Group Co.  Ltd.
+95.216.117.50,9050,NL,Church of Cyberology
+45.76.207.177,40000,JP,Cloudflare  Inc.
+43.133.90.161,8888,KR,Tencent Building  Kejizhongyi Avenue
+119.148.55.89,9108,BD,Agni Systems Limited
+213.27.29.153,51000,RU,MTS PJSC
+206.123.156.207,6051,DE,Ultahost  Inc.
+110.235.247.206,1080,KH,Cogetel Online  Cambodia  ISP
+109.107.181.77,1080,DE,Aeza Group LLC
+173.212.246.157,3128,FR,Contabo GmbH
+206.123.156.207,4994,IN,LEAPSWITCH NETWORKS PRIVATE LIMITED
+62.60.231.26,1080,SE,Aeza Group LLC
+125.24.156.113,7080,TH,TOT Public Company Limited
 144.31.189.75,1081,DE,International Hosting Company Limited
-58.19.55.7,15292,CN,CHINATELECOM Hubei province Wuhan 5G network
-58.19.55.4,15233,CN,Chinanet
-58.19.55.7,15227,CN,China Telecom Group
-89.250.148.158,1080,RU,JSC ER-Telecom Holding
-58.19.55.7,15158,CN,Chinanet
-58.19.55.7,15400,CN,Chinanet
-89.43.135.42,8080,HU,High Speed For Internet Services L.L.C
-94.72.57.157,8080,RU,MTS PJSC
-58.19.55.7,15236,CN,Chinanet
-58.19.55.4,15312,CN,Chinanet
-58.19.55.4,15102,CN,Chinanet
-150.230.59.207,1080,NL,Intezio Worldwide Limited
-58.19.55.7,15204,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15190,CN,CHINA UNICOM China169 Backbone
-164.90.221.76,1081,DE,DigitalOcean  LLC
-58.19.55.4,15219,CN,Chinanet
-58.19.55.7,15311,CN,CHINA UNICOM China169 Backbone
-58.19.55.88,15028,CN,CHINATELECOM Hubei province Wuhan 5G network
-58.19.55.7,15394,CN,Chinanet
-58.19.55.88,15008,CN,Chinanet
-58.19.55.88,15068,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.88,15085,CN,China Mobile communications corporation
-58.19.55.4,15061,CN,Henan Mobile Communications Co. Ltd
-58.19.55.7,15021,CN,China Mobile communications corporation
-58.19.55.7,15359,CN,Chinanet
-58.19.55.7,15249,CN,China Mobile communications corporation
-58.19.55.7,15335,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15156,CN,China Mobile communications corporation
-58.19.55.4,15152,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15375,CN,China Telecom Group
-58.19.55.88,15038,CN,Chinanet
-58.19.55.7,15087,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15016,CN,CHINA UNICOM China169 Backbone
-58.19.55.88,15081,CN,China Mobile communications corporation
-58.19.55.7,15085,CN,Chinanet
-58.19.55.7,15118,CN,CHINA UNICOM China169 Backbone
-58.19.55.88,15056,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15228,CN,CHINATELECOM Jiangsu province Changzhou 5G network
-58.19.55.4,15200,CN,China Mobile communications corporation
-58.19.55.7,15202,CN,Shandong Mobile Communication Company Limited
-58.19.55.4,15382,CN,Chinanet
-5.63.111.238,8080,KZ,JSC Kazakhtelecom
-58.19.55.7,15058,CN,Chinanet
-58.19.55.4,15169,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15072,CN,Chinanet
-58.19.55.7,15131,CN,tianjin Mobile Communication Company Limited
-58.19.55.88,15039,CN,Chinanet
-58.19.55.7,15110,CN,Chinanet
-194.58.33.113,40257,DE,International Hosting Company Limited
-58.19.55.7,15382,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15386,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15252,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15150,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15095,CN,China Unicom Beijing Province Network
-58.19.55.7,15042,CN,Chinanet
-58.19.55.88,15025,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15220,CN,Shandong Mobile Communication Company Limited
-58.19.55.7,15036,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15291,CN,China Mobile communications corporation
-58.19.55.7,15212,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15122,CN,Chinanet
-58.19.55.7,15086,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15344,CN,China Mobile communications corporation
-58.19.55.7,15255,CN,CHINA UNICOM China169 Backbone
-58.19.55.88,15045,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15194,CN,Chinanet
-58.19.55.4,15268,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15391,CN,Hebei Mobile Communication Company Limited
-58.19.55.88,15052,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15308,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15051,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15197,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15372,CN,UNICOM InnerMongolia province network
-58.19.55.7,15106,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15115,CN,CHINA UNICOM China169 Backbone
-58.19.55.88,15087,CN,China Mobile communications corporation
-58.19.55.7,15197,CN,CHINA UNICOM China169 Backbone
-58.19.55.88,15073,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15096,CN,Chinanet
-58.19.55.7,15240,CN,Chinanet
-58.19.55.4,15366,CN,China Mobile communications corporation
-58.19.55.7,15170,CN,CHINATELECOM Guangdong province Heyuan 5G network
-58.19.55.88,15084,CN,Chinanet
-58.19.55.7,15340,CN,Chinanet
-58.19.55.7,15134,CN,Chinanet
-58.19.55.7,15119,CN,Chinanet
-58.19.55.4,15343,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15331,CN,Chinanet
-58.19.55.4,15096,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15376,CN,Chinanet
-155.138.165.149,20000,US,The Constant Company  LLC
-58.19.55.4,15290,CN,China Telecom Group
-58.19.55.88,15041,CN,China Telecom Group
-58.19.55.7,15035,CN,China Mobile communications corporation
-58.19.55.7,15323,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15328,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15375,CN,Chinanet
-58.19.55.88,15026,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15213,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15111,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15188,CN,China Mobile Communications Group Co.  Ltd.
+45.76.207.177,40000,JP,Cloudflare  Inc.
+62.60.230.196,1080,SE,Aeza Group LLC
+58.19.55.7,15150,CN,Chinanet
+58.19.55.7,15032,CN,Chinanet
+185.175.229.58,1080,KH,WiCAM Corporation Ltd.
+58.19.55.7,15247,CN,Chinanet
+206.123.156.211,5150,NL,Signet B.V.
+152.70.91.193,40000,KR,Cloudflare  Inc.
+150.230.59.207,1080,NL,Podaon SIA
+58.19.55.88,15020,CN,Chinanet
+58.19.55.7,15373,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15263,CN,Chinanet
+58.19.55.7,15012,CN,Chinanet
+176.124.207.151,31176,SE,Aeza Group LLC
+58.19.55.7,15114,CN,Chinanet
+58.19.55.7,15142,CN,Chinanet
+58.19.55.88,15051,CN,Henan Mobile Communications Co. Ltd
+58.19.55.7,15277,CN,Chinanet
 58.19.55.7,15267,CN,Chinanet
-58.19.55.7,15154,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15331,CN,China Mobile communications corporation
-58.19.55.7,15254,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15255,CN,CHINATELECOM Jiangsu province Changzhou 5G network
-58.19.55.4,15188,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15219,CN,China Mobile communications corporation
-58.19.55.4,15066,CN,China Mobile Communications Group Co.  Ltd.
-91.107.124.215,1080,RU,JSC IOT
-58.19.55.88,15058,CN,China Mobile communications corporation
-58.19.55.7,15033,CN,HeiLongJiang Mobile Communication Company Limited
-58.19.55.7,15345,CN,Chinanet
-58.19.55.4,15107,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15140,CN,Chinanet
-58.19.55.7,15308,CN,China Telecom Group
-58.19.55.4,15210,CN,CHINA UNICOM China169 Backbone
-177.136.124.46,56113,BR,ITS TELECOMUNICACOES LTDA
-158.160.215.167,8123,RU,JSC Selectel
-58.19.55.4,15104,CN,Chinanet
-58.19.55.4,15224,CN,Chinanet
-165.154.162.178,4379,ES,Avatel Telecom  SA
-58.19.55.4,15216,CN,Hebei Mobile Communication Company Limited
-58.19.55.4,15097,CN,Chinanet
-58.19.55.4,15303,CN,Chinanet
-58.19.55.7,15387,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15273,CN,Chinanet
-58.19.55.4,15186,CN,China Unicom Guangzhou network
-58.19.55.88,15095,CN,CHINA UNICOM China169 Backbone
-102.176.178.66,4145,BF,Point-Atterissement-AS
-58.19.55.7,15269,CN,Hebei Mobile Communication Company Limited
-58.19.55.4,15215,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15349,CN,HeiLongJiang Mobile Communication Company Limited
-58.19.55.4,15011,CN,China Mobile Communications Group Co.  Ltd.
-77.65.50.118,34159,PL,INEA sp. z o.o.
-82.209.251.53,45678,BY,Business Network Ltd
-58.19.55.4,15235,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15098,CN,China Mobile communications corporation
-58.19.55.88,15083,CN,China Mobile communications corporation
-58.19.55.4,15395,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15399,CN,Chinanet
-58.19.55.4,15106,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15342,CN,Hebei Mobile Communication Company Limited
-178.248.3.76,1080,RU,Consumer Internet Cooperative PG-19
-185.13.134.202,1080,RU,UGMK-Telecom LLC
-58.19.55.7,15232,CN,Chinanet
-80.78.74.8,65530,AL,Vodafone Albania Sh.A.
-58.19.55.4,15283,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.88,15018,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15005,CN,Chinanet
-58.19.55.4,15060,CN,China Mobile communications corporation
-58.19.55.7,15256,CN,China Mobile communications corporation
-58.19.55.88,15042,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15065,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15174,CN,China Telecom Group
-58.19.55.7,15003,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15141,CN,Hebei Mobile Communication Company Limited
-58.19.55.7,15299,CN,Chinanet
-58.19.55.7,15099,CN,China Mobile communications corporation
-58.19.55.7,15105,CN,Chinanet
-58.19.55.7,15046,CN,Chinanet
-58.19.55.88,15019,CN,Chinanet
-58.19.55.7,15326,CN,China Mobile communications corporation
-58.19.55.7,15206,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15144,CN,Shandong Mobile Communication Company Limited
-58.19.55.4,15135,CN,Chinanet
-58.19.55.7,15367,CN,Chinanet
-78.130.246.65,1881,BG,Cooolbox AD
-58.19.55.7,15084,CN,Chinanet
-58.19.55.7,15026,CN,Shandong Mobile Communication Company Limited
-58.19.55.88,15030,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15043,CN,Chinanet
-58.19.55.7,15083,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15014,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15285,CN,CHINATELECOM Jiangsu province Changzhou 5G network
-58.19.55.88,15094,CN,Chinanet
-58.19.55.7,15056,CN,China Mobile communications corporation
-58.19.55.4,15117,CN,Shandong Mobile Communication Company Limited
-77.238.79.111,5678,BG,Fiber 1 Ltd.
-58.19.55.88,15031,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15052,CN,Chinanet
-58.19.55.4,15199,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15361,CN,Shandong Mobile Communication Company Limited
-58.19.55.88,15010,CN,Chinanet
-58.19.55.4,15158,CN,HeiLongJiang Mobile Communication Company Limited
-58.19.55.7,15045,CN,Hebei Mobile Communication Company Limited
-206.123.156.207,5377,VN,AZDIGI Corporation
-58.19.55.88,15062,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15366,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15077,CN,Chinanet
-58.19.55.7,15288,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15181,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15097,CN,China Mobile communications corporation
-58.19.55.7,15069,CN,Chinanet
-58.19.55.7,15355,CN,China Mobile communications corporation
-58.19.55.7,15266,CN,China Mobile communications corporation
-58.19.55.7,15059,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15104,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15040,CN,Chinanet
-58.19.55.7,15234,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.88,15080,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.88,15097,CN,China Unicom IP network China169 Guangdong province
-58.19.55.7,15399,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15223,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15023,CN,Chinanet
-58.19.55.7,15065,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15022,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15347,CN,Chinanet
-58.19.55.4,15317,CN,Chinanet
-58.19.55.4,15176,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15002,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15038,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15372,CN,ASN for TIANJIN Provincial Net of CT
-58.19.55.7,15296,CN,Chinanet
-58.19.55.7,15008,CN,Chinanet
-58.19.55.7,15272,CN,Henan Mobile Communications Co. Ltd
+58.19.55.7,15339,CN,Chinanet
+58.19.55.7,15166,CN,China Mobile communications corporation
+202.79.26.242,1080,KH,WiCAM Corporation Ltd.
+58.19.55.88,15058,CN,Chinanet
+58.19.55.7,15213,CN,Chinanet
+58.19.55.7,15252,CN,Chinanet
+58.19.55.7,15011,CN,CHINA UNICOM China169 Backbone
 58.19.55.7,15062,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15101,CN,Shandong Mobile Communication Company Limited
-58.19.55.7,15301,CN,China Mobile Communications Group Co.  Ltd.
-45.118.146.219,1080,VN,Long Van Soft Solution JSC
-2.78.60.10,3129,KZ,Kcell JSC
-58.19.55.4,15206,CN,China Mobile communications corporation
-58.19.55.4,15148,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15125,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15257,CN,China Mobile communications corporation
-58.19.55.7,15316,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15039,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15264,CN,Chinanet
-195.62.50.17,8080,TR,High Speed For Internet Services L.L.C
-58.19.55.7,15100,CN,China Mobile communications corporation
-58.19.55.7,15108,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15166,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15037,CN,China Mobile Communications Group Co.  Ltd.
-193.221.203.192,1080,FI,Baykov Ilya Sergeevich
-58.19.55.7,15128,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15193,CN,Chinanet
-58.19.55.4,15005,CN,Shanghai Mobile Communications Co. Ltd.
-58.19.55.88,15020,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15133,CN,Henan Mobile Communications Co. Ltd
-58.19.55.7,15370,CN,Chinanet
-58.19.55.4,15172,CN,Chinanet
-58.19.55.88,15069,CN,Chinanet
-58.19.55.4,15304,CN,Chinanet
-58.19.55.7,15113,CN,China Mobile communications corporation
-8.219.97.248,80,SG,Alibaba US Technology Co.  Ltd.
-58.19.55.7,15352,CN,China Mobile Communications Group Co.  Ltd.
-97.105.12.186,4153,US,Charter Communications Inc
-58.19.55.7,15214,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.88,15075,CN,China Unicom Beijing Province Network
-58.19.55.7,15210,CN,China Mobile Group JiLin communications corporation
-141.105.68.238,1080,RU,Hostkey B.v.
-58.19.55.4,15193,CN,China Mobile communications corporation
-58.19.55.4,15014,CN,China Mobile communications corporation
-58.19.55.7,15080,CN,Henan Mobile Communications Co. Ltd
-58.19.55.7,15070,CN,China Unicom Shanghai network
-116.80.82.138,3128,JP,NTT PC Communications  Inc.
-58.19.55.7,15358,CN,Chinanet
+58.19.55.7,15041,CN,Chinanet
+58.19.55.7,15048,CN,Chinanet
+58.19.55.4,15391,CN,Chinanet
+58.19.55.88,15068,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15368,CN,Chinanet
+58.19.55.4,15354,CN,Chinanet
+58.19.55.4,15341,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15174,CN,CHINA UNICOM China169 Backbone
+66.42.35.216,5555,JP,The Constant Company  LLC
+152.70.237.238,3128,KR,Cloudflare  Inc.
+58.19.55.4,15140,CN,Henan Mobile Communications Co. Ltd
 58.19.55.88,15033,CN,Chinanet
-58.19.55.7,15167,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15327,CN,China Mobile communications corporation
-58.19.55.7,15029,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15387,CN,CHINATELECOM Guangdong province Heyuan 5G network
-58.19.55.7,15237,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15385,CN,Chinanet
-58.19.55.7,15369,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15273,CN,China Unicom Beijing Province Network
-58.19.55.7,15199,CN,CHINATELECOM Guangdong province Heyuan 5G network
-58.19.55.7,15187,CN,Shandong Mobile Communication Company Limited
-58.19.55.4,15149,CN,Henan Mobile Communications Co. Ltd
-137.59.47.73,3128,VN,MOBIFONE Corporation
-58.19.55.7,15027,CN,Chinanet
-58.19.55.88,15004,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15242,CN,Chinanet
-58.19.55.7,15079,CN,Shanghai Mobile Communications Co. Ltd.
-176.12.78.141,3128,KZ,HostLab LLC
-58.19.55.7,15180,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15337,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15124,CN,Chinanet
-58.19.55.7,15318,CN,Chinanet
-58.19.55.7,15286,CN,Shandong Mobile Communication Company Limited
-58.19.55.4,15010,CN,China Unicom IP network China169 Guangdong province
-144.31.189.75,1080,DE,International Hosting Company Limited
-58.19.55.7,15130,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15155,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.88,15009,CN,Chinanet
+58.19.55.7,15014,CN,Chinanet
+58.19.55.4,15038,CN,Chinanet
+58.19.55.7,15272,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15183,CN,tianjin Mobile Communication Company Limited
+58.19.55.4,15104,CN,Chinanet
+58.19.55.7,15289,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15186,CN,Chinanet
+58.19.55.88,15048,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.4,15188,CN,Chinanet
+58.19.55.4,15366,CN,Chinanet
+58.19.55.7,15154,CN,CHINA UNICOM China169 Backbone
+58.19.55.88,15083,CN,China Unicom IP network China169 Guangdong province
+58.19.55.7,15276,CN,Shandong Mobile Communication Company Limited
+58.19.55.4,15244,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15138,CN,China Mobile communications corporation
+58.19.55.4,15064,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15287,CN,ASN for TIANJIN Provincial Net of CT
+58.19.55.7,15106,CN,China Unicom Shanghai network
+185.125.201.149,7443,RU,Timeweb  LLP
+58.19.55.4,15282,CN,CHINATELECOM Guangdong province Shanwei 5G network
+58.19.55.7,15338,CN,Chinanet
+194.150.220.163,1082,UA,Global Connectivity Solutions Llp
+58.19.55.7,15244,CN,CHINA UNICOM China169 Backbone
+58.19.55.88,15003,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.4,15059,CN,Chinanet
+103.150.254.80,9108,BD,Business Network
+58.19.55.88,15084,CN,China Mobile communications corporation
+58.19.55.4,15120,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15258,CN,CHINATELECOM Jiangsu province Suzhou 5G network
+58.19.55.7,15059,CN,Shandong Mobile Communication Company Limited
+58.19.55.88,15030,CN,CHINA UNICOM China169 Backbone
+58.19.55.88,15031,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15023,CN,CHINA UNICOM China169 Backbone
+58.19.55.88,15023,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15370,CN,China Mobile Communications Group Co.  Ltd.
+116.80.48.51,3128,JP,NTT PC Communications  Inc.
+58.19.55.4,15308,CN,Chinanet
+58.19.55.4,15066,CN,Chinanet
+160.250.54.9,9000,VN,SANDCLOCK SERVICE TRADING COMPANY LIMITED
+58.19.55.4,15158,CN,Chinanet
+58.19.55.7,15042,CN,Chinanet
+43.132.188.134,8888,HK,Tencent Building  Kejizhongyi Avenue
+94.72.57.157,8080,RU,MTS PJSC
+58.19.55.7,15187,CN,Chinanet
 58.19.55.4,15384,CN,Chinanet
-58.19.55.7,15071,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15164,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15233,CN,Hebei Mobile Communication Company Limited
-58.19.55.4,15189,CN,China Unicom IP network China169 Guangdong province
-46.8.104.176,1080,RU,Evro Telecom OOO
-58.19.55.7,15217,CN,China Unicom IP network China169 Guangdong province
-58.19.55.7,15095,CN,Chinanet
-58.19.55.7,15230,CN,China Mobile communications corporation
-58.19.55.88,15072,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15338,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15394,CN,Chinanet
-58.19.55.88,15079,CN,China Unicom Beijing Province Network
-58.19.55.4,15259,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15031,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15361,CN,Henan Mobile Communications Co. Ltd
+84.21.173.170,1080,DE,Play2go International Limited
+58.19.55.7,15022,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15315,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15240,CN,Chinanet
+58.19.55.7,15218,CN,China Mobile Communications Group Co.  Ltd.
 58.19.55.88,15040,CN,China Mobile communications corporation
-58.19.55.88,15078,CN,China Telecom Group
-58.19.55.88,15096,CN,China Mobile communications corporation
-58.19.55.7,15354,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15153,CN,China Mobile communications corporation
-58.19.55.7,15314,CN,China Mobile Communications Group Co.  Ltd.
-206.123.156.198,4392,CZ,Hostkey B.v.
-58.19.55.7,15172,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15262,CN,Hebei Mobile Communication Company Limited
-58.19.55.4,15275,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15139,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15015,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.88,15036,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15381,CN,HeiLongJiang Mobile Communication Company Limited
-58.19.55.7,15030,CN,China Mobile communications corporation
-58.19.55.7,15078,CN,China Mobile communications corporation
-58.19.55.4,15004,CN,CHINA UNICOM China169 Backbone
-84.22.48.28,8080,XK,Artmotion Sh.p.k.
-58.19.55.7,15239,CN,China Mobile communications corporation
-58.19.55.4,15307,CN,Hebei Mobile Communication Company Limited
-58.19.55.7,15389,CN,Henan Mobile Communications Co. Ltd
-91.84.98.74,12546,NL,Servers Tech Fzco
-58.19.55.7,15163,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15305,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15134,CN,China Mobile communications corporation
-58.19.55.88,15049,CN,Hebei Mobile Communication Company Limited
-58.19.55.7,15098,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15179,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15088,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15339,CN,China Mobile communications corporation
-58.19.55.4,15246,CN,Chinanet
-58.19.55.7,15171,CN,Chinanet
-58.19.55.7,15377,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15373,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15032,CN,HeiLongJiang Mobile Communication Company Limited
-85.10.201.144,42872,DE,Hetzner Online GmbH
-58.19.55.7,15111,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15282,CN,China Mobile communications corporation
-58.19.55.4,15108,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15324,CN,CHINATELECOM Guangdong province Zhuhai 5G network
-58.19.55.4,15298,CN,CHINATELECOM Hubei province Wuhan 5G network
-58.19.55.7,15307,CN,HeiLongJiang Mobile Communication Company Limited
-58.19.55.4,15272,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15287,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15260,CN,Chinanet
-58.19.55.7,15174,CN,Chinanet
-58.19.55.7,15091,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15013,CN,CHINATELECOM Guangdong province Heyuan 5G network
+147.45.221.189,1080,RU,Global Connectivity Solutions Llp
+58.19.55.7,15291,CN,China Unicom Guangzhou network
+130.61.174.200,1080,DE,Oracle Corporation
+58.19.55.4,15235,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15174,CN,Shandong Mobile Communication Company Limited
+119.148.47.166,22122,BD,Agni Systems Limited
+58.19.55.7,15343,CN,Chinanet
+58.19.55.88,15042,CN,Chinanet
+58.19.55.88,15080,CN,Chinanet
+58.19.55.7,15238,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15381,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15022,CN,Chinanet
+193.233.171.92,8888,RU,DpkgSoft International Limited
+58.19.55.88,15019,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15077,CN,Chinanet
+58.19.55.4,15001,CN,China Mobile communications corporation
+92.42.8.20,4145,RU,Stavtelecom LLC
+58.19.55.4,15265,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15178,CN,China Mobile communications corporation
+185.21.141.238,1080,RU,Directive LLC
+206.123.156.213,6666,SG,Oracle Corporation
+58.19.55.4,15162,CN,Chinanet
+58.19.55.7,15281,CN,China Mobile communications corporation
+58.19.55.4,15124,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15351,CN,China Mobile communications corporation
+103.189.218.76,6969,BD,Comfort Solutions
+58.19.55.7,15036,CN,Chinanet
+58.19.55.7,15198,CN,Chinanet
+206.123.156.207,5769,SE,Kepler Technologies AB
+91.92.78.207,4145,BG,Netguard LLC
+27.147.245.189,7735,BD,Link3 Technologies Ltd.
+58.19.55.7,15273,CN,Chinanet
+58.19.55.4,15014,CN,China Mobile communications corporation
+58.19.55.88,15094,CN,Chinanet
+58.19.55.7,15016,CN,China Mobile communications corporation
+91.107.179.64,1616,DE,Hetzner Online GmbH
+58.19.55.7,15045,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15181,CN,Chinanet
+58.19.55.7,15382,CN,China Mobile communications corporation
+58.19.55.88,15070,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15350,CN,Chinanet
+58.19.55.7,15265,CN,Chinanet
+58.19.55.7,15221,CN,Chinanet
+58.19.55.7,15230,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15127,CN,China Mobile communications corporation
+58.19.55.7,15364,CN,Shandong Mobile Communication Company Limited
+58.19.55.4,15105,CN,China Mobile communications corporation
+58.19.55.7,15354,CN,China Telecom
+58.19.55.4,15093,CN,China Mobile communications corporation
+58.19.55.4,15319,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.88,15089,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.4,15025,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.88,15002,CN,CHINATELECOM Guangdong province Zhongshan 5G network
+58.19.55.7,15367,CN,Chinanet
+58.19.55.7,15076,CN,Chinanet
+58.19.55.4,15312,CN,Henan Mobile Communications Co. Ltd
+58.19.55.4,15218,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15234,CN,Chinanet
+58.19.55.4,15372,CN,Chinanet
+154.9.247.134,9090,US,Cloudie Limited
+58.19.55.7,15102,CN,Chinanet
+58.19.55.7,15337,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15008,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15333,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15017,CN,CHINA UNICOM China169 Backbone
+15.204.151.142,3128,US,OVH SAS
+58.19.55.88,15069,CN,Chinanet
+188.132.249.202,8080,TR,High Speed For Internet Services L.L.C
+58.19.55.7,15233,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15245,CN,Chinanet
+58.19.55.4,15205,CN,Chinanet
+58.19.55.7,15148,CN,China Telecom Group
+58.19.55.7,15157,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.4,15213,CN,Chinanet
+58.19.55.7,15031,CN,CHINA UNICOM China169 Backbone
+58.19.55.88,15017,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15163,CN,Chinanet
+20.164.75.153,8080,ZA,Microsoft Corporation
+58.19.55.7,15386,CN,Chinanet
+58.19.55.7,15312,CN,Chinanet
+58.19.55.4,15101,CN,CHINA UNICOM China169 Backbone
+208.109.32.79,9050,CH,Datasource AG
+58.19.55.7,15321,CN,CHINATELECOM Jiangsu province Suzhou 5G network
+89.43.134.10,8080,HU,High Speed For Internet Services L.L.C
+58.19.55.7,15001,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15385,CN,Chinanet
+5.189.183.165,9050,SE,QuxLabs AB
+58.19.55.7,15094,CN,Henan Mobile Communications Co. Ltd
+58.19.55.88,15086,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15074,CN,Chinanet
+58.19.55.7,15051,CN,CHINA UNICOM China169 Backbone
+58.19.55.88,15099,CN,China Mobile communications corporation
+58.19.55.4,15344,CN,CHINATELECOM Guangdong province Shanwei 5G network
+58.19.55.7,15169,CN,Shandong Mobile Communication Company Limited
+58.19.55.88,15057,CN,China Mobile Communications Group Co.  Ltd.
 58.19.55.7,15248,CN,Chinanet
-58.19.55.7,15048,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15168,CN,China Mobile communications corporation
-58.19.55.4,15222,CN,Shandong Mobile Communication Company Limited
-58.19.55.4,15232,CN,China Mobile communications corporation
-58.19.55.4,15007,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15393,CN,CHINA UNICOM China169 Backbone
-58.19.55.88,15092,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15398,CN,Chinanet
-58.19.55.4,15251,CN,Chinanet
-58.19.55.4,15075,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15209,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15221,CN,CHINA UNICOM China169 Backbone
-58.19.55.88,15022,CN,China Mobile communications corporation
-58.19.55.7,15364,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15298,CN,China Unicom Shanghai network
-58.19.55.4,15376,CN,HeiLongJiang Mobile Communication Company Limited
-58.19.55.4,15024,CN,Chinanet
-58.19.55.7,15245,CN,CHINA UNICOM China169 Backbone
-58.19.55.88,15044,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15159,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15018,CN,HeiLongJiang Mobile Communication Company Limited
-58.19.55.7,15183,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15117,CN,Chinanet
-58.19.55.7,15261,CN,China Mobile communications corporation
-58.19.55.88,15053,CN,China Mobile communications corporation
-58.19.55.7,15223,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15191,CN,China Telecom Group
-58.19.55.88,15090,CN,Hebei Mobile Communication Company Limited
-58.19.55.7,15319,CN,China Telecom Group
-58.19.55.4,15028,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.88,15005,CN,Chinanet
-58.19.55.4,15204,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15184,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15352,CN,CHINATELECOM Guangdong province Zhuhai 5G network
-58.19.55.7,15391,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15276,CN,Hebei Mobile Communication Company Limited
-58.19.55.7,15156,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15182,CN,China Mobile communications corporation
-58.19.55.7,15061,CN,China Mobile communications corporation
-58.19.55.4,15002,CN,China Mobile communications corporation
-58.19.55.7,15350,CN,China Mobile communications corporation
-58.19.55.7,15341,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15173,CN,China Mobile communications corporation
-58.19.55.7,15127,CN,Shandong Mobile Communication Company Limited
-58.19.55.88,15065,CN,China Mobile Communicaitons Corporation
-58.19.55.7,15136,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15289,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15312,CN,CHINA UNICOM China169 Backbone
-58.19.55.88,15086,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15224,CN,Chinanet
-58.19.55.4,15094,CN,HeiLongJiang Mobile Communication Company Limited
-58.19.55.88,15076,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15264,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15279,CN,Chinanet
-58.19.55.7,15322,CN,Chinanet
-58.19.55.7,15333,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15367,CN,China Unicom Beijing Province Network
-58.19.55.7,15177,CN,HeiLongJiang Mobile Communication Company Limited
-58.19.55.4,15001,CN,China Mobile Group JiLin communications corporation
-58.19.55.4,15227,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15253,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15085,CN,China Mobile Communications Group Co.  Ltd.
+77.239.112.12,1080,NL,Intezio Worldwide Limited
+119.148.62.42,22122,BD,Agni Systems Limited
+58.19.55.7,15250,CN,CHINA UNICOM China169 Backbone
+8.220.143.77,1080,PH,Alibaba US Technology Co.  Ltd.
+206.123.156.211,7246,DE,Ultahost  Inc.
+58.19.55.7,15242,CN,CHINA UNICOM China169 Backbone
+58.19.55.88,15054,CN,CHINATELECOM Hubei province Wuhan 5G network
+58.19.55.7,15329,CN,Henan Mobile Communications Co. Ltd
+58.19.55.7,15136,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15254,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15335,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15084,CN,Shandong Mobile Communication Company Limited
+58.19.55.7,15348,CN,China Mobile Communications Group Co.  Ltd.
+192.73.243.65,3128,US,NetActuate  Inc
+206.123.156.207,7907,SG,DigitalOcean  LLC
+58.19.55.4,15216,CN,Chinanet
+58.19.55.4,15297,CN,Chinanet
+58.19.55.4,15109,CN,China Mobile communications corporation
+58.19.55.7,15030,CN,Chinanet
+103.187.113.241,1111,ID,PT Adi Solusindo Teknologi
+58.19.55.4,15214,CN,China Mobile communications corporation
+58.19.55.88,15044,CN,China Mobile communications corporation
+58.19.55.7,15314,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15052,CN,China Mobile communications corporation
+144.31.255.9,1080,DE,U1 Digital Services Ltd
+58.19.55.4,15125,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15208,CN,China Mobile Communications Group Co.  Ltd.
+116.80.48.103,3128,JP,NTT PC Communications  Inc.
+58.19.55.4,15154,CN,Shandong Mobile Communication Company Limited
+58.19.55.7,15069,CN,Chinanet
+46.188.2.42,5678,RU,LLC SETEL
+58.19.55.7,15349,CN,Chinanet
+58.19.55.7,15078,CN,CHINA UNICOM China169 Backbone
+46.8.48.143,1080,RU,ZagorodTelecom LLC
+91.247.250.215,4145,RU,Ivstar Ltd
+58.19.55.7,15376,CN,Chinanet
+58.19.55.4,15006,CN,Chinanet
+58.19.55.7,15391,CN,Chinanet
+58.19.55.4,15215,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15400,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15061,CN,Chinanet
+58.19.55.4,15170,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15050,CN,China Mobile Communications Group Co.  Ltd.
+185.234.66.87,1081,MD,WorkTitans B.V.
+58.19.55.7,15278,CN,CHINA UNICOM China169 Backbone
+58.19.55.88,15008,CN,China Mobile communications corporation
+58.19.55.88,15034,CN,Shandong Mobile Communication Company Limited
+58.19.55.7,15328,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15043,CN,CHINA UNICOM China169 Backbone
+193.221.203.192,1080,FI,Baykov Ilya Sergeevich
+58.19.55.88,15072,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.4,15306,CN,Chinanet
+58.19.55.4,15134,CN,Shandong Mobile Communication Company Limited
+149.86.151.151,8080,TR,Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Limited Sirketi
+58.19.55.7,15270,CN,Chinanet
+58.19.55.7,15371,CN,Chinanet
+58.19.55.4,15394,CN,China Mobile Communications Group Co.  Ltd.
+88.213.214.254,4145,BG,NETBOX LTD
+58.19.55.7,15152,CN,Chinanet
+58.19.55.4,15043,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15386,CN,Shandong Mobile Communication Company Limited
+58.19.55.4,15349,CN,China Mobile communications corporation
+58.19.55.4,15284,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15012,CN,China Mobile communications corporation
+58.19.55.7,15365,CN,China Mobile communications corporation
+58.19.55.7,15159,CN,Henan Mobile Communications Co. Ltd
+58.19.55.4,15301,CN,China Mobile communications corporation
+58.19.55.7,15137,CN,Chinanet
+58.19.55.7,15073,CN,Chinanet
+93.177.116.84,1080,NL,Baykov Ilya Sergeevich
+58.19.55.7,15241,CN,Shandong Mobile Communication Company Limited
+58.19.55.7,15363,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15151,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.4,15027,CN,Chinanet
+58.19.55.7,15053,CN,Hebei Mobile Communication Company Limited
+58.19.55.7,15153,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15340,CN,CHINATELECOM Jiangsu province Changzhou 5G network
+58.19.55.4,15202,CN,Chinanet
+206.123.156.207,4625,US,Amazon.com  Inc.
+58.19.55.4,15239,CN,Chinanet
+58.19.55.4,15252,CN,CHINA UNICOM China169 Backbone
+81.12.169.254,4153,RO,Vodafone Romania S.A.
+5.255.113.177,1080,NL,The Infrastructure Group B.V.
+58.19.55.7,15243,CN,China Mobile communications corporation
+58.19.55.4,15346,CN,Chinanet
+58.19.55.4,15168,CN,Chinanet
+58.19.55.7,15204,CN,China Mobile communications corporation
+58.19.55.4,15207,CN,Chinanet
+58.19.55.4,15117,CN,China Mobile communications corporation
+206.123.156.213,4423,AU,Amazon.com  Inc.
+58.19.55.4,15161,CN,Chinanet
+58.19.55.7,15344,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15071,CN,CHINATELECOM Jiangsu province Changzhou 5G network
+103.87.170.64,32650,IN,Tejays Dynamic Limited
+58.19.55.4,15040,CN,China Unicom IP network China169 Guangdong province
+58.19.55.4,15178,CN,Chinanet
 58.19.55.4,15020,CN,China Mobile communications corporation
-58.19.55.7,15371,CN,China Telecom Group
-58.19.55.7,15395,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.88,15043,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15293,CN,China Mobile communications corporation
-58.19.55.4,15120,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15332,CN,Chinanet
-58.19.55.4,15267,CN,China Mobile communications corporation
-58.19.55.7,15228,CN,Chinanet
-58.19.55.7,15283,CN,China Mobile communications corporation
-58.19.55.4,15386,CN,CHINATELECOM Hubei province Wuhan 5G network
-58.19.55.4,15241,CN,CHINA UNICOM China169 Backbone
-58.19.55.4,15300,CN,CHINATELECOM Guangdong province Zhuhai 5G network
-58.19.55.4,15397,CN,CHINA UNICOM China169 Backbone
-58.19.55.88,15082,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15042,CN,Chinanet
-58.19.55.7,15094,CN,Chinanet
-58.19.55.4,15363,CN,Chinanet
-58.19.55.4,15356,CN,China Mobile communications corporation
-58.19.55.7,15031,CN,HeiLongJiang Mobile Communication Company Limited
-58.19.55.4,15190,CN,CHINA UNICOM China169 Backbone
-58.19.55.7,15138,CN,Chinanet
-58.19.55.88,15066,CN,Chinanet
-58.19.55.88,15012,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.7,15060,CN,China Mobile Communications Group Co.  Ltd.
-58.19.55.4,15260,CN,China Mobile communications corporation
+58.19.55.4,15279,CN,Chinanet
+58.19.55.7,15374,CN,Chinanet
+58.19.55.88,15079,CN,China Mobile communications corporation
+58.19.55.4,15063,CN,Chinanet
+58.19.55.4,15355,CN,Chinanet
+50.238.47.86,32100,US,Comcast Cable Communications  LLC
+58.19.55.4,15336,CN,Shandong Mobile Communication Company Limited
+206.123.156.207,5794,NL,Signet B.V.
+58.19.55.4,15220,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15028,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15035,CN,Chinanet
+82.114.228.67,1080,RU,LLC smart Center
+58.19.55.7,15200,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15367,CN,China Mobile communications corporation
+58.19.55.88,15050,CN,Chinanet
+58.19.55.7,15393,CN,Chinanet
+58.19.55.4,15122,CN,China Mobile communications corporation
+58.19.55.4,15274,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15313,CN,Shandong Mobile Communication Company Limited
+58.19.55.4,15280,CN,Chinanet
+58.19.55.7,15165,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15179,CN,China Telecom Group
+58.19.55.4,15052,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.4,15190,CN,China Unicom Shanghai network
+58.19.55.88,15001,CN,China Unicom Guangzhou network
+58.19.55.4,15129,CN,Chinanet
+58.19.55.88,15091,CN,Chinanet
+58.19.55.4,15079,CN,Chinanet
+58.19.55.7,15086,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15346,CN,Chinanet
+58.19.55.7,15380,CN,Chinanet
+58.19.55.7,15358,CN,China Mobile communications corporation
+58.19.55.7,15282,CN,China Mobile communications corporation
+58.19.55.4,15309,CN,China Mobile communications corporation
+58.19.55.7,15249,CN,China Mobile communications corporation
+58.19.55.7,15091,CN,CHINATELECOM Jiangsu province Changzhou 5G network
+162.240.154.26,3128,US,Unified Layer
+58.19.55.7,15134,CN,Chinanet
+58.19.55.7,15173,CN,China Mobile communications corporation
+58.19.55.7,15297,CN,Chinanet
+58.19.55.4,15234,CN,China Unicom Beijing Province Network
+58.19.55.4,15277,CN,Chinanet
+58.19.55.7,15310,CN,Chinanet
+58.19.55.7,15098,CN,China Mobile communications corporation
+58.19.55.7,15315,CN,Chinanet
+58.19.55.4,15242,CN,Chinanet
+58.19.55.7,15128,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15239,CN,Shandong Mobile Communication Company Limited
+58.19.55.4,15269,CN,Chinanet
+58.19.55.4,15194,CN,China Mobile communications corporation
+58.19.55.7,15353,CN,China Mobile communications corporation
+58.19.55.7,15116,CN,China Telecom
+58.19.55.4,15362,CN,tianjin Mobile Communication Company Limited
+2.78.60.10,3129,KZ,Kcell JSC
+58.19.55.7,15378,CN,Chinanet
+58.19.55.4,15322,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15120,CN,China Mobile communications corporation
+58.19.55.4,15080,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.88,15029,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15292,CN,Chinanet
+58.19.55.7,15170,CN,Chinanet
+58.19.55.88,15045,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15253,CN,Chinanet
+58.19.55.4,15070,CN,CHINA UNICOM China169 Backbone
+58.19.55.88,15052,CN,Hebei Mobile Communication Company Limited
+58.19.55.7,15122,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15124,CN,Henan Mobile Communications Co. Ltd
+206.123.156.211,6803,VN,VNPT Corp
+58.19.55.7,15185,CN,China Mobile communications corporation
+58.19.55.4,15200,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15139,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15356,CN,Chinanet
+58.19.55.7,15260,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15193,CN,China Mobile Communications Group Co.  Ltd.
+206.123.156.211,5031,VN,MCO HA NOI TECHNOLOGY COMPANY LIMITED
+58.19.55.7,15288,CN,Chinanet
+58.19.55.7,15355,CN,tianjin Mobile Communication Company Limited
+58.19.55.7,15192,CN,Chinanet
+58.19.55.4,15192,CN,Shandong Mobile Communication Company Limited
+58.19.55.7,15006,CN,Henan Mobile Communications Co. Ltd
+58.19.55.7,15199,CN,Chinanet
+58.19.55.4,15334,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15088,CN,Chinanet
+58.19.55.7,15168,CN,China Mobile communications corporation
+58.19.55.4,15393,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15384,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15303,CN,Chinanet
+58.19.55.4,15221,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.4,15305,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15152,CN,Hebei Mobile Communication Company Limited
+58.19.55.7,15056,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15149,CN,Chinanet
+58.19.55.7,15147,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15309,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15388,CN,Chinanet
+58.19.55.4,15250,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.88,15005,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15096,CN,CHINATELECOM Jiangsu province Changzhou 5G network
+58.19.55.88,15004,CN,Hebei Mobile Communication Company Limited
+58.19.55.4,15187,CN,Shandong Mobile Communication Company Limited
+58.19.55.7,15222,CN,Chinanet
+58.19.55.4,15398,CN,Chinanet
+58.19.55.4,15276,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15306,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15203,CN,tianjin Mobile Communication Company Limited
+58.19.55.7,15397,CN,China Mobile communications corporation
+58.19.55.4,15090,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15132,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15180,CN,CHINATELECOM Jiangsu province Suzhou 5G network
+58.19.55.4,15013,CN,China Mobile communications corporation
+58.19.55.7,15039,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15197,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15211,CN,Shandong Mobile Communication Company Limited
+58.19.55.7,15007,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.88,15076,CN,Chinanet
+58.19.55.4,15246,CN,Shandong Mobile Communication Company Limited
+58.19.55.4,15026,CN,Henan Mobile Communications Co. Ltd
+58.19.55.88,15062,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15372,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.4,15106,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15176,CN,Chinanet
+58.19.55.4,15374,CN,Chinanet
+58.19.55.7,15396,CN,CHINA UNICOM China169 Backbone
+58.19.55.4,15095,CN,Henan Mobile Communications Co. Ltd
+58.19.55.7,15143,CN,Chinanet
+58.19.55.4,15289,CN,China Mobile communications corporation
+58.19.55.7,15090,CN,China Mobile communications corporation
+58.19.55.4,15288,CN,China Mobile Communications Group Co.  Ltd.
+58.19.55.7,15055,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15046,CN,CHINA UNICOM China169 Backbone
+58.19.55.88,15071,CN,Chinanet
+58.19.55.4,15321,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15126,CN,CHINA UNICOM China169 Backbone
+58.19.55.7,15164,CN,China Mobile Communications Group Co.  Ltd.
