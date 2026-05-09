@@ -1,12 +1,12 @@
 === START CLEAN DEPLOY ===
 Step 0: Installing Dependencies...
 
-added 85 packages, and audited 86 packages in 1s
+added 85 packages, and audited 86 packages in 2s
 
 22 packages are looking for funding
   run `npm fund` for details
 
-1 high severity vulnerability
+2 vulnerabilities (1 moderate, 1 high)
 
 To address all issues, run:
   npm audit fix
@@ -15,19 +15,34 @@ Run `npm audit` for details.
 
 Step 1: Deleting existing worker...
 
- ⛅️ wrangler 4.77.0
+ ⛅️ wrangler 4.86.0
 ───────────────────
+There is a newer version of Wrangler available (current: 4.86.0, latest: 4.90.0). Try upgrading, as it might support this configuration option.
 Successfully deleted aegir
 
 Step 2: Deploying new version...
 
- ⛅️ wrangler 4.77.0
-───────────────────
+ ⛅️ wrangler 4.86.0 (update available 4.90.0)
+─────────────────────────────────────────────
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mProcessing wrangler.toml configuration:[0m
+
+    - Unexpected fields found in triggers field: "cron"
+
+
 
 Cloudflare collects anonymous telemetry about your usage of Wrangler. Learn more at https://github.com/cloudflare/workers-sdk/tree/main/packages/wrangler/telemetry.md
-Total Upload: 154.93 KiB / gzip: 39.40 KiB
-Worker Startup Time: 11 ms
-Uploaded aegir (2.65 sec)
-Deployed aegir triggers (3.00 sec)
-  https://aegir.katahiranaruse-daydream.workers.dev
-Current Version ID: 33404278-09dd-4548-abfc-bf94fdfacf9d
+There is a newer version of Wrangler available (current: 4.86.0, latest: 4.90.0). Try upgrading, as it might support this configuration option.
+Total Upload: 155.78 KiB / gzip: 39.70 KiB
+Your Worker has access to the following bindings:
+Binding                                    Resource          
+env.KV_CACHE (<YOUR_KV_NAMESPACE_ID>)      KV Namespace      
+
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mA request to the Cloudflare API (/accounts/b7a623571b1f17371cb3f59bdd8dafe4/workers/scripts/aegir) failed.[0m
+
+  KV namespace '<YOUR_KV_NAMESPACE_ID>' is not valid. Please verify the namespace_id in your configuration. [code: 10042]
+  
+  If you think this is a bug, please open an issue at: [4mhttps://github.com/cloudflare/workers-sdk/issues/new/choose[0m
+
+
+🪵  Logs were written to "/home/runner/.config/.wrangler/logs/wrangler-2026-05-09_21-14-36_840.log"
