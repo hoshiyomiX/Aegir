@@ -2,5 +2,16 @@ name = "aegir"
 main = "src/index.js"
 compatibility_date = "2024-03-29"
 
+# QW-1: KV Namespace binding — activates existing cache layer in cache.js
+# Create namespace via: wrangler kv:namespace create "KV_CACHE"
+[[kv_namespaces]]
+binding = "KV_CACHE"
+id = "<YOUR_KV_NAMESPACE_ID>"
+
+# QW-3: Cron Triggers — scheduled cache warming & maintenance
+# Free tier: up to 5 triggers per account
+[triggers]
+cron = ["*/15 * * * *"]
+
 [observability]
 enabled = true

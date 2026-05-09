@@ -432,12 +432,15 @@ export default {
             });
           }
 
-          return new Response(JSON.stringify(groupedProxies), {
-            headers: {
-              ...CORS_HEADER_OPTIONS,
-              "Content-Type": "application/json",
-              "Cache-Control": "public, max-age=300"
-            }
+          // QW-2: Wrap with edge cache for /api/v1/proxies
+          return handleCachedRequest(request, () => {
+            return new Response(JSON.stringify(groupedProxies), {
+              headers: {
+                ...CORS_HEADER_OPTIONS,
+                "Content-Type": "application/json",
+                "Cache-Control": "public, max-age=180, s-maxage=300, stale-while-revalidate=600"
+              }
+            });
           });
         } else if (apiPath.startsWith("/myip")) {
           return new Response(JSON.stringify({
@@ -495,5 +498,33 @@ export default {
         headers: { ...CORS_HEADER_OPTIONS, "Content-Type": "text/plain; charset=utf-8" } 
       });
     }
+  },
+
+  // QW-3: Cron Trigger handler — scheduled cache warming & maintenance
+  // Triggered every 15 minutes via wrangler.toml [triggers].cron
+  // Free tier: up to 5 cron triggers, 30s CPU per invocation
+  async scheduled(event, env, ctx) {
+    const cronTag = `[Aegir-Cron:${new Date().toISOString()}]`;
+
+    ctx.waitUntil((async () => {
+      try {
+        // 1. Pre-warm proxy list cache (both KV sources)
+        await getKVPrxList(KV_PRX_URL, env);
+        await getPrxListPaginated(PRX_BANK_URL, { offset: 0, limit: 1 }, env);
+
+        // 2. Pre-warm DNS cache for known domains
+        await prewarmDNS();
+
+        // 3. Perform global cleanup (bounded maps, stale entries)
+        performGlobalCleanup();
+
+        // 4. Cleanup DNS cache
+        cleanupDNSCache();
+
+        console.log(`${cronTag} Cache warm + cleanup completed`);
+      } catch (err) {
+        console.error(`${cronTag} Cron error:`, err);
+      }
+    })());
   },
 };
