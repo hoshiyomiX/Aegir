@@ -18,7 +18,8 @@ Step 1: Deleting existing worker...
  ⛅️ wrangler 4.86.0
 ───────────────────
 There is a newer version of Wrangler available (current: 4.86.0, latest: 4.90.0). Try upgrading, as it might support this configuration option.
-Successfully deleted aegir
+
+Worker doesn't exist yet, skipping delete
 
 Step 2: Deploying new version...
 
@@ -32,17 +33,9 @@ Step 2: Deploying new version...
 
 Cloudflare collects anonymous telemetry about your usage of Wrangler. Learn more at https://github.com/cloudflare/workers-sdk/tree/main/packages/wrangler/telemetry.md
 There is a newer version of Wrangler available (current: 4.86.0, latest: 4.90.0). Try upgrading, as it might support this configuration option.
-Total Upload: 155.78 KiB / gzip: 39.70 KiB
-Your Worker has access to the following bindings:
-Binding                                    Resource          
-env.KV_CACHE (<YOUR_KV_NAMESPACE_ID>)      KV Namespace      
-
-
-[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mA request to the Cloudflare API (/accounts/b7a623571b1f17371cb3f59bdd8dafe4/workers/scripts/aegir) failed.[0m
-
-  KV namespace '<YOUR_KV_NAMESPACE_ID>' is not valid. Please verify the namespace_id in your configuration. [code: 10042]
-  
-  If you think this is a bug, please open an issue at: [4mhttps://github.com/cloudflare/workers-sdk/issues/new/choose[0m
-
-
-🪵  Logs were written to "/home/runner/.config/.wrangler/logs/wrangler-2026-05-09_21-14-36_840.log"
+Total Upload: 156.42 KiB / gzip: 39.90 KiB
+Worker Startup Time: 7 ms
+Uploaded aegir (1.48 sec)
+Deployed aegir triggers (0.73 sec)
+  https://aegir.katahiranaruse-daydream.workers.dev
+Current Version ID: 924a1bad-30f2-4c47-80af-bd7fc0fbafdb
