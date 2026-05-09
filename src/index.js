@@ -206,6 +206,31 @@ async function handleCachedRequest(request, handler) {
   if (response) {
     const newResponse = new Response(response.body, response);
     newResponse.headers.set('X-Cache-Status', 'HIT');
+    
+    // QW-3: Stale-while-revalidate — serve stale immediately,
+    // then revalidate in background for next request.
+    // Check if the cached response has expired s-maxage but is
+    // still within stale-while-revalidate window.
+    const cacheControl = response.headers.get('Cache-Control') || '';
+    const swrMatch = cacheControl.match(/stale-while-revalidate=(\d+)/);
+    const sMaxageMatch = cacheControl.match(/s-maxage=(\d+)/);
+    if (swrMatch && sMaxageMatch) {
+      const age = parseInt(response.headers.get('Age') || '0');
+      const sMaxage = parseInt(sMaxageMatch[1]);
+      const swrWindow = parseInt(swrMatch[1]);
+      // If within SWR window, revalidate in background
+      if (age > sMaxage && age < sMaxage + swrWindow) {
+        try {
+          // Fire-and-forget background revalidation
+          const freshResponse = await handler();
+          if (freshResponse.status === 200) {
+            await cache.put(cacheKey, freshResponse.clone());
+          }
+        } catch (e) {
+          // Background revalidation failure is non-fatal
+        }
+      }
+    }
     return newResponse;
   }
   
@@ -526,10 +551,28 @@ export default {
         // Without this, CDN serves stale proxy lists until s-maxage expires.
         try {
           const cache = caches.default;
-          // Purge /api/v1/proxies cache (force refresh on next request)
-          const proxiesUrl = new URL(`/api/v1/proxies`, `https://aegir.workers.dev`);
-          await cache.delete(new Request(proxiesUrl.toString()));
-          console.log(`${cronTag} Phase 3: Purged stale CDN cache entries`);
+          // Purge /api/v1/proxies cache for all known host variants
+          // We can't know the exact domain at cron time, so purge by
+          // pathname prefix — Cache API matches on full URL including origin,
+          // so we try common origins.
+          const origins = [
+            'https://aegir.workers.dev',
+            env.AEGIR_DOMAIN ? `https://${env.AEGIR_DOMAIN}` : null,
+          ].filter(Boolean);
+          
+          let purgedCount = 0;
+          for (const origin of origins) {
+            const proxiesUrl = new URL('/api/v1/proxies', origin);
+            const deleted = await cache.delete(new Request(proxiesUrl.toString()));
+            if (deleted) purgedCount++;
+            // Also purge subscription endpoint cache variants
+            for (const fmt of ['raw', 'clash']) {
+              const subUrl = new URL(`/api/v1/sub?format=${fmt}`, origin);
+              const subDeleted = await cache.delete(new Request(subUrl.toString()));
+              if (subDeleted) purgedCount++;
+            }
+          }
+          console.log(`${cronTag} Phase 3: Purged ${purgedCount} stale CDN cache entries`);
         } catch (purgeErr) {
           // Cache purge is best-effort, don't fail the whole cron
           console.warn(`${cronTag} Phase 3: Cache purge skipped: ${purgeErr.message}`);
