@@ -500,28 +500,48 @@ export default {
     }
   },
 
-  // QW-3: Cron Trigger handler — scheduled cache warming & maintenance
+  // QW-2: Cron Trigger handler — scheduled cache warming & maintenance
   // Triggered every 15 minutes via wrangler.toml [triggers].cron
   // Free tier: up to 5 cron triggers, 30s CPU per invocation
   async scheduled(event, env, ctx) {
     const cronTag = `[Aegir-Cron:${new Date().toISOString()}]`;
+    const scheduledTime = event.scheduledTime;
 
     ctx.waitUntil((async () => {
       try {
-        // 1. Pre-warm proxy list cache (both KV sources)
+        // Phase 1: Refresh proxy data sources
+        // This populates in-memory cache so next request is fast
+        console.log(`${cronTag} Phase 1: Refreshing proxy lists...`);
         await getKVPrxList(KV_PRX_URL, env);
         await getPrxListPaginated(PRX_BANK_URL, { offset: 0, limit: 1 }, env);
 
-        // 2. Pre-warm DNS cache for known domains
+        // Phase 2: Pre-warm DNS cache for known upstream domains
+        // Resolves DNS ahead of time so first request doesn't wait
+        console.log(`${cronTag} Phase 2: Pre-warming DNS cache...`);
         await prewarmDNS();
 
-        // 3. Perform global cleanup (bounded maps, stale entries)
-        performGlobalCleanup();
+        // Phase 3: QW-3 Cache API — Purge stale CDN cache entries
+        // After refreshing in-memory data, purge the old subscription
+        // responses from the edge cache so next requests get fresh data.
+        // Without this, CDN serves stale proxy lists until s-maxage expires.
+        try {
+          const cache = caches.default;
+          // Purge /api/v1/proxies cache (force refresh on next request)
+          const proxiesUrl = new URL(`/api/v1/proxies`, `https://aegir.workers.dev`);
+          await cache.delete(new Request(proxiesUrl.toString()));
+          console.log(`${cronTag} Phase 3: Purged stale CDN cache entries`);
+        } catch (purgeErr) {
+          // Cache purge is best-effort, don't fail the whole cron
+          console.warn(`${cronTag} Phase 3: Cache purge skipped: ${purgeErr.message}`);
+        }
 
-        // 4. Cleanup DNS cache
+        // Phase 4: Global state cleanup (bounded maps, stale entries)
+        // Keeps memory usage bounded within isolate
+        performGlobalCleanup();
         cleanupDNSCache();
 
-        console.log(`${cronTag} Cache warm + cleanup completed`);
+        const elapsed = Date.now() - scheduledTime;
+        console.log(`${cronTag} All phases completed in ${elapsed}ms`);
       } catch (err) {
         console.error(`${cronTag} Cron error:`, err);
       }
