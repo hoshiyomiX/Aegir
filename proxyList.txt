@@ -1,83 +1,110 @@
-158.160.211.3,1080,RU,Yandex.Cloud LLC
 185.200.188.234,10001,RU,Ihor Hosting Ltd
-185.125.19.32,3128,RU,QuickSoft LLC
+89.169.169.193,8080,RU,Yandex.Cloud LLC
+135.125.154.105,8899,FR,OVH SAS
+135.125.154.108,8899,FR,OVH SAS
 176.111.37.216,39811,UA,Cogento Backbone Limited
-81.200.154.236,48503,PL,Timeweb  LLP
-94.241.175.40,10808,GR,Timeweb  LLP
-209.38.200.247,1080,DE,DigitalOcean  LLC
-91.217.149.240,8080,DE,Hostkey B.v.
-117.55.203.162,8899,CH,Datacamp Limited
-45.84.222.25,1080,NL,Play2go International Limited
-37.49.224.15,3128,EE,PUSHPKT OU
-45.13.185.217,3128,ES,Soluciones web on line s.l.
-185.233.186.88,443,ES,GTHost
-117.55.203.161,8899,CH,Datacamp Limited
+176.111.37.5,39811,UA,Cogento Backbone Limited
+185.161.251.195,3128,DE,Global Connectivity Solutions Llp
+188.225.58.59,443,ES,GTHost
 31.40.204.188,443,TR,Fiba Cloud Operation Company  LLC
-167.86.95.198,3128,DE,Contabo GmbH
-198.199.86.11,3128,US,DigitalOcean  LLC
+157.245.143.65,7890,US,DigitalOcean  LLC
 209.97.150.167,3128,US,DigitalOcean  LLC
+34.43.46.91,443,US,Google LLC
+198.199.86.11,3128,US,DigitalOcean  LLC
 159.203.61.169,3128,CA,DigitalOcean  LLC
 34.43.46.91,80,US,Google LLC
-34.43.46.91,443,US,Google LLC
-104.154.186.48,80,US,Google LLC
-162.222.206.167,8080,US,IONOS SE
-188.225.58.59,443,ES,GTHost
+209.38.200.247,1080,DE,DigitalOcean  LLC
+81.200.154.236,48503,PL,Timeweb  LLP
+157.66.172.40,8080,ID,PT Digital Nusantara Sejati Group
+216.49.115.7,8080,US,Perry-Spencer Communications  Inc.
+185.233.186.88,443,ES,GTHost
+51.75.129.66,3128,DE,Stiftung Erneuerbare Freiheit
 202.28.194.139,31280,TH,UNINET-TH
-14.143.222.113,10158,IN,TATA Communications formerly VSNL is Leading ISP
+121.101.129.97,8181,ID,PT SELARAS CITRA TERABIT
 138.68.60.8,3128,US,DigitalOcean  LLC
-104.161.37.187,3128,US,Input Output Flood LLC
-113.160.132.26,8080,VN,VNPT Corp
-50.114.102.16,8888,DE,Sculk Ltd.
-43.161.239.147,11090,HK,Tencent Building  Kejizhongyi Avenue
-43.161.239.147,8888,HK,Tencent Building  Kejizhongyi Avenue
-125.129.15.95,3128,KR,Korea Telecom
-175.194.173.105,3128,KR,Korea Telecom
-169.212.15.161,5000,KR,Korea Telecom
-103.189.197.43,7778,ID,PT Graha Sumber Teknologi
-147.45.78.89,1080,SE,Aeza Group LLC
-180.2.108.38,8080,JP,NTT DOCOMO BUSINESS Inc.
-151.243.153.157,8118,US,Black Apple
-89.43.132.250,8080,HU,High Speed For Internet Services L.L.C
-84.247.171.137,3128,FR,Contabo GmbH
-164.92.165.209,18080,IN,Elisteka UAB
-43.133.22.248,9091,JP,Cloudflare  Inc.
-129.153.7.7,60000,US,Oracle Corporation
-128.140.113.110,5153,DE,Hetzner Online GmbH
-116.254.118.180,80,ID,PT Media Sarana Data
-43.162.115.85,8080,US,Tencent Building  Kejizhongyi Avenue
-4.221.164.109,9443,ZA,Microsoft Corporation
-116.80.49.97,3172,JP,NTT PC Communications  Inc.
-116.104.252.1,2070,VN,Viettel Group
-116.80.50.48,3172,JP,NTT PC Communications  Inc.
-131.222.210.185,8080,SY,High Speed For Internet Services L.L.C
-194.58.33.7,3128,DE,International Hosting Company Limited
-144.31.73.173,3128,DE,U1 Digital Services Ltd
-2.26.87.216,1080,FI,Play2go International Limited
-93.182.23.94,6060,RU,Limited Liability Company Kvidex-Telecom
-103.76.107.255,8080,ID,PT Geka Solusi Utama
-116.104.250.118,1088,VN,Viettel Group
-45.155.125.102,1447,TR,2e Telekomunikasyon Ltd Sti
-45.95.232.35,3128,CH,Global Connectivity Solutions Llp
-38.123.220.108,999,MX,Cogent Communications  LLC
-110.172.62.196,8080,JP,TOKAI Communications Corporation
-190.93.224.32,999,PE,CONEX TV E.I.R.L.
-192.73.243.65,3128,US,NetActuate  Inc
-195.9.238.37,8080,RU,PJSC Moscow city telephone network
-173.212.246.157,3128,FR,Contabo GmbH
-4.221.164.109,80,ZA,Microsoft Corporation
-185.121.15.190,3128,ES,ZhouyiSat Communications
-45.230.170.13,999,VE,SOLUCIONES DCN NETWORK C.A
-194.87.43.46,8080,RU,Jsc timeweb
-200.24.153.79,8080,EC,UFINET PANAMA S.A.
-177.247.249.5,3128,MX,Mega Cable  S.A. de C.V.
+103.145.34.112,1111,ID,PT Lintas Data Multimedia
+94.241.175.40,10808,GR,Timeweb  LLP
+14.143.222.113,10147,IN,TATA Communications formerly VSNL is Leading ISP
+159.194.203.75,8118,RU,PJSC MegaFon
+139.59.1.14,8080,IN,DigitalOcean  LLC
 1.231.81.166,3128,KR,SK Broadband Co Ltd
-144.124.227.88,3128,NL,Servers Tech Fzco
-158.178.237.243,3128,SG,Oracle Corporation
-147.45.152.242,3128,RU,Timeweb  LLP
-64.176.36.91,8888,JP,The Constant Company  LLC
-112.186.12.196,3128,KR,Korea Telecom
-125.26.143.202,80,TH,TOT Public Company Limited
+113.160.132.26,8080,VN,VNPT Corp
+173.212.246.157,3128,FR,Contabo GmbH
+45.67.139.117,8080,FR,YottaSrc
 138.2.156.101,3128,DE,Oracle Corporation
-103.3.59.208,8080,ID,PT. Eka Mas Republik
+82.114.228.67,1080,RU,LLC smart Center
+101.36.123.203,8118,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+180.2.108.38,8080,JP,NTT DOCOMO BUSINESS Inc.
+129.153.7.7,60000,US,Oracle Corporation
+95.78.161.82,7777,RU,JSC ER-Telecom Holding
+167.86.95.198,3128,DE,Contabo GmbH
+163.227.183.19,8085,ID,PT Oofydi Media Group
+78.108.103.87,8080,CZ,FreeTel  s.r.o.
+147.45.170.190,3128,RU,Timeweb  LLP
+164.92.165.209,18080,IN,Elisteka UAB
+104.161.37.187,3128,US,Input Output Flood LLC
+119.93.94.108,8080,PH,Philippine Long Distance Telephone Company
+137.59.47.73,3128,VN,MOBIFONE Corporation
+118.179.206.42,8080,BD,AmberIT Limited
+43.161.239.147,11090,HK,Tencent Building  Kejizhongyi Avenue
+5.161.50.82,8118,NI,Alviva Holding Limited
+119.148.47.235,1048,BD,Agni Systems Limited
+43.128.145.26,1080,KR,Tencent Building  Kejizhongyi Avenue
+47.242.243.198,2233,HK,Alibaba (US) Technology Co.  Ltd.
+102.204.153.206,8080,KE,Gawia Ltd
+103.106.231.75,8081,AU,Cloudflare  Inc.
+116.171.106.26,3443,CN,CHINA UNICOM China169 Backbone
+2.26.17.187,8888,DE,Nekobyte International Limited
+45.159.79.101,3128,US,ZhouyiSat Communications
+116.2.78.22,10808,US,HostPapa
+187.62.65.6,8080,BR,GN TELECOM
+103.139.98.118,8080,ID,PT. DIGITAL NETWORK SETIAWAN
+129.80.217.21,444,US,Oracle Corporation
+117.55.203.162,8899,CH,Datacamp Limited
+43.160.236.170,8888,SG,Tencent Building  Kejizhongyi Avenue
+112.209.49.84,8081,PH,Philippine Long Distance Telephone Company
+193.124.57.14,443,CZ,SmartApe OU
+38.127.172.7,37234,US,Cogent Communications  LLC
+4.221.164.109,80,ZA,Microsoft Corporation
+103.134.1.14,8080,PK,Prime Networks
+41.128.90.50,1976,EG,Link Egypt (Link.NET)
+141.164.206.16,8080,SA,Saudi Telecom Company JSC
+5.128.120.101,8181,RU,Novotelecom Ltd
+194.13.80.204,3128,DE,netcup GmbH
+195.13.164.73,8080,LV,SIA Tet
+41.65.103.190,8080,EG,ETISALAT MISR
+140.227.61.201,3128,JP,NTT PC Communications  Inc.
+163.61.187.34,1515,ID,PT Timeplus Network Media
+220.158.232.118,1080,KH,ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
+65.20.154.62,28080,IQ,Hulum Almustakbal Company for Communication Engineering and Services Ltd
+157.15.139.103,8080,ID,PT Ring Media Nusantara
+81.168.119.85,443,GB,Iomart Cloud Services Limited
+103.162.54.82,8080,ID,PT Pratama Asia Globalindo
+103.174.122.173,8085,ID,PT Jaya Sejahtra Nugraha
+103.178.21.104,3125,ID,PT Trisna Mega Abadi
+212.252.73.4,8080,TR,Superonline Iletisim Hizmetleri A.S.
+103.146.54.25,8080,BD,Summit Communications Ltd
+103.111.225.106,8080,BD,Plusnet Inc
+112.203.216.7,8082,PH,Philippine Long Distance Telephone Company
+117.55.203.161,8899,CH,Datacamp Limited
+167.86.74.161,3128,DE,Contabo GmbH
+111.92.88.27,3128,IN,Cable ISP in India
+4.221.164.109,9443,ZA,Microsoft Corporation
+181.114.230.2,8080,AR,CyberWave S.A.
+49.0.26.215,8080,ID,PT Persada Data Multimedia
+194.87.43.46,8080,RU,Jsc timeweb
+103.30.31.209,32323,BD,Broad Band Telecom Services Ltd
+37.49.224.15,3128,EE,PUSHPKT OU
+157.15.62.20,1080,ID,PT Anugerah Media Data Nusantara
+38.10.91.114,8084,BR,Panay Broadband / Buenavista Cable TV Inc.
+190.14.240.92,999,CO,UFINET PANAMA S.A.
+103.76.108.8,8080,ID,PT Mahawira Nusantara Grup
+185.230.190.195,3128,FI,Livi Hosting Ltd
+4.221.164.109,443,ZA,Microsoft Corporation
+89.22.230.26,1080,SE,Aeza Group LLC
+38.156.13.38,999,CO,TV&MAS S.A.S
 43.228.215.32,8080,SG,Atlantic.net  Inc.
-67.20.129.199,8080,US,Hargray Communications Group  Inc.
+61.29.96.146,8000,AU,AAPT Limited
+103.187.86.34,8182,ID,PT Satunol Digital Teknologi
+103.161.131.110,8080,ID,PT Jaringan Internet Nusantara
+44.222.225.133,7777,US,Amazon.com  Inc.
