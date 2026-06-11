@@ -1,45 +1,70 @@
 147.45.146.97,1080,RU,Jsc timeweb
-188.127.224.164,2080,FI,Oy Crea Nova Hosting Solution Ltd
-176.111.37.216,39811,UA,Cogento Backbone Limited
-135.125.154.105,8899,FR,OVH SAS
+185.200.188.234,10001,RU,Ihor Hosting Ltd
+217.154.155.115,8080,DE,IONOS SE
 37.49.224.15,3128,EE,PUSHPKT OU
-5.160.200.109,8088,IR,Respina Networks & Beyond PJSC
-198.199.86.11,3128,US,DigitalOcean  LLC
 209.97.150.167,3128,US,DigitalOcean  LLC
-159.203.61.169,3128,CA,DigitalOcean  LLC
-52.188.28.218,3128,US,Microsoft Corporation
-138.68.60.8,3128,US,DigitalOcean  LLC
-5.78.60.155,8080,US,Hetzner Online GmbH
-139.59.1.14,8080,IN,DigitalOcean  LLC
-81.200.154.236,48503,PL,Timeweb  LLP
-38.180.2.107,3128,BG,M247 Europe SRL
-1.231.81.166,3128,KR,SK Broadband Co Ltd
-20.210.76.175,8561,JP,Microsoft Corporation
-8.219.97.248,80,SG,Alibaba (US) Technology Co.  Ltd.
-191.252.111.160,7000,BR,Locaweb Servicos de Internet S/A
-114.141.50.210,8080,ID,PT Cyberplus Media Pratama
 34.43.46.91,443,US,Google LLC
-152.32.132.190,7890,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
-159.198.35.187,1080,US,Namecheap  Inc.
-71.168.71.12,8888,NL,Church of Cyberology
-2.26.87.216,1080,FI,Play2go International Limited
-14.143.222.113,10144,IN,TATA Communications formerly VSNL is Leading ISP
-210.5.93.253,8080,PH,Globe Telecoms
 193.29.224.20,3128,FI,Aeza Group LLC
-45.95.232.35,3128,CH,Global Connectivity Solutions Llp
-152.53.52.47,1080,US,netcup GmbH
-152.53.52.47,1080,US,netcup GmbH
+195.158.1.187,8026,UZ,Uzbektelekom Joint Stock Company
+138.68.60.8,3128,US,DigitalOcean  LLC
+34.43.46.91,80,US,Google LLC
+159.198.35.187,1080,US,Namecheap  Inc.
+139.59.1.14,8080,IN,DigitalOcean  LLC
+47.80.112.92,8080,TR,Alibaba (US) Technology Co.  Ltd.
+51.250.86.201,2080,RU,Yandex.Cloud LLC
+35.182.12.78,55474,DE,F3 Netze e.V.
+202.28.194.139,31280,TH,UNINET-TH
+16.52.81.236,31641,DK,Forening for DotSrc
+72.240.9.63,80,US,Buckeye Cablevision  Inc.
 45.84.222.25,1080,NL,Play2go International Limited
-85.117.56.85,8080,GE,Caucasus Online Ltd.
-157.20.244.194,7777,ID,PT.Global Media Data Prima
-195.9.238.35,8080,RU,PJSC Moscow city telephone network
-89.127.207.174,18080,SE,Cloudflare  Inc.
-4.221.164.109,443,ZA,Microsoft Corporation
-195.9.238.36,8080,RU,PJSC Moscow city telephone network
-5.161.50.82,8118,SE,No ACK Group Holding AB
+81.177.214.151,8080,FI,Global Connectivity Solutions Llp
+8.219.97.248,80,SG,Alibaba (US) Technology Co.  Ltd.
+203.30.9.8,8443,AU,Southern Phone Company Ltd
+34.222.118.149,13885,NL,Church of Cyberology
+15.160.132.166,12833,NL,Church of Cyberology
+34.222.118.149,45164,BG,TechTies Inc.
+182.160.106.146,12331,BD,aamra networks limited
+18.228.228.159,49030,NL,Church of Cyberology
+116.80.96.251,3172,JP,NTT PC Communications  Inc.
+116.80.94.84,3172,JP,NTT PC Communications  Inc.
+116.80.66.28,3172,JP,NTT PC Communications  Inc.
+116.80.50.233,3172,JP,NTT PC Communications  Inc.
+116.80.92.54,3172,JP,NTT PC Communications  Inc.
+116.80.91.203,3172,JP,NTT PC Communications  Inc.
+116.80.83.16,3172,JP,NTT PC Communications  Inc.
+168.194.147.18,8080,BR,Link Net Provedor de Internet LTDA
+116.80.65.209,3172,JP,NTT PC Communications  Inc.
+2.26.87.216,1080,FI,Play2go International Limited
+43.198.22.151,52414,NL,Church of Cyberology
+209.14.108.101,999,PE,CORPORACION TARAZONA CATV S.A.C.
+129.80.217.21,444,US,Oracle Corporation
+170.106.136.181,31002,US,Tencent Building  Kejizhongyi Avenue
+18.60.247.31,38812,NL,Church of Cyberology
+152.53.52.47,1080,US,netcup GmbH
 51.250.86.201,2080,RU,Yandex.Cloud LLC
-109.228.65.178,81,ME,Crnogorski Telekom a.d.Podgorica
-190.97.232.182,999,VE,VIGINET C.A
-116.171.106.111,3443,CN,CHINA UNICOM China169 Backbone
-51.250.86.201,2080,RU,Yandex.Cloud LLC
+116.80.48.17,3172,JP,NTT PC Communications  Inc.
 113.160.132.26,8080,VN,VNPT Corp
+116.80.60.245,3172,JP,NTT PC Communications  Inc.
+116.80.64.184,3172,JP,NTT PC Communications  Inc.
+116.80.64.171,3172,JP,NTT PC Communications  Inc.
+116.80.83.99,3172,JP,NTT PC Communications  Inc.
+116.80.93.162,3172,JP,NTT PC Communications  Inc.
+116.80.47.104,3172,JP,NTT PC Communications  Inc.
+116.80.48.236,3172,JP,NTT PC Communications  Inc.
+116.80.50.182,3172,JP,NTT PC Communications  Inc.
+131.222.252.103,8080,TR,High Speed For Internet Services L.L.C
+56.155.99.29,33522,NL,Church of Cyberology
+45.13.116.212,21537,FR,Abjp Services SAS
+103.189.119.239,8080,ID,PT Tekling Media Telematika
+45.84.222.25,1080,NL,Play2go International Limited
+116.80.61.6,3172,JP,NTT PC Communications  Inc.
+116.80.81.108,3172,JP,NTT PC Communications  Inc.
+103.234.35.199,3128,ID,PT. Exabit Group Network
+116.80.83.95,3172,JP,NTT PC Communications  Inc.
+103.40.166.138,2727,BD,Paradise Technologies Limited
+131.222.252.71,8080,TR,High Speed For Internet Services L.L.C
+43.205.125.76,3857,SE,Foreningen for digitala fri- och rattigheter
+58.33.109.114,2021,CN,China Telecom (Group)
+38.75.82.217,999,DO,ACOLME TECH  SRL
+62.133.62.184,1082,FR,Global Connectivity Solutions Llp
+217.142.238.66,1080,JP,Oracle Corporation
