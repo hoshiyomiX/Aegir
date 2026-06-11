@@ -1,54 +1,45 @@
-51.250.108.153,1080,RU,Yandex.Cloud LLC
-147.45.170.190,3128,RU,Timeweb  LLP
-135.125.154.108,8899,FR,OVH SAS
-185.230.190.195,3128,FI,Livi Hosting Ltd
-37.49.224.15,3128,EE,PUSHPKT OU
-13.38.27.183,19121,SE,QuxLabs AB
-209.97.150.167,3128,US,DigitalOcean  LLC
-198.199.86.11,3128,US,DigitalOcean  LLC
-94.158.49.82,3128,UZ,IPLUS LLC
-34.43.46.91,443,US,Google LLC
-34.43.46.91,80,US,Google LLC
-34.246.183.20,52556,SE,KeFF Networks Ltd
-2.26.87.216,1080,FI,Play2go International Limited
-159.203.61.169,3128,CA,DigitalOcean  LLC
-5.78.60.155,8080,US,Hetzner Online GmbH
-138.68.60.8,3128,US,DigitalOcean  LLC
-202.28.194.139,31280,TH,UNINET-TH
-103.80.214.243,1111,ID,PT Redi Revolusi Digital Solusi
-113.160.132.26,8080,VN,VNPT Corp
-178.156.224.42,3128,FR,Fast Servers (Pty) Ltd
-139.59.1.14,8080,IN,DigitalOcean  LLC
-152.32.132.190,7890,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
-13.53.139.178,20144,NL,Church of Cyberology
-52.59.51.29,30135,NL,Church of Cyberology
-174.137.134.182,2999,US,Webair Internet Development Company Inc.
-13.246.6.135,8800,SE,Foreningen for digitala fri- och rattigheter
-81.177.214.151,8080,FI,Global Connectivity Solutions Llp
-88.156.206.14,8282,PL,Vectra S.A.
-159.198.35.187,1080,US,Namecheap  Inc.
-167.86.95.198,3128,DE,Contabo GmbH
-51.250.86.201,2080,RU,Yandex.Cloud LLC
-18.163.33.4,12726,NL,Church of Cyberology
-91.229.151.118,8080,KZ,D-Cloud LLC
-56.155.73.159,51999,NL,Church of Cyberology
-51.250.86.201,2080,RU,Yandex.Cloud LLC
-138.2.156.101,3128,DE,Oracle Corporation
-3.71.26.7,5672,NL,Church of Cyberology
-43.206.240.252,17694,NL,Church of Cyberology
-70.35.196.194,8081,US,IONOS SE
-205.235.1.34,999,AR,UFINET PANAMA S.A.
-62.133.62.3,1082,FR,Global Connectivity Solutions Llp
+147.45.146.97,1080,RU,Jsc timeweb
+188.127.224.164,2080,FI,Oy Crea Nova Hosting Solution Ltd
 176.111.37.216,39811,UA,Cogento Backbone Limited
-180.2.108.38,8080,JP,NTT DOCOMO BUSINESS Inc.
-80.72.176.54,8080,KG,OJSC Kyrgyztelecom
-51.250.86.201,2080,RU,Yandex.Cloud LLC
-45.13.237.46,8081,LU,FranTech Solutions
-45.167.126.21,999,CO,SEPCOM COMUNICACIONES SAS
-3.19.213.118,29773,NL,Church of Cyberology
-138.124.106.119,8080,DE,Intezio Worldwide Limited
-18.175.212.191,3128,GB,Amazon.com  Inc.
+135.125.154.105,8899,FR,OVH SAS
+37.49.224.15,3128,EE,PUSHPKT OU
+5.160.200.109,8088,IR,Respina Networks & Beyond PJSC
+198.199.86.11,3128,US,DigitalOcean  LLC
+209.97.150.167,3128,US,DigitalOcean  LLC
+159.203.61.169,3128,CA,DigitalOcean  LLC
+52.188.28.218,3128,US,Microsoft Corporation
+138.68.60.8,3128,US,DigitalOcean  LLC
+5.78.60.155,8080,US,Hetzner Online GmbH
+139.59.1.14,8080,IN,DigitalOcean  LLC
+81.200.154.236,48503,PL,Timeweb  LLP
+38.180.2.107,3128,BG,M247 Europe SRL
 1.231.81.166,3128,KR,SK Broadband Co Ltd
-62.133.62.17,1081,FR,Global Connectivity Solutions Llp
-190.93.224.32,999,PE,CONEX TV E.I.R.L.
-59.36.172.219,5004,CN,Chinanet
+20.210.76.175,8561,JP,Microsoft Corporation
+8.219.97.248,80,SG,Alibaba (US) Technology Co.  Ltd.
+191.252.111.160,7000,BR,Locaweb Servicos de Internet S/A
+114.141.50.210,8080,ID,PT Cyberplus Media Pratama
+34.43.46.91,443,US,Google LLC
+152.32.132.190,7890,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+159.198.35.187,1080,US,Namecheap  Inc.
+71.168.71.12,8888,NL,Church of Cyberology
+2.26.87.216,1080,FI,Play2go International Limited
+14.143.222.113,10144,IN,TATA Communications formerly VSNL is Leading ISP
+210.5.93.253,8080,PH,Globe Telecoms
+193.29.224.20,3128,FI,Aeza Group LLC
+45.95.232.35,3128,CH,Global Connectivity Solutions Llp
+152.53.52.47,1080,US,netcup GmbH
+152.53.52.47,1080,US,netcup GmbH
+45.84.222.25,1080,NL,Play2go International Limited
+85.117.56.85,8080,GE,Caucasus Online Ltd.
+157.20.244.194,7777,ID,PT.Global Media Data Prima
+195.9.238.35,8080,RU,PJSC Moscow city telephone network
+89.127.207.174,18080,SE,Cloudflare  Inc.
+4.221.164.109,443,ZA,Microsoft Corporation
+195.9.238.36,8080,RU,PJSC Moscow city telephone network
+5.161.50.82,8118,SE,No ACK Group Holding AB
+51.250.86.201,2080,RU,Yandex.Cloud LLC
+109.228.65.178,81,ME,Crnogorski Telekom a.d.Podgorica
+190.97.232.182,999,VE,VIGINET C.A
+116.171.106.111,3443,CN,CHINA UNICOM China169 Backbone
+51.250.86.201,2080,RU,Yandex.Cloud LLC
+113.160.132.26,8080,VN,VNPT Corp
