@@ -1,85 +1,65 @@
-82.97.247.37,80,AU,Jsc timeweb
 185.200.188.234,10001,RU,Ihor Hosting Ltd
-176.111.37.5,39811,UA,Cogento Backbone Limited
 176.111.37.216,39811,UA,Cogento Backbone Limited
-81.200.154.236,48503,PL,Timeweb  LLP
-213.165.42.185,7443,DE,Aeza Group LLC
-91.107.172.30,82,DE,Hetzner Online GmbH
-77.110.116.93,7443,AT,Aeza Group LLC
-138.124.113.102,7443,NL,Aeza Group LLC
-62.133.62.17,1082,FR,Global Connectivity Solutions Llp
-150.241.116.167,443,US,DpkgSoft International Limited
-85.192.60.187,7443,NL,Aeza Group LLC
+82.97.247.37,80,AU,Jsc timeweb
 91.107.168.255,82,DE,Hetzner Online GmbH
-85.192.28.47,7443,DE,Aeza Group LLC
-85.192.28.65,7443,DE,Aeza Group LLC
-2.27.62.9,8888,DE,Rizki Abdul Azis
+77.246.104.106,4433,NL,Servers Tech Fzco
 89.169.53.40,7443,DE,Aeza Group LLC
-82.102.11.164,3460,GB,Iomart Cloud Services Limited
-138.124.114.42,7443,DE,Aeza Group LLC
-209.97.150.167,3128,US,DigitalOcean  LLC
+85.192.60.187,7443,NL,Aeza Group LLC
+144.31.134.103,1080,NL,Senko Digital LLC
+62.133.62.3,1082,FR,Global Connectivity Solutions Llp
+77.110.116.93,7443,AT,Aeza Group LLC
+150.241.116.167,443,US,DpkgSoft International Limited
+176.111.37.5,39811,UA,Cogento Backbone Limited
 198.199.86.11,3128,US,DigitalOcean  LLC
+209.97.150.167,3128,US,DigitalOcean  LLC
+95.140.154.156,1080,RU,Timeweb  LLP
+34.43.46.91,80,US,Google LLC
 52.188.28.218,3128,US,Microsoft Corporation
-34.43.46.91,443,US,Google LLC
 159.203.61.169,3128,CA,DigitalOcean  LLC
-158.178.198.31,1080,FR,Oracle Corporation
-95.165.152.252,3128,RU,PJSC Moscow city telephone network
-51.49.153.183,14287,NL,Church of Cyberology
-138.68.60.8,3128,US,DigitalOcean  LLC
-157.245.100.190,442,IN,DigitalOcean  LLC
+104.154.186.48,80,US,Google LLC
+159.198.35.187,1080,US,Namecheap  Inc.
+213.165.42.185,7443,DE,Aeza Group LLC
+78.17.28.119,443,FI,Snowd Security OU
 139.59.1.14,8080,IN,DigitalOcean  LLC
-195.248.243.36,9999,DE,BitCommand LLC
-159.194.203.75,8118,RU,PJSC MegaFon
-202.28.194.139,31280,TH,UNINET-TH
-85.192.28.62,7443,DE,Aeza Group LLC
-51.250.86.201,2080,RU,Yandex.Cloud LLC
 49.12.219.42,8000,DE,Hetzner Online GmbH
 47.79.119.13,8080,SG,Alibaba (US) Technology Co.  Ltd.
-16.62.123.236,32875,AT,Foundation for Applied Privacy
-82.23.249.11,1080,DE,Hostkey B.v.
-78.17.28.119,443,FI,Snowd Security OU
-167.86.95.198,3128,DE,Contabo GmbH
-159.198.35.187,1080,US,Namecheap  Inc.
-51.250.86.201,2080,RU,Yandex.Cloud LLC
-192.9.182.6,20172,AU,Oracle Corporation
-95.140.154.156,1080,RU,Timeweb  LLP
-164.92.165.209,18080,IN,Elisteka UAB
+202.28.194.139,31280,TH,UNINET-TH
+79.132.21.211,8080,BG,Comnet Bulgaria Holding Ltd.
+82.102.11.164,3460,GB,Iomart Cloud Services Limited
 1.231.81.166,3128,KR,SK Broadband Co Ltd
-51.17.154.141,31695,NL,Church of Cyberology
-116.80.97.73,3172,JP,NTT PC Communications  Inc.
-116.80.51.25,3172,JP,NTT PC Communications  Inc.
-116.80.51.15,3172,JP,NTT PC Communications  Inc.
-45.89.106.116,1081,CY,NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED
-116.80.51.27,3172,JP,NTT PC Communications  Inc.
-93.115.18.235,8118,US,Fourplex Telecom LLC
-119.93.172.135,8080,PH,Philippine Long Distance Telephone Company
-13.235.42.151,58898,DE,Florian Kolb
-195.9.238.37,8080,RU,PJSC Moscow city telephone network
-8.212.159.193,443,TR,Alibaba (US) Technology Co.  Ltd.
-15.135.215.62,30144,DE,Stiftung Erneuerbare Freiheit
-70.35.196.194,8085,US,IONOS SE
-8.212.159.193,8080,TR,Alibaba (US) Technology Co.  Ltd.
-54.253.167.61,17858,NL,Church of Cyberology
-116.80.97.68,3172,JP,NTT PC Communications  Inc.
-116.80.84.65,3172,JP,NTT PC Communications  Inc.
-16.26.143.154,31381,NL,Church of Cyberology
+157.245.100.190,442,IN,DigitalOcean  LLC
+138.124.114.42,7443,DE,Aeza Group LLC
+85.192.28.65,7443,DE,Aeza Group LLC
+113.160.132.26,8080,VN,VNPT Corp
+45.84.222.25,1080,NL,Play2go International Limited
+45.13.237.46,8081,SE,KeFF Networks Ltd
+51.250.86.201,2080,RU,Yandex.Cloud LLC
+43.110.40.117,8888,US,Alibaba (US) Technology Co.  Ltd.
+51.250.86.201,2080,RU,Yandex.Cloud LLC
+195.9.238.34,8080,RU,PJSC Moscow city telephone network
+180.2.108.38,8080,JP,NTT DOCOMO BUSINESS Inc.
+85.117.56.104,8080,GE,Caucasus Online Ltd.
+43.203.140.58,9091,NL,Church of Cyberology
 116.80.47.81,3172,JP,NTT PC Communications  Inc.
-116.80.61.6,3172,JP,NTT PC Communications  Inc.
-13.126.183.60,4300,NL,Church of Cyberology
-140.227.61.201,3128,JP,NTT PC Communications  Inc.
-185.93.206.241,8080,IT,Blunova S.r.l.
-43.203.140.58,25890,NL,Church of Cyberology
-185.178.44.115,10443,RU,Timeweb  LLP
-220.158.234.84,1080,KH,ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
-62.133.62.184,1082,FR,Global Connectivity Solutions Llp
-13.208.166.217,29220,DE,Akamai Connected Cloud
-213.21.254.26,1081,SE,Aeza Group LLC
+103.171.255.110,8080,ID,PT Zona Kolektif Indonesia
+64.188.31.14,10808,US,HostPapa
+98.153.152.141,7070,US,Charter Communications Inc
+103.192.174.154,8080,ID,PT JKB Telematika Indonesia
 195.9.238.35,8080,RU,PJSC Moscow city telephone network
-103.106.231.75,8081,AU,Cloudflare  Inc.
-194.58.33.7,9564,DE,International Hosting Company Limited
-193.233.20.74,2080,FI,Aleksei Fedorov Pr Krusevac
-157.245.143.65,7890,US,DigitalOcean  LLC
-169.212.15.161,5000,KR,Korea Telecom
-18.246.32.243,28489,DK,Zencurity ApS
-194.87.55.194,2053,DE,Cloudflare  Inc.
-199.247.29.193,50000,NL,Cloudflare  Inc.
+195.9.238.37,8080,RU,PJSC Moscow city telephone network
+4.221.164.109,443,ZA,Microsoft Corporation
+51.250.86.201,2080,RU,Yandex.Cloud LLC
+203.30.9.8,8443,AU,Southern Phone Company Ltd
+103.166.158.239,1111,ID,PT Timor Lintas Nusantara
+38.19.43.108,999,CO,SUPER REDES S.A.S
+190.97.239.22,999,VE,VIGINET C.A
+116.80.61.6,3172,JP,NTT PC Communications  Inc.
+116.80.48.147,3172,JP,NTT PC Communications  Inc.
+2.26.87.216,1080,FI,Play2go International Limited
+94.72.57.157,8080,RU,MTS PJSC
+167.86.95.198,3128,DE,Contabo GmbH
+80.210.62.146,3128,IR,Iran Telecommunication Company PJS
+190.60.57.43,3128,CO,UFINET PANAMA S.A.
+91.107.163.9,82,DE,Hetzner Online GmbH
+85.192.28.62,7443,DE,Aeza Group LLC
+43.208.237.116,16298,NO,Gigahost AS
