@@ -1,101 +1,54 @@
-72.56.238.99,9090,US,Jsc timeweb
-72.56.238.99,1080,US,Jsc timeweb
-147.45.146.97,1080,RU,Jsc timeweb
-185.200.188.234,10001,RU,Ihor Hosting Ltd
-64.188.125.187,3128,US,U1 Digital Services Ltd
 82.97.247.37,80,AU,Jsc timeweb
-62.133.62.187,1081,FR,Global Connectivity Solutions Llp
-89.169.53.40,7443,DE,Aeza Group LLC
-138.2.156.101,3128,DE,Oracle Corporation
-160.238.65.3,3128,HK,GZ REMITTANCE (CHINA) INDUSTRY LIMITED
-160.238.65.4,3128,HK,GZ REMITTANCE (CHINA) INDUSTRY LIMITED
-217.154.155.115,8080,DE,IONOS SE
-176.111.37.5,39811,UA,Cogento Backbone Limited
-85.192.61.93,7443,FI,Aeza Group LLC
-86.127.175.42,8080,RO,Digi Romania S.A.
-95.165.152.252,3128,RU,PJSC Moscow city telephone network
-144.202.14.153,50000,US,Cloudflare  Inc.
-82.102.11.164,3460,GB,Iomart Cloud Services Limited
-198.199.86.11,3128,US,DigitalOcean  LLC
-209.97.150.167,3128,US,DigitalOcean  LLC
-213.199.48.89,80,FR,Contabo GmbH
+185.200.188.234,10001,RU,Ihor Hosting Ltd
+217.114.6.154,5555,RU,Beget LLC
 202.49.176.24,2080,RU,JSC Selectel
-159.203.61.169,3128,CA,DigitalOcean  LLC
-34.43.46.91,443,US,Google LLC
-65.109.65.239,28080,US,HERN Labs AB
-122.165.97.254,3128,IN,Bharti Airtel Ltd.  Telemedia Services
-159.198.35.187,1080,US,Namecheap  Inc.
-176.12.71.36,1234,KZ,HostLab LLC
-45.32.8.165,6688,JP,The Constant Company  LLC
-157.230.38.173,3128,SG,DigitalOcean  LLC
-47.79.119.13,8080,SG,Alibaba (US) Technology Co.  Ltd.
-51.250.86.201,2080,RU,Yandex.Cloud LLC
-202.28.194.139,31280,TH,UNINET-TH
-51.250.86.201,2080,RU,Yandex.Cloud LLC
+72.56.238.99,9090,US,Jsc timeweb
+64.188.125.187,3128,US,U1 Digital Services Ltd
 95.140.154.156,1080,RU,Timeweb  LLP
-102.0.33.14,8080,KE,Airtel Networks Kenya Limited
-138.124.113.102,7443,NL,Aeza Group LLC
-113.160.132.26,8080,VN,VNPT Corp
-93.113.57.71,3128,TR,Furkan Kasap
-216.57.107.50,8445,HK,Timeweb  LLP
-154.201.77.250,11021,IN,National Internet Backbone
-81.168.119.85,443,GB,Iomart Cloud Services Limited
-182.53.202.208,8080,TH,TOT Public Company Limited
-159.223.87.50,443,SG,DigitalOcean  LLC
-13.244.203.188,80,NL,Church of Cyberology
-51.250.4.195,2080,RU,Yandex.Cloud LLC
-38.211.76.65,999,CO,FIBERNET TV SAS
-81.168.119.85,443,GB,Iomart Cloud Services Limited
-103.162.16.40,8080,ID,PT Mega Data Perkasa
-4.221.164.109,443,ZA,Microsoft Corporation
-116.171.106.78,3443,CN,CHINA UNICOM China169 Backbone
-62.133.62.17,1081,FR,Global Connectivity Solutions Llp
-45.198.32.207,8080,ID,PT.Global Media Data Prima
-103.147.230.17,8090,BD,Friends BroadBand Network
-37.49.224.15,3128,EE,PUSHPKT OU
-45.95.233.237,1081,FR,Global Connectivity Solutions Llp
-192.3.1.201,1080,US,HostPapa
-1.231.81.166,3128,KR,SK Broadband Co Ltd
-167.86.95.198,3128,DE,Contabo GmbH
-195.9.238.36,8080,RU,PJSC Moscow city telephone network
-182.160.113.198,12331,BD,aamra networks limited
-103.30.31.209,32323,BD,Broad Band Telecom Services Ltd
-198.40.53.61,2001,US,SolidTools Technology  Inc.
-61.19.30.194,8188,TH,National Telecom Public Company Limited
-198.89.96.148,808,US,Tier.Net Technologies LLC
-217.199.144.80,8080,KE,MTN SA
-140.245.238.56,53,IN,Oracle Corporation
-62.133.62.184,1082,FR,Global Connectivity Solutions Llp
-51.250.86.201,2080,RU,Yandex.Cloud LLC
-94.26.90.144,60000,US,AT&T Enterprises  LLC
-188.127.224.164,2080,FI,Oy Crea Nova Hosting Solution Ltd
-14.102.154.205,8080,ID,Skyline Semesta  PT
-116.80.48.147,3172,JP,NTT PC Communications  Inc.
-220.158.234.84,1080,KH,ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
-98.130.11.240,26075,US,Emerald Onion
-103.189.97.38,1080,ID,Lintas Data Prima  PT
-5.45.184.253,1080,DE,G-Core Labs S.A.
-167.99.173.119,3128,US,DigitalOcean  LLC
-37.191.95.202,80,IR,Gostaresh Ertebat Azin Kia Company PJSC
-110.232.85.179,6060,ID,PT Mandala Lintas Nusa
-187.148.10.49,8080,MX,UNINET
-62.133.62.3,1082,FR,Global Connectivity Solutions Llp
-103.81.175.141,22311,BD,ADN Telecom Ltd.
-45.225.206.1,999,CL,NETDELSUR TELECOMUNICACIONES SPA
-113.11.76.233,30226,BD,Rangs Nilu Square  5th Floor  House 75  Road 5/A  Dhanmondi R/A  Dhaka 1209
-103.31.133.180,8080,ID,PT. Arthatama Adhiprima Persada
-103.174.122.79,8080,ID,PT Jaya Sejahtra Nugraha
-103.61.16.9,8097,ID,PT Twins Data Pratama
-180.195.60.98,8081,PH,Philippine Long Distance Telephone Company
-177.177.59.253,8080,BR,V tal
-191.102.254.70,8085,AR,IP*RED
-45.189.252.18,999,MX,TRACERED SA DE CV
-103.161.131.110,8080,ID,PT Jaringan Internet Nusantara
-192.9.182.6,20172,AU,Oracle Corporation
-202.47.185.162,8080,ID,PT Putra Garsel Interkoneksi
-119.95.179.102,8082,PH,Philippine Long Distance Telephone Company
-170.245.50.65,8080,CL,MI INTERNET SPA
-49.150.62.26,8082,PH,Philippine Long Distance Telephone Company
-103.247.22.57,2022,ID,WIFIAN ID
+198.199.86.11,3128,US,DigitalOcean  LLC
+160.238.65.6,3128,HK,GZ REMITTANCE (CHINA) INDUSTRY LIMITED
+159.203.61.169,3128,CA,DigitalOcean  LLC
+35.180.75.159,15012,DE,F3 Netze e.V.
+104.154.186.48,80,US,Google LLC
+138.68.60.8,3128,US,DigitalOcean  LLC
+159.198.35.187,1080,US,Namecheap  Inc.
+139.59.1.14,8080,IN,DigitalOcean  LLC
+16.62.229.137,57749,NL,Church of Cyberology
+103.41.200.4,1111,ID,PT Garuda Rias Teknologi
+47.79.119.13,8080,SG,Alibaba (US) Technology Co.  Ltd.
+202.28.194.139,31280,TH,UNINET-TH
+82.102.11.164,3460,GB,Iomart Cloud Services Limited
 115.231.181.40,8128,CN,NINGBO  ZHEJIANG Province  P.R.China.
-4.221.164.109,9443,ZA,Microsoft Corporation
+113.160.132.26,8080,VN,VNPT Corp
+154.201.77.250,11021,IN,National Internet Backbone
+13.60.181.61,455,NL,Church of Cyberology
+182.160.106.146,12331,BD,aamra networks limited
+92.118.112.25,1081,US,Global Connectivity Solutions Llp
+13.246.6.135,4824,NL,Church of Cyberology
+152.32.132.190,7890,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+93.113.57.71,3128,TR,Furkan Kasap
+41.196.72.198,8080,EG,Link Egypt (Link.NET)
+192.232.48.20,8080,ID,PT Axindo Infinitas Network
+103.170.185.162,46,BD,Saddam Hossain t/a Asian Network
+103.148.178.10,80,BD,Bandhon Enterprise
+148.230.4.241,999,MX,DIGY NETWORKS
+1.231.81.166,3128,KR,SK Broadband Co Ltd
+38.191.80.20,999,CO,GRUPO SERVINET S.A.S.
+54.180.117.151,8118,NL,Church of Cyberology
+4.221.164.109,443,ZA,Microsoft Corporation
+34.84.162.206,38080,JP,Google LLC
+54.233.23.106,8260,NL,Church of Cyberology
+176.111.37.5,39811,UA,Cogento Backbone Limited
+140.245.238.56,53,IN,Oracle Corporation
+62.171.161.88,2018,FR,Contabo GmbH
+116.80.48.147,3172,JP,NTT PC Communications  Inc.
+102.129.170.109,37234,US,Windstream Communications LLC
+91.107.163.9,82,DE,Hetzner Online GmbH
+43.161.239.147,8888,HK,Tencent Building  Kejizhongyi Avenue
+181.174.231.58,999,CO,SINERGY SOLUCIONES INTEGRALES
+160.238.65.4,3128,HK,GZ REMITTANCE (CHINA) INDUSTRY LIMITED
+56.155.73.159,1287,NO,Gigahost AS
+95.140.154.156,1080,RU,Timeweb  LLP
+51.250.86.201,2080,RU,Yandex.Cloud LLC
+192.9.182.6,20172,AU,Oracle Corporation
+103.189.119.210,8080,ID,PT Tekling Media Telematika
