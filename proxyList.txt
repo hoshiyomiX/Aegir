@@ -1,62 +1,34 @@
-15.160.116.45,37321,IT,Amazon.com  Inc.
-185.200.188.234,10001,RU,Ihor Hosting Ltd
-176.111.37.216,39811,UA,Cogento Backbone Limited
-198.199.86.11,3128,US,DigitalOcean  LLC
+64.188.125.187,3128,US,U1 Digital Services Ltd
+51.34.28.236,15100,CH,Amazon.com  Inc.
 209.97.150.167,3128,US,DigitalOcean  LLC
-65.109.179.84,8443,FI,Hetzner Online GmbH
-3.211.120.181,443,US,Amazon.com  Inc.
-72.56.238.99,1080,US,Jsc timeweb
-159.203.61.169,3128,CA,DigitalOcean  LLC
-34.43.46.91,80,US,Google LLC
 34.43.46.91,443,US,Google LLC
-104.154.186.48,80,US,Google LLC
-91.122.216.160,8080,RU,Rostelecom
-16.62.229.137,805,CH,Amazon.com  Inc.
-62.133.62.184,1082,FR,Global Connectivity Solutions Llp
-54.67.110.244,27224,US,Amazon.com  Inc.
-138.68.60.8,3128,US,DigitalOcean  LLC
-8.215.25.3,2080,ID,Alibaba (US) Technology Co.  Ltd.
-185.191.239.248,3128,CH,GRUPO PANAGLOBAL 15 S.A
-68.183.60.51,3129,US,DigitalOcean  LLC
-159.195.49.27,8888,DE,netcup GmbH
-202.47.67.145,8080,ID,PT. Putra Lebak Banten
-54.233.23.106,14253,BR,Amazon.com  Inc.
-45.153.4.154,3128,LT,Istqrar for Servers Services Ltd
-13.206.73.237,171,IN,Amazon.com  Inc.
-108.136.140.236,1981,ID,Amazon.com  Inc.
-38.49.152.197,999,MX,IENTC S DE RL DE CV
-1.231.81.166,3128,KR,SK Broadband Co Ltd
-113.160.132.26,8080,VN,VNPT Corp
-13.208.238.59,43241,JP,Amazon.com  Inc.
-144.91.121.61,3129,FR,Contabo GmbH
-174.137.134.182,2999,US,Webair Internet Development Company Inc.
-47.84.204.82,443,SG,Alibaba (US) Technology Co.  Ltd.
-168.121.242.91,999,MX,WIFIMAX CONNECTION S.A.S DE C.V
-47.84.204.82,1080,SG,Alibaba (US) Technology Co.  Ltd.
-103.175.236.138,8082,ID,PT Marva Global Telekomunikasi
+3.211.120.181,443,US,Amazon.com  Inc.
+109.252.226.30,8080,RU,PJSC Moscow city telephone network
+176.111.37.216,39811,UA,Cogento Backbone Limited
+89.117.22.176,3128,US,Contabo Inc.
+13.60.163.108,35546,SE,Amazon.com  Inc.
+14.143.222.113,57748,IN,TATA Communications formerly VSNL is Leading ISP
+94.158.49.82,3128,UZ,IPLUS LLC
+8.218.210.54,443,HK,Alibaba (US) Technology Co.  Ltd.
 16.79.161.32,8080,ID,Amazon.com  Inc.
-47.84.204.82,80,SG,Alibaba (US) Technology Co.  Ltd.
+103.13.235.18,8080,ID,PT Disafa Cahaya Utama
+139.59.1.14,8080,IN,DigitalOcean  LLC
+8.243.167.50,999,CO,Level 3 Parent  LLC
+1.231.81.166,3128,KR,SK Broadband Co Ltd
+188.132.150.45,8080,TR,High Speed For Internet Services L.L.C
+131.222.210.41,8080,SY,High Speed For Internet Services L.L.C
+154.223.77.54,10002,SC,Kaopu Cloud HK Limited
 91.233.223.147,3128,RU,Radist LTD
-182.53.202.208,8080,TH,TOT Public Company Limited
+23.138.88.1,999,PR,ALPHANET CORP
+177.93.49.174,8888,CO,TV AZTECA SUCURSAL COLOMBIA
+102.0.25.184,8080,KE,Airtel Networks Kenya Limited
+182.160.113.198,12331,BD,aamra networks limited
+120.28.169.31,5050,PH,Globe Telecom Inc.
+102.208.235.51,8080,KE,Tatu Telecom Company SEZ Limited
+45.174.92.44,8087,MX,Enlace de Datos y Redes SA de CV
+129.226.92.241,80,SG,Tencent Building  Kejizhongyi Avenue
+45.95.233.237,1082,FR,Global Connectivity Solutions Llp
+124.121.186.200,8080,TH,True Online
 202.28.194.139,31280,TH,UNINET-TH
-195.9.238.36,8080,RU,PJSC Moscow city telephone network
-104.194.148.204,80,GB,'Tornado Datacenter GmbH & Co. KG'
-149.104.4.88,10809,US,VH Global Limited
-103.106.231.75,8081,AU,Cloudflare  Inc.
-5.161.50.82,8118,US,BL Networks
-47.245.117.43,80,SG,Alibaba (US) Technology Co.  Ltd.
-200.227.89.50,3128,BR,ALGAR TELECOM S/A
-103.167.61.162,3128,HK,STACKS INC
-116.171.106.78,3443,CN,CHINA UNICOM China169 Backbone
-116.80.48.146,3172,JP,NTT PC Communications  Inc.
-205.235.1.38,999,EC,UFINET PANAMA S.A.
-112.203.53.135,8082,PH,Philippine Long Distance Telephone Company
-139.167.218.162,3127,IN,Reliance Jio Infocomm Limited
-151.241.234.208,8443,FI,Hostkey B.v.
-95.84.164.92,8998,RU,Rostelecom
-201.219.22.2,3128,EC,CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP
-168.222.254.26,8888,DE,Node Host Limited
-103.66.46.18,8080,ID,PT Remala Abadi
-114.94.148.37,18080,JP,Zeofast Network
-112.208.230.84,8081,PH,Globe Telecoms
-115.231.181.40,8128,CN,NINGBO  ZHEJIANG Province  P.R.China.
+171.240.69.98,8080,VN,Viettel Group
+13.208.166.217,8432,JP,Amazon.com  Inc.
