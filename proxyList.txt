@@ -1,84 +1,9 @@
-176.111.37.216,39811,UA,Cogento Backbone Limited
-185.200.188.234,10001,RU,Ihor Hosting Ltd
-37.49.224.15,3128,EE,PUSHPKT OU
-64.188.125.187,3128,US,U1 Digital Services Ltd
-199.247.29.193,50000,NL,Cloudflare  Inc.
-185.161.251.195,3128,DE,Global Connectivity Solutions Llp
-37.120.189.175,1080,DE,netcup GmbH
-135.125.154.101,8899,FR,OVH SAS
-65.109.65.238,18080,NO,HERN Labs AB
-135.125.154.108,8899,FR,OVH SAS
-209.97.150.167,3128,US,DigitalOcean  LLC
-135.125.154.110,8899,FR,OVH SAS
-176.111.37.5,39811,UA,Cogento Backbone Limited
-174.137.134.182,2999,US,Webair Internet Development Company Inc.
-212.220.13.98,4153,RU,Rostelecom
-3.211.120.181,443,US,Amazon.com  Inc.
-159.203.61.169,3128,CA,DigitalOcean  LLC
-54.38.138.60,3128,PL,OVH SAS
-72.56.238.99,1080,US,Jsc timeweb
-144.31.73.173,3128,DE,U1 Digital Services Ltd
-185.191.239.248,3128,CH,GRUPO PANAGLOBAL 15 S.A
-65.109.179.84,8443,FI,Hetzner Online GmbH
-34.43.46.91,80,US,Google LLC
-176.12.65.24,443,US,GTHost
-34.43.46.91,443,US,Google LLC
-51.250.16.247,1080,RU,Yandex.Cloud LLC
-65.109.179.84,8443,FI,Hetzner Online GmbH
-69.63.209.247,1080,US,DMIT Cloud Services
-3.85.42.63,3128,US,Amazon.com  Inc.
-198.199.86.11,3128,US,DigitalOcean  LLC
-38.180.2.107,3128,BG,M247 Europe SRL
-140.245.238.56,53,IN,Oracle Corporation
-45.153.4.154,3128,LT,Istqrar for Servers Services Ltd
-139.59.1.14,8080,IN,DigitalOcean  LLC
-47.82.77.82,80,HK,Alibaba (US) Technology Co.  Ltd.
-103.197.242.95,1080,KH,Cogetel Online  Cambodia  ISP
-34.220.1.153,3128,US,Amazon.com  Inc.
-205.215.247.164,3128,US,Port Networks  Inc.
-138.68.60.8,3128,US,DigitalOcean  LLC
-47.84.204.82,1080,SG,Alibaba (US) Technology Co.  Ltd.
-45.156.223.38,3128,NZ,GSL Networks Pty LTD
-50.238.47.86,32100,US,Comcast Cable Communications  LLC
-103.69.125.110,8080,NP,Department of Information Technology  Government of Nepal
-2.78.60.10,3129,KZ,Kcell JSC
-14.143.222.113,57748,IN,TATA Communications formerly VSNL is Leading ISP
-212.77.75.25,3129,IT,Uan Company S.r.l.
-103.236.143.55,8080,ID,PT Jaringan Internet Tayu
-16.79.161.32,8080,ID,Amazon.com  Inc.
-102.209.0.138,8080,LY,Aljuman Aljadeed Limited Liability company
-178.16.140.119,1080,US,Hostinger International Limited
-83.171.224.165,8080,NL,Cloudflare  Inc.
-137.59.47.73,3128,VN,MOBIFONE Corporation
-43.167.167.94,8118,HK,YISU CLOUD LTD
-113.160.132.26,8080,VN,VNPT Corp
-1.231.81.166,3128,KR,SK Broadband Co Ltd
-177.93.49.171,8888,CO,TV AZTECA SUCURSAL COLOMBIA
+72.56.238.99,9090,RU,Jsc timeweb
+170.106.136.181,31002,US,Tencent Building  Kejizhongyi Avenue
+72.56.238.99,1080,RU,Jsc timeweb
+110.172.62.196,8080,JP,TOKAI Communications Corporation
 13.215.176.57,9090,SG,Amazon.com  Inc.
-129.226.92.241,80,SG,Tencent Building  Kejizhongyi Avenue
-91.107.163.9,82,DE,Hetzner Online GmbH
-82.209.219.244,8080,BY,Republican Unitary Telecommunication Enterprise Beltelecom
-103.160.205.244,8181,ID,PT Akbar Prima Media
-120.28.168.78,6060,PH,Globe Telecom Inc.
+92.42.96.84,3128,ME,Chsl One Ltd
+137.59.47.73,3128,VN,MOBIFONE Corporation
 124.156.230.244,3128,JP,Tencent Building  Kejizhongyi Avenue
-51.195.2.39,1080,FR,OVH SAS
-199.182.135.85,3128,US,Modulis
-14.53.55.217,3128,KR,Korea Telecom
-64.64.152.248,39593,US,Great Plains Communications LLC
-45.87.140.155,8080,RU,Teraline Telecom Ltd
-47.84.204.82,443,SG,Alibaba (US) Technology Co.  Ltd.
-45.156.223.56,3128,NZ,GSL Networks Pty LTD
-117.55.203.158,8899,AT,Datacamp Limited
-190.83.40.166,3128,BR,JOSE DAS GRACAS SOARES DE LIMA EIRELI
-152.32.132.190,7890,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
-177.93.49.174,8888,CO,TV AZTECA SUCURSAL COLOMBIA
-62.193.118.57,1981,EG,ETISALAT MISR
-111.235.151.112,8443,DE,YottaSrc
-31.135.214.17,8026,UZ,Inform-Service TV Ltd.
-43.167.245.99,3128,JP,Tencent Building  Kejizhongyi Avenue
-114.94.148.37,18080,JP,Zeofast Network
-113.192.48.37,8080,ID,PT.Global Media Data Prima
-103.94.10.254,8080,ID,Widya Intersat Nusantara  PT
-60.217.64.237,35292,CN,CHINA UNICOM China169 Backbone
-47.83.168.191,4000,HK,Datacamp Limited
-159.223.87.50,443,SG,DigitalOcean  LLC
+188.166.208.168,9876,SG,DigitalOcean  LLC
