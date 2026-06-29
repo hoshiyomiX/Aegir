@@ -1,150 +1,20 @@
-195.46.172.190,4153,RU,PVimpelCom
-64.188.125.187,3128,US,U1 Digital Services Ltd
-212.103.118.77,5678,RU,JSC ER-Telecom Holding
-91.188.213.143,1080,SC,Helou LLC
-144.31.222.106,7890,RU,Cloudflare  Inc.
-83.220.46.106,4145,RU,PJSC MegaFon
-185.200.188.234,10001,RU,Ihor Hosting Ltd
-164.92.148.68,3128,NL,DigitalOcean  LLC
-54.38.139.182,3128,PL,OVH SAS
-72.56.75.158,8080,NL,Timeweb  LLP
-94.72.109.169,8080,GB,Contabo GmbH
-209.97.150.167,3128,US,DigitalOcean  LLC
-144.31.222.106,7890,RU,Cloudflare  Inc.
-88.213.214.254,4145,BG,NETBOX LTD
-198.199.86.11,3128,US,DigitalOcean  LLC
-176.111.37.216,39811,UA,Cogento Backbone Limited
-37.120.189.175,1080,DE,netcup GmbH
-91.186.210.116,1081,GR,First Server Limited
-37.49.224.15,3128,EE,ESTOXY OU
-194.67.120.239,1081,RU,Domain names registrar REG.RU  Ltd
-34.43.46.91,443,US,Google LLC
-111.235.151.112,8443,DE,YottaSrc
-176.9.107.170,1081,MK,Cyberzone S.A.
-37.18.73.60,5566,NL,Church of Cyberology
-193.233.72.56,988,RU,Tyurin Viktor Mihaylovich
-34.43.46.91,80,US,Google LLC
-174.137.134.182,2999,US,Webair Internet Development Company Inc.
-176.12.65.24,443,US,GTHost
-65.109.179.84,8443,FI,Hetzner Online GmbH
-185.209.223.153,1080,FR,Contabo GmbH
-194.163.174.78,1080,NO,PacketHub S.A.
-37.16.81.138,1080,SE,Aeza Group LLC
-85.116.120.106,3629,RU,Rostelecom
-193.32.54.178,1080,RU,Fibrenet Ltd
-168.245.197.146,80,ES,Aire Networks Del Mediterraneo Sl Unipersonal
-91.92.80.199,4145,BG,Netguard LLC
-91.223.52.141,5678,PL,InterWan Sp. z o.o.
-159.203.61.169,3128,CA,DigitalOcean  LLC
-23.26.125.56,40000,US,Cloudflare  Inc.
-72.56.238.99,9090,RU,Jsc timeweb
-147.93.141.97,10808,US,Contabo Inc.
-176.111.37.5,39811,UA,Cogento Backbone Limited
-138.68.60.8,3128,US,DigitalOcean  LLC
 199.182.135.85,3128,US,Modulis
-18.246.32.243,7951,US,Amazon.com  Inc.
-34.222.118.149,52180,US,Amazon.com  Inc.
-190.14.5.164,5678,GT,Navega.com S.A.
-173.212.246.157,3128,FR,Contabo GmbH
-65.109.179.84,8443,FI,Hetzner Online GmbH
-45.153.4.154,3128,LT,Istqrar for Servers Services Ltd
-81.168.119.85,443,GB,Iomart Cloud Services Limited
-103.149.75.82,1080,BD,Race Online Limited
-80.191.46.62,1090,IR,Iran Telecommunication Company PJS
-195.9.238.34,8080,RU,PJSC Moscow city telephone network
-84.200.128.182,1080,DE,Cloudflare  Inc.
-170.106.136.181,31002,US,Tencent Building  Kejizhongyi Avenue
-88.87.79.18,3629,RU,JSC ER-Telecom Holding
-111.68.0.99,1080,HK,Netsec Limited
-3.85.42.63,3128,US,Amazon.com  Inc.
-47.236.86.147,443,SG,Alibaba (US) Technology Co.  Ltd.
-157.230.62.174,1080,US,DigitalOcean  LLC
-111.68.0.102,1080,HK,Netsec Limited
-139.59.1.14,8080,IN,DigitalOcean  LLC
-92.118.112.25,1082,US,Global Connectivity Solutions Llp
-144.91.121.61,3129,FR,Contabo GmbH
-14.143.222.113,57748,IN,TATA Communications formerly VSNL is Leading ISP
-103.174.123.4,8090,ID,PT Jaya Sejahtra Nugraha
-34.101.184.164,3128,ID,Google LLC
-185.161.251.195,3128,DE,Global Connectivity Solutions Llp
-191.252.111.160,7000,BR,Locaweb Servicos de Internet S/A
-111.68.0.98,1080,HK,Netsec Limited
-103.137.35.2,80,ID,PT Parsaoran Global Datatrans
-155.138.165.60,1081,US,The Constant Company  LLC
-1.231.81.166,3128,KR,SK Broadband Co Ltd
-124.156.230.244,3128,JP,Tencent Building  Kejizhongyi Avenue
-113.160.132.26,8080,VN,VNPT Corp
-81.18.90.43,4153,RO,Digi Romania S.A.
-41.196.72.198,8080,EG,Link Egypt (Link.NET)
-43.153.28.68,3128,US,Tencent Building  Kejizhongyi Avenue
-47.84.204.82,443,SG,Alibaba (US) Technology Co.  Ltd.
-194.163.174.78,1081,JP,Datacamp Limited
-47.84.204.82,1080,SG,Alibaba (US) Technology Co.  Ltd.
-179.60.191.19,8080,EC,Eliana Vanessa Morocho Ona
-43.167.245.99,3128,JP,Tencent Building  Kejizhongyi Avenue
-111.68.0.101,1080,HK,Netsec Limited
-111.68.0.100,1080,HK,Netsec Limited
-111.235.151.112,8443,DE,YottaSrc
-202.28.194.139,31280,TH,UNINET-TH
-43.162.115.85,8080,US,Tencent Building  Kejizhongyi Avenue
-109.197.55.234,1080,RU,OOO Kolpinskie Internet-Seti
-202.160.76.237,1080,TW,GLOBAL COMMUNICATION NETWORK LIMITED
-76.26.114.253,39593,US,Comcast Cable Communications  LLC
-158.220.101.43,1080,FR,Cloudflare  Inc.
-117.55.203.163,8899,AT,Datacamp Limited
-116.80.45.46,3172,JP,NTT PC Communications  Inc.
-45.77.172.250,1080,SG,The Constant Company  LLC
-109.252.226.30,8080,RU,PJSC Moscow city telephone network
-78.109.34.192,8080,RU,MTS PJSC
-109.232.106.150,52435,RU,Thyphone Communications LLC
-38.252.34.16,19000,LY,Giga for Telecommunication and Technology Limited
-5.45.125.201,1080,EE,P.a.g.m. Ou
-103.156.17.65,8818,ID,RSTNET
-49.229.36.210,4153,TH,SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX
-62.133.62.184,1081,FR,Global Connectivity Solutions Llp
-150.241.116.167,443,US,DpkgSoft International Limited
-138.249.246.158,1080,BY,Sprinthost.ru LLC
-176.9.107.170,1081,MK,Cyberzone S.A.
-137.59.47.73,3128,VN,MOBIFONE Corporation
-43.167.167.94,8118,HK,YISU CLOUD LTD
-103.172.121.61,7778,ID,PT Digital Akses Nusantara
-203.162.13.26,6868,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-187.72.215.33,3128,BR,ALGAR TELECOM S/A
-16.79.161.32,8080,ID,Amazon.com  Inc.
-205.215.247.164,3128,US,Port Networks  Inc.
-151.241.234.208,8443,FI,Hostkey B.v.
-151.241.234.208,8443,FI,Hostkey B.v.
-50.238.47.86,32100,US,Comcast Cable Communications  LLC
-103.163.134.164,8080,ID,PT Jawa Provider Telematika
-116.80.48.146,3172,JP,NTT PC Communications  Inc.
-103.189.197.43,7778,ID,PT Rajeg Media Telekomunikasi
-177.93.44.108,999,CO,Media Commerce Partners S.A
-91.107.163.9,84,DE,Hetzner Online GmbH
-2.78.60.10,3129,KZ,Kcell JSC
-195.9.238.35,8080,RU,PJSC Moscow city telephone network
-195.205.134.1,8080,PL,Orange Polska Spolka Akcyjna
-36.248.214.42,1080,SG,Oracle Corporation
-190.60.62.20,999,CO,UFINET PANAMA S.A.
-195.58.38.163,42372,DE,International Hosting Company Limited
-176.124.202.45,1080,SE,Aeza Group LLC
-194.53.54.201,8090,FI,Ihor Hosting Ltd
-103.18.79.189,8082,ID,PT. Usaha Adisanggoro
-195.9.238.37,8080,RU,PJSC Moscow city telephone network
-113.161.6.170,1080,VN,VNPT Corp
-114.94.148.37,18080,JP,Zeofast Network
-43.155.138.148,3128,KR,Tencent Building  Kejizhongyi Avenue
-202.160.76.238,1080,TW,GLOBAL COMMUNICATION NETWORK LIMITED
-195.91.129.101,1337,RU,JSC ER-Telecom Holding
-193.233.86.198,1080,RU,Chsl One Ltd
 85.237.62.189,3629,RU,Rostelecom
-62.133.62.184,1082,FR,Global Connectivity Solutions Llp
-170.254.95.18,8080,AR,Cooperativa Telefonica Santa Maria Limitada
-41.223.232.34,4145,BF,Point d'Atterissement Virtuel - Burkina Faso
-38.191.204.251,999,CO,TV AZTECA SUCURSAL COLOMBIA
-180.191.120.72,8082,PH,Philippine Long Distance Telephone Company
-188.191.165.113,1080,KZ,Megahost Kazakhstan TOO
-103.106.79.98,8080,ID,PT iForte Global Internet
-154.126.213.5,8080,ZA,JENNY INTERNET (PTY) LTD
-49.229.36.172,4153,TH,SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX
-140.235.38.56,50161,XX,Unknown
-47.251.127.154,1080,US,Alibaba (US) Technology Co.  Ltd.
+103.149.75.82,1080,BD,Race Online Limited
+58.235.170.51,5678,KR,SK Broadband Co Ltd
+186.96.16.117,1080,MX,TOTAL PLAY TELECOMUNICACIONES  S.A.P.I. DE C.V.
+195.201.206.97,1080,DE,Hetzner Online GmbH
+75.81.166.118,39593,US,Charter Communications Inc
+176.111.37.216,39811,UA,Cogento Backbone Limited
+51.79.166.151,10084,SG,OVH SAS
+166.166.177.237,1080,US,C Spire Fiber
+111.235.151.112,8443,DE,YottaSrc
+117.102.101.52,5678,ID,BIZNET NETWORKS
+135.136.188.42,1080,FR,OVH SAS
+194.55.236.105,4444,US,Nuyek  LLC
+139.59.1.14,8080,IN,DigitalOcean  LLC
+93.184.7.26,1080,PS,BCI Telecommunication & Advanced Technology Company
+89.151.134.157,3629,RU,Rostelecom
+14.143.222.113,57748,IN,TATA Communications formerly VSNL is Leading ISP
+101.255.106.33,1452,ID,PT Remala Abadi
+130.49.218.108,1080,RU,Global Connectivity Solutions Llp
