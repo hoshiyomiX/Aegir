@@ -1,36 +1,37 @@
-51.250.16.247,1080,RU,Yandex.Cloud LLC
-72.56.3.17,1080,KZ,Jsc timeweb
-143.244.144.27,3128,US,DigitalOcean  LLC
-65.109.65.238,28080,US,HERN Labs AB
-92.118.112.25,1082,US,Global Connectivity Solutions Llp
-157.180.84.115,443,FI,Hetzner Online GmbH
-195.201.206.97,1080,DE,Hetzner Online GmbH
-2.78.60.10,3129,KZ,Kcell JSC
-217.154.155.115,8080,DE,IONOS SE
-188.235.107.47,1080,RU,JSC ER-Telecom Holding
-43.167.187.107,3128,JP,Tencent Building  Kejizhongyi Avenue
-60.217.64.237,35292,CN,CHINA UNICOM China169 Backbone
-77.110.126.90,1080,US,NetCrafters OU
-46.146.216.44,1080,XX,Unknown
-202.49.176.203,10808,RU,JSC Selectel
-43.167.245.99,3128,JP,Tencent Building  Kejizhongyi Avenue
+72.56.238.99,1080,RU,Jsc timeweb
+104.194.148.204,80,GB,'Tornado Datacenter GmbH & Co. KG'
+65.20.105.241,10001,ES,The Constant Company  LLC
+84.2.239.42,4153,HU,Magyar Telekom Plc.
+149.62.230.50,1080,BG,CETIN Bulgaria EAD
+144.31.222.106,7890,DE,Cloudflare  Inc.
+51.15.75.59,1080,NL,Scaleway SAS
+89.188.76.72,1080,DK,team.blue Denmark A/S
 43.133.30.18,3128,JP,Tencent Building  Kejizhongyi Avenue
-43.133.15.47,3128,JP,Tencent Building  Kejizhongyi Avenue
-175.100.37.171,1080,KH,ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
-159.223.87.50,443,SG,DigitalOcean  LLC
-43.128.150.150,1080,KR,Tencent Building  Kejizhongyi Avenue
-38.19.111.74,8080,MX,TECNOLOGIAS FEM
-207.246.68.214,1088,US,The Constant Company  LLC
-94.247.241.70,51006,RU,JSC ER-Telecom Holding
-36.248.214.42,1080,JP,GSL Networks Pty LTD
-88.87.79.18,3629,RU,JSC ER-Telecom Holding
-81.168.119.85,443,GB,Iomart Cloud Services Limited
-45.240.232.62,8080,EG,Link Egypt (Link.NET)
-54.83.129.139,1080,US,Amazon.com  Inc.
-43.133.187.166,3128,JP,Tencent Building  Kejizhongyi Avenue
-185.215.53.217,3629,AM,Fnet LLC
-103.81.104.53,9090,BD,Digicon Telecommunication Ltd
-49.229.36.213,4153,TH,SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX
-105.27.180.194,1080,ZA,SEACOM Limited
-89.151.134.157,3629,RU,Rostelecom
-154.194.251.24,1080,HK,Ansheng Network Technology Co.  Limited
+85.116.120.106,3629,RU,Rostelecom
+195.19.50.79,1080,RU,JSC GTNT
+147.45.76.207,8080,SE,Aeza Group LLC
+112.28.149.156,8443,JP,Akari Networks
+91.211.100.35,44744,PL,Lukman Multimedia Sp. z o.o
+115.231.181.40,8128,CN,NINGBO  ZHEJIANG Province  P.R.China.
+91.107.163.9,84,DE,Hetzner Online GmbH
+195.158.10.99,8080,UZ,Uzbektelekom Joint Stock Company
+137.66.30.33,1080,DE,CacheFly
+195.9.238.35,8080,RU,PJSC Moscow city telephone network
+195.9.238.36,8080,RU,PJSC Moscow city telephone network
+93.115.18.235,8118,DE,Stiftung Erneuerbare Freiheit
+166.166.177.237,1080,US,C Spire Fiber
+139.167.218.162,3127,IN,Reliance Jio Infocomm Limited
+209.38.214.48,1080,DE,DigitalOcean  LLC
+60.217.64.237,35292,CN,CHINA UNICOM China169 Backbone
+123.231.252.218,8080,ID,PT Aplikanusa Lintasarta
+83.56.15.57,5678,ES,Telefonica De Espana S.a.u.
+43.167.187.233,3128,JP,Tencent Building  Kejizhongyi Avenue
+38.156.236.89,999,DO,NEXERCOM SRL
+34.96.238.40,8080,HK,Google LLC
+194.165.16.21,1080,MC,Flyservers S.A.
+186.33.20.193,999,HN,UFINET PANAMA S.A.
+58.235.170.51,5678,KR,SK Broadband Co Ltd
+200.110.104.9,999,MX,WISTARIP S DE RL DE CV
+43.247.132.185,1080,HK,XNNET LLC
+151.241.234.208,8443,FI,Hostkey B.v.
+138.68.60.8,3128,US,DigitalOcean  LLC
