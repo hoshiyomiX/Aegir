@@ -1,19 +1,28 @@
 157.180.84.115,443,FI,Hetzner Online GmbH
-91.188.213.143,1080,SC,Helou LLC
-65.108.203.35,28080,US,HERN Labs AB
-185.200.188.234,10001,RU,Ihor Hosting Ltd
-182.253.144.75,4153,ID,BIZNET NETWORKS
+72.56.238.99,1080,RU,Jsc timeweb
+72.56.238.99,9090,RU,Jsc timeweb
+104.194.148.204,80,GB,'Tornado Datacenter GmbH & Co. KG'
+92.119.127.211,6005,FR,velia.net Internetdienste GmbH
+34.43.46.91,80,US,Google LLC
+185.191.239.248,3128,CH,GRUPO PANAGLOBAL 15 S.A
+92.42.8.23,4153,RU,Stavtelecom LLC
 200.227.89.50,3128,BR,ALGAR TELECOM S/A
-139.28.241.60,1080,TR,Global Connectivity Solutions Llp
-144.31.222.106,7890,RU,Cloudflare  Inc.
-43.133.30.18,3128,JP,Tencent Building  Kejizhongyi Avenue
-103.76.120.216,1080,ID,PT Cloud Hosting Indonesia
-131.222.251.90,8080,TR,High Speed For Internet Services L.L.C
-151.241.234.208,8443,FI,Hostkey B.v.
-194.87.43.46,8080,RU,Jsc timeweb
-119.148.47.233,1048,BD,Agni Systems Limited
-137.59.47.73,3128,VN,MOBIFONE Corporation
-43.167.213.156,3128,JP,Tencent Building  Kejizhongyi Avenue
-203.162.13.26,6868,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-59.153.16.105,20909,BD,S.M. ZAKIR HOSSAIN t/a EUROtelbd Online Ltd.
-43.133.187.166,3128,JP,Tencent Building  Kejizhongyi Avenue
+91.188.213.143,1080,SC,Helou LLC
+103.76.170.254,1080,ID,PT INDONESIA COMNETS PLUS
+176.12.65.24,443,US,GTHost
+159.223.87.50,443,SG,DigitalOcean  LLC
+80.78.78.106,65530,AL,Vodafone Albania Sh.A.
+43.241.247.43,8080,ID,PT Mega Cipta Netindo
+217.217.249.12,3128,IN,Contabo Asia Private Limited
+139.59.1.14,8080,IN,DigitalOcean  LLC
+206.123.156.241,4578,FR,Microsoft Corporation
+194.76.172.30,1080,FI,Anton Levin
+183.239.147.38,1100,HK,Datacamp Limited
+131.222.253.73,8080,PL,High Speed For Internet Services L.L.C
+46.188.2.42,5678,RU,Joint-stock Company teleport Telecom
+31.57.178.195,8080,ID,PT. NAP Info Lintas Nusa
+38.127.172.219,37234,US,Cogent Communications  LLC
+5.129.218.102,1081,NL,Timeweb  LLP
+66.231.77.138,8080,EC,CUBOTELECOM CIA. LTDA.
+43.167.199.44,3128,JP,Tencent Building  Kejizhongyi Avenue
+103.191.171.35,8181,ID,PT Sahabat Manjur Grup
