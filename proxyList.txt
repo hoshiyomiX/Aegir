@@ -1,40 +1,19 @@
-104.194.148.188,3128,GB,'Tornado Datacenter GmbH & Co. KG'
-75.81.166.118,39593,US,Charter Communications Inc
-209.97.150.167,3128,US,DigitalOcean  LLC
-132.243.234.171,9443,NL,Hostkey B.v.
-78.111.112.118,4145,CZ,ISP Alliance a.s.
-104.152.50.252,8000,US,WebNX  Inc.
-87.107.74.39,1028,IR,Respina Networks & Beyond PJSC
-213.165.38.49,1080,NL,Aeza Group LLC
-86.127.175.42,8080,RO,Digi Romania S.A.
-176.111.37.216,39811,UA,Cogento Backbone Limited
-178.250.156.112,443,US,GTHost
-187.175.168.26,8080,MX,UNINET
-178.156.224.42,3128,US,Limestone Networks  Inc.
-197.100.98.169,1080,ZA,Dimension Data
-206.123.156.241,5001,US,New Dream Network  LLC
-103.197.242.106,1080,KH,Cogetel Online  Cambodia  ISP
-89.148.196.156,1080,RU,MTS PJSC
-194.28.162.12,1080,RU,IP Andreev Boris Vladimirovich
-109.120.184.202,1080,FI,Aeza Group LLC
-81.95.226.44,3128,UZ,Uzbektelekom Joint Stock Company
+157.180.84.115,443,FI,Hetzner Online GmbH
+91.188.213.143,1080,SC,Helou LLC
+65.108.203.35,28080,US,HERN Labs AB
+185.200.188.234,10001,RU,Ihor Hosting Ltd
+182.253.144.75,4153,ID,BIZNET NETWORKS
+200.227.89.50,3128,BR,ALGAR TELECOM S/A
 139.28.241.60,1080,TR,Global Connectivity Solutions Llp
-64.49.67.164,5678,US,WNET TELECOM USA Corp.
-103.167.61.162,3128,HK,STACKS INC
-82.114.228.67,1080,RU,LLC smart Center
-80.191.40.133,5678,IR,Iran Telecommunication Company PJS
-18.162.200.96,16239,HK,Amazon.com  Inc.
-103.81.104.53,9090,BD,Digicon Telecommunication Ltd
-23.95.215.238,10808,US,HostPapa
-103.159.96.158,3127,ID,PT Jinde Grup Indonesia
-195.9.238.34,8080,RU,PJSC Moscow city telephone network
-36.50.56.11,8818,ID,PT Andromega Data Nusantara
-78.111.149.103,1080,RU,MTS PJSC
-38.191.212.114,999,CO,TV&MAS S.A.S
-139.255.36.82,2080,ID,Linknet ASN
-43.133.1.198,3128,JP,Tencent Building  Kejizhongyi Avenue
+144.31.222.106,7890,RU,Cloudflare  Inc.
+43.133.30.18,3128,JP,Tencent Building  Kejizhongyi Avenue
+103.76.120.216,1080,ID,PT Cloud Hosting Indonesia
+131.222.251.90,8080,TR,High Speed For Internet Services L.L.C
 151.241.234.208,8443,FI,Hostkey B.v.
-183.173.199.84,6382,HK,Akari Networks
-43.167.187.233,3128,JP,Tencent Building  Kejizhongyi Avenue
-79.175.188.203,443,IR,Afranet
-148.230.17.252,999,GT,Navega.com S.A.
+194.87.43.46,8080,RU,Jsc timeweb
+119.148.47.233,1048,BD,Agni Systems Limited
+137.59.47.73,3128,VN,MOBIFONE Corporation
+43.167.213.156,3128,JP,Tencent Building  Kejizhongyi Avenue
+203.162.13.26,6868,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+59.153.16.105,20909,BD,S.M. ZAKIR HOSSAIN t/a EUROtelbd Online Ltd.
+43.133.187.166,3128,JP,Tencent Building  Kejizhongyi Avenue
