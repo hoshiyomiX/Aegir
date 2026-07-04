@@ -1,51 +1,11 @@
-89.151.134.157,3629,RU,Rostelecom
-3.216.29.196,3128,US,Amazon.com  Inc.
-174.137.134.182,2999,US,Webair Internet Development Company Inc.
-85.237.51.73,4145,RU,Rostelecom
-96.36.50.99,39593,US,Charter Communications LLC
-37.16.81.138,1080,SE,Aeza Group LLC
-157.180.84.115,443,FI,Hetzner Online GmbH
-109.107.189.151,1080,DE,U1 Digital Services Ltd
-23.95.28.234,10808,US,HostPapa
-14.143.222.113,57748,IN,TATA Communications formerly VSNL is Leading ISP
-114.94.148.37,18080,JP,Zeofast Network
-185.161.251.195,3128,DE,Global Connectivity Solutions Llp
-94.182.225.248,3128,IR,Aria Shatel PJSC
-103.249.117.187,1080,VN,FUTE JOINT STOCK COMPANY
-91.233.223.147,3128,RU,Radist LTD
-43.167.214.133,3128,JP,Tencent Building  Kejizhongyi Avenue
-83.56.15.57,5678,ES,Telefonica De Espana S.a.u.
-213.188.203.54,1080,JP,Latitude.sh
-103.4.76.237,1111,ID,PT Khazanah Net Indonesia
-77.110.113.236,8080,AL,Global Connectivity Solutions Llp
-81.168.119.85,443,GB,Iomart Cloud Services Limited
-59.66.23.99,29290,CN,China Education and Research Network Center
-192.73.243.98,3128,US,NetActuate  Inc
-45.240.232.62,8080,EG,Link Egypt (Link.NET)
-103.109.174.43,8080,ID,PT Cyberindo Aditama
-94.68.245.147,8080,GR,OTEnet S.A.
-93.187.26.134,58080,IT,Consorzio Terrecablate
-38.46.233.243,3127,ID,PT CYB Media Group
-103.155.71.8,8090,BD,Orange Communication
-103.153.149.18,8181,ID,PT JARINGANKU SARANA NUSANTARA
-43.133.1.198,3128,JP,Tencent Building  Kejizhongyi Avenue
-103.247.22.114,4317,ID,WIFIAN ID
-146.103.104.197,8888,NL,Servers Tech Fzco
-206.123.156.245,4592,IT,Reevo S.p.A.
-194.135.38.119,2333,CZ,Timeweb  LLP
-93.184.7.26,1080,PS,BCI Telecommunication & Advanced Technology Company
-199.247.29.193,50000,NL,Cloudflare  Inc.
-103.156.17.161,8818,ID,RSTNET
-186.97.200.210,999,CO,Colombia Movil
-165.154.7.156,8888,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
-43.167.27.118,3128,JP,Tencent Building  Kejizhongyi Avenue
-91.240.87.51,8888,RU,JSC IOT
-38.125.100.6,3128,US,Cogent Communications  LLC
-36.90.223.66,4153,ID,PT Telekomunikasi Indonesia
-83.143.24.66,1080,BW,BOTSWANA FIBRE NETWORKS (Proprietary) Limited
-138.117.14.238,8090,AR,LEVEL SEVEN SRL
-95.83.149.106,1080,RU,Limited Liability Company TTK-Svyaz
-98.103.88.158,46104,US,Charter Communications Inc
-113.161.6.170,1080,VN,VNPT Corp
-38.211.76.203,999,CO,FIBERNET TV SAS
-109.120.184.202,1080,FI,Aeza Group LLC
+176.111.37.5,39811,UA,Cogento Backbone Limited
+104.154.186.48,80,US,Google LLC
+137.59.47.73,3128,VN,MOBIFONE Corporation
+78.186.23.201,1953,TR,Turk Telekom
+95.9.81.181,1953,TR,Turk Telekom
+103.113.152.73,14158,BD,Triangle Services Limited.
+43.133.169.167,3128,JP,Tencent Building  Kejizhongyi Avenue
+163.192.24.33,1080,US,Oracle Corporation
+202.61.110.162,8082,PH,Medrozo IT Solutions
+47.242.243.198,2233,HK,Alibaba (US) Technology Co.  Ltd.
+112.28.149.152,8443,JP,Akari Networks
