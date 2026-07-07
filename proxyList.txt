@@ -1,141 +1,102 @@
-72.56.238.99,1080,RU,Jsc timeweb
-94.156.180.137,3128,FI,Serv.host Group Ltd
-185.200.188.234,10001,RU,Ihor Hosting Ltd
-95.217.23.103,8443,FI,Hetzner Online GmbH
-94.247.241.70,51006,RU,JSC ER-Telecom Holding
-176.111.37.5,39811,UA,Cogento Backbone Limited
-46.188.2.42,5678,RU,Joint-stock Company teleport Telecom
-144.31.222.106,7890,RU,Cloudflare  Inc.
-144.31.222.106,7890,RU,Cloudflare  Inc.
-176.111.37.216,39811,UA,Cogento Backbone Limited
-185.92.183.236,1080,LV,Cgi Global Limited
-168.119.153.216,8888,DE,Hetzner Online GmbH
-95.211.174.135,3128,NL,LeaseWeb Netherlands B.V.
-95.84.138.196,1080,BG,Belcloud LTD
-5.23.104.251,1080,RU,Vidikon-K  CJSC
-195.135.255.98,1080,LV,SIA VEESP
-104.194.148.204,80,GB,'Tornado Datacenter GmbH & Co. KG'
-176.12.65.24,443,US,GTHost
-188.245.98.117,8089,DE,Hetzner Online GmbH
-94.198.213.252,5678,IT,LA Wireless Srl
-5.79.163.26,1080,RU,Intersvyaz-2 JSC
-31.172.74.20,80,NL,Fornex Hosting S.L.
-88.213.214.254,4145,BG,NETBOX LTD
-178.208.86.45,1080,NL,eServer
-45.93.22.42,8080,NL,Datacamp Limited
-208.82.61.64,3128,US,Rackdog  LLC
-209.97.150.167,3128,US,DigitalOcean  LLC
-198.199.86.11,3128,US,DigitalOcean  LLC
-209.126.108.35,70,US,velia.net
-159.203.61.169,3128,CA,DigitalOcean  LLC
-34.224.222.77,1080,US,Amazon.com  Inc.
-167.114.172.208,1088,CA,OVH SAS
-154.223.129.170,10080,SC,CDS Global Cloud Co.  Ltd
-3.128.83.74,17000,US,Amazon.com  Inc.
-34.43.46.91,443,US,Google LLC
-45.133.251.196,1080,DE,Play2go International Limited
-77.110.113.236,8080,AL,Global Connectivity Solutions Llp
-34.209.216.57,8080,US,Amazon.com  Inc.
-77.83.198.35,8888,EE,HZ Hosting Ltd
-199.182.135.85,3128,US,Modulis
-114.94.148.37,18080,JP,Zeofast Network
-69.87.216.54,7989,US,Atlantic.net  Inc.
-45.38.42.242,40000,HK,Cloudflare  Inc.
-71.198.208.169,443,US,Comcast Cable Communications  LLC
-139.59.1.14,8080,IN,DigitalOcean  LLC
-103.203.234.5,1083,ID,PT Nesta Indo Media
-43.248.10.236,1080,HK,VH Global Limited
-103.191.165.9,8070,ID,PT Sakti Wijaya Network
-87.107.74.39,1028,IR,Respina Networks & Beyond PJSC
-113.160.132.26,8080,VN,VNPT Corp
-75.81.166.118,39593,US,Charter Communications Inc
-51.178.253.98,80,FR,OVH SAS
-178.128.95.176,8080,SG,DigitalOcean  LLC
-50.7.252.2,8088,SG,FDCservers.net
-103.149.75.82,1080,BD,Race Online Limited
-43.167.27.118,3128,JP,Tencent Building  Kejizhongyi Avenue
-43.167.171.85,3128,JP,Tencent Building  Kejizhongyi Avenue
-140.99.255.61,8443,US,GTHost
-124.156.230.244,3128,JP,Tencent Building  Kejizhongyi Avenue
-194.58.57.52,1080,CZ,Timeweb  LLP
-165.99.151.246,10001,ID,PT Jala Lintas Media
-154.79.251.168,1080,KE,Airtel Networks Kenya Limited
-1.231.81.166,3128,KR,SK Broadband Co Ltd
-91.223.52.141,5678,PL,InterWan Sp. z o.o.
-191.223.41.137,1080,HK,Hong Kong Communications International Co.  Limited
-178.128.95.176,443,SG,DigitalOcean  LLC
-194.67.51.210,1080,RU,PVimpelCom
-77.105.139.108,1080,NL,Servers Tech Fzco
-93.183.175.6,5678,BG,ESCOM Ltd. - Haskovo
-112.28.149.156,8443,JP,Akari Networks
-23.81.87.202,8118,US,Leaseweb USA  Inc.
-103.82.20.76,8080,VN,Viettel Group
-176.213.141.107,8080,RU,JSC ER-Telecom Holding
-123.138.24.114,8800,CN,CHINA UNICOM China169 Backbone
-172.234.84.4,1080,JP,Akamai Connected Cloud
-103.131.19.51,8080,ID,PT.Global Media Data Prima
-206.123.156.239,6588,FR,OVH SAS
-172.234.84.29,1080,JP,Akamai Connected Cloud
-172.234.84.34,1080,JP,Akamai Connected Cloud
-18.163.33.4,51372,NL,Church of Cyberology
-74.62.23.242,39593,US,Charter Communications Inc
-43.133.15.47,3128,JP,Tencent Building  Kejizhongyi Avenue
-8.219.70.174,443,SG,Alibaba (US) Technology Co.  Ltd.
-81.168.119.85,443,GB,Iomart Cloud Services Limited
-185.139.68.62,443,RU,First Server Limited
-43.133.187.166,3128,JP,Tencent Building  Kejizhongyi Avenue
-213.210.67.186,3629,RU,Rostelecom
-78.111.149.103,1080,RU,MTS PJSC
-43.133.30.18,3128,JP,Tencent Building  Kejizhongyi Avenue
-81.168.119.85,443,GB,Iomart Cloud Services Limited
-112.28.149.156,8443,JP,Akari Networks
-90.8.144.108,3317,FR,Orange
-177.184.199.36,80,BR,FIBRION INTERNET LTDA
-80.51.61.1,8080,PL,Orange Polska Spolka Akcyjna
-13.208.166.217,23302,SE,QuxLabs AB
-185.191.239.248,3128,CH,GRUPO PANAGLOBAL 15 S.A
-91.150.77.58,56921,RS,TELEKOM SRBIJA a.d.
-43.167.199.44,3128,JP,Tencent Building  Kejizhongyi Avenue
-45.174.168.38,999,MX,TOTAL PLAY TELECOMUNICACIONES  S.A.P.I. DE C.V.
-134.175.238.113,1080,CN,Shenzhen Tencent Computer Systems Company Limited
-187.172.57.158,999,MX,UNINET
-157.180.84.115,443,FI,Hetzner Online GmbH
-27.147.153.179,1080,BD,Link3 Technologies Ltd.
-194.87.250.182,1080,NL,Timeweb  LLP
-43.167.245.99,3128,JP,Tencent Building  Kejizhongyi Avenue
-88.87.79.18,3629,RU,JSC ER-Telecom Holding
-91.92.80.199,4145,BG,Netguard LLC
-13.126.183.60,48013,NL,Church of Cyberology
-103.75.84.200,8080,ID,MEGADATA-ISP
-59.152.97.233,1080,BD,EARTH TELECOMMUNICATION (Pvt) LTD.
-206.123.156.239,4201,GB,Iomart Cloud Services Limited
-62.60.230.196,1080,SE,Aeza Group LLC
-43.167.214.133,3128,JP,Tencent Building  Kejizhongyi Avenue
-103.191.171.51,1234,ID,PT Sahabat Manjur Grup
-194.87.43.46,8080,RU,Jsc timeweb
-152.32.132.190,7890,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
-185.35.130.144,54782,RU,Plazmatelekom LLC
-206.123.156.246,4663,GB,Iomart Cloud Services Limited
-49.156.44.166,8080,KH,WiCAM Corporation Ltd.
-167.86.79.35,1080,FR,Cloudflare  Inc.
-2.27.21.152,8888,NL,Play2go International Limited
-51.17.154.141,7777,SE,QuxLabs AB
-113.174.175.192,8080,VN,VNPT Corp
-70.35.196.194,8087,US,IONOS SE
-43.167.187.233,3128,JP,Tencent Building  Kejizhongyi Avenue
-103.120.221.105,8090,BD,Microlink Technology
-8.243.175.14,999,CO,Level 3 Parent  LLC
-82.114.228.67,1080,RU,LLC smart Center
-142.93.21.46,61616,US,Fourplex Telecom LLC
-185.200.177.138,445,NL,Clodo Cloud Service Co. L.L.C
-47.82.66.101,1011,HK,Alibaba (US) Technology Co.  Ltd.
-91.211.100.35,44744,PL,Lukman Multimedia Sp. z o.o
-206.123.156.245,4158,US,Microsoft Corporation
-83.56.15.57,5678,ES,Telefonica De Espana S.a.u.
-206.123.156.245,6581,BR,UNIVERSIDADE FEDERAL DA BAHIA
-216.49.115.7,8080,US,Perry-Spencer Communications  Inc.
-131.222.253.76,8080,TR,High Speed For Internet Services L.L.C
-49.229.36.172,4153,TH,SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX
-112.28.149.152,8443,JP,Akari Networks
-43.167.16.253,3128,JP,Tencent Building  Kejizhongyi Avenue
-43.133.169.167,3128,JP,Tencent Building  Kejizhongyi Avenue
+72.56.238.99,9090,XX,Unknown
+72.56.238.99,1080,XX,Unknown
+185.137.234.101,1080,XX,Unknown
+213.226.127.45,8000,XX,Unknown
+95.83.149.106,1080,XX,Unknown
+95.84.138.196,1080,XX,Unknown
+176.111.37.216,39811,XX,Unknown
+54.38.138.60,3128,XX,Unknown
+168.119.153.216,8888,XX,Unknown
+45.93.22.42,8080,XX,Unknown
+45.67.58.190,1080,XX,Unknown
+188.245.98.117,8089,XX,Unknown
+217.173.31.28,1080,XX,Unknown
+194.67.51.210,1080,XX,Unknown
+103.167.61.162,3128,XX,Unknown
+208.82.61.64,3128,XX,Unknown
+34.43.46.91,443,XX,Unknown
+34.43.46.91,80,XX,Unknown
+178.208.86.45,1080,XX,Unknown
+209.126.108.35,70,XX,Unknown
+195.19.51.21,1080,XX,Unknown
+167.114.172.208,1088,XX,Unknown
+3.128.83.74,17000,XX,Unknown
+69.87.216.54,7989,XX,Unknown
+199.182.135.85,3128,XX,Unknown
+51.178.253.98,80,XX,Unknown
+47.250.115.134,1080,XX,Unknown
+202.28.194.139,31280,XX,Unknown
+140.99.255.61,8443,XX,Unknown
+144.24.15.246,1080,XX,Unknown
+1.231.81.166,3128,XX,Unknown
+43.167.199.44,3128,XX,Unknown
+113.160.132.26,8080,XX,Unknown
+176.111.37.5,39811,XX,Unknown
+49.51.228.35,81,XX,Unknown
+94.181.33.149,40840,XX,Unknown
+50.7.252.2,8088,XX,Unknown
+113.22.221.35,20000,XX,Unknown
+45.76.183.4,10080,XX,Unknown
+160.250.54.4,9000,XX,Unknown
+178.128.95.176,8080,XX,Unknown
+43.167.213.156,3128,XX,Unknown
+137.59.47.73,3128,XX,Unknown
+47.81.56.193,8888,XX,Unknown
+183.172.30.41,6382,XX,Unknown
+1.189.102.145,1080,XX,Unknown
+71.198.208.169,443,XX,Unknown
+77.110.113.236,8080,XX,Unknown
+103.106.219.115,7777,XX,Unknown
+43.167.187.233,3128,XX,Unknown
+5.75.168.247,8019,XX,Unknown
+91.144.22.69,8080,XX,Unknown
+43.173.124.23,8081,XX,Unknown
+43.133.169.167,3128,XX,Unknown
+34.96.238.40,8080,XX,Unknown
+82.114.228.67,1080,XX,Unknown
+43.167.27.118,3128,XX,Unknown
+185.128.104.152,8443,XX,Unknown
+112.28.149.152,8443,XX,Unknown
+112.28.149.156,8443,XX,Unknown
+43.167.187.107,3128,XX,Unknown
+31.172.74.20,80,XX,Unknown
+123.138.24.114,8800,XX,Unknown
+59.66.137.138,6382,XX,Unknown
+43.167.16.253,3128,XX,Unknown
+140.238.32.108,3128,XX,Unknown
+86.62.2.25,3128,XX,Unknown
+103.153.159.217,80,XX,Unknown
+119.136.146.202,1080,XX,Unknown
+43.133.15.47,3128,XX,Unknown
+112.28.149.156,8443,XX,Unknown
+119.148.47.233,1048,XX,Unknown
+92.39.129.50,1256,XX,Unknown
+103.181.183.136,80,XX,Unknown
+85.9.87.26,8080,XX,Unknown
+65.109.219.73,1080,XX,Unknown
+103.203.234.5,1083,XX,Unknown
+41.196.72.198,8080,XX,Unknown
+170.106.177.188,9050,XX,Unknown
+43.133.30.18,3128,XX,Unknown
+46.34.165.86,443,XX,Unknown
+179.1.113.113,999,XX,Unknown
+206.123.156.239,4535,XX,Unknown
+163.227.146.108,8081,XX,Unknown
+112.28.149.152,8443,XX,Unknown
+212.20.40.61,1080,XX,Unknown
+154.223.129.170,10080,XX,Unknown
+89.23.123.32,1080,XX,Unknown
+89.43.135.9,8080,XX,Unknown
+5.136.120.180,1080,XX,Unknown
+181.118.147.28,999,XX,Unknown
+206.123.156.245,9298,XX,Unknown
+89.169.168.25,6101,XX,Unknown
+163.61.70.4,9000,XX,Unknown
+81.168.119.85,443,XX,Unknown
+171.7.68.70,8080,XX,Unknown
+124.156.230.244,3128,XX,Unknown
+20.27.11.248,8561,XX,Unknown
+83.222.13.67,1080,XX,Unknown
+43.167.245.99,3128,XX,Unknown
+5.75.168.247,8026,XX,Unknown
+202.49.176.24,2080,XX,Unknown
