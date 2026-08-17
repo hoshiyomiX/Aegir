@@ -1,281 +1,712 @@
-85.143.254.38,1080,XX,Unknown
-45.137.43.0,1081,XX,Unknown
-66.151.32.105,4443,XX,Unknown
-31.220.40.59,5080,XX,Unknown
-95.211.174.135,3128,XX,Unknown
-204.76.203.9,3128,XX,Unknown
-204.76.203.9,8080,XX,Unknown
-95.211.64.139,8889,XX,Unknown
-45.95.233.128,1082,XX,Unknown
-95.211.64.139,8886,XX,Unknown
-178.17.57.222,1080,XX,Unknown
-31.220.40.59,5080,XX,Unknown
-151.243.224.12,1080,XX,Unknown
-193.222.99.32,1080,XX,Unknown
-78.85.139.146,1080,XX,Unknown
-66.151.32.105,1080,XX,Unknown
-95.85.233.144,18443,XX,Unknown
-217.76.39.4,1080,XX,Unknown
-95.211.64.139,8888,XX,Unknown
-185.125.200.80,1090,XX,Unknown
-147.45.221.115,1082,XX,Unknown
-45.95.233.88,1082,XX,Unknown
-109.106.196.250,4145,XX,Unknown
-77.110.103.146,1080,XX,Unknown
-95.3.69.222,8080,XX,Unknown
-95.211.64.139,8887,XX,Unknown
-95.31.16.116,1081,XX,Unknown
-195.239.17.185,1080,XX,Unknown
-144.124.232.204,443,XX,Unknown
-45.95.233.128,1082,XX,Unknown
-85.209.120.145,1080,XX,Unknown
-64.112.184.210,3128,XX,Unknown
-31.76.80.215,1080,XX,Unknown
-89.251.21.11,8080,XX,Unknown
-89.208.106.37,32712,XX,Unknown
-188.121.102.182,1085,XX,Unknown
-176.111.37.5,39811,XX,Unknown
-193.222.99.32,1080,XX,Unknown
-172.81.111.156,10001,XX,Unknown
-202.28.194.139,31280,XX,Unknown
-104.194.8.103,40001,XX,Unknown
-165.154.162.73,8888,XX,Unknown
-93.118.127.222,1080,XX,Unknown
-43.160.242.118,3128,XX,Unknown
-181.129.192.138,5678,XX,Unknown
-8.215.25.3,2080,XX,Unknown
-159.195.49.27,1080,XX,Unknown
-45.159.189.203,1080,XX,Unknown
-47.250.211.53,1080,XX,Unknown
-8.215.25.3,2081,XX,Unknown
-45.66.249.187,8181,XX,Unknown
-105.214.45.63,5678,XX,Unknown
-200.59.191.27,999,XX,Unknown
-43.164.3.124,1080,XX,Unknown
-181.78.74.252,999,XX,Unknown
-181.78.74.253,999,XX,Unknown
-216.48.180.178,8080,XX,Unknown
-103.66.74.61,1080,XX,Unknown
-181.39.25.196,8118,XX,Unknown
-89.106.89.70,10808,XX,Unknown
-47.236.177.236,1080,XX,Unknown
-114.94.148.37,18080,XX,Unknown
-179.189.248.129,5432,XX,Unknown
-37.18.73.60,5566,XX,Unknown
-124.217.76.30,8081,XX,Unknown
-179.189.249.249,5432,XX,Unknown
-193.25.215.182,22222,XX,Unknown
-34.43.46.91,80,XX,Unknown
-8.215.25.3,2080,XX,Unknown
-185.97.200.14,1080,XX,Unknown
-43.133.128.153,16012,XX,Unknown
-45.66.249.187,3128,XX,Unknown
-1.231.81.166,3128,XX,Unknown
-46.8.104.176,1080,XX,Unknown
-103.172.42.189,1111,XX,Unknown
-193.233.218.213,1080,XX,Unknown
-140.150.236.191,10800,XX,Unknown
-150.241.70.103,6666,XX,Unknown
-101.6.51.91,6696,XX,Unknown
-34.43.46.91,443,XX,Unknown
-49.51.253.118,8888,XX,Unknown
-193.222.99.32,1080,XX,Unknown
-147.45.72.212,44816,XX,Unknown
-130.49.187.61,1082,XX,Unknown
-185.200.177.138,445,XX,Unknown
-103.179.172.167,18888,XX,Unknown
-112.90.88.102,20000,XX,Unknown
-88.204.134.234,1080,XX,Unknown
-171.213.200.238,7890,XX,Unknown
-160.22.17.4,9988,XX,Unknown
-101.36.104.239,10808,XX,Unknown
-147.45.60.250,1082,XX,Unknown
-47.84.84.1,3128,XX,Unknown
-101.36.104.46,10808,XX,Unknown
-45.43.63.37,10808,XX,Unknown
-122.246.4.6,17981,XX,Unknown
-109.107.166.207,30385,XX,Unknown
-147.45.60.136,1082,XX,Unknown
-111.119.162.248,10932,XX,Unknown
-212.46.194.203,1080,XX,Unknown
-171.25.158.95,1080,XX,Unknown
-147.45.60.139,1082,XX,Unknown
-185.82.99.210,8724,XX,Unknown
-147.45.60.136,1082,XX,Unknown
-111.119.162.248,10918,XX,Unknown
-72.56.106.48,1080,XX,Unknown
-78.26.146.16,443,XX,Unknown
-103.147.77.66,8080,XX,Unknown
-112.28.149.152,8443,XX,Unknown
-50.200.166.130,8080,XX,Unknown
-103.153.159.217,80,XX,Unknown
-149.62.186.244,1080,XX,Unknown
-205.209.64.21,8080,XX,Unknown
-176.202.25.52,8080,XX,Unknown
-45.66.249.187,8080,XX,Unknown
-79.175.188.203,443,XX,Unknown
-112.207.169.6,8082,XX,Unknown
-179.189.243.245,5432,XX,Unknown
-62.113.113.114,1080,XX,Unknown
-212.58.132.5,8888,XX,Unknown
-101.206.186.99,8080,XX,Unknown
-47.76.170.223,1011,XX,Unknown
-213.176.113.24,50001,XX,Unknown
-153.51.241.50,999,XX,Unknown
-92.118.234.124,1080,XX,Unknown
-111.119.162.248,10955,XX,Unknown
-122.246.3.12,17981,XX,Unknown
-195.226.213.251,8888,XX,Unknown
-103.166.11.26,2021,XX,Unknown
-123.58.219.171,10808,XX,Unknown
-190.97.229.118,999,XX,Unknown
-103.118.85.75,6321,XX,Unknown
-195.19.52.187,1080,XX,Unknown
-111.119.162.248,10936,XX,Unknown
-45.150.33.211,1082,XX,Unknown
-118.145.141.251,45208,XX,Unknown
-160.250.54.5,9000,XX,Unknown
-147.45.60.139,1082,XX,Unknown
-165.99.14.18,5432,XX,Unknown
-91.122.216.160,8080,XX,Unknown
-192.144.57.124,9050,XX,Unknown
-91.197.79.59,1080,XX,Unknown
-176.32.33.164,1080,XX,Unknown
-183.201.208.25,2022,XX,Unknown
-186.33.45.219,999,XX,Unknown
-103.172.42.143,1111,XX,Unknown
-111.119.162.248,10930,XX,Unknown
-147.45.60.246,1082,XX,Unknown
-111.119.162.248,10918,XX,Unknown
-118.145.141.251,44100,XX,Unknown
-45.61.129.165,9050,XX,Unknown
-118.145.141.251,45159,XX,Unknown
-190.97.236.128,999,XX,Unknown
-123.60.155.1,3128,XX,Unknown
-120.232.115.170,17981,XX,Unknown
-212.33.246.11,3128,XX,Unknown
-82.117.78.58,1080,XX,Unknown
-118.145.141.251,45163,XX,Unknown
-186.33.45.218,999,XX,Unknown
-144.124.227.191,1080,XX,Unknown
-103.80.214.243,1111,XX,Unknown
-179.189.248.125,5432,XX,Unknown
-79.127.30.250,8080,XX,Unknown
-5.180.52.198,1080,XX,Unknown
-102.39.133.233,1080,XX,Unknown
-219.142.66.244,9090,XX,Unknown
-66.175.236.184,1080,XX,Unknown
-102.23.234.83,8080,XX,Unknown
-160.250.54.7,9000,XX,Unknown
-111.119.162.248,10955,XX,Unknown
-195.133.65.238,10809,XX,Unknown
-181.188.203.112,999,XX,Unknown
-118.145.141.251,45170,XX,Unknown
-195.135.255.98,1080,XX,Unknown
-89.237.33.126,51549,XX,Unknown
-118.145.141.251,44126,XX,Unknown
-77.239.109.126,1080,XX,Unknown
-117.50.194.130,7890,XX,Unknown
-118.145.141.251,44177,XX,Unknown
-118.145.141.251,44078,XX,Unknown
-111.119.162.248,10932,XX,Unknown
-103.166.158.213,8080,XX,Unknown
-58.254.153.146,17981,XX,Unknown
-47.238.236.151,5555,XX,Unknown
-177.229.193.18,999,XX,Unknown
-85.198.100.232,3128,XX,Unknown
-43.164.136.189,1080,XX,Unknown
-111.119.162.248,10904,XX,Unknown
-223.254.141.102,6626,XX,Unknown
-126.209.110.125,8087,XX,Unknown
-112.64.135.45,8080,XX,Unknown
-180.141.88.241,9009,XX,Unknown
-78.38.67.95,4153,XX,Unknown
-103.12.204.33,8080,XX,Unknown
-118.145.141.251,45120,XX,Unknown
-45.144.214.8,1081,XX,Unknown
-160.250.54.5,9000,XX,Unknown
-94.131.92.155,3128,XX,Unknown
-193.43.159.172,8080,XX,Unknown
-165.154.20.187,10808,XX,Unknown
-111.119.162.248,10956,XX,Unknown
-105.214.29.122,5678,XX,Unknown
-131.222.251.56,8080,XX,Unknown
-101.255.209.158,8181,XX,Unknown
-67.210.146.50,11080,XX,Unknown
-45.95.232.35,3128,XX,Unknown
-103.68.213.3,8080,XX,Unknown
-45.130.201.172,1080,XX,Unknown
-181.204.193.171,999,XX,Unknown
-46.197.136.14,8080,XX,Unknown
-103.25.195.121,8181,XX,Unknown
-223.85.21.195,8080,XX,Unknown
-190.93.224.32,999,XX,Unknown
-103.176.171.46,4153,XX,Unknown
-103.82.246.27,6080,XX,Unknown
-5.255.117.127,1080,XX,Unknown
-45.118.146.219,1080,XX,Unknown
-31.76.31.221,1080,XX,Unknown
-8.219.97.248,80,XX,Unknown
-47.245.165.201,1080,XX,Unknown
-93.123.30.53,3128,XX,Unknown
-91.247.250.215,4145,XX,Unknown
-188.127.224.164,2080,XX,Unknown
-61.191.119.134,10800,XX,Unknown
-124.217.14.102,8081,XX,Unknown
-178.57.106.43,4145,XX,Unknown
-139.28.240.201,1082,XX,Unknown
-89.169.168.25,6101,XX,Unknown
-103.153.247.110,8080,XX,Unknown
-153.80.240.37,8080,XX,Unknown
-212.58.132.5,1080,XX,Unknown
-43.160.219.223,1080,XX,Unknown
-103.25.220.250,8083,XX,Unknown
-139.28.240.201,1082,XX,Unknown
-101.2.166.41,1080,XX,Unknown
-84.36.141.180,1981,XX,Unknown
-101.255.137.2,80,XX,Unknown
-45.137.43.0,1081,XX,Unknown
-91.211.212.6,32650,XX,Unknown
-31.187.64.243,10086,XX,Unknown
-147.45.66.116,1082,XX,Unknown
-20.78.26.206,8561,XX,Unknown
-187.251.251.161,999,XX,Unknown
-202.136.83.167,8090,XX,Unknown
-116.232.80.133,1080,XX,Unknown
-113.192.31.7,8080,XX,Unknown
-27.185.218.213,17981,XX,Unknown
-177.5.74.74,1080,XX,Unknown
-217.177.33.53,1080,XX,Unknown
-147.45.60.124,1082,XX,Unknown
-58.254.153.147,17981,XX,Unknown
-118.145.141.251,44017,XX,Unknown
-103.109.174.43,8080,XX,Unknown
-5.181.178.46,8080,XX,Unknown
-195.142.250.46,8080,XX,Unknown
-186.148.162.155,999,XX,Unknown
-95.31.92.14,10808,XX,Unknown
-193.233.232.226,3128,XX,Unknown
-103.176.174.100,8080,XX,Unknown
-103.135.189.6,83,XX,Unknown
-174.137.134.182,2999,XX,Unknown
-62.109.1.115,1080,XX,Unknown
-20.27.14.220,8561,XX,Unknown
-111.119.162.248,10905,XX,Unknown
-111.119.162.248,10931,XX,Unknown
-196.204.80.110,1981,XX,Unknown
-43.251.205.146,8080,XX,Unknown
-103.155.196.160,8181,XX,Unknown
-177.234.221.242,999,XX,Unknown
-165.154.3.4,10808,XX,Unknown
-165.99.14.18,9002,XX,Unknown
-152.32.168.221,10808,XX,Unknown
-159.195.61.240,1080,XX,Unknown
-103.185.250.136,1080,XX,Unknown
-111.119.162.248,10932,XX,Unknown
-111.119.162.248,10903,XX,Unknown
-193.3.231.117,9082,XX,Unknown
-43.153.84.220,9050,XX,Unknown
-111.42.183.124,2022,XX,Unknown
-111.119.162.248,10916,XX,Unknown
-92.118.234.124,1080,XX,Unknown
+85.8.47.209,7080,SE,Bredband2 AB
+85.8.47.208,7080,SE,Bredband2 AB
+85.8.47.198,7080,SE,Bredband2 AB
+85.8.47.207,7080,SE,Bredband2 AB
+85.8.47.212,7080,SE,Bredband2 AB
+85.8.47.210,7080,SE,Bredband2 AB
+144.31.75.29,1080,FI,U1 Digital Services Ltd
+89.23.102.250,1080,RU,Jsc timeweb
+85.8.47.211,7080,SE,Bredband2 AB
+46.8.104.176,1080,RU,Evro Telecom OOO
+185.209.29.226,1080,RU,Hosting technology LTD
+185.200.188.234,10001,RU,Ihor Hosting Ltd
+130.193.43.183,1080,RU,Yandex.Cloud LLC
+85.228.42.180,4153,SE,Telenor Sverige AB
+103.112.69.87,3128,NL,Mastersoft S.R.L.
+89.19.215.51,7687,RU,Timeweb  LLP
+31.220.40.59,5080,NL,Amarutu Technology Ltd
+109.120.138.241,1080,DE,Aeza Group LLC
+185.141.26.131,3128,RO,IP Solus Inc
+204.76.203.9,3128,NL,Pfcloud UG (haftungsbeschrankt)
+95.211.174.135,3128,NL,LeaseWeb Netherlands B.V.
+87.251.77.29,3128,DE,Chsl One Ltd
+95.211.64.139,8887,DE,Owl Limited
+95.211.64.139,8888,NL,Datacamp Limited
+176.111.37.216,39811,HK,Cogento Backbone Limited
+95.211.64.139,8889,NL,Datacamp Limited
+151.243.224.12,1080,DE,Hostkey B.v.
+109.172.55.227,1082,FR,Global Connectivity Solutions Llp
+45.137.43.0,1081,SC,NetCrafters OU
+138.124.10.104,443,DE,Baykov Ilya Sergeevich
+95.211.64.139,8886,DE,Datacamp Limited
+89.19.215.51,7687,RU,Timeweb  LLP
+147.45.221.115,1082,RU,Global Connectivity Solutions Llp
+45.137.43.0,1081,SC,NetCrafters OU
+109.120.138.241,1080,DE,Aeza Group LLC
+45.144.54.40,1080,DE,Aeza Group LLC
+95.85.233.144,18443,CZ,WAIcore Ltd
+45.95.233.88,1082,FR,Global Connectivity Solutions Llp
+91.210.151.184,1080,RU,Ltd. Cypher
+176.111.37.5,39811,HK,Cogento Backbone Limited
+147.45.221.111,1082,RU,Global Connectivity Solutions Llp
+193.233.218.213,1080,RU,Aeza Group LLC
+37.18.73.60,5566,SE,KeFF Networks Ltd
+77.110.103.146,1080,NL,Aeza Group LLC
+62.103.186.66,4153,GR,OTEnet S.A.
+77.50.183.34,8080,RU,Megasvyaz LLC
+93.90.212.2,4153,RU,Stavtelecom LLC
+85.209.120.145,1080,UA,Pembe Gul Isguzar Karagoz
+185.190.154.121,4145,RS,TELEKOM SRBIJA a.d.
+95.3.69.222,8080,TR,Turk Telekom
+128.0.26.27,1080,RU,Sibirskie Seti Ltd.
+185.32.45.61,8090,AZ,IZONE LLC
+95.31.16.116,1081,RU,PVimpelCom
+93.123.118.15,1080,BG,LLC Vash Kredit Bank
+176.192.41.172,4444,DE,Nekobyte International Limited
+204.76.203.9,8080,NL,Pfcloud UG (haftungsbeschrankt)
+159.195.62.125,9050,DE,Stiftung Erneuerbare Freiheit
+210.176.114.190,8080,HK,PCCW IMS Ltd (PCCW Business Internet Access)
+31.220.163.133,1080,RU,Regional Digital Telecommunication Company LLC
+43.99.100.108,3128,HK,Alibaba (US) Technology Co.  Ltd.
+64.112.184.210,3128,US,Hosted Backbone
+147.45.60.241,1082,RU,Global Connectivity Solutions Llp
+213.171.15.153,1080,RU,Adman LLC
+50.238.47.86,32100,US,Comcast Cable Communications  LLC
+89.208.106.37,32712,NL,Aeza Group LLC
+102.53.184.200,30001,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM
+185.171.83.65,49153,RU,Timeweb  LLP
+34.43.46.91,80,US,Google LLC
+34.69.61.247,80,US,Google LLC
+104.154.186.48,80,US,Google LLC
+185.216.18.138,44550,RU,Mega Tec LLC
+36.50.135.41,443,VN,VPSTTT COMPUTER COMPANY LIMITED
+96.36.50.99,39593,US,Charter Communications LLC
+85.193.65.88,8888,UA,K-telekom LLC
+163.181.207.213,9999,VN,Zhejiang Taobao Network Co. Ltd
+147.45.60.246,1082,RU,Global Connectivity Solutions Llp
+1.10.226.245,8080,TH,TOT Public Company Limited
+147.45.60.110,1082,RU,Global Connectivity Solutions Llp
+103.106.79.253,2233,ID,PT Quantum Tera Network
+88.218.206.170,5432,NL,Church of Cyberology
+103.51.45.9,4145,ID,PT CITRA INFOMEDIA
+103.165.151.22,1111,ID,PT Agsa Global Network
+202.28.194.139,31280,TH,UNINET-TH
+104.194.8.103,40001,US,Cloudflare  Inc.
+103.156.17.172,8818,ID,RSTNET
+136.226.118.201,9480,US,ZSCALER  INC.
+146.196.40.155,3127,ID,PT. Cahaya Buana Raksa
+136.226.118.198,9480,US,ZSCALER  INC.
+59.153.81.234,5678,ID,PT Asia Teknologi Solusi
+136.226.118.199,9480,US,ZSCALER  INC.
+103.56.80.39,3125,ID,PT Jaringan Citra Mandiri
+34.94.46.8,80,US,Google LLC
+163.181.207.230,9999,VN,Zhejiang Taobao Network Co. Ltd
+43.160.242.118,3128,SG,Tencent Building  Kejizhongyi Avenue
+103.76.107.255,8080,ID,PT Geka Solusi Utama
+43.109.48.180,9999,VN,Zhejiang Taobao Network Co. Ltd
+103.176.97.57,8082,ID,PT Global Sarana Elektronika
+85.122.114.135,10808,TR,Datacamp Limited
+43.156.236.238,80,SG,Tencent Building  Kejizhongyi Avenue
+163.223.78.163,8080,ID,PT Big Network Indonesia
+103.147.77.66,8080,ID,PT Trisari Data Indonusa
+103.167.116.138,8087,PH,KEITH.NET INCORPORATED
+2.26.68.16,1080,FI,DpkgSoft International Limited
+175.184.236.12,1111,ID,PT Ashyla Karya Abadi
+45.66.249.187,8080,US,BlueVPS OU
+103.183.8.139,8080,ID,PT Cepat Multi Data
+190.0.246.211,4040,CO,Media Commerce Partners S.A
+181.78.74.174,999,CO,UFINET PANAMA S.A.
+43.163.112.8,80,SG,Tencent Building  Kejizhongyi Avenue
+103.175.202.190,8090,ID,PT Ameera Mega Buana
+103.149.75.82,1080,BD,Race Online Limited
+43.156.237.221,80,SG,Tencent Building  Kejizhongyi Avenue
+190.14.5.164,5678,GT,Navega.com S.A.
+202.5.50.151,1080,BD,Broad Band Telecom Services Ltd
+181.78.74.171,999,CO,UFINET PANAMA S.A.
+43.134.141.85,80,SG,Tencent Building  Kejizhongyi Avenue
+34.43.46.91,443,US,Google LLC
+47.250.211.53,1080,MY,Alibaba (US) Technology Co.  Ltd.
+190.97.236.128,999,VE,VIGINET C.A
+8.215.25.3,2080,ID,Alibaba (US) Technology Co.  Ltd.
+67.206.213.202,55555,PR,Liberty Mobile Puerto Rico Inc.
+50.250.205.21,32100,US,Comcast Cable Communications  LLC
+172.81.111.156,10001,HK,Prime Security Corp.
+182.160.124.54,1080,BD,aamra networks limited
+152.231.27.124,999,CO,COLOMBIATEL TELECOMUNICACIONES
+8.215.25.3,2080,ID,Alibaba (US) Technology Co.  Ltd.
+45.66.249.187,3128,US,BlueVPS OU
+83.239.229.153,8080,RU,Rostelecom
+103.234.35.199,3128,ID,PT. Exabit Group Network
+181.78.74.253,999,CO,UFINET PANAMA S.A.
+180.191.127.140,8082,PH,Globe Telecoms
+181.78.74.252,999,CO,UFINET PANAMA S.A.
+150.241.91.238,7777,DE,International Hosting Company Limited
+181.39.25.196,8118,EC,Telconet S.A
+165.154.7.156,8888,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+85.198.82.207,1080,RU,Jsc timeweb
+103.147.109.250,3128,SG,Duke Host Pte. Ltd.
+216.236.6.203,7890,SG,Amazon.com  Inc.
+176.202.25.52,8080,QA,Ooredoo Q.S.C.
+124.6.141.83,8082,PH,Globe Telecoms
+49.0.87.62,1080,TH,AIS Fibre
+27.155.93.29,1080,HK,Kaopu Cloud HK Limited
+144.172.116.19,1080,US,RouterHosting LLC
+43.160.245.155,8080,SG,Tencent Building  Kejizhongyi Avenue
+201.139.180.44,999,MX,Computadoras y Servicios Especiales SA de CV
+49.0.79.138,8080,TH,AIS Fibre
+144.172.101.188,1080,US,RouterHosting LLC
+42.96.18.62,1311,VN,Branch of Long Van System Solution JSC - Hanoi
+78.155.65.204,8080,SY,Syrian Telecommunication Private Closed Joint Stock Company
+43.160.245.155,8080,SG,Tencent Building  Kejizhongyi Avenue
+159.195.49.27,1080,DE,netcup GmbH
+103.67.85.150,3127,ID,PT Tujuh Fondasi Teknologi
+103.186.26.110,8080,ID,PT. Putra Lebak Banten
+36.73.186.209,8080,ID,PT Telekomunikasi Indonesia
+185.108.76.197,9050,DE,Stiftung Erneuerbare Freiheit
+195.19.52.187,1080,RU,JSC GTNT
+177.73.155.214,999,CO,DOBLECLICK SOFTWARE E INGENERIA
+8.215.25.3,2080,ID,Alibaba (US) Technology Co.  Ltd.
+109.232.106.150,52435,RU,Thyphone Communications LLC
+80.71.235.132,9050,CH,FranTech Solutions
+89.151.133.216,8080,RU,Rostelecom
+93.182.23.94,6060,RU,Limited Liability Company Kvidex-Telecom
+59.152.97.233,1080,BD,Star IT
+103.108.146.142,8080,BD,Summit Communications Ltd
+185.109.73.226,8080,IR,Pishgaman Toseeh Fanavari Etelaat Va Ertebatat Jonoub (Joint Stock Company)
+31.77.203.192,1080,FI,DpkgSoft International Limited
+115.231.181.40,8128,CN,NINGBO  ZHEJIANG Province  P.R.China.
+8.219.97.248,80,SG,Alibaba (US) Technology Co.  Ltd.
+177.85.7.122,80,BR,OnNet Telecomunicacoes LTDA
+1.231.81.166,3128,KR,SK Broadband Co Ltd
+81.12.70.99,8080,IR,Respina Networks & Beyond PJSC
+203.175.103.39,3125,ID,PT. Mitra Kita Brilian
+111.119.162.248,10915,SG,Alibaba (US) Technology Co.  Ltd.
+103.106.219.213,8080,ID,PT. ARTHA LINTAS DATA MANDIRI
+87.239.251.202,1081,NL,First Server Limited
+14.139.235.82,3128,IN,National Internet Backbone
+89.237.33.193,51549,RU,Joint Stock Company TransTeleCom
+147.45.221.115,1082,RU,Global Connectivity Solutions Llp
+89.151.134.157,3629,RU,Rostelecom
+122.52.189.109,8080,PH,Philippine Long Distance Telephone Company
+138.124.10.104,443,DE,Baykov Ilya Sergeevich
+85.198.82.207,1080,RU,Jsc timeweb
+85.132.139.45,4153,CZ,VIVO CONNECTION spol. s r.o.
+88.213.214.254,4145,BG,NETBOX LTD
+185.140.232.54,8080,IR,Pooya Parto Qeshm Cooperative Company
+109.245.110.145,4145,RS,CETIN Ltd. Belgrade
+203.175.102.64,3125,ID,PT. Mitra Kita Brilian
+207.244.69.164,50005,FR,MOJI SAS
+109.172.55.227,1082,FR,Global Connectivity Solutions Llp
+8.138.217.152,21001,CN,Hangzhou Alibaba Advertising Co. Ltd.
+101.36.104.239,10808,JP,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+39.106.165.196,8080,CN,Hangzhou Alibaba Advertising Co. Ltd.
+39.106.170.168,8080,CN,Hangzhou Alibaba Advertising Co. Ltd.
+85.133.190.40,8097,IR,Sepanta Communication Development Co. Ltd
+43.160.245.155,8080,SG,Tencent Building  Kejizhongyi Avenue
+193.178.203.141,8080,IR,Asmanfaraz Sepahan Company (P.J.S)
+81.183.231.55,80,HU,Magyar Telekom Plc.
+118.145.141.251,45120,CN,Beijing Volcano Engine Technology Co.  Ltd.
+123.249.14.223,21677,CN,Huawei Cloud Service data center
+95.165.157.102,1081,UZ,New Line Solutions LLC
+95.85.233.144,18443,CZ,WAIcore Ltd
+223.25.110.123,8080,ID,MEGADATA-ISP
+123.60.155.1,3128,CN,Huawei Cloud Service data center
+120.26.171.55,25125,CN,Hangzhou Alibaba Advertising Co. Ltd.
+160.25.35.38,8080,ID,PT AURORA SENTRAL INFORMATIKA
+93.184.9.9,1080,PS,BCI Telecommunication & Advanced Technology Company
+193.179.52.197,3128,CZ,T-Mobile Czech Republic a.s.
+111.119.162.248,10910,US,Alibaba (US) Technology Co.  Ltd.
+103.106.190.58,1080,HK,cognetcloud INC
+123.58.219.171,10808,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+90.150.187.82,1080,RU,Rostelecom
+112.90.88.102,20000,HK,Heptasky Hong Kong Limited
+193.222.99.32,1080,DE,Play2go International Limited
+191.252.219.129,8889,BR,Locaweb Servicos de Internet S/A
+43.164.3.124,1080,TH,Tencent Building  Kejizhongyi Avenue
+36.91.174.26,8080,ID,PT Telekomunikasi Indonesia
+27.185.218.213,17981,CN,Shijiazhuang IDC network  CHINANET Hebei province
+92.118.234.124,1080,CY,WorkTitans B.V.
+58.218.169.186,10800,CN,Chinanet
+43.164.136.189,1080,KR,Tencent Building  Kejizhongyi Avenue
+131.222.251.56,8080,TR,High Speed For Internet Services L.L.C
+64.83.12.6,1080,US,NetLab Global
+212.58.132.5,1080,US,NSFOCUS  Inc.
+47.84.84.1,3128,CN,Hangzhou Alibaba Advertising Co. Ltd.
+103.167.156.86,8083,ID,PT Jaringan Tiang Indonesia Group
+47.84.102.47,8080,SG,Alibaba (US) Technology Co.  Ltd.
+94.131.92.155,3128,KZ,Cloud Services Kazakhstan LLP
+47.82.72.88,10809,US,NTT America  Inc.
+109.224.242.103,8080,TR,High Speed For Internet Services L.L.C
+1.15.53.214,8888,CN,Shenzhen Tencent Computer Systems Company Limited
+91.107.122.209,1080,GB,JSC IOT
+160.22.207.95,8082,ID,PT Teradata Bintang Selaras
+120.232.115.170,17981,CN,China Mobile Communications Group Co.  Ltd.
+103.172.249.62,8899,ID,PT Maxindo Mitra Solusi
+43.162.94.99,1080,US,Tencent Building  Kejizhongyi Avenue
+152.53.20.190,20000,DE,netcup GmbH
+104.194.132.112,9050,BG,EstNOC OU
+118.145.141.251,44033,CN,CHINATELECOM Hubei province Wuhan 5G network
+147.45.60.124,1082,RU,Global Connectivity Solutions Llp
+38.49.210.79,40000,CA,Cloudflare  Inc.
+103.247.23.27,1111,ID,WIFIAN ID
+103.172.120.189,8080,ID,PT Digital Akses Nusantara
+103.125.212.29,8080,ID,PT iForte Global Internet
+185.200.38.221,8085,TR,High Speed For Internet Services L.L.C
+178.130.47.21,1082,US,Global Connectivity Solutions Llp
+103.166.159.93,8080,ID,PT Timor Lintas Nusantara
+81.16.9.222,3629,AM,Ucom CJSC
+111.119.162.248,10912,US,Alibaba (US) Technology Co.  Ltd.
+198.15.30.122,8080,ID,PT Trimafa Computindo Networking
+103.180.118.150,8080,ID,PT Persada Data Multimedia
+162.213.65.63,8080,ES,Gurbtec Iguana Telecom SL
+103.144.79.108,8080,ID,PT Telekomunikasi Indonesia
+159.255.164.163,1080,IQ,Tarin General Trading and Setting Up Internet Device LTD
+45.230.169.17,999,VE,SOLUCIONES DCN NETWORK C.A
+180.148.25.190,3128,ID,PT GIGA NETWORK INDONESIA
+103.180.126.236,8080,ID,PT Alam Media Data
+192.147.114.77,1080,ID,PT Global Asta Systelematika
+103.156.17.235,8818,ID,RSTNET
+117.28.128.114,10800,US,HostPapa
+58.254.153.146,17981,CN,Chinanet
+160.20.39.23,8090,ID,PT SAMUDRA DIGITAL NETWORK
+200.107.206.10,999,DO,DLD SERVICIO SRL
+79.133.66.110,81,RU,Rostelecom
+103.133.201.243,8080,BD,Antaranga Dot Com Ltd
+180.191.234.194,5050,PH,Globe Telecoms
+58.254.153.147,17981,CN,Chinanet
+103.216.50.210,1080,KH,Today Communication Co. Ltd
+47.107.82.96,30051,CN,Hangzhou Alibaba Advertising Co. Ltd.
+45.190.85.4,999,VE,TELECOM.CORPORATIVAS TELECORP C.A
+95.163.176.131,1080,AT,Aeza Group LLC
+152.32.168.221,10808,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+116.196.150.180,17981,CN,Jinhua Weian InfoTech Co.  Ltd
+126.209.124.99,5050,PH,Infinivan Incorporated
+144.172.99.19,1080,US,RouterHosting LLC
+105.214.99.21,5678,ZA,MTN SA
+160.19.16.29,8181,ID,PT Media Balai Nusa
+105.159.164.192,4145,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM
+103.82.20.76,8080,VN,FPT Telecom Company
+189.222.236.160,8080,MX,UNINET
+92.118.234.124,1080,CY,WorkTitans B.V.
+191.209.13.252,8085,BR,TELEFONICA BRASIL S.A
+118.145.141.251,44134,CN,Beijing Volcano Engine Technology Co.  Ltd.
+78.39.253.49,8080,IR,Iran Telecommunication Company PJS
+45.43.63.37,10808,SG,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+219.142.66.244,9090,CN,China Networks Inter-Exchange
+39.108.69.221,5002,CN,Hangzhou Alibaba Advertising Co. Ltd.
+111.119.162.248,10924,US,Alibaba (US) Technology Co.  Ltd.
+103.66.74.61,1080,IN,RailTel Corporation of India Ltd
+190.111.243.150,1085,AR,CPS
+103.172.42.123,1111,ID,PT Media Solusi Sukses
+195.19.50.114,1080,RU,JSC GTNT
+160.30.104.170,1080,PK,S. B Link Network
+139.196.95.28,7890,CN,Hangzhou Alibaba Advertising Co. Ltd.
+190.237.238.26,999,PE,INTEGRATEL PERU S.A.A.
+47.82.72.88,10804,US,GTT Communications Inc.
+103.174.122.87,3128,ID,PT Jaya Sejahtra Nugraha
+36.95.75.226,4153,ID,PT Telekomunikasi Indonesia
+45.61.129.165,9050,DE,ITP-Solutions GmbH & Co. KG
+180.195.99.168,8081,PH,Philippine Long Distance Telephone Company
+119.148.7.10,22122,BD,Agni Systems Limited
+109.252.226.30,8080,RU,PJSC Moscow city telephone network
+93.167.245.6,4145,DK,TDC Holding A/S
+111.119.162.248,10941,GB,Alibaba (US) Technology Co.  Ltd.
+193.25.215.182,22222,US,ReadyDedis  LLC
+213.232.192.215,4567,RU,JSC Selectel
+126.209.110.96,8087,PH,Infinivan Incorporated
+102.36.231.77,1080,NG,Timeless Network Services Ltd
+123.0.18.20,1452,BD,Icon Infotech Limited
+49.51.253.118,8888,US,Tencent Building  Kejizhongyi Avenue
+109.68.189.22,54643,RU,OOO Suntel
+171.25.158.95,1080,SE,Patrik Lagerman
+112.74.101.87,9999,CN,Hangzhou Alibaba Advertising Co. Ltd.
+111.119.162.248,10913,SG,Alibaba (US) Technology Co.  Ltd.
+89.237.32.65,51549,RU,Joint Stock Company TransTeleCom
+139.28.240.202,1082,TR,Global Connectivity Solutions Llp
+185.157.111.3,5678,EE,Elevi AS
+179.189.249.61,5432,BR,WorldNet Telecom Comercio e Servicos de Telecomuni
+185.78.113.230,81,RU,mayak Network LLC
+111.119.162.248,10914,SG,Alibaba (US) Technology Co.  Ltd.
+102.214.104.58,8080,LY,General Post and Telecommunication Company (GPTC)
+45.66.249.187,8181,US,BlueVPS OU
+103.136.106.13,1081,BD,Novus Network
+110.232.85.86,6060,ID,PT Mandala Lintas Nusa
+151.237.84.9,8080,BG,Netroniks EOOD
+111.230.27.213,3128,CN,Shenzhen Tencent Computer Systems Company Limited
+89.106.89.70,10808,DE,dataforest GmbH
+109.94.1.23,4050,RU,Quartz Telecom LLC
+39.101.175.37,17691,CN,Hangzhou Alibaba Advertising Co. Ltd.
+111.119.162.248,10913,SG,Alibaba (US) Technology Co.  Ltd.
+212.58.132.5,8888,US,NSFOCUS  Inc.
+45.95.233.128,1082,FR,Global Connectivity Solutions Llp
+101.36.104.46,10808,JP,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+109.172.55.177,1082,FR,Global Connectivity Solutions Llp
+188.93.140.146,1080,SE,HostHatch  LLC
+118.145.141.251,44100,CN,Beijing Volcano Engine Technology Co.  Ltd.
+120.24.202.132,19000,CN,Hangzhou Alibaba Advertising Co. Ltd.
+178.250.88.50,8080,TR,Ramtek Telekomunikasyon Hizmetleri Sanayi Ve Ticaret Limited Sirketi
+112.208.175.172,8081,PH,Globe Telecom Inc.
+178.18.207.85,8888,TR,Eclit Bilisim Hizmetleri A.S
+81.162.195.35,4153,CZ,Martin Vicenik
+77.222.60.23,1090,NL,Hostkey B.v.
+118.145.141.251,45208,CN,Beijing Volcano Engine Technology Co.  Ltd.
+190.0.246.210,4040,CO,Media Commerce Partners S.A
+103.28.37.131,3128,VN,NhanHoa Software company
+168.194.34.196,9001,AR,CORDOBA IP SRL
+103.178.3.140,8818,ID,RSTNET
+176.94.224.86,8080,DE,Vodafone GmbH
+31.168.143.90,1080,IL,Bezeq International Ltd.
+147.45.66.116,1082,DE,Global Connectivity Solutions Llp
+115.178.49.115,8787,ID,PT Telekomunikasi Indonesia
+45.189.60.72,999,MX,Mega Cable  S.A. de C.V.
+182.253.109.206,8080,ID,BIZNET NETWORKS
+45.177.16.136,999,PY,Unknown
+89.169.168.25,6101,RU,Yandex.Cloud LLC
+103.90.67.46,8080,ID,PT Rajawali Bintang Cemerlang Telkomedia
+85.117.56.117,8080,GE,Caucasus Online Ltd.
+85.117.32.166,4153,GE,Caucasus Online Ltd.
+103.28.113.254,8081,ID,Lintas Data Prima  PT
+103.101.216.66,8080,ID,PT Duta Trans Nusantara Network
+103.179.252.16,3128,ID,PT Pusaka Kreasi Mandiri
+111.119.162.248,10930,US,Alibaba (US) Technology Co.  Ltd.
+84.241.3.199,1080,IR,Aria Shatel PJSC
+58.69.248.180,8080,PH,Philippine Long Distance Telephone Company
+43.106.60.21,1080,PH,Globe Telecoms
+201.77.108.156,999,MX,NIDIX NETWORKS S.A. DE C.V.
+102.69.146.59,7080,NG,IP Express Ltd
+89.43.132.250,8080,SY,High Speed For Internet Services L.L.C
+122.246.3.12,17981,CN,NINGBO  ZHEJIANG Province  P.R.China.
+43.160.215.65,443,SG,Tencent Building  Kejizhongyi Avenue
+185.171.83.65,49153,RU,Timeweb  LLP
+103.191.171.18,8080,ID,PT Sahabat Manjur Grup
+111.119.162.248,10903,US,Alibaba (US) Technology Co.  Ltd.
+95.215.161.153,8080,IR,Gostaresh Ertebat Azin Kia Company PJSC
+111.119.162.248,10934,HK,Alibaba (US) Technology Co.  Ltd.
+45.144.53.63,5105,US,Amazon.com  Inc.
+139.224.67.156,21056,CN,Hangzhou Alibaba Advertising Co. Ltd.
+80.72.180.122,1080,KG,OJSC Kyrgyztelecom
+194.87.191.118,20090,NL,Baykov Ilya Sergeevich
+132.243.120.54,10808,NL,Clodo Cloud Service Co. L.L.C
+223.254.141.102,6656,CN,CHINA UNICOM China169 Backbone
+202.138.242.31,9090,ID,Melsa-i-net AS
+138.252.89.57,8890,BD,Orange Communication
+103.197.242.106,1080,KH,Cogetel Online  Cambodia  ISP
+103.176.96.195,1111,ID,PT Global Sarana Elektronika
+196.1.182.130,1080,NG,eStream Networks
+103.97.140.199,8080,ID,PT Jembatan Data Pangrango
+187.251.130.143,8081,MX,TOTAL PLAY TELECOMUNICACIONES  S.A.P.I. DE C.V.
+200.107.205.44,999,DO,DLD SERVICIO SRL
+203.190.46.103,8080,ID,Jaringan Lintas Utara  PT
+103.19.58.134,8080,ID,PT BINA INFORMATIKA SOLUSI
+161.49.223.198,8082,PH,Converge ICT Solutions Inc.
+144.79.75.222,8080,ID,PT Busano Internet Kita
+58.18.39.58,10800,CN,CHINA UNICOM China169 Backbone
+111.119.162.248,10924,US,Alibaba (US) Technology Co.  Ltd.
+80.51.61.1,8080,PL,Orange Polska Spolka Akcyjna
+190.92.47.166,999,HN,CABLECOLOR S.A.
+157.15.44.82,8085,ID,PT Sheep Network Teknologi
+95.81.95.41,9050,US,BL Networks
+119.93.36.139,8080,PH,Philippine Long Distance Telephone Company
+102.215.245.6,4153,ZA,INFINITY CONNECT (PTY) LTD
+144.31.249.57,8080,US,Serv.host Group Ltd
+111.119.162.248,10931,SG,Alibaba (US) Technology Co.  Ltd.
+103.158.210.7,8090,ID,PT Digital Media Telematika
+160.191.12.215,8080,ID,PT Maintek Juara Intisolusi
+190.60.60.37,8080,CO,UFINET PANAMA S.A.
+203.175.103.173,3125,ID,PT. Mitra Kita Brilian
+157.10.156.155,1111,ID,PT Singki Media Telekomunikasi
+118.33.124.132,49934,KR,Korea Telecom
+89.169.168.25,6101,RU,Yandex.Cloud LLC
+103.172.42.39,1111,ID,PT Media Solusi Sukses
+103.159.96.158,3127,ID,PT Jinde Grup Indonesia
+45.61.129.165,9050,US,Emerald Onion
+185.70.129.183,1080,RU,Kompeatelecom Ltd.
+45.149.93.241,8090,ID,PT Telekomunikasi Indonesia
+103.142.69.62,8080,BD,MIR INFO SYSTEMS LTD.
+195.226.213.251,8888,UA,Private Enterprise KTV AIDA
+46.36.123.18,81,AM,LikeNet LLC
+103.176.174.100,8080,BD,Penta-Six Communication
+180.191.231.149,8082,PH,Philippine Long Distance Telephone Company
+160.191.180.123,8080,ID,PT.Global Media Data Prima
+177.139.174.81,8080,BR,TELEFONICA BRASIL S.A
+202.58.66.44,8080,ID,PT Mamura Inter Media
+103.154.12.2,8088,NP,Everest Wireless Network pvt. ltd
+103.174.122.102,3128,ID,PT Jaya Sejahtra Nugraha
+200.58.82.209,999,BO,Comteco Ltda
+160.25.223.14,8181,ID,PT Telemedia Prima Nusantara
+182.53.255.40,8080,TH,TOT Public Company Limited
+177.240.3.195,999,MX,Mega Cable  S.A. de C.V.
+124.217.13.209,5050,PH,Philippine Long Distance Telephone Company
+88.201.248.85,1080,RU,SkyNet Ltd.
+103.156.17.71,8818,ID,RSTNET
+117.102.101.52,5678,ID,BIZNET NETWORKS
+163.223.150.21,8080,ID,PT Microcyber Data Indonesia
+171.4.0.155,8080,TH,Triple T Broadband Public Company Limited
+201.71.2.27,999,VE,INVERSIONES FAROCA  C.A.
+45.95.232.35,1080,CH,Global Connectivity Solutions Llp
+103.197.242.95,1080,KH,Cogetel Online  Cambodia  ISP
+111.119.162.248,10920,PH,Alibaba (US) Technology Co.  Ltd.
+176.32.33.164,1080,RU,LLC Baxet
+111.119.162.248,10901,AE,Alibaba (US) Technology Co.  Ltd.
+76.144.40.133,9051,FR,velia.net Internetdienste GmbH
+195.133.64.192,10808,CZ,Chsl One Ltd
+95.31.220.59,8080,NL,Play2go International Limited
+103.188.173.101,1080,ID,PT Satria Digital Media
+46.8.31.104,1080,KZ,Fedinyak Sergey Vyacheslavovich
+5.7.135.228,80,DE,Telefonica Germany
+112.28.149.152,8443,JP,Akari Networks
+93.93.61.153,1080,LT,UAB Ogmios Centras
+195.62.50.22,8080,SY,High Speed For Internet Services L.L.C
+103.166.0.30,1111,ID,PT Telekomunikasi Indonesia
+111.119.162.248,10936,MY,Alibaba (US) Technology Co.  Ltd.
+196.216.132.35,8080,ZA,HERO TELECOMS (PTY) LTD
+153.80.240.37,8080,RU,Global Connectivity Solutions Llp
+109.73.181.237,7080,IT,Netfree S.r.l.s.
+89.43.135.182,8085,SY,High Speed For Internet Services L.L.C
+180.191.126.114,8082,PH,Globe Telecoms
+45.95.233.88,1082,FR,Global Connectivity Solutions Llp
+181.204.193.171,999,CO,UNE EPM TELECOMUNICACIONES S.A.
+37.221.202.27,8080,KZ,OBIT-telecommunications  LLC
+202.125.68.177,8080,BD,MIR INFO SYSTEMS LTD.
+62.106.66.174,143,SE,KeFF Networks Ltd
+45.144.53.63,5050,US,Microsoft Corporation
+131.222.252.70,8080,TR,High Speed For Internet Services L.L.C
+90.182.147.170,4145,CZ,O2 Czech Republic  a.s.
+78.159.131.108,1082,AL,Global Connectivity Solutions Llp
+179.189.253.193,5432,BR,WorldNet Telecom Comercio e Servicos de Telecomuni
+153.124.164.113,8080,ID,PT. Internet Madju Abad Milenindo
+195.46.172.190,4153,RU,PVimpelCom
+193.43.149.85,8080,SY,Syrian Telecommunication Private Closed Joint Stock Company
+45.144.214.8,1081,TR,Muhammed Fatih ASAN
+188.242.163.28,21,RU,SkyNet Ltd.
+23.138.88.1,999,PR,ALPHANET CORP
+123.57.213.24,3539,CN,Hangzhou Alibaba Advertising Co. Ltd.
+103.66.46.150,69,ID,PT. NAP Info Lintas Nusa
+45.95.232.35,1080,CH,Global Connectivity Solutions Llp
+111.119.162.248,10918,MY,Alibaba (US) Technology Co.  Ltd.
+122.52.107.138,8082,PH,Globe Telecoms
+200.10.30.5,8083,CO,SUPER REDES S.A.S
+112.64.135.45,8080,CN,China Unicom Shanghai network
+119.73.125.55,1080,PK,Trans World Enterprise Services (Private) Limited
+103.180.119.77,8090,ID,PT Persada Data Multimedia
+185.238.238.29,58080,PL,RADIO-NET
+123.231.252.218,8080,ID,PT Aplikanusa Lintasarta
+144.31.222.106,7890,RU,Cloudflare  Inc.
+191.44.125.8,8080,SY,High Speed For Internet Services L.L.C
+139.28.49.170,8080,TR,High Speed For Internet Services L.L.C
+115.127.181.114,6969,BD,BRACNet Limited
+103.74.144.57,83,IN,ANJANI BROADBAND SOLUTIONS PVT.LTD.
+103.174.122.231,3128,ID,PT Jaya Sejahtra Nugraha
+80.191.40.133,5678,IR,Iran Telecommunication Company PJS
+43.245.249.22,7878,ID,PT Smart Media Pratama
+96.60.107.42,9050,FR,MOJI SAS
+212.200.223.89,8080,RS,TELEKOM SRBIJA a.d.
+147.45.60.250,1082,RU,Global Connectivity Solutions Llp
+89.43.132.219,8080,SY,High Speed For Internet Services L.L.C
+78.157.46.76,8090,IR,Dade Samane Fanava Company (PJS)
+101.5.200.193,6789,SG,Amazon.com  Inc.
+212.67.31.235,8080,RU,BaikalWestCom
+103.174.122.215,3128,ID,PT Jaya Sejahtra Nugraha
+83.222.7.47,3333,UZ,Uzbektelekom Joint Stock Company
+188.132.249.155,8080,SY,High Speed For Internet Services L.L.C
+160.20.128.239,1080,ID,PT ASTI DIGITAL INDONESIA
+88.245.138.87,1080,TR,Turk Telekom
+181.79.95.65,999,CO,UFINET PANAMA S.A.
+103.146.38.113,1111,ID,PT Media Solusi Sukses
+138.0.207.246,8082,BR,GARCIA TELECOMUNICACOES LTDA
+103.186.88.90,8080,ID,PT Trans Koneksi Nusantara
+139.135.160.13,8083,PH,Converge ICT Solutions Inc.
+157.66.36.103,8080,ID,PT Trik Media Data
+131.222.253.76,8080,TR,High Speed For Internet Services L.L.C
+170.245.120.179,3128,BR,G3 Telecom
+165.154.20.187,10808,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+67.215.226.71,999,DO,REY CONNECT SRL
+111.119.162.248,10949,US,Alibaba (US) Technology Co.  Ltd.
+178.130.47.50,1082,US,Global Connectivity Solutions Llp
+103.178.3.139,8818,ID,RSTNET
+103.173.128.180,8080,ID,PT SOLNET INDONESIA
+47.99.133.254,8888,CN,Hangzhou Alibaba Advertising Co. Ltd.
+103.25.167.30,8080,ID,PT Citra Jelajah Informatika
+103.166.33.88,8080,ID,PT Daniswara Citra Informatika
+113.192.31.90,8080,ID,PT Indo Telemedia Solusi
+103.135.226.66,8080,ID,PT. Trans Indonesia Superkoridor
+103.147.247.83,8080,ID,PT. Putra Lebak Banten
+103.246.194.251,3128,IN,RailTel Corporation of India Ltd
+45.167.125.62,999,CO,SEPCOM COMUNICACIONES SAS
+103.189.223.19,7557,ID,PT. WIKAPLUS GLOBAL NUSANTARA
+177.93.39.76,999,CO,FIBERNET TV SAS
+103.19.78.133,8090,ID,PT Persada Data Multimedia
+95.181.212.180,80,RU,Citytelecom LLC
+223.206.193.140,8080,TH,Triple T Broadband Public Company Limited
+138.252.89.1,8890,BD,Orange Communication
+82.117.211.42,8085,RS,Yettel d.o.o.
+191.44.125.5,8080,SY,High Speed For Internet Services L.L.C
+49.229.36.170,4153,TH,SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX
+186.33.45.218,999,EC,UFINET PANAMA S.A.
+103.86.116.193,1080,ID,PT Link Data Sumber Barokah
+103.160.205.244,8080,ID,PT Akbar Prima Media
+149.62.186.244,1080,IT,Host SpA
+103.218.183.133,8080,ID,PT Inhqi Media Infotek
+165.99.194.32,8085,ID,PT Network Bumi Saridin
+131.222.251.5,8080,TR,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+112.203.199.206,8082,PH,Philippine Long Distance Telephone Company
+178.130.47.50,1082,US,Global Connectivity Solutions Llp
+103.61.16.20,8780,ID,PT Twins Data Pratama
+88.119.171.249,1080,NL,UAB Bacloud
+216.22.13.244,1083,US,Cloudflare  Inc.
+171.5.133.28,8080,TH,Triple T Broadband Public Company Limited
+82.86.112.48,999,VE,360NET C.A.
+45.239.48.98,999,EC,Eliana Vanessa Morocho Ona
+109.224.242.228,8080,TR,High Speed For Internet Services L.L.C
+103.150.166.160,8090,BD,Fiber Net
+157.20.189.110,5678,ID,Dinas Komunikasi dan Informatika Kabupaten Lamongan
+171.247.165.177,8080,VN,Viettel Group
+157.15.210.144,8080,ID,PT Gaisar Teknologi Bersama
+103.169.255.205,8080,ID,PT Pandawa Lima Java Network
+168.194.146.129,8080,BR,Link Net Provedor de Internet LTDA
+181.78.79.11,999,CO,UFINET PANAMA S.A.
+217.25.230.70,8080,RU,AO IK Informsvyaz-Chernozemye
+118.145.141.251,45163,CN,Beijing Volcano Engine Technology Co.  Ltd.
+43.248.254.130,82,BD,Easy Net-Wifi
+223.85.21.195,8080,CN,CHINANET SiChuan Telecom Internet Data Center
+180.191.98.8,8080,PH,Globe Telecoms
+111.119.162.248,10901,AE,Alibaba (US) Technology Co.  Ltd.
+111.119.162.248,10956,CA,Datacamp Limited
+113.192.31.7,8080,ID,PT Indo Telemedia Solusi
+163.223.78.137,8080,ID,PT Big Network Indonesia
+49.146.145.189,8082,PH,Philippine Long Distance Telephone Company
+103.180.126.77,8080,ID,PT Alam Media Data
+103.26.131.10,3125,ID,PT Indonesia Media Komunikasi Masyarakat
+200.24.148.21,999,EC,Eliana Vanessa Morocho Ona
+143.105.102.145,8080,NG,Space Exploration Technologies Corporation
+131.222.252.108,8080,TR,High Speed For Internet Services L.L.C
+64.204.90.177,999,CO,U2RED S.A.S
+85.99.248.64,1453,TR,Turk Telekom
+103.165.227.58,8080,ID,PT iForte Global Internet
+111.119.162.248,10937,ID,Alibaba (US) Technology Co.  Ltd.
+111.119.162.248,10900,GB,Alibaba (US) Technology Co.  Ltd.
+202.4.116.143,12321,BD,AmberIT Limited
+131.222.251.43,8080,TR,High Speed For Internet Services L.L.C
+195.98.82.63,1080,RU,AO IK Informsvyaz-Chernozemye
+131.100.26.163,8180,BR,EVEO S.A.
+111.119.162.248,10932,SG,Alibaba (US) Technology Co.  Ltd.
+195.135.255.98,1080,LV,SIA VEESP
+85.117.56.85,8080,GE,Caucasus Online Ltd.
+185.125.200.80,1090,RU,Timeweb  LLP
+152.89.104.11,1080,DE,netcup GmbH
+111.119.162.248,10910,US,Alibaba (US) Technology Co.  Ltd.
+124.105.152.179,8181,PH,Philippine Long Distance Telephone Company
+103.146.38.47,8080,ID,PT Media Solusi Sukses
+185.98.208.98,28000,SK,GOLEM TECH s.r.o.
+103.152.238.21,3125,ID,PT Acces Prima Nusantara
+150.242.218.137,1080,HK,HK Global Cloud DataCenter
+220.158.233.26,1080,KH,ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
+188.136.196.190,2020,IR,Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS
+147.45.66.116,1082,DE,Global Connectivity Solutions Llp
+220.112.1.194,1088,CN,China Unicom Shenzen network
+180.191.127.7,8082,PH,Philippine Long Distance Telephone Company
+111.119.162.248,10924,US,Alibaba (US) Technology Co.  Ltd.
+198.15.30.162,8080,ID,PT Trimafa Computindo Networking
+5.157.64.213,1080,GB,IP River Limited
+190.114.245.194,999,VE,GOLD DATA USA INC
+81.12.157.98,5678,RO,Vodafone Romania S.A.
+157.15.0.160,9797,ID,PT Gopal Network Solusindo
+111.119.162.248,10906,US,Alibaba (US) Technology Co.  Ltd.
+81.8.59.178,8080,TR,Vodafone Net Iletisim Hizmetler AS
+122.52.30.157,8082,PH,Philippine Long Distance Telephone Company
+103.20.184.66,1111,ID,PT Usyel Media Net
+185.72.9.55,9052,DE,Stiftung Erneuerbare Freiheit
+223.254.141.102,6635,CN,Chinanet
+194.124.36.198,8080,TR,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+82.114.228.67,1080,RU,LLC smart Center
+49.145.54.184,8080,PH,Philippine Long Distance Telephone Company
+92.86.92.126,42740,RO,Orange Romania S.A.
+181.114.230.2,8080,AR,CyberWave S.A.
+153.51.240.150,999,MX,JAVIER TAMAYO GARCIA
+112.208.169.204,8081,PH,Globe Telecom Inc.
+103.133.26.17,3128,ID,PT. NAP Info Lintas Nusa
+212.252.73.18,8080,TR,Superonline Iletisim Hizmetleri A.S.
+103.113.26.7,8080,ID,PT JULIA MULTIMEDIA NUSANTARA
+185.228.89.74,1080,UZ,Servercore Cis LLC
+103.251.8.255,8282,ID,PT Trika Global Media
+5.63.9.218,10808,IR,Faraso Samaneh Pasargad Ltd.
+103.169.134.114,8080,ID,PT Neo Santara Solusi
+103.157.253.233,8080,BD,CENTURY LINK NETWORK
+77.221.152.210,36219,FR,Aeza Group LLC
+94.198.54.232,1080,RU,LLC Smart Ape
+94.54.12.214,3310,TR,Turksat Uydu Haberlesme Kablo TV ve Isletme A.S.
+45.61.133.104,7777,RO,INVITE Systems SRL
+103.51.205.78,8080,ID,Lintas Data Prima  PT
+85.122.120.46,30000,RO,Stylish By A&l Srl
+196.251.222.242,8104,ZA,Info-Gro (PTY) Ltd
+103.81.175.146,22311,BD,ADN Telecom Ltd.
+179.1.182.27,999,CO,INTERNEXA S.A. E.S.P
+78.155.66.87,8080,SY,Syrian Telecommunication Private Closed Joint Stock Company
+98.153.152.141,7070,US,Charter Communications Inc
+2.181.34.250,8080,IR,Iran Telecommunication Company PJS
+92.118.234.124,1080,CY,WorkTitans B.V.
+179.1.178.10,999,CO,INTERNEXA S.A. E.S.P
+165.99.192.41,1111,ID,PT IDN NUSANTARA NETWORK
+46.17.43.219,7890,DE,TOKALA COMMUNICATIONS INC.
+103.155.196.160,8181,ID,PT Jembatan Data Pangrango
+111.119.162.248,10914,SG,Alibaba (US) Technology Co.  Ltd.
+103.120.220.241,8090,BD,Microlink Technology
+103.13.204.84,8082,ID,PT JARINGANKU SARANA NUSANTARA
+45.182.20.178,999,HN,NewTek S. de R.L de C.V
+195.19.51.79,1080,RU,JSC GTNT
+157.66.36.121,8080,ID,PT Trik Media Data
+118.145.141.251,44017,CN,China Unicom Beijing Province Network
+103.143.39.97,1111,IN,Allied It Infrastructure And Services Pvt Ltd
+223.25.110.77,8090,ID,MEGADATA-ISP
+103.120.221.81,8090,BD,Microlink Technology
+109.224.242.21,8080,TR,High Speed For Internet Services L.L.C
+190.97.229.118,999,VE,VIGINET C.A
+45.64.96.155,4545,ID,Argon Data Communication
+8.243.126.136,8801,PE,CORPORACION TARAZONA CATV S.A.C.
+192.232.48.19,8181,ID,PT Axindo Infinitas Network
+118.145.141.251,45159,CN,Beijing Volcano Engine Technology Co.  Ltd.
+103.180.122.64,8080,ID,PT Indo Telemedia Solusi
+103.167.156.92,1080,ID,PT Jaringan Tiang Indonesia Group
+200.125.169.112,999,DO,WIRELESS MULTI SERVICE VARGAS CABRERA  S. R. L
+45.174.108.143,999,MX,IPTVTEL COMUNICACIONES S DE RL DE CV
+191.252.204.85,19150,SE,QuxLabs AB
+49.0.26.151,80,ID,PT Persada Data Multimedia
+58.247.113.130,5678,CN,China Unicom Shanghai network
+118.145.141.251,45170,CN,Beijing Volcano Engine Technology Co.  Ltd.
+103.157.79.58,8080,ID,PT Super Media Indonesia
+175.143.76.177,8181,MY,TM TECHNOLOGY SERVICES SDN. BHD.
+85.117.62.70,8080,GE,Caucasus Online Ltd.
+103.142.190.78,10808,HK,SonderCloud Limited
+103.175.202.182,8090,ID,PT Ameera Mega Buana
+103.171.92.242,9050,US,StormyCloud Inc
+103.66.46.18,8080,ID,PT Remala Abadi
+103.177.8.119,8080,ID,PT Helium Sinergi Telekomunikasi
+36.50.139.100,3128,ID,PT. Eka Mas Republik
+118.179.81.91,81,BD,AmberIT Limited
+103.132.54.242,8182,ID,PT. ADEAKSA INDO JAYATAMA
+45.174.108.140,999,MX,IPTVTEL COMUNICACIONES S DE RL DE CV
+203.175.102.97,8080,ID,PT. Mitra Kita Brilian
+82.117.78.58,1080,RU,Fibrenet Ltd
+181.143.145.98,8080,CO,UNE EPM TELECOMUNICACIONES S.A.
+177.131.118.123,5432,BR,ACESSOLINE TELECOMUNICACOES LTDA
+111.119.162.248,10903,US,Alibaba (US) Technology Co.  Ltd.
+203.150.128.195,8080,TH,Internet Thailand Company Limited
+178.130.47.21,1082,US,Global Connectivity Solutions Llp
+8.242.189.186,999,CO,DOBLECLICK SOFTWARE E INGENERIA
+102.217.121.10,8080,KE,Click Fiber Communications Limited
+49.0.0.175,1080,ID,PT. Usaha Adisanggoro
+190.60.47.62,999,CO,UFINET PANAMA S.A.
+103.134.220.114,1080,ID,PT Global Media Pratama Solusindo
+47.82.65.93,1011,HK,Alibaba (US) Technology Co.  Ltd.
+41.79.9.229,8080,KE,Frontier Optical Networks Ltd
+45.198.20.219,3125,ID,PT Ikhlas Cipta Teknologi
+159.195.61.240,1080,US,Emerald Onion
+191.44.125.13,8080,SY,High Speed For Internet Services L.L.C
+103.157.58.49,8080,ID,PT. Eka Mas Republik
+220.158.232.118,1080,KH,ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
+111.119.162.248,10921,MX,Alibaba (US) Technology Co.  Ltd.
+111.119.162.248,10941,GB,Alibaba (US) Technology Co.  Ltd.
+88.119.171.249,1080,NL,UAB Bacloud
+59.36.210.211,13552,CN,Chinanet
+112.28.149.152,8443,JP,Akari Networks
+47.97.171.33,8080,SG,Alibaba (US) Technology Co.  Ltd.
+103.130.61.61,8081,ID,PT. Fiqran Solusindo Mediatama
+111.119.162.248,10933,DE,Alibaba (US) Technology Co.  Ltd.
+111.119.162.248,10905,US,Alibaba (US) Technology Co.  Ltd.
+101.5.200.193,6789,SG,Amazon.com  Inc.
+165.154.162.73,8888,US,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+111.119.162.248,10933,DE,Alibaba (US) Technology Co.  Ltd.
+111.119.162.248,10921,MX,Alibaba (US) Technology Co.  Ltd.
+202.142.169.142,1080,PK,Multinet Pakistan Pvt. Ltd.
+111.119.162.248,10914,SG,Alibaba (US) Technology Co.  Ltd.
+47.88.94.79,1080,US,Alibaba (US) Technology Co.  Ltd.
