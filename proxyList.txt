@@ -1,965 +1,1408 @@
+77.110.113.3,3128,RU,Global Internet Solutions LLC
+91.188.213.143,1080,SC,Helou LLC
 85.198.100.232,13100,RU,Beget LLC
-85.8.47.208,7080,SE,Bredband2 AB
-85.8.47.210,7080,SE,Bredband2 AB
-85.8.47.211,7080,SE,Bredband2 AB
-85.8.47.198,7080,SE,Bredband2 AB
-85.8.47.207,7080,SE,Bredband2 AB
-85.8.47.209,7080,SE,Bredband2 AB
-34.88.38.81,9443,FI,Google LLC
-195.9.146.246,3629,RU,PJSC Moscow city telephone network
-185.200.188.234,10001,RU,Ihor Hosting Ltd
-178.57.106.43,4145,RU,Sever Telecom JSC
-84.38.187.157,1080,RU,JSC Selectel
-65.108.48.176,3128,FI,Hetzner Online GmbH
-77.232.151.197,1080,RU,OOO Teleservis
-85.113.204.41,8080,RU,Rostelecom
-77.239.96.194,1081,DE,International Hosting Company Limited
-31.76.31.221,1080,US,PowerRDP Network LTD
-147.45.221.111,1082,RU,Global Connectivity Solutions Llp
-5.253.59.150,1082,NL,Global Connectivity Solutions Llp
-95.211.174.135,3128,NL,LeaseWeb Netherlands B.V.
-89.19.215.51,7687,RU,Timeweb  LLP
-204.76.203.9,3128,NL,Pfcloud UG (haftungsbeschrankt)
-77.221.158.175,3128,FI,Aeza Group LLC
-94.24.236.42,8080,RU,Intersvyaz-2 JSC
-204.76.203.9,8080,NL,Pfcloud UG (haftungsbeschrankt)
-109.172.55.227,1082,FR,Global Connectivity Solutions Llp
-88.87.79.18,3629,RU,JSC ER-Telecom Holding
-62.60.239.29,3128,AT,Aeza Group LLC
-134.209.29.120,3128,GB,DigitalOcean  LLC
-94.198.211.217,5678,IT,LA Wireless Srl
-31.207.45.69,1080,NL,Hostkey B.v.
-185.179.188.54,1080,RU,Webhost LLC
-132.243.120.54,10809,NL,Clodo Cloud Service Co. L.L.C
-138.124.118.235,8080,FI,Aeza Group LLC
-132.243.120.54,808,NL,Clodo Cloud Service Co. L.L.C
-116.202.172.187,11000,DE,Hetzner Online GmbH
-89.19.215.51,7687,RU,Timeweb  LLP
-147.45.221.112,1082,RU,Global Connectivity Solutions Llp
-91.210.151.184,1080,RU,Ltd. Cypher
-103.112.68.25,1080,NL,Mastersoft S.R.L.
-83.147.216.208,1080,GR,NetCrafters OU
-62.133.62.27,1082,FR,Global Connectivity Solutions Llp
-45.95.233.88,1082,FR,Global Connectivity Solutions Llp
-176.111.37.5,39811,HK,Cogento Backbone Limited
-72.56.76.200,1080,NL,Timeweb  LLP
-103.112.68.25,1080,NL,Mastersoft S.R.L.
-31.76.31.241,1080,US,PowerRDP Network LTD
-31.76.31.241,1080,US,PowerRDP Network LTD
-5.255.99.75,1080,NL,The Infrastructure Group B.V.
-81.163.20.187,1080,RU,JSC Selectel
-5.255.117.127,1080,NL,The Infrastructure Group B.V.
-95.165.65.7,18888,RU,PJSC Moscow city telephone network
-45.74.31.30,5094,GB,WHG Hosting Services Ltd
-185.200.177.138,445,NL,Clodo Cloud Service Co. L.L.C
-95.81.103.220,1080,NL,Clodo Cloud Service Co. L.L.C
-80.78.74.8,65530,AL,Vodafone Albania Sh.A.
-132.243.120.54,808,NL,Clodo Cloud Service Co. L.L.C
-93.87.38.20,1090,RS,TELEKOM SRBIJA a.d.
-62.60.239.29,3129,HK,haoxiangyun
-81.12.157.98,5678,RO,Vodafone Romania S.A.
-18.157.159.247,57047,NL,Church of Cyberology
-16.18.22.211,31286,DE,F3 Netze e.V.
-16.192.185.227,1248,DE,Stiftung Erneuerbare Freiheit
-95.3.69.222,8080,TR,Turk Telekom
-85.143.254.38,1080,RU,Comfortel Ltd.
-81.162.249.129,4153,UA,PP TRCCity TV center
-35.177.65.228,14824,NL,Church of Cyberology
-5.255.117.250,1080,NL,The Infrastructure Group B.V.
-93.123.118.15,1080,BG,LLC Vash Kredit Bank
-103.211.103.170,3128,HK,haoxiangyun
-132.243.120.54,10809,NL,Clodo Cloud Service Co. L.L.C
-198.199.86.11,3128,US,DigitalOcean  LLC
-209.97.150.167,3128,US,DigitalOcean  LLC
-35.180.201.54,3629,IT,Lowhosting services of Davide Gennari
-64.112.184.210,3128,US,Hosted Backbone
-15.237.108.20,58955,NL,Church of Cyberology
-35.180.138.2,5050,NL,Church of Cyberology
-18.170.45.5,27217,IT,'Association Osservatorio Nessuno ODV'
-199.7.149.96,3128,US,EXO BROADBAND
-16.18.22.211,41939,DK,Forening for DotSrc
-91.223.116.132,3128,IR,Dadeh Gostar Parmis PJS Company
-176.111.37.216,39811,HK,Cogento Backbone Limited
-13.36.211.95,21450,NL,Church of Cyberology
-15.161.131.175,13815,NL,FlokiNET ehf
-15.216.14.119,52319,AT,Foundation for Applied Privacy
-184.75.221.82,3118,CA,Amanah Tech Inc.
-13.36.211.95,8180,NL,Church of Cyberology
-15.160.67.218,1121,NL,Sabotage LLC
-159.203.61.169,3128,CA,DigitalOcean  LLC
-34.73.142.66,8080,US,Google LLC
-13.41.196.179,18715,NL,Church of Cyberology
-5.200.72.58,3128,IR,Respina Networks & Beyond PJSC
-76.26.114.253,39593,US,Comcast Cable Communications  LLC
-34.73.171.216,8080,US,Google LLC
-195.19.50.114,1080,RU,JSC GTNT
-51.102.184.122,8181,DE,netcup GmbH
-35.159.62.164,46646,NL,Church of Cyberology
-91.106.80.70,2080,NL,Interkvm Host Srl
-109.164.35.23,8888,CZ,Datacamp Limited
-34.43.46.91,80,US,Google LLC
-2.27.63.250,8888,US,Kyonix Networks Limited
-147.45.60.250,1082,RU,Global Connectivity Solutions Llp
-89.110.124.45,8888,NL,Servers Tech Fzco
-13.38.217.179,9556,DE,F3 Netze e.V.
-49.229.36.214,4153,TH,SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX
-15.217.107.97,9898,DE,Stiftung Erneuerbare Freiheit
-41.216.186.68,80,ID,PT. Simaya Jejaring Mandiri
-3.127.27.51,9050,NL,Church of Cyberology
-140.99.255.67,3128,US,GTHost
-202.28.194.139,31280,TH,UNINET-TH
-138.68.60.8,3128,US,DigitalOcean  LLC
-193.233.199.21,1080,RU,Global Connectivity Solutions Llp
-45.74.31.30,30508,IN,DigitalOcean  LLC
-47.254.122.220,5443,US,Alibaba (US) Technology Co.  Ltd.
-178.66.49.82,11080,EE,Virtuaalinfra OU
-51.92.173.133,15857,NL,Church of Cyberology
-43.252.107.46,8080,ID,Lintas Data Prima  PT
-63.181.83.210,4990,SE,KeFF Networks Ltd
-173.212.240.48,8888,NL,Owl Limited
-8.215.25.3,2080,ID,Alibaba (US) Technology Co.  Ltd.
-182.160.124.54,1080,BD,aamra networks limited
-14.251.13.20,8080,VN,VNPT Corp
-5.200.72.62,3128,IR,Respina Networks & Beyond PJSC
-103.149.75.82,1080,BD,Race Online Limited
-189.51.168.164,999,MX,Comunicacion por Fibra SA de CV
-15.217.72.88,17753,CZ,Vodafone Czech Republic a.s.
-8.215.25.3,2080,ID,Alibaba (US) Technology Co.  Ltd.
-202.5.50.151,1080,BD,Broad Band Telecom Services Ltd
-103.169.135.43,8080,ID,PT Neo Santara Solusi
-43.163.112.8,80,SG,Tencent Building  Kejizhongyi Avenue
-103.197.242.106,1080,KH,Cogetel Online  Cambodia  ISP
-15.224.107.208,6742,NL,Church of Cyberology
-35.177.65.228,8084,NL,Church of Cyberology
-51.17.184.91,9150,DE,Stiftung Erneuerbare Freiheit
-12.154.48.194,5678,US,AT&T Enterprises  LLC
-171.25.158.95,1080,SE,Patrik Lagerman
-163.181.207.169,9999,VN,Zhejiang Taobao Network Co. Ltd
-51.20.109.37,48316,DE,F3 Netze e.V.
-210.211.113.36,80,VN,CHT Compamy Ltd
-3.122.224.70,15211,CH,Private Layer INC
-18.157.123.132,3128,DE,Amazon.com  Inc.
-47.250.211.53,1080,MY,Alibaba (US) Technology Co.  Ltd.
-163.181.207.226,9999,VN,Zhejiang Taobao Network Co. Ltd
-103.146.137.13,1081,PK,Galaxy Broadband
-103.177.118.145,8118,BD,Link3 Technologies Ltd.
-43.109.48.180,9999,VN,Zhejiang Taobao Network Co. Ltd
-15.216.14.119,6010,NL,Church of Cyberology
-181.191.227.166,999,VE,VIGINET C.A
-103.4.145.132,1080,BD,Next Online Limited.
-51.48.117.219,6249,DE,F3 Netze e.V.
-103.160.205.244,8080,ID,PT Akbar Prima Media
-123.200.28.222,1080,BD,Link3 Technologies Ltd.
-190.97.236.128,999,VE,VIGINET C.A
-181.78.74.253,999,CO,UFINET PANAMA S.A.
-116.212.156.72,1080,KH,ANGKOR DATA COMMUNICATION
-181.189.132.74,5678,GT,Navega.com S.A.
-42.96.18.62,1311,VN,Branch of Long Van System Solution JSC - Hanoi
-51.84.101.19,30663,NL,The Infrastructure Group B.V.
-181.78.74.252,999,CO,UFINET PANAMA S.A.
-181.78.23.187,999,CO,UFINET PANAMA S.A.
-52.47.115.41,5555,NL,Church of Cyberology
-83.143.29.161,1080,BW,VBN Services
-103.80.168.9,1080,IN,Comnet Online Private Limited
-105.27.180.194,1080,ZA,SEACOM Limited
-130.110.103.245,3128,SA,Oracle Corporation
-142.93.217.232,3129,IN,DigitalOcean  LLC
-15.220.121.140,3128,AR,Amazon.com  Inc.
-3.80.77.202,31583,NL,Church of Cyberology
-148.135.34.102,1081,US,MULTACOM CORPORATION
-167.71.233.240,3129,IN,DigitalOcean  LLC
-179.189.246.165,5432,BR,WorldNet Telecom Comercio e Servicos de Telecomuni
-125.24.156.113,7080,TH,TOT Public Company Limited
-51.17.184.91,58001,NL,Church of Cyberology
-103.134.1.14,8080,PK,Prime Networks
-91.103.120.49,443,HK,Alice Networks Ltd
-91.103.120.49,443,HK,Alice Networks Ltd
-185.49.110.155,1080,RU,Semantic LLC
-44.200.234.67,32741,DE,F3 Netze e.V.
-8.215.25.3,2080,ID,Alibaba (US) Technology Co.  Ltd.
-52.47.115.41,57280,DK,Forening for DotSrc
-140.238.32.108,3128,JP,Oracle Corporation
-217.17.112.98,1080,RU,OOO KISS
-191.44.125.15,8080,SY,High Speed For Internet Services L.L.C
-174.138.165.213,37472,US,Comcast Cable Communications  LLC
-174.138.165.211,37415,US,Comcast Cable Communications  LLC
-3.122.224.70,58080,NL,Church of Cyberology
-182.163.96.66,1080,BD,Bangladesh Online Ltd.
-86.57.178.182,4153,BY,Republican Unitary Telecommunication Enterprise Beltelecom
-14.241.242.177,1080,VN,VNPT Corp
-5.45.119.70,1080,EE,Cloud.dog Ou
-68.178.174.239,3128,US,GoDaddy.com  LLC
-1.231.81.166,3128,KR,SK Broadband Co Ltd
-122.52.157.170,8082,PH,Philippine Long Distance Telephone Company
-179.189.245.173,5432,BR,WorldNet Telecom Comercio e Servicos de Telecomuni
-152.42.177.32,8888,SG,DigitalOcean  LLC
-3.96.59.229,34510,RS,MAXKO d.o.o.
-139.255.36.82,2080,ID,Linknet ASN
-45.130.201.172,1080,NL,WorldStream B.V.
-181.39.25.196,8118,EC,Telconet S.A
-5.200.72.61,3128,IR,Respina Networks & Beyond PJSC
-194.87.26.137,3121,CZ,Timeweb  LLP
-45.95.233.128,1082,FR,Global Connectivity Solutions Llp
-147.45.221.112,1082,RU,Global Connectivity Solutions Llp
-38.60.163.193,1080,US,LIGHT NODE LIMITED
-34.224.98.75,7884,FR,OVH SAS
-45.95.233.88,1082,FR,Global Connectivity Solutions Llp
-109.172.55.177,1082,FR,Global Connectivity Solutions Llp
-124.107.39.186,8082,PH,Philippine Long Distance Telephone Company
-100.61.113.24,58592,SE,QuxLabs AB
-15.217.214.40,5229,NL,Church of Cyberology
-5.255.103.55,1080,NL,The Infrastructure Group B.V.
-89.189.132.154,1080,RU,JSC Ufanet
-167.99.74.174,9090,SG,DigitalOcean  LLC
-68.178.174.239,8888,US,GoDaddy.com  LLC
-51.16.42.227,47510,NL,Church of Cyberology
-188.191.18.66,1080,UA,CrimeaCom South LLC
-195.68.145.5,80,RU,PVimpelCom
-200.43.43.124,4145,AR,Telecom Argentina S.A.
-51.48.117.219,3129,NL,Church of Cyberology
-123.58.219.171,10808,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
-160.22.17.4,9988,VN,VNPT Corp
-111.119.162.248,10913,SG,Alibaba (US) Technology Co.  Ltd.
-35.180.201.54,44765,NL,Church of Cyberology
-152.89.104.11,1080,DE,netcup GmbH
-43.164.3.124,1080,TH,Tencent Building  Kejizhongyi Avenue
-35.176.250.70,15079,US,StormyCloud Inc
-219.142.66.245,9090,CN,China Networks Inter-Exchange
-180.191.233.68,9090,PH,Globe Telecoms
-16.62.123.236,53855,NL,Church of Cyberology
-45.74.31.42,24985,FR,Scaleway SAS
-190.108.57.211,1085,AR,AGUAS DEL COLORADO SAPEM
-152.70.198.2,1080,US,Oracle Corporation
-37.220.84.231,28016,RU,Timeweb  LLP
-139.196.95.28,7890,CN,Hangzhou Alibaba Advertising Co. Ltd.
-47.107.107.24,80,CN,Hangzhou Alibaba Advertising Co. Ltd.
-213.210.67.186,3629,RU,Rostelecom
-37.58.221.247,3128,FR,ADISTA SAS
-210.211.113.37,80,VN,CHT Compamy Ltd
-197.248.18.97,8080,KE,Safaricom Limited
-16.18.37.186,28493,NL,Church of Cyberology
-91.103.120.49,443,HK,Alice Networks Ltd
-38.60.134.192,1080,FR,LIGHT NODE LIMITED
-190.97.241.106,999,VE,VIGINET C.A
-159.223.41.216,9090,SG,DigitalOcean  LLC
-58.65.167.165,4145,PK,Nayatel (Pvt) Ltd
-78.159.131.108,1082,AL,Global Connectivity Solutions Llp
-51.48.117.219,8702,US,XMission  L.C.
-210.211.113.35,80,VN,CHT Compamy Ltd
-122.246.3.210,17981,CN,NINGBO  ZHEJIANG Province  P.R.China.
-13.49.41.94,8416,SE,Foreningen for digitala fri- och rattigheter
-16.164.109.133,54757,NL,Church of Cyberology
-120.232.115.170,17981,CN,China Mobile Communications Group Co.  Ltd.
-193.181.35.202,8118,SE,PVDataNet AB
-35.182.12.78,57895,NL,Church of Cyberology
-113.45.195.147,3128,CN,Huawei Cloud Service data center
-154.90.48.209,9090,ID,LIGHT NODE LIMITED
-15.188.238.238,2746,NL,Church of Cyberology
-3.121.130.230,8000,NL,Pfcloud UG (haftungsbeschrankt)
-54.67.110.244,46160,DK,Forening for DotSrc
-44.200.234.67,10427,US,Carnegie Mellon University
-103.80.214.108,8080,ID,PT Redi Revolusi Digital Solusi
-39.106.170.168,8080,CN,Hangzhou Alibaba Advertising Co. Ltd.
-34.207.102.197,20297,NL,Church of Cyberology
-111.119.162.248,10934,HK,Alibaba (US) Technology Co.  Ltd.
-5.129.254.5,8888,RU,Jsc timeweb
-47.81.56.193,8888,TH,Alibaba (US) Technology Co.  Ltd.
-39.170.29.226,10800,JP,Tencent Building  Kejizhongyi Avenue
-8.141.121.115,13126,CN,Hangzhou Alibaba Advertising Co. Ltd.
-34.207.239.230,14195,DE,F3 Netze e.V.
-35.177.213.153,58398,NL,Church of Cyberology
-85.187.5.66,48293,BG,ET ASNET - Altan Halim
-123.57.213.24,3539,CN,Hangzhou Alibaba Advertising Co. Ltd.
-120.26.171.55,25125,CN,Hangzhou Alibaba Advertising Co. Ltd.
-98.94.14.234,10946,FR,MOJI SAS
-101.132.170.8,7890,CN,Hangzhou Alibaba Advertising Co. Ltd.
-8.140.122.111,23340,CN,Hangzhou Alibaba Advertising Co. Ltd.
-195.62.50.11,8080,SY,High Speed For Internet Services L.L.C
-111.119.162.248,10935,HK,Alibaba (US) Technology Co.  Ltd.
-51.17.209.199,18503,NL,Church of Cyberology
-193.233.199.21,1080,RU,Global Connectivity Solutions Llp
-122.246.4.6,17981,CN,NINGBO  ZHEJIANG Province  P.R.China.
-35.177.213.153,44120,DE,Florian Kolb
+176.214.78.230,5678,RU,JSC ER-Telecom Holding
+193.233.218.121,1080,RU,Aeza Group LLC
+188.130.170.89,8080,BY,OOO ExCloud
+5.129.254.70,8888,RU,Jsc timeweb
 5.129.254.49,8888,RU,Jsc timeweb
-111.119.162.248,10924,US,Alibaba (US) Technology Co.  Ltd.
-101.36.104.239,10808,JP,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
-52.207.237.127,5678,RO,Unmanaged Ltd
-39.106.165.196,8080,CN,Hangzhou Alibaba Advertising Co. Ltd.
-147.45.60.110,1082,RU,Global Connectivity Solutions Llp
-147.45.60.139,1082,RU,Global Connectivity Solutions Llp
-111.119.162.248,10945,JP,Datacamp Limited
-18.166.56.240,28174,NL,Church of Cyberology
-36.111.33.167,13128,CN,CHINANET Guangdong province network
-122.246.3.12,17981,CN,NINGBO  ZHEJIANG Province  P.R.China.
-27.185.218.213,17981,CN,Shijiazhuang IDC network  CHINANET Hebei province
-103.248.47.230,1080,AU,Dicker Data Ltd
-43.198.78.37,38457,NL,Church of Cyberology
-51.17.209.199,48975,NL,Church of Cyberology
-58.218.169.186,10800,CN,Chinanet
-18.170.25.193,40370,NL,Church of Cyberology
-44.200.234.67,8103,US,HostPapa
-47.101.182.85,13443,CN,Hangzhou Alibaba Advertising Co. Ltd.
-174.138.165.202,36241,US,Charter Communications Inc
-103.26.209.206,1080,ID,Neuviz Net
-13.51.196.44,21976,NL,Church of Cyberology
-129.226.206.61,80,SG,Tencent Building  Kejizhongyi Avenue
-35.182.12.78,10802,NL,Church of Cyberology
-221.221.163.25,8888,CN,China Unicom Beijing Province Network
-85.117.248.36,1080,ES,Connecta 1876 Slu
-91.84.98.74,12546,NL,Servers Tech Fzco
-15.160.67.218,5688,NL,Church of Cyberology
-18.170.45.5,1234,SE,QuxLabs AB
-81.95.26.134,8080,RU,MT-Telecom LLC
-51.17.250.13,1256,SE,QuxLabs AB
-115.231.107.228,47882,CN,Chinanet
-109.236.45.95,8989,AL,Abissnet sh.a.
-3.122.224.70,48649,NL,Church of Cyberology
-54.211.208.156,36859,NL,Church of Cyberology
-3.127.27.51,12113,NL,Church of Cyberology
-63.181.83.210,10812,NL,Church of Cyberology
-123.57.0.163,8888,CN,Hangzhou Alibaba Advertising Co. Ltd.
-123.121.121.123,8888,CN,China Unicom Beijing Province Network
-108.137.124.195,8998,DE,Stiftung Erneuerbare Freiheit
-222.128.172.158,8888,CN,China Unicom Beijing Province Network
-123.121.208.55,8888,CN,China Unicom Beijing Province Network
-111.200.188.89,8888,CN,China Unicom Beijing Province Network
-13.206.73.237,54839,NL,Church of Cyberology
-43.205.242.234,50082,NL,Church of Cyberology
-43.135.176.121,1080,US,Tencent Building  Kejizhongyi Avenue
-147.45.60.139,1082,RU,Global Connectivity Solutions Llp
-113.249.111.67,1080,CN,Chongqing Telecom
-103.18.77.101,8080,ID,PT. Usaha Adisanggoro
-114.252.12.37,8888,CN,China Unicom Beijing Province Network
-13.60.163.108,39409,NL,Church of Cyberology
-43.205.125.76,6345,AT,Foundation for Applied Privacy
-130.255.94.39,5080,IQ,Tarin General Trading and Setting Up Internet Device LTD
-112.74.165.243,1011,CN,China Mobile Communications Group Co.  Ltd.
-15.224.107.208,30865,NL,Church of Cyberology
-116.204.229.227,8070,BD,ICC Communication
-115.231.107.228,33142,CN,Chinanet
-111.192.31.242,8888,CN,China Unicom Beijing Province Network
-63.181.83.210,39568,NL,Church of Cyberology
-123.115.227.124,8888,CN,China Unicom Beijing Province Network
-43.198.209.12,8800,NL,Church of Cyberology
-123.121.141.57,8888,CN,China Unicom Beijing Province Network
-16.164.109.133,10226,NL,Church of Cyberology
-18.163.182.106,40458,SE,Foreningen for digitala fri- och rattigheter
-111.192.45.151,8888,CN,China Unicom Beijing Province Network
-52.42.110.59,1080,SE,QuxLabs AB
-13.126.183.60,9382,NL,Sabotage LLC
-18.175.218.194,8103,DE,F3 Netze e.V.
-160.20.37.109,80,ID,PT AJI RAFASYA ROSO ANTENG BERKAH
-115.231.107.228,47826,CN,Chinanet
-114.249.218.6,8888,CN,China Unicom Beijing Province Network
-45.74.31.30,38560,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-8.220.197.112,30001,KR,Alibaba (US) Technology Co.  Ltd.
-34.207.102.197,44906,NL,Netwerkvereniging Coloclue
-114.249.219.180,8888,CN,China Unicom Beijing Province Network
-115.231.107.228,21370,CN,Chinanet
-118.179.93.216,9090,BD,AmberIT Limited
-103.158.210.80,8082,ID,PT Digital Media Telematika
-45.61.129.165,9050,GB,BL Networks
-123.121.113.161,8888,CN,China Unicom Beijing Province Network
-114.252.12.19,8888,CN,China Unicom Beijing Province Network
-171.4.64.249,8080,TH,Triple T Broadband Public Company Limited
-13.246.6.135,49886,SE,QuxLabs AB
-116.62.81.204,1081,CN,Hangzhou Alibaba Advertising Co. Ltd.
-78.12.25.241,28943,NL,Church of Cyberology
-16.28.29.244,22252,IT,Global Connectivity Solutions Llp
-123.121.209.108,8888,CN,China Unicom Beijing Province Network
-54.193.36.147,8000,AT,Foundation for Applied Privacy
-54.67.77.88,21436,NL,Church of Cyberology
-154.19.38.195,1111,ID,PT Lintas Network Solusi
-103.167.156.82,1080,ID,PT Jaringan Tiang Indonesia Group
-13.38.27.183,1867,NL,Church of Cyberology
-111.192.25.85,8888,CN,China Unicom Beijing Province Network
-35.183.29.62,39726,NL,Church of Cyberology
-114.246.192.158,8888,CN,China Unicom Beijing Province Network
-174.138.165.214,56990,DO,Compania Dominicana de Telefonos S. A.
-2.56.178.88,808,RU,UFO Hosting LLC
-190.14.5.164,5678,GT,Navega.com S.A.
-16.28.32.67,12354,NL,Church of Cyberology
-45.66.249.187,3128,US,BlueVPS OU
-94.131.92.155,3128,KZ,Cloud Services Kazakhstan LLP
-102.215.245.6,4153,ZA,INFINITY CONNECT (PTY) LTD
-197.224.185.3,3128,MU,Mauritius Telecom Ltd
-120.24.202.132,19000,CN,Hangzhou Alibaba Advertising Co. Ltd.
-204.152.192.24,10808,US,HostPapa
-23.254.196.69,8888,US,HostPapa
-123.121.78.138,8888,CN,China Unicom Beijing Province Network
-54.67.110.244,15877,NL,Church of Cyberology
-47.57.69.227,3128,HK,Alibaba (US) Technology Co.  Ltd.
-78.13.203.169,10800,DE,Stiftung Erneuerbare Freiheit
-218.60.175.168,22222,CN,CHINA UNICOM China169 Backbone
-103.133.26.73,3128,ID,PT PHATRIA INTI PERSADA
-83.143.24.66,1080,BW,VBN Services
-111.192.48.33,8888,CN,China Unicom Beijing Province Network
-13.49.41.94,7777,NL,Church of Cyberology
-51.85.44.149,1755,NL,Church of Cyberology
-221.221.166.95,8888,CN,China Unicom Beijing Province Network
-47.84.84.1,3128,CN,Hangzhou Alibaba Advertising Co. Ltd.
-45.167.125.207,999,CO,SEPCOM COMUNICACIONES SAS
-222.128.179.84,8888,CN,China Unicom Beijing Province Network
-103.130.61.61,8081,ID,PT. Fiqran Solusindo Mediatama
-96.9.77.71,51080,KH,SINET  Cambodia's specialist Internet and Telecom Service Provider.
-179.189.249.130,5432,BR,WorldNet Telecom Comercio e Servicos de Telecomuni
-124.41.225.101,1080,NP,WorldLink Communications Pvt Ltd
-18.208.195.229,1081,NL,Church of Cyberology
-120.24.21.113,21056,CN,Hangzhou Alibaba Advertising Co. Ltd.
-78.12.194.85,12194,DE,Stiftung Erneuerbare Freiheit
-187.85.152.42,5432,BR,GGNET TELECOMUNICACOES LTDA
-103.89.2.102,1080,US,B2 Net Solutions Inc.
-103.236.190.197,1080,ID,PT Victory Network Indonesia
-115.231.107.228,45732,CN,Chinanet
-131.153.163.138,37064,US,Optimum
-131.153.163.141,35890,US,HostPapa
-49.232.24.120,8118,JP,Tencent Building  Kejizhongyi Avenue
-51.102.184.122,21624,NL,Church of Cyberology
-13.41.196.179,56695,AT,Foundation for Applied Privacy
-145.255.239.78,1080,RU,OBIT Ltd.
-91.247.250.215,4145,RU,Ivstar Ltd
-180.191.234.124,8080,PH,Philippine Long Distance Telephone Company
-119.188.131.55,17981,CN,CHINA UNICOM China169 Backbone
-111.119.162.248,10930,US,Alibaba (US) Technology Co.  Ltd.
-179.189.248.109,5432,BR,WorldNet Telecom Comercio e Servicos de Telecomuni
-109.232.106.150,52435,RU,Thyphone Communications LLC
-179.189.253.193,5432,BR,WorldNet Telecom Comercio e Servicos de Telecomuni
-163.227.248.71,8181,ID,PT Rajasa Sinergi Komunikasi
-116.241.240.176,11080,TW,Data Communication Business Group
-51.17.250.13,29641,NL,Church of Cyberology
-13.57.49.6,45238,SC,Datashield  Inc.
-56.112.77.131,1080,NL,Church of Cyberology
-45.225.204.12,999,CL,NETDELSUR TELECOMUNICACIONES SPA
-102.38.21.1,19000,LY,Giga for Telecommunication and Technology Limited
-116.196.150.180,17981,CN,Jinhua Weian InfoTech Co.  Ltd
-13.36.211.95,5689,NL,Church of Cyberology
-18.157.159.247,8090,NL,Church of Cyberology
-85.193.65.88,8888,UA,K-telekom LLC
-103.191.72.10,8082,ID,PT Ding Kloud Indokarya
-16.28.29.244,3101,NL,Church of Cyberology
-18.162.200.96,26543,NL,Church of Cyberology
-94.247.241.70,51006,RU,JSC ER-Telecom Holding
-103.178.3.139,8818,ID,RSTNET
-58.254.153.146,17981,CN,Chinanet
-190.89.4.182,1080,BR,Itaconect Servicos de Comunicacao e Multimidia
-16.79.110.168,1083,NL,Church of Cyberology
-51.44.97.6,24882,NL,Church of Cyberology
-35.152.37.123,5001,RO,FlokiNET ehf
-131.153.163.139,8254,CO,UFINET PANAMA S.A.
-213.248.39.166,4153,RU,LLC Digital Network
-111.230.27.213,3128,CN,Shenzhen Tencent Computer Systems Company Limited
-115.187.29.25,89,ID,PT Lintas Jaringan Mandiri
-43.199.29.225,57395,NL,Church of Cyberology
-160.30.104.170,1080,PK,S. B Link Network
-68.64.179.186,1080,US,LUCIDACLOUD LIMITED
-43.198.94.82,27350,DE,Stiftung Erneuerbare Freiheit
-3.110.68.130,47594,NL,Church of Cyberology
-59.152.97.233,1080,BD,Star IT
-210.211.113.34,80,VN,CHT Compamy Ltd
-16.147.49.157,33990,NL,Church of Cyberology
-31.135.214.17,8026,UZ,Inform-Service TV Ltd.
-31.170.17.225,4153,LV,Sia Nano IT
-110.235.247.206,1080,KH,Cogetel Online  Cambodia  ISP
-103.138.144.202,1999,BD,NEEF IT LIMITED
-85.228.42.180,4153,SE,Telenor Sverige AB
-13.60.163.230,8182,SE,QuxLabs AB
-31.162.174.97,8080,RU,Rostelecom
-45.144.54.40,1080,DE,Aeza Group LLC
-16.164.109.133,30203,NL,Church of Cyberology
-45.74.31.42,23769,US,Oracle Corporation
-104.154.186.48,80,US,Google LLC
-43.134.53.69,1080,SG,Tencent Building  Kejizhongyi Avenue
-13.126.183.60,4301,DE,F3 Netze e.V.
-94.198.213.252,5678,IT,LA Wireless Srl
-111.119.162.248,10921,MX,Alibaba (US) Technology Co.  Ltd.
-182.160.124.153,12331,BD,aamra networks limited
-176.32.33.164,1080,RU,LLC Baxet
-52.207.237.127,2055,NL,Church of Cyberology
-175.136.239.174,8181,MY,TM TECHNOLOGY SERVICES SDN. BHD.
-140.227.61.201,3128,JP,NTT PC Communications  Inc.
-51.20.254.126,24107,NL,Church of Cyberology
-89.46.219.134,8000,IR,Padidar Technology PJSC
-120.24.109.171,3128,CN,Hangzhou Alibaba Advertising Co. Ltd.
-18.166.56.240,21325,US,Emerald Onion
-210.211.113.33,80,VN,CHT Compamy Ltd
-63.177.76.223,8000,NL,Church of Cyberology
-43.208.248.110,1080,DE,Florian Kolb
-180.191.127.78,8080,PH,Philippine Long Distance Telephone Company
-13.212.157.123,9000,NL,Church of Cyberology
-163.223.78.163,8080,ID,PT Big Network Indonesia
-103.67.85.150,3127,ID,PT Tujuh Fondasi Teknologi
-116.232.80.133,1080,CN,China Telecom (Group)
-16.174.83.123,3128,NL,Church of Cyberology
-13.208.238.59,14171,NL,Church of Cyberology
-54.180.117.151,9908,DE,F3 Netze e.V.
-8.215.112.214,7777,ID,Alibaba (US) Technology Co.  Ltd.
-52.207.237.127,45014,DE,Stiftung Erneuerbare Freiheit
-88.213.214.254,4145,BG,NETBOX LTD
-119.93.207.214,8082,PH,Philippine Long Distance Telephone Company
-63.181.83.210,12345,PL,Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski
-37.193.125.68,1090,RU,Novotelecom Ltd
-51.85.44.149,12301,NL,Church of Cyberology
-103.61.234.186,8180,ID,PT Kawan Lama Sejahtera
-34.229.190.39,30754,SE,QuxLabs AB
-124.107.182.184,8088,PH,IMJWANKLIK INTERNET COMMUNICATION SERVICES
-18.208.158.27,12069,AT,Foundation for Applied Privacy
-103.247.23.27,1111,ID,WIFIAN ID
-43.208.191.81,3088,DE,Stiftung Erneuerbare Freiheit
-95.81.93.93,1080,AE,First Server Limited
-186.219.212.53,7080,BR,MEGAMINAS TELECOMUNICACOES LTDA
-176.88.166.176,8080,TR,Superonline Iletisim Hizmetleri A.S.
-51.20.109.37,57143,US,Emerald Onion
-13.250.38.29,2055,SE,QuxLabs AB
-47.99.133.254,8888,CN,Hangzhou Alibaba Advertising Co. Ltd.
-54.211.208.156,5851,NL,Church of Cyberology
-43.216.181.42,44533,SE,Foreningen for digitala fri- och rattigheter
-78.38.67.210,3636,IR,Iran Telecommunication Company PJS
-185.146.138.15,8080,TR,Alfateh Company for Communications
-34.234.90.157,42271,HU,ATW Internet Kft.
-54.67.77.88,3128,NL,Church of Cyberology
-175.139.255.25,8181,MY,TM TECHNOLOGY SERVICES SDN. BHD.
-13.250.38.29,2482,NL,Church of Cyberology
-111.119.162.248,10903,US,Alibaba (US) Technology Co.  Ltd.
-3.99.158.157,36070,DE,F3 Netze e.V.
-16.208.77.160,38947,DE,F3 Netze e.V.
-54.117.6.131,30339,SE,QuxLabs AB
-34.220.80.147,12345,NL,Church of Cyberology
-43.208.134.144,34828,SE,QuxLabs AB
-139.224.67.156,21056,CN,Hangzhou Alibaba Advertising Co. Ltd.
-160.22.206.37,8082,ID,PT Teradata Bintang Selaras
-45.189.151.242,8080,MX,JAVIER TAMAYO GARCIA
-43.205.125.76,36797,NL,Church of Cyberology
-103.165.212.26,8080,ID,PT iForte Global Internet
-197.157.192.168,1080,BI,SPIDERNET SPRL BURUNDI
-72.56.106.48,443,DE,Timeweb  LLP
-54.186.207.218,16147,NL,Church of Cyberology
-43.216.195.95,15834,NL,Church of Cyberology
-43.198.78.37,6287,NL,Church of Cyberology
-103.146.38.25,1111,ID,PT Media Solusi Sukses
-40.176.175.23,6347,SE,Foreningen for digitala fri- och rattigheter
-43.160.255.142,7890,SG,Tencent Building  Kejizhongyi Avenue
-15.229.231.89,25384,NL,Church of Cyberology
-103.74.144.4,83,IN,ANJANI BROADBAND SOLUTIONS PVT.LTD.
-174.138.165.211,57539,US,Comcast Cable Communications  LLC
-14.225.204.32,10800,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-122.160.47.30,8080,IN,Bharti Airtel Ltd.  Telemedia Services
-123.121.112.4,8888,CN,China Unicom Beijing Province Network
-115.231.107.228,41106,CN,Chinanet
-15.164.225.200,2629,NL,Church of Cyberology
-165.99.192.105,1111,ID,PT IDN NUSANTARA NETWORK
-160.250.54.6,9000,VN,SANDCLOCK SERVICE TRADING COMPANY LIMITED
-115.231.107.228,52670,CN,Chinanet
-61.7.147.227,4145,TH,National Telecom Public Company Limited
-114.249.237.87,8888,CN,China Unicom Beijing Province Network
-47.107.82.96,30051,CN,Hangzhou Alibaba Advertising Co. Ltd.
-16.208.77.160,49250,NL,Church of Cyberology
-147.45.60.110,1082,RU,Global Connectivity Solutions Llp
-100.61.113.24,30438,NL,Church of Cyberology
-120.92.111.242,15010,CN,Beijing Kingsoft Cloud Internet Technology Co.  Ltd
-18.162.200.96,47903,US,Emerald Onion
-192.135.210.14,8080,ID,PT Citalang Digital Network
-111.119.162.248,10939,JP,Alibaba (US) Technology Co.  Ltd.
-124.64.57.186,8888,CN,China Unicom Beijing Province Network
-80.93.62.239,1080,RU,SpaceWeb Ltd
-13.212.214.47,8090,SG,Amazon.com  Inc.
-114.250.192.17,8888,CN,China Unicom Beijing Province Network
-34.234.90.157,32951,NL,Church of Cyberology
-111.119.162.248,10938,JP,Alibaba (US) Technology Co.  Ltd.
-103.193.145.1,8080,ID,PT Lintas Jaringan Nusantara
-111.206.4.163,18888,CN,China Unicom Beijing Province Network
-103.151.155.22,11080,ID,DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN DEMAK
-56.155.73.215,28501,NL,Church of Cyberology
-114.249.229.106,8888,CN,China Unicom Beijing Province Network
-111.119.162.248,10938,JP,Alibaba (US) Technology Co.  Ltd.
-131.153.163.141,30607,US,Cincinnati Bell Telephone Company LLC
-91.134.141.4,3128,FR,OVH SAS
-89.169.168.25,6101,RU,Yandex.Cloud LLC
-15.160.132.166,11605,US,Unredacted Inc
-31.57.219.168,6002,AZ,Aztelekom LLC
-188.113.174.12,3629,RU,Sakhalin Cable Telesystems Ltd
-190.153.122.105,999,VE,Net Uno  C.A.
-18.185.116.137,8998,SE,Foreningen for digitala fri- och rattigheter
-47.104.109.152,9443,CN,Chinanet
-13.229.183.165,2020,NL,Church of Cyberology
-18.228.228.159,43032,NL,Church of Cyberology
-54.218.108.165,42687,DE,F3 Netze e.V.
-16.174.6.134,3128,DK,Zencurity ApS
-89.169.168.25,6101,RU,Yandex.Cloud LLC
-95.140.118.34,1080,RS,Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun
-51.17.154.141,53838,NL,Church of Cyberology
-16.28.101.55,32506,DE,Stiftung Erneuerbare Freiheit
-102.39.133.233,1080,ZA,Vox Telecom Ltd
-160.191.56.1,8082,ID,PT Anugerah Creative Nusantara
-111.192.19.39,8888,CN,China Unicom Beijing Province Network
-103.66.74.61,1080,IN,RailTel Corporation of India Ltd
-102.208.166.30,8082,KE,Alwen Networks Co. Limited
-190.0.246.213,4040,CO,Media Commerce Partners S.A
-54.180.117.151,39604,NL,Church of Cyberology
-43.160.242.118,3128,SG,Tencent Building  Kejizhongyi Avenue
-54.186.207.218,24960,NL,Church of Cyberology
-157.20.189.110,5678,ID,Dinas Komunikasi dan Informatika Kabupaten Lamongan
-180.148.25.42,8181,ID,PT GIGA NETWORK INDONESIA
-43.209.173.229,24363,US,Fourplex Telecom LLC
-103.178.3.147,8818,ID,RSTNET
-178.130.47.21,1082,US,Global Connectivity Solutions Llp
-52.90.128.236,8103,NL,Church of Cyberology
-131.153.163.138,34612,US,T-Mobile USA  Inc.
-77.238.237.253,41414,NL,Servers Tech Fzco
-103.162.61.167,8080,ID,Lintas Data Prima  PT
-138.252.89.65,8890,BD,Orange Communication
-147.45.72.31,45700,SE,Aeza Group LLC
-131.153.163.170,37380,US,Datacamp Limited
-52.207.237.127,35141,US,Emerald Onion
-103.25.167.30,8080,ID,PT PC24 Telekomunikasi Indonesia
-47.129.239.222,53281,GR,Global Connectivity Solutions Llp
-203.189.155.68,1080,KH,Cogetel Online  Cambodia  ISP
-179.189.243.245,5432,BR,WorldNet Telecom Comercio e Servicos de Telecomuni
-43.218.128.7,11860,NL,Church of Cyberology
-47.103.30.64,8080,CN,Hangzhou Alibaba Advertising Co. Ltd.
-43.218.128.7,23121,NL,Church of Cyberology
-113.22.221.35,20000,VN,FPT Telecom Company
-15.135.238.248,18057,NL,Church of Cyberology
-103.139.99.238,8080,ID,PT. DIGITAL NETWORK SETIAWAN
-39.101.175.37,17691,CN,Hangzhou Alibaba Advertising Co. Ltd.
-78.12.136.220,35370,NL,Church of Cyberology
-200.125.169.112,999,DO,WIRELESS MULTI SERVICE VARGAS CABRERA  S. R. L
-122.231.244.113,1080,SG,Cloudflare  Inc.
-56.112.93.245,48756,NL,Church of Cyberology
-171.4.1.189,8080,TH,Triple T Broadband Public Company Limited
-204.152.216.109,1080,US,HostPapa
-81.0.49.104,20500,ES,Xtra Telecom S.A.
-103.18.78.35,8080,ID,PT. Usaha Adisanggoro
-47.129.130.0,50968,NL,Church of Cyberology
-34.220.80.147,20632,NL,Church of Cyberology
-109.68.189.22,54643,RU,OOO Suntel
-165.99.192.23,1111,ID,PT IDN NUSANTARA NETWORK
-13.60.163.108,1081,NL,Church of Cyberology
-139.196.95.28,7890,CN,Hangzhou Alibaba Advertising Co. Ltd.
 5.129.254.51,8888,RU,Jsc timeweb
-93.123.30.53,3128,FI,Baykov Ilya Sergeevich
-42.240.136.180,8888,CN,CHINANET Guangdong province network
-84.200.205.35,1080,DE,Ultahost  Inc.
-123.121.132.32,8888,CN,China Unicom Beijing Province Network
-16.51.5.77,31672,DE,F3 Netze e.V.
-16.26.143.154,57652,DE,netcup GmbH
-185.238.238.37,58080,PL,RADIO-NET
-16.145.226.53,40000,AT,Foundation for Applied Privacy
-131.186.47.196,3128,JP,Oracle Corporation
-194.186.248.97,80,RU,PVimpelCom
-91.223.52.141,5678,PL,InterWan Sp. z o.o.
-103.156.57.135,9988,ID,PT Filltech Antar Nusa
-54.215.41.74,57043,NL,Church of Cyberology
-124.83.99.75,8082,PH,Philippine Long Distance Telephone Company
-45.74.31.42,17000,BE,Google LLC
-78.111.112.118,4145,CZ,ISP Alliance a.s.
-43.251.253.40,8080,PK,Optix Pakistan (Pvt.) Limited
-16.26.154.68,3030,US,Fourplex Telecom LLC
-190.0.246.210,4040,CO,Media Commerce Partners S.A
-45.95.233.128,1082,FR,Global Connectivity Solutions Llp
-118.173.91.229,8080,TH,TOT Public Company Limited
-180.191.98.122,5050,PH,Globe Telecoms
-43.205.125.76,5154,NL,Church of Cyberology
-40.176.90.140,2020,NL,Church of Cyberology
-45.74.31.42,27566,ID,PT Jala Lintas Media
-181.214.29.85,999,AE,TELERY NETWORKS  S.R.L
-79.137.196.250,1080,NL,Aeza Group LLC
-49.51.252.36,3128,US,Tencent Building  Kejizhongyi Avenue
-138.124.85.83,1081,CH,Baykov Ilya Sergeevich
-168.228.140.1,999,AR,Luciano Gabriel Chersanaz (Ubnet Datacenter)
-202.58.66.44,8080,ID,PT Mamura Inter Media
-13.51.44.23,3128,NL,Church of Cyberology
-35.180.138.2,6508,NL,LeaseWeb Netherlands B.V.
-16.208.77.160,16696,NL,Church of Cyberology
-160.19.146.76,2022,ID,PT Taska Sarana Nusantara
-43.200.174.95,18754,DE,Stiftung Erneuerbare Freiheit
-160.25.35.4,8181,ID,PT AURORA SENTRAL INFORMATIKA
-78.12.136.220,9002,SE,QuxLabs AB
-18.130.190.239,48760,DE,F3 Netze e.V.
-13.212.157.123,8000,DE,Florian Kolb
-51.102.184.122,47209,NL,SPARKED HOST LLC
-82.117.78.58,1080,RU,Fibrenet Ltd
-66.151.32.105,1080,NL,Hostkey B.v.
-94.73.200.55,1080,RU,Orion Telecom LLC
-83.218.186.22,5678,AT,myNet GmbH
-16.26.208.68,24090,NL,Church of Cyberology
-13.244.203.188,53918,NL,Church of Cyberology
-35.177.65.228,17118,DE,NUXOA GmbH
-186.250.160.255,8090,BR,g j pereira
-13.244.61.193,48414,NL,Church of Cyberology
-131.153.162.76,33973,US,Blue Stream
-119.95.176.156,8082,PH,Philippine Long Distance Telephone Company
-175.143.76.177,8181,MY,TM TECHNOLOGY SERVICES SDN. BHD.
-18.175.218.194,3128,NL,Church of Cyberology
-15.161.131.175,34163,SE,KeFF Networks Ltd
-108.137.124.195,8254,NL,Church of Cyberology
-13.38.27.183,8090,DE,Stiftung Erneuerbare Freiheit
-201.139.180.44,999,MX,Computadoras y Servicios Especiales SA de CV
-103.175.236.180,8382,ID,PT Marva Global Telekomunikasi
-45.184.103.161,999,VE,PRINTER-NET-SERVICE  C.A.
-198.145.118.110,8080,TR,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-45.149.93.219,8080,ID,PT Telekomunikasi Indonesia
-43.200.174.95,47159,NL,Church of Cyberology
-13.49.41.94,5515,DK,Hiper A/S
-52.62.103.7,43221,DE,Stiftung Erneuerbare Freiheit
-178.239.170.76,1090,LB,Hyper Data Transit LTD
-96.3.50.180,8888,US,Midcontinent Communications
-45.74.31.42,9037,DE,Hetzner Online GmbH
-16.51.148.102,51949,NL,Church of Cyberology
-109.207.169.33,3128,NL,Itglobal.com Nl B.v.
-43.130.38.45,51029,US,Tencent Building  Kejizhongyi Avenue
-18.231.126.121,5444,DE,F3 Netze e.V.
-174.138.165.211,38218,US,Cox Communications Inc.
-63.181.83.210,28369,NL,Church of Cyberology
-35.180.75.159,2744,GB,BL Networks
-188.132.249.66,1080,SY,High Speed For Internet Services L.L.C
-180.141.88.241,9009,CN,Chinanet
-199.38.169.219,8080,US,LiteWire Internet Services  Inc.
-13.208.41.249,17214,NL,Church of Cyberology
-54.253.167.61,42034,NL,Church of Cyberology
-54.253.167.61,50022,SE,QuxLabs AB
-131.153.163.141,36402,US,Comcast Cable Communications  LLC
-122.52.189.109,8080,PH,Philippine Long Distance Telephone Company
-171.240.10.80,8080,VN,Viettel Group
-36.72.180.130,8080,ID,PT Telekomunikasi Indonesia
-45.183.236.181,8085,BR,WLAN NETWORK LTDA
-51.34.28.236,8538,DE,Stiftung Erneuerbare Freiheit
-171.25.220.141,8080,CZ,Greendata s.r.o.
-139.135.182.132,8081,PH,Converge ICT Solutions Inc.
-108.136.182.225,40602,NL,Church of Cyberology
-45.74.31.30,38643,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-147.45.60.246,1082,RU,Global Connectivity Solutions Llp
-49.229.36.211,4153,TH,SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX
-200.10.31.45,8081,CO,SUPER REDES S.A.S
-15.135.215.62,25143,DE,Stiftung Erneuerbare Freiheit
-45.172.142.34,999,AR,TECHTRON ARGENTINA S.A.
-43.208.243.207,57988,NL,Church of Cyberology
-103.174.122.102,3128,ID,PT Jaya Sejahtra Nugraha
-13.36.211.95,9898,HU,ATW Internet Kft.
-49.207.177.65,5678,IN,Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA
-103.173.139.214,8080,ID,PT Serayu Multi Connection
-119.17.211.204,8080,VN,Netnam Company
-103.216.50.210,1080,KH,Today Communication Co. Ltd
-144.124.227.88,3128,NL,Servers Tech Fzco
-107.175.124.191,18080,US,HostPapa
-123.119.177.26,8888,CN,China Unicom Beijing Province Network
-103.231.172.117,1080,HK,Netsec Limited
-49.229.36.172,4153,TH,SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX
-103.172.71.135,3127,ID,PT JARINGAN LINTAS ARTHA
-35.180.138.2,9983,NL,Church of Cyberology
-160.20.36.109,80,ID,PT AJI RAFASYA ROSO ANTENG BERKAH
-123.119.176.120,8888,CN,China Unicom Beijing Province Network
-181.189.27.155,999,GT,EDWIN RAYMUNDO HERNANDEZ PEC (IMPORTADORA Y EXPORTADORA INTERCEL)
-49.147.73.178,8085,PH,Philippine Long Distance Telephone Company
-157.85.97.240,3128,TH,Siamdata Communication Co. Ltd.
-35.180.75.159,12555,NL,Church of Cyberology
-45.74.31.42,7298,VN,FPT Telecom Company
-94.70.148.177,8080,GR,OTEnet S.A.
-174.138.165.202,38413,US,Cox Communications Inc.
-67.206.213.202,55555,PR,Liberty Mobile Puerto Rico Inc.
-185.174.208.195,8080,XK,TelKos L.L.C
-175.136.239.173,8181,MY,TM TECHNOLOGY SERVICES SDN. BHD.
-43.200.174.95,30916,US,Quintex Alliance Consulting
-163.61.55.243,8081,ID,PT INFINITY GLOBAL DATA NUSANTARA
-18.208.158.27,5050,NL,Church of Cyberology
-34.220.80.147,53010,SE,QuxLabs AB
-49.146.135.45,9999,PH,Philippine Long Distance Telephone Company
-54.215.41.74,31147,NL,Church of Cyberology
-31.25.236.95,3128,DE,Massivegrid Ltd
-103.191.218.171,8080,ID,PT Replay Inti Media
-39.103.168.253,5980,CN,Hangzhou Alibaba Advertising Co. Ltd.
-178.66.49.82,11080,EE,Virtuaalinfra OU
-40.176.84.249,50851,NL,Church of Cyberology
-217.60.245.29,4080,DE,Loginov Vladislav
-113.192.31.7,8080,ID,PT Indo Telemedia Solusi
-210.79.141.173,8080,ID,PT Reueus Sumber Data
-189.206.222.206,999,MX,Alestra  S. de R.L. de C.V.
-103.169.255.202,6080,ID,PT Master Star Network
-131.153.163.139,35980,US,Clouvider Limited
-177.136.124.47,56113,BR,ITS TELECOMUNICACOES LTDA
-103.48.70.28,83,IN,Country Online Services PVT LTD
-45.177.53.157,999,CO,Colombia
-103.154.12.35,8088,NP,Everest Wireless Network pvt. ltd
-185.238.238.49,58080,PL,RADIO-NET
-202.51.121.59,8080,ID,PT iForte Global Internet
-125.122.35.253,8087,CN,CT-HangZhou-IDC
-3.27.62.106,15028,DE,F3 Netze e.V.
-126.209.107.170,8082,PH,Infinivan Incorporated
-158.140.181.116,8080,ID,PT. Eka Mas Republik
-13.60.163.230,22974,NL,Church of Cyberology
-103.172.17.14,8080,ID,PT Media Access Telematika
-37.59.125.131,8888,FR,Free SAS
-146.196.40.86,8082,ID,PT. Cahaya Buana Raksa
-43.208.191.81,3075,DE,F3 Netze e.V.
-185.191.239.248,3128,CH,GRUPO PANAGLOBAL 15 S.A
-165.16.58.131,8080,LY,Aljeel Aljadeed For Technology
-15.134.33.120,2954,NL,Church of Cyberology
-103.108.146.142,8080,BD,Summit Communications Ltd
-119.235.50.78,4153,IN,VAINAVI INDUSTIES LTD  INTERNET SERVICE PROVIDER  INDIA
-103.209.10.165,8080,ID,PT Lima Cahaya Kotim
-15.224.107.208,54559,NL,Church of Cyberology
-188.242.163.28,21,RU,SkyNet Ltd.
-45.230.169.17,999,VE,SOLUCIONES DCN NETWORK C.A
-43.203.146.136,46536,IS,FlokiNET ehf
-66.181.39.197,1080,US,UnReal Servers  LLC
-51.17.130.167,11938,SE,QuxLabs AB
-16.26.208.68,21409,NL,Church of Cyberology
-43.208.243.207,14399,NL,Church of Cyberology
-177.93.33.55,999,CO,TV AZTECA SUCURSAL COLOMBIA
-185.238.238.29,58080,PL,RADIO-NET
-2.27.52.111,1080,FI,DpkgSoft International Limited
-101.2.166.41,1080,BD,Chittagong Online Limited AS38592 AP
-177.131.119.185,5432,BR,ACESSOLINE TELECOMUNICACOES LTDA
-43.202.49.10,45447,DE,Stiftung Erneuerbare Freiheit
 5.129.254.60,8888,RU,Jsc timeweb
-13.51.196.44,7081,DE,Stiftung Erneuerbare Freiheit
-103.109.173.174,80,ID,PT Cyberindo Aditama
-143.246.197.187,1080,SE,Alexhost Srl
-179.189.248.121,5432,BR,WorldNet Telecom Comercio e Servicos de Telecomuni
-196.1.182.130,1080,NG,eStream Networks
-123.115.180.136,8888,CN,China Unicom Beijing Province Network
-103.168.149.52,8181,ID,TORSADA
-45.74.31.42,21984,ML,Orange Mali SA
-45.127.34.193,1081,ID,PT Telekomunikasi Indonesia
-205.235.1.38,999,EC,UFINET PANAMA S.A.
-16.50.48.241,34611,NL,Church of Cyberology
-5.129.228.92,443,NL,Cloudflare  Inc.
-180.191.233.215,8082,PH,Globe Telecoms
-101.36.104.46,10808,JP,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
-44.200.234.67,25479,NL,Church of Cyberology
-78.189.153.164,3310,TR,Turk Telekom
-213.21.53.119,4153,RU,Global Network Management Inc
-115.231.107.228,29548,CN,Chinanet
-15.188.238.238,8079,NL,Church of Cyberology
-100.61.113.24,4545,NL,Church of Cyberology
-16.26.180.163,38165,NL,Church of Cyberology
-100.61.113.24,12345,NL,Church of Cyberology
-40.177.99.164,8650,DE,Stiftung Erneuerbare Freiheit
-54.253.167.61,24843,NL,Church of Cyberology
-3.99.158.157,26357,DE,Florian Kolb
-34.234.90.157,7777,NL,Church of Cyberology
-160.191.63.29,8080,ID,PT Alsavanet Global Media
-3.27.62.106,56987,SE,Foreningen for digitala fri- och rattigheter
-81.12.169.254,4153,RO,Vodafone Romania S.A.
-52.90.128.236,8180,NL,Church of Cyberology
-103.172.42.221,1111,ID,PT Media Solusi Sukses
-16.174.124.173,10727,DE,Stiftung Erneuerbare Freiheit
-59.36.210.211,13552,CN,Chinanet
-138.201.37.92,40001,DE,Cloudflare  Inc.
-103.97.225.145,3128,ID,PT Sistem Interkoneksi Data
-89.169.37.254,1080,KZ,Nls Astana Llp
-51.20.254.126,47300,NL,Church of Cyberology
-220.135.64.124,11080,TW,Data Communication Business Group
-93.184.7.217,1080,PS,BCI Telecommunication & Advanced Technology Company
-84.54.217.219,1080,RU,Rostelecom
-190.0.246.211,4040,CO,Media Commerce Partners S.A
-18.170.25.193,5092,NL,Church of Cyberology
-89.145.186.194,4153,TR,Yeni Telekom Internet Hizmetleri Ltd. Sirketi
-184.82.166.244,8080,TH,AIS Fibre
-45.198.32.235,8085,ID,PT.Global Media Data Prima
-115.178.49.115,8787,ID,PT Telekomunikasi Indonesia
-103.160.69.161,8080,ID,PT Gayatri Lintas Nusantara
-103.190.113.58,8080,ID,PT Linkbit Inovasi Teknologi
+5.129.254.129,8888,RU,Jsc timeweb
+185.200.188.234,10001,RU,Ihor Hosting Ltd
+5.129.254.5,8888,RU,Jsc timeweb
+37.204.230.182,1080,RU,Rostelecom
+85.8.47.208,7080,SE,Bredband2 AB
+85.8.47.211,7080,SE,Bredband2 AB
+85.8.47.210,7080,SE,Bredband2 AB
+85.8.47.207,7080,SE,Bredband2 AB
+85.8.47.198,7080,SE,Bredband2 AB
+79.132.143.55,3128,DE,Fornex Hosting S.L.
+83.219.1.130,5678,RU,Rostelecom
+18.157.123.132,3128,DE,Amazon.com  Inc.
+89.110.124.45,8888,NL,Servers Tech Fzco
+89.19.215.51,7687,RU,Timeweb  LLP
+5.253.59.150,1082,NL,Global Connectivity Solutions Llp
+147.45.221.112,1082,RU,Global Connectivity Solutions Llp
+91.134.141.4,3128,FR,OVH SAS
+144.31.255.9,1080,DE,U1 Digital Services Ltd
+204.76.203.9,3128,NL,Pfcloud UG (haftungsbeschrankt)
+62.60.239.29,3128,AT,Aeza Group LLC
+204.76.203.9,8080,NL,Pfcloud UG (haftungsbeschrankt)
+62.133.62.27,1082,FR,Global Connectivity Solutions Llp
+109.172.55.210,1082,FR,Global Connectivity Solutions Llp
+138.124.118.235,8080,FI,Aeza Group LLC
+65.108.48.176,3128,FI,Hetzner Online GmbH
+176.111.37.5,39811,HK,Cogento Backbone Limited
+91.210.151.184,1080,RU,Ltd. Cypher
+86.53.111.249,8080,DE,GTT Communications Inc.
+185.157.111.3,5678,EE,Elevi AS
+134.209.29.120,3128,GB,DigitalOcean  LLC
+81.19.210.10,80,GB,Hydra Communications Ltd
 185.98.208.98,28000,SK,GOLEM TECH s.r.o.
-103.158.210.21,8090,ID,PT Digital Media Telematika
-103.31.204.158,3128,ID,PT Biznet Gio Nusantara
-179.49.160.94,999,CO,SAMM TECNOLOGIA E TELECOMUNICACOES S.A
-8.243.68.187,999,CO,Level 3 Parent  LLC
-13.246.6.135,49169,US,Quintex Alliance Consulting
-100.61.113.24,17613,NL,Church of Cyberology
-181.214.29.86,999,AE,TELERY NETWORKS  S.R.L
-16.51.5.77,41599,CA,HostPapa
-80.72.180.122,1080,KG,OJSC Kyrgyztelecom
-16.26.143.154,52033,AT,Foundation for Applied Privacy
-15.164.225.200,27337,NL,Church of Cyberology
-103.171.240.150,8090,ID,PT Abs Multimedia Indonesia
-43.208.134.144,1712,NL,Church of Cyberology
-174.138.165.203,8250,US,T-Mobile USA  Inc.
-43.164.136.189,1080,KR,Tencent Building  Kejizhongyi Avenue
-36.92.104.123,8000,ID,PT Telekomunikasi Indonesia
-15.134.33.120,31457,US,StormyCloud Inc
-85.113.43.181,1080,RU,JSC ER-Telecom Holding
-170.80.200.246,999,DO,RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA  RGDIMAX  S.R.L
-156.238.240.81,1080,SC,cognetcloud INC
-160.19.146.80,2022,ID,PT Taska Sarana Nusantara
-124.158.190.26,80,ID,PT Jala Lintas Media
-2.26.112.72,3128,US,U1 Digital Services Ltd
-169.255.78.190,8865,ZA,HERO TELECOMS (PTY) LTD
-111.206.4.163,18888,CN,China Unicom Beijing Province Network
-43.205.242.234,3882,NL,Church of Cyberology
-157.100.33.235,999,EC,Telconet S.A
-77.37.156.70,8080,RU,Rostelecom
-190.94.199.241,999,VE,SUMINISTROS PCWESTERN  CA (WestNet)
-123.121.114.234,8888,CN,China Unicom Beijing Province Network
+89.19.215.51,7687,RU,Timeweb  LLP
+176.111.37.216,39811,HK,Cogento Backbone Limited
+83.220.46.106,4145,RU,PJSC MegaFon
+62.133.62.18,1082,FR,Global Connectivity Solutions Llp
+5.253.59.150,1082,NL,Global Connectivity Solutions Llp
+5.255.99.75,1080,NL,The Infrastructure Group B.V.
+85.8.47.212,7080,SE,Bredband2 AB
+147.45.221.111,1082,RU,Global Connectivity Solutions Llp
+5.255.117.127,1080,NL,The Infrastructure Group B.V.
+85.8.47.209,7080,SE,Bredband2 AB
+5.255.117.250,1080,NL,The Infrastructure Group B.V.
+5.255.113.177,1080,NL,The Infrastructure Group B.V.
+16.62.111.95,54592,NL,Church of Cyberology
+46.29.116.3,4145,RU,Stavtelecom LLC
+109.164.35.23,8888,CZ,Datacamp Limited
+109.228.65.178,81,ME,Crnogorski Telekom a.d.Podgorica
+185.238.238.49,58080,PL,RADIO-NET
+85.132.139.45,4153,CZ,VIVO CONNECTION spol. s r.o.
+62.60.239.29,3129,HK,haoxiangyun
+95.3.69.222,8080,TR,Turk Telekom
+13.60.60.167,20700,NL,Church of Cyberology
+88.203.131.197,95,BG,A1 Bulgaria EAD
+5.180.52.198,1080,KZ,NLS Kazakhstan LLC
+51.102.184.122,8181,AT,Foundation for Applied Privacy
+13.60.60.167,39959,NL,Church of Cyberology
+13.51.44.23,9991,NL,Church of Cyberology
+85.85.187.31,8080,ES,Xtra Telecom S.A.
+51.96.146.123,56488,NL,Church of Cyberology
+5.45.119.70,1080,EE,Cloud.dog Ou
+194.163.175.167,40000,FR,Contabo GmbH
+187.33.151.110,3128,ES,Cloudi Nextgen Sl
+82.209.210.213,3128,BY,Republican Unitary Telecommunication Enterprise Beltelecom
+2.27.63.250,8888,US,Kyonix Networks Limited
+31.220.40.59,5080,NL,Amarutu Technology Ltd
+80.78.74.66,65530,AL,Vodafone Albania Sh.A.
+18.130.190.239,43184,NL,Church of Cyberology
+16.62.111.95,15454,DK,Forening for DotSrc
+13.60.163.108,5509,DE,F3 Netze e.V.
+79.137.78.133,8000,RO,Datacamp Limited
+194.31.108.109,2080,IR,Avaye Segal Net Co. PJS
+35.152.37.123,2469,DK,Forening for DotSrc
+37.59.125.131,8888,FR,Free SAS
+173.212.240.48,8888,NL,Owl Limited
+209.97.150.167,3128,US,DigitalOcean  LLC
+63.180.203.233,1976,NL,Church of Cyberology
+45.74.31.30,7175,US,DigitalOcean  LLC
+81.200.155.224,1080,DE,Timeweb  LLP
+198.199.86.11,3128,US,DigitalOcean  LLC
+193.233.86.198,1080,RU,Chsl One Ltd
+13.51.196.44,33731,NL,Church of Cyberology
+195.133.65.238,10909,CZ,Chsl One Ltd
+64.112.184.210,3128,US,Hosted Backbone
+3.122.224.70,27644,NL,Church of Cyberology
+184.75.221.82,3118,CA,Amanah Tech Inc.
+85.187.5.66,48293,BG,ET ASNET - Altan Halim
+147.45.60.246,1082,RU,Global Connectivity Solutions Llp
+199.7.149.96,3128,US,EXO BROADBAND
+91.223.116.132,3128,IR,Dadeh Gostar Parmis PJS Company
+185.109.73.226,8080,IR,Pishgaman Toseeh Fanavari Etelaat Va Ertebatat Jonoub (Joint Stock Company)
+13.38.27.183,8090,DE,Stiftung Erneuerbare Freiheit
+93.113.233.20,80,IR,Afranet
+192.210.236.118,3128,US,HostPapa
+159.203.61.169,3128,CA,DigitalOcean  LLC
+34.138.22.120,8080,US,Google LLC
+116.202.172.187,11000,DE,Hetzner Online GmbH
+15.217.107.97,3125,NL,Church of Cyberology
+34.73.171.216,8080,US,Google LLC
+18.132.38.209,6060,NL,Church of Cyberology
+16.22.93.23,1981,DE,F3 Netze e.V.
+85.193.65.88,8888,UA,K-telekom LLC
+18.134.208.86,8351,NL,1337 Services GmbH
+185.216.18.138,44550,RU,Mega Tec LLC
+34.43.46.91,443,US,Google LLC
+78.155.65.204,8080,SY,Syrian Telecommunication Private Closed Joint Stock Company
+38.49.210.79,40000,CA,Cloudflare  Inc.
+15.160.67.218,53326,NL,Church of Cyberology
+13.60.163.230,22974,NL,Church of Cyberology
+107.155.87.251,3128,US,HIVELOCITY  Inc.
+154.113.196.17,5678,NG,Main one Cable Company Nigeria Limited
+147.45.60.139,1082,RU,Global Connectivity Solutions Llp
 147.45.60.124,1082,RU,Global Connectivity Solutions Llp
-51.17.50.68,11312,NL,Church of Cyberology
-123.119.179.161,8888,CN,China Unicom Beijing Province Network
-123.121.102.115,8888,CN,China Unicom Beijing Province Network
-47.121.139.13,3128,CN,Hangzhou Alibaba Advertising Co. Ltd.
-45.74.31.42,7364,VN,VNPT Corp
-177.190.200.209,8085,BR,CTINET SOLUCOES EM CONECTIVIDADE E INFORMATICA LTD
-113.192.1.170,8181,ID,PT Surya Bestari Lestari
-103.146.185.81,1081,ID,PT. Yasmin Amanah Media
-82.209.219.244,8080,BY,Republican Unitary Telecommunication Enterprise Beltelecom
-45.175.39.64,8080,VE,TCA SERVICES C.A.
+43.131.25.228,9000,DE,Tencent Building  Kejizhongyi Avenue
+140.99.255.67,3128,US,GTHost
+51.48.117.219,3129,NL,Church of Cyberology
+15.160.132.166,8123,NL,Church of Cyberology
+49.207.177.65,5678,IN,Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA
+35.152.37.123,27888,NL,Church of Cyberology
+15.216.14.119,52319,NL,Church of Cyberology
+16.62.111.95,10808,NL,Church of Cyberology
+35.180.75.159,1718,NL,Church of Cyberology
+139.135.160.13,8083,PH,Converge ICT Solutions Inc.
+35.176.250.70,2360,NL,Church of Cyberology
+154.58.138.231,8088,ID,MEGADATA-ISP
+80.78.78.106,65530,AL,Vodafone Albania Sh.A.
+165.99.194.222,8080,ID,PT Network Bumi Saridin
+163.181.207.226,9999,VN,Zhejiang Taobao Network Co. Ltd
 1.20.254.32,4153,TH,TOT Public Company Limited
-89.43.135.181,1080,SY,High Speed For Internet Services L.L.C
-103.174.122.79,8080,ID,PT Jaya Sejahtra Nugraha
-177.93.46.124,999,CO,TV AZTECA SUCURSAL COLOMBIA
-103.172.42.37,1111,ID,PT Media Solusi Sukses
-204.199.201.133,999,MX,Level 3 Parent  LLC
-45.198.20.166,8080,ID,PT Ikhlas Cipta Teknologi
-174.138.165.211,32814,US,Comcast Cable Communications  LLC
-103.169.130.150,8080,ID,PT Lancar Artha Media Data
-49.151.64.103,5050,PH,Philippine Long Distance Telephone Company
-3.99.158.157,32117,DE,F3 Netze e.V.
-103.181.255.105,8080,ID,PT Giga Digital Nusantara
-112.203.56.247,8080,PH,Philippine Long Distance Telephone Company
-139.196.95.28,7890,CN,Hangzhou Alibaba Advertising Co. Ltd.
-182.160.101.193,1080,BD,aamra networks limited
-103.86.117.23,8080,ID,PT Link Data Sumber Barokah
-41.216.190.176,1080,ID,PT. NAP Info Lintas Nusa
-103.139.242.173,83,IN,Spectram Telecom Pvt Ltd
-45.74.31.30,34949,DE,DigitalOcean  LLC
-43.160.255.142,7890,SG,Tencent Building  Kejizhongyi Avenue
-118.179.93.13,444,BD,AmberIT Limited
-174.138.165.204,36045,US,Comcast Cable Communications  LLC
-209.182.234.151,40000,SG,Cloudflare  Inc.
-179.1.221.26,3128,CO,INTERNEXA S.A. E.S.P
+103.26.209.206,1080,ID,Neuviz Net
+107.174.3.75,3128,US,HostPapa
+103.132.41.198,7777,ID,PT Kalimasada Inti Sarana
+160.25.182.6,8080,ID,PT SAVINDA ANTAR NUSANTARA
+163.181.207.214,9999,VN,Zhejiang Taobao Network Co. Ltd
+87.121.217.56,40001,US,Cloudflare  Inc.
+43.160.242.118,3128,SG,Tencent Building  Kejizhongyi Avenue
+157.20.38.254,8181,ID,PT Sinyal Khatulistiwa Network
+200.115.189.145,9096,HN,Velco Globalnetwork
+91.246.1.6,4433,DE,Stiftung Erneuerbare Freiheit
+103.173.138.236,1111,ID,PT Serayu Multi Connection
+16.192.185.227,8382,RO,M247 Europe SRL
+223.206.187.193,8080,TH,Triple T Broadband Public Company Limited
+43.98.172.166,3128,SG,Alibaba (US) Technology Co.  Ltd.
+16.62.111.95,42276,SE,QuxLabs AB
+210.211.113.33,80,VN,CHT Compamy Ltd
+43.160.246.46,3128,SG,Tencent Building  Kejizhongyi Avenue
+35.176.250.70,30985,NL,Church of Cyberology
+91.236.238.103,8080,RU,Tericom LLC
+13.49.41.94,50352,NL,Pfcloud UG (haftungsbeschrankt)
+89.43.135.182,8085,SY,High Speed For Internet Services L.L.C
+15.217.72.88,32396,AT,Foundation for Applied Privacy
+87.121.217.56,40001,US,Cloudflare  Inc.
+163.181.207.230,9999,VN,Zhejiang Taobao Network Co. Ltd
+103.156.15.55,8080,ID,PT Lintas Jaringan Nusantara
+43.156.227.68,80,SG,Tencent Building  Kejizhongyi Avenue
+103.167.156.34,1080,ID,PT Jaringan Tiang Indonesia Group
+185.225.40.122,1080,SY,Syrian Telecommunication Private Closed Joint Stock Company
+163.128.32.26,8080,ID,PT Pringsewu Digital Nusantara
+177.247.249.5,3128,MX,Mega Cable  S.A. de C.V.
+223.206.53.222,8080,TH,Triple T Broadband Public Company Limited
+103.167.156.88,1080,ID,PT Jaringan Tiang Indonesia Group
+202.28.194.139,31280,TH,UNINET-TH
+118.179.213.183,81,BD,AmberIT Limited
+92.86.92.126,42740,RO,Orange Romania S.A.
+186.97.176.173,999,CO,UNE EPM TELECOMUNICACIONES S.A.
+130.110.103.245,3128,SA,Oracle Corporation
+15.160.135.192,1080,DE,F3 Netze e.V.
+16.18.37.186,58847,SE,QuxLabs AB
+185.225.42.91,1080,SY,Syrian Telecommunication Private Closed Joint Stock Company
+138.68.60.8,3128,US,DigitalOcean  LLC
+67.206.213.202,55555,PR,Liberty Mobile Puerto Rico Inc.
+103.149.75.82,1080,BD,Race Online Limited
+13.52.163.143,8082,US,Amazon.com  Inc.
+47.250.211.53,1080,MY,Alibaba (US) Technology Co.  Ltd.
+45.174.168.53,999,MX,TELECOMUNICACIONES OTOMIES
+88.247.31.164,4153,TR,Turk Telekom
+103.133.200.73,8080,BD,Antaranga Dot Com Ltd
+190.97.236.128,999,VE,VIGINET C.A
+103.172.121.52,8080,ID,PT Digital Akses Nusantara
+45.5.116.151,8080,GT,UFINET PANAMA S.A.
+45.74.31.42,9011,GB,WHG Hosting Services Ltd
+202.5.50.151,1080,BD,Broad Band Telecom Services Ltd
+103.157.253.233,8080,BD,CENTURY LINK NETWORK
+212.46.245.189,1080,RU,PVimpelCom
+190.0.246.211,4040,CO,Media Commerce Partners S.A
+163.181.207.167,9999,VN,Zhejiang Taobao Network Co. Ltd
+103.187.136.9,3838,BD,Times Communication
+51.16.4.39,17407,NL,Church of Cyberology
+90.188.92.116,36335,RU,Rostelecom
+16.164.109.133,30307,NL,Church of Cyberology
+181.78.74.253,999,CO,UFINET PANAMA S.A.
+163.181.207.169,9999,VN,Zhejiang Taobao Network Co. Ltd
+45.174.175.26,999,MX,JAVIER TAMAYO GARCIA
+47.57.69.227,3128,HK,Alibaba (US) Technology Co.  Ltd.
+151.185.59.40,8080,IN,282  Sector 19
+181.78.23.187,999,CO,UFINET PANAMA S.A.
+116.12.47.82,9595,ID,PT. AMBHARA DUTA SHANTI
+202.154.19.50,3125,ID,PT Digital Media Telematika
+80.249.81.179,9050,NO,Gigahost AS
 103.189.223.19,7557,ID,PT. WIKAPLUS GLOBAL NUSANTARA
-99.119.10.197,8888,US,Datacamp Limited
-187.249.159.164,8080,MX,Transtelco Inc
-103.161.62.5,1080,ID,PT. Union Routelink Communication
-195.19.55.74,1080,RU,JSC GTNT
-103.117.108.58,8080,BD,I Link Internet Service
-111.192.48.10,8888,CN,China Unicom Beijing Province Network
-40.176.175.23,1082,SE,QuxLabs AB
-64.49.67.164,5678,US,WNET TELECOM USA Corp.
-34.207.239.230,11467,US,StormyCloud Inc
-103.23.236.190,8080,IN,Kappa Internet Services Private Limited
-167.250.137.129,1080,BR,DB3 SERVICOS DE TELECOMUNICACOES S.A
-103.216.106.169,1080,ID,PT Indodata Solusi Persada
-16.145.226.53,37512,NL,Church of Cyberology
-49.149.114.152,8081,PH,Philippine Long Distance Telephone Company
-15.135.215.62,16385,NO,Gigahost AS
-115.231.107.228,52044,CN,Chinanet
-157.15.67.181,80,ID,PT Trimitra Aditama Koneksindo
-41.242.118.200,50003,YT,STOI Internet
-40.176.84.249,11622,NL,Church of Cyberology
-108.137.70.33,57931,NL,Church of Cyberology
-120.77.34.183,5980,CN,Hangzhou Alibaba Advertising Co. Ltd.
-113.11.183.201,4145,ID,BIZNET NETWORKS
-54.253.183.151,33636,DE,Stiftung Erneuerbare Freiheit
-43.198.94.82,26173,SE,Foreningen for digitala fri- och rattigheter
-202.142.169.142,1080,PK,Multinet Pakistan Pvt. Ltd.
-18.228.228.159,37218,NL,Church of Cyberology
-52.77.229.98,53276,NL,Church of Cyberology
-43.218.232.39,9988,SE,Foreningen for digitala fri- och rattigheter
-13.239.253.213,14767,NL,Church of Cyberology
-43.198.22.151,59415,NL,Church of Cyberology
-213.14.144.16,3310,TR,Superonline Iletisim Hizmetleri A.S.
-45.74.31.30,22423,ID,PT Jala Lintas Media
-54.255.249.161,11362,NL,Church of Cyberology
+189.51.168.164,999,MX,Comunicacion por Fibra SA de CV
+181.78.74.252,999,CO,UFINET PANAMA S.A.
+174.138.165.211,35660,US,CABLE ONE  INC.
+203.82.36.163,8082,PH,Ignite Telecommunications Inc
+115.72.193.165,8080,VN,Viettel Group
+103.166.185.54,3128,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+18.208.158.27,2813,DK,Forening for DotSrc
+103.166.185.237,3128,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+63.179.134.206,54011,DE,F3 Netze e.V.
+45.130.201.172,1080,NL,WorldStream B.V.
+157.85.105.217,3128,TH,Siamdata Communication Co. Ltd.
+43.135.176.121,1080,US,Tencent Building  Kejizhongyi Avenue
+168.144.121.183,3129,IN,DigitalOcean  LLC
+190.14.5.164,5678,GT,Navega.com S.A.
+210.87.92.135,8080,ID,PT Indo Telemedia Solusi
+103.120.76.46,8080,ID,PT Haci Telekomunikasi Indonesia
+142.93.217.232,3129,IN,DigitalOcean  LLC
+64.227.162.18,3129,IN,DigitalOcean  LLC
+154.12.242.0,1080,US,Contabo Inc.
+103.25.220.42,8084,PH,IMJWANKLIK INTERNET COMMUNICATION SERVICES
+3.231.160.150,14168,NL,Church of Cyberology
+142.93.216.52,3129,IN,DigitalOcean  LLC
+167.71.233.240,3129,IN,DigitalOcean  LLC
+54.196.39.29,36431,NL,Church of Cyberology
+63.179.134.206,42023,NL,Church of Cyberology
+103.155.42.38,1080,BD,Chauddagram Broadband
+116.100.217.114,1080,VN,Viettel Corporation
+174.138.165.202,36196,US,Comcast Cable Communications  LLC
+138.68.68.77,3127,DE,DigitalOcean  LLC
+5.249.165.195,20000,US,Cloudflare  Inc.
+187.85.152.42,5432,BR,GGNET TELECOMUNICACOES LTDA
+157.85.97.204,3128,TH,Siamdata Communication Co. Ltd.
+168.144.68.176,3129,IN,DigitalOcean  LLC
+143.202.212.8,8080,BR,CTA INTERNET LTDA
+91.247.250.215,4145,RU,Ivstar Ltd
+103.154.13.105,8088,NP,Everest Wireless Network pvt. ltd
+180.191.230.53,8082,PH,Globe Telecoms
+15.220.121.140,3128,AR,Amazon.com  Inc.
+168.144.84.188,3129,IN,DigitalOcean  LLC
+113.11.120.105,30226,BD,Rangs Nilu Square  5th Floor  House 75  Road 5/A  Dhanmondi R/A  Dhaka 1209
+170.106.188.46,5432,US,Tencent Building  Kejizhongyi Avenue
+177.131.125.144,5432,BR,ACESSOLINE TELECOMUNICACOES LTDA
+95.40.125.73,7951,NL,Church of Cyberology
+174.138.165.204,36038,US,Comcast Cable Communications  LLC
+157.85.111.64,3128,TH,Siamdata Communication Co. Ltd.
+190.89.4.182,1080,BR,Itaconect Servicos de Comunicacao e Multimidia
+3.92.47.79,13455,NL,Church of Cyberology
+181.39.25.196,8118,EC,Telconet S.A
+201.170.161.104,999,MX,UNINET
+91.103.120.49,443,HK,Alice Networks Ltd
+185.222.138.237,1080,XK,Max tv SH. P. K
+36.91.207.113,8080,ID,PT Telekomunikasi Indonesia
+100.61.113.24,42109,NL,Church of Cyberology
+122.52.157.170,8082,PH,Philippine Long Distance Telephone Company
+103.66.46.54,69,ID,PT Remala Abadi
+101.32.243.189,80,SG,Tencent Building  Kejizhongyi Avenue
+167.172.76.176,9090,SG,DigitalOcean  LLC
+38.46.214.193,1080,ID,PT. Usaha Adisanggoro
+188.93.64.242,4153,RU,Timer  LLC
+89.151.129.168,8080,RU,Rostelecom
+81.200.155.224,1080,DE,Timeweb  LLP
+51.16.4.39,8227,NL,Church of Cyberology
+190.111.243.150,1085,AR,CPS
+16.52.81.236,11797,NL,Church of Cyberology
+51.17.130.167,2055,NL,Church of Cyberology
+103.176.97.57,8082,ID,PT Global Sarana Elektronika
+68.178.174.239,3128,US,GoDaddy.com  LLC
+191.44.126.78,8080,SY,High Speed For Internet Services L.L.C
+3.80.77.202,48385,NL,Church of Cyberology
+91.103.120.49,443,HK,Alice Networks Ltd
+86.100.63.246,4145,LT,UAB Balticum TV
+181.78.95.58,999,PY,UFINET PANAMA S.A.
+68.178.174.239,8888,US,GoDaddy.com  LLC
+64.204.90.185,999,CO,TV AZTECA SUCURSAL COLOMBIA
+193.233.130.212,1080,US,NetCrafters OU
+45.144.54.40,1080,DE,Aeza Group LLC
+158.101.89.163,3123,JP,Oracle Corporation
+181.176.2.246,8443,PE,VIETTEL PERU S.A.C.
+45.74.31.30,7080,US,Microsoft Corporation
+202.62.58.77,1080,KH,Cogetel Online  Cambodia  ISP
+51.85.44.149,55322,DE,Pfcloud UG (haftungsbeschrankt)
+34.207.102.197,40597,NL,Church of Cyberology
+45.183.236.181,8085,BR,WLAN NETWORK LTDA
+103.172.42.123,1111,ID,PT Media Solusi Sukses
+27.147.155.42,8128,BD,Link3 Technologies Ltd.
+102.36.127.249,1080,ZA,Clear Access (Pty) Ltd
+45.95.233.128,1082,FR,Global Connectivity Solutions Llp
+36.50.56.105,8818,ID,PT Andromega Data Nusantara
+54.211.208.156,9145,NL,Church of Cyberology
+45.174.242.128,999,MX,SISTEMAS Y SOLUCIONES DE CAMPECHE SAS DE CV
+1.231.81.166,3128,KR,SK Broadband Co Ltd
+174.138.165.211,8001,US,Charter Communications Inc
+159.223.41.216,9090,SG,DigitalOcean  LLC
+150.109.247.86,8443,KR,Tencent Building  Kejizhongyi Avenue
+35.182.225.157,19261,NL,Church of Cyberology
+94.198.211.217,5678,IT,LA Wireless Srl
+88.87.79.18,3629,RU,JSC ER-Telecom Holding
+77.239.106.24,1080,US,Chsl One Ltd
+103.172.42.115,1111,ID,PT Media Solusi Sukses
+174.138.165.213,55787,US,Charter Communications Inc
+103.164.55.81,3128,SG,Contabo Asia Private Limited
+31.58.158.214,8080,ID,PT Telekomunikasi Indonesia
+94.131.92.155,3128,KZ,Cloud Services Kazakhstan LLP
+43.156.228.168,80,SG,Tencent Building  Kejizhongyi Avenue
+103.211.103.170,3128,HK,haoxiangyun
+111.119.162.248,10935,HK,Alibaba (US) Technology Co.  Ltd.
+13.212.214.47,8090,SG,Amazon.com  Inc.
+54.211.208.156,5851,SE,QuxLabs AB
+147.45.221.112,1082,RU,Global Connectivity Solutions Llp
+113.45.195.147,3128,CN,Huawei Cloud Service data center
+180.191.137.111,8082,PH,Philippine Long Distance Telephone Company
+190.0.246.210,4040,CO,Media Commerce Partners S.A
+3.121.130.230,40177,NL,Church of Cyberology
+18.170.45.5,41890,NL,Church of Cyberology
+51.84.101.19,7786,NL,Church of Cyberology
+111.92.88.27,3128,IN,Cable ISP in India
+77.85.171.92,4153,BG,GEC BG Ltd.
+160.22.206.21,8082,ID,PT Teradata Bintang Selaras
+213.165.38.49,1080,NL,Aeza Group LLC
+191.223.220.23,1080,JP,DMIT Cloud Services
+58.65.167.165,4145,PK,Nayatel (Pvt) Ltd
+144.126.197.184,3129,GB,DigitalOcean  LLC
+13.206.73.237,18119,NL,Church of Cyberology
+103.112.68.25,8080,NL,Mastersoft S.R.L.
+46.8.60.2,1080,RU,LLC avanta Telecom
+138.128.247.206,9050,US,Quintex Alliance Consulting
+131.153.163.141,36724,US,Comcast Cable Communications  LLC
+180.191.233.68,9090,PH,Globe Telecoms
+81.12.169.254,4153,RO,Vodafone Romania S.A.
+144.124.227.88,3129,NL,Servers Tech Fzco
+167.86.111.116,3128,US,Emerald Onion
+13.56.16.181,8478,AT,Foundation for Applied Privacy
+3.121.130.230,2558,NL,Church of Cyberology
+18.208.195.229,33494,NL,Church of Cyberology
+132.243.168.30,9150,NL,The Infrastructure Group B.V.
+14.225.204.32,10800,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+54.67.110.244,1452,GB,IONOS SE
+18.132.38.209,1981,NL,Church of Cyberology
+34.207.239.230,8181,SE,Foreningen for digitala fri- och rattigheter
+217.182.195.221,30005,US,Emerald Onion
+51.34.24.52,29881,NL,Church of Cyberology
+51.96.146.123,8103,NL,Church of Cyberology
+18.163.182.106,55362,NL,Church of Cyberology
+35.177.65.228,17118,SE,Foreningen for digitala fri- och rattigheter
 102.69.146.59,7080,NG,IP Express Ltd
-56.155.73.159,57570,NL,Church of Cyberology
-13.244.61.193,5050,NL,Church of Cyberology
+16.174.124.173,22265,NL,Church of Cyberology
+221.217.49.129,9000,CN,China Unicom Beijing Province Network
+13.206.73.237,56308,NL,Church of Cyberology
+15.161.59.54,20912,SE,KeFF Networks Ltd
+111.119.162.248,10938,JP,Alibaba (US) Technology Co.  Ltd.
+45.74.31.30,5114,BR,Oracle Corporation
+54.67.110.244,8182,NL,Church of Cyberology
+87.228.228.101,4145,CY,Cyprus Telecommunications Authority
+118.31.168.1,3128,CN,Hangzhou Alibaba Advertising Co. Ltd.
+103.205.223.30,8080,ID,PT Cipta Trimitra Perkasa
+35.177.213.153,11872,DE,Stiftung Erneuerbare Freiheit
+43.133.54.152,7890,SG,Tencent Building  Kejizhongyi Avenue
+91.103.120.49,443,HK,Alice Networks Ltd
+168.194.34.196,9001,AR,CORDOBA IP SRL
+131.153.187.19,8254,VE,SERTINET  C.A.
+180.191.234.166,8080,PH,Globe Telecoms
+47.84.84.1,3128,CN,Hangzhou Alibaba Advertising Co. Ltd.
+102.23.229.93,8080,ZA,JENNY INTERNET (PTY) LTD
+100.61.113.24,39074,AT,Foundation for Applied Privacy
+35.159.62.164,45960,DE,Stiftung Erneuerbare Freiheit
+103.136.106.5,1081,BD,Novus Network
+44.200.234.67,10427,NL,Church of Cyberology
+35.177.65.228,2648,DE,Stiftung Erneuerbare Freiheit
+27.147.153.179,3128,BD,Link3 Technologies Ltd.
+54.193.173.209,8890,NL,Church of Cyberology
+63.180.203.233,8739,NL,Church of Cyberology
+54.218.108.165,35321,NL,SOLLUTIUM EU Sp z.o.o.
+35.182.12.78,44735,NL,Church of Cyberology
+213.87.101.134,1080,RU,MTS PJSC
+78.12.18.120,27648,DE,Stiftung Erneuerbare Freiheit
+40.176.175.23,15864,DE,NUXOA GmbH
+51.21.132.197,1080,NL,Church of Cyberology
+15.160.16.72,49634,SE,QuxLabs AB
+51.17.154.141,53737,NL,Scaleway SAS
+114.252.13.224,8888,CN,China Unicom Beijing Province Network
+78.12.136.220,36839,NL,Church of Cyberology
+147.45.60.136,1082,RU,Global Connectivity Solutions Llp
+78.14.15.193,44859,NL,Church of Cyberology
+78.12.220.85,1976,NL,Church of Cyberology
+78.157.46.76,8090,IR,Dade Samane Fanava Company (PJS)
+3.231.160.150,2565,FR,MOJI SAS
+102.0.28.78,8083,KE,Airtel Networks Kenya Limited
+16.164.109.133,10801,NL,Church of Cyberology
+123.57.213.24,3539,CN,Hangzhou Alibaba Advertising Co. Ltd.
+36.111.33.167,13128,CN,CHINANET Guangdong province network
+89.145.186.194,4153,TR,Yeni Telekom Internet Hizmetleri Ltd. Sirketi
+16.22.93.23,30625,NL,Church of Cyberology
+78.14.19.3,29357,NL,Church of Cyberology
+185.49.96.89,8080,IR,Rayaneh Pardazan Baran Co. Ltd.
+35.180.201.54,49055,NL,Church of Cyberology
+16.174.78.75,41674,NL,Church of Cyberology
+43.205.242.234,10944,NL,Church of Cyberology
+221.221.157.49,8888,CN,China Unicom Beijing Province Network
+34.234.90.157,8083,DK,Zencurity ApS
+54.188.236.206,13610,NO,Gigahost AS
+39.106.165.196,8080,CN,Hangzhou Alibaba Advertising Co. Ltd.
+156.245.234.127,3128,HK,Zillion Network Inc.
+101.132.170.8,7890,CN,Hangzhou Alibaba Advertising Co. Ltd.
+180.148.25.42,8181,ID,PT GIGA NETWORK INDONESIA
+39.106.170.168,8080,CN,Hangzhou Alibaba Advertising Co. Ltd.
+111.200.191.214,8888,CN,China Unicom Beijing Province Network
+171.25.158.95,1080,SE,Patrik Lagerman
+221.221.163.120,8888,CN,China Unicom Beijing Province Network
+13.245.183.150,33122,NL,Church of Cyberology
+37.9.4.101,1088,NL,DigitalOcean  LLC
+96.36.50.99,39593,US,Charter Communications LLC
+114.244.223.68,8888,CN,China Unicom Beijing Province Network
+13.245.161.189,3802,NL,Church of Cyberology
+45.129.141.174,3128,SK,eServer s.r.o.
+27.131.14.9,1088,BD,Dhaka Fiber Net Limited
+122.246.3.12,17981,CN,NINGBO  ZHEJIANG Province  P.R.China.
+13.38.217.179,9100,SE,QuxLabs AB
+187.143.206.162,3128,MX,UNINET
+221.221.158.205,8888,CN,China Unicom Beijing Province Network
+13.38.27.183,1337,NL,Church of Cyberology
+43.199.133.173,55399,NL,Church of Cyberology
+221.221.166.95,8888,CN,China Unicom Beijing Province Network
+47.95.206.224,45057,CN,CHINA UNICOM China169 Backbone
+51.16.42.227,23647,NL,Church of Cyberology
+181.78.178.42,8080,CO,UFINET PANAMA S.A.
+81.91.157.133,5678,IR,Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS
+95.40.125.73,42973,NL,Church of Cyberology
+198.12.116.108,1080,US,HostPapa
+123.121.131.112,8888,CN,China Unicom Beijing Province Network
+78.13.202.170,53901,SE,KeFF Networks Ltd
+114.252.12.19,8888,CN,China Unicom Beijing Province Network
+27.185.218.213,17981,CN,Shijiazhuang IDC network  CHINANET Hebei province
+54.46.48.167,11227,CH,Nine Internet Solutions AG
+15.216.14.119,1083,NL,Church of Cyberology
+174.138.165.213,38448,US,Cox Communications Inc.
+147.45.60.136,1082,RU,Global Connectivity Solutions Llp
+51.20.254.126,15237,NL,Church of Cyberology
+16.62.123.236,33105,NL,Church of Cyberology
+147.45.60.110,1082,RU,Global Connectivity Solutions Llp
+114.248.179.223,8888,CN,China Unicom Beijing Province Network
+103.231.172.117,1080,HK,Netsec Limited
+120.232.115.170,17981,CN,China Mobile Communications Group Co.  Ltd.
+51.34.24.52,5520,NL,Church of Cyberology
+45.74.31.42,6196,HK,Alibaba (US) Technology Co.  Ltd.
+221.221.153.111,8888,CN,China Unicom Beijing Province Network
+51.17.84.111,1256,NL,Church of Cyberology
+54.193.36.147,4000,FI,FlokiNET ehf
+3.110.68.130,22158,NL,Church of Cyberology
+185.191.239.248,3128,CH,GRUPO PANAGLOBAL 15 S.A
+123.121.129.198,8888,CN,China Unicom Beijing Province Network
+197.224.185.3,3128,MU,Mauritius Telecom Ltd
+160.19.146.175,2022,ID,PT Taska Sarana Nusantara
+221.221.157.102,8888,CN,China Unicom Beijing Province Network
+120.26.171.55,25125,CN,Hangzhou Alibaba Advertising Co. Ltd.
+103.89.2.102,8080,US,B2 Net Solutions Inc.
+123.121.78.138,8888,CN,China Unicom Beijing Province Network
+222.128.172.158,8888,CN,China Unicom Beijing Province Network
+103.158.210.80,8082,ID,PT Digital Media Telematika
+103.176.96.228,8082,ID,PT Global Sarana Elektronika
+111.192.48.33,8888,CN,China Unicom Beijing Province Network
+51.17.250.13,49286,NO,Gigahost AS
+123.115.227.124,8888,CN,China Unicom Beijing Province Network
+123.121.113.161,8888,CN,China Unicom Beijing Province Network
+210.211.113.35,80,VN,CHT Compamy Ltd
+49.229.36.212,4153,TH,SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX
+34.220.80.147,1340,NL,Church of Cyberology
+47.107.107.24,80,CN,Hangzhou Alibaba Advertising Co. Ltd.
+103.136.106.13,1081,BD,Novus Network
+123.119.177.26,8888,CN,China Unicom Beijing Province Network
+111.192.31.242,8888,CN,China Unicom Beijing Province Network
+123.121.208.55,8888,CN,China Unicom Beijing Province Network
+115.231.107.228,50368,CN,Chinanet
+54.186.207.218,56295,NL,Church of Cyberology
+51.20.254.126,46648,SE,QuxLabs AB
+114.246.196.30,8888,CN,China Unicom Beijing Province Network
+42.96.18.62,1311,VN,Branch of Long Van System Solution JSC - Hanoi
+16.174.83.123,1080,NL,Church of Cyberology
+115.231.107.228,48306,CN,Chinanet
+72.56.106.48,443,DE,Timeweb  LLP
+160.20.38.34,3125,ID,PT SAMUDRA DIGITAL NETWORK
+103.179.218.90,8080,ID,PT Wistel Teknologi Solusi
+49.229.36.170,4153,TH,SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX
+103.154.76.52,8080,ID,PT Tonggak Teknologi Netikom
+13.56.16.181,52459,AT,Foundation for Applied Privacy
+16.174.78.75,6005,DE,Stiftung Erneuerbare Freiheit
+35.183.29.62,15464,NL,Church of Cyberology
+123.121.208.24,8888,CN,China Unicom Beijing Province Network
+113.249.111.67,1080,CN,Chongqing Telecom
+123.253.136.159,1256,PH,Converge ICT Solutions Inc.
+110.34.3.144,1080,NP,Subisu Cablenet (Pvt) Ltd  Baluwatar  Kathmandu  Nepal
+116.103.251.241,1080,VN,Viettel Corporation
+111.192.56.241,8888,CN,China Unicom Beijing Province Network
+190.0.246.213,4040,CO,Media Commerce Partners S.A
+103.174.122.215,3128,ID,PT Jaya Sejahtra Nugraha
+202.4.127.89,81,BD,AmberIT Limited
+51.48.117.219,37308,NL,The Infrastructure Group B.V.
+13.244.61.193,22320,NL,Church of Cyberology
+114.254.49.43,8888,CN,China Unicom Beijing Province Network
+115.231.107.228,37248,CN,CHINA UNICOM China169 Backbone
+112.74.165.243,1011,CN,China Mobile Communications Group Co.  Ltd.
+103.177.118.145,8118,BD,Link3 Technologies Ltd.
+18.166.228.193,1083,DE,Stiftung Erneuerbare Freiheit
+47.107.82.96,30051,CN,Hangzhou Alibaba Advertising Co. Ltd.
+45.174.168.54,999,MX,ESTEVEZ.JOR SERVICIOS S.A. de C.V.
+103.60.139.129,4153,IN,Velocity Internet India Private Ltd
+51.16.42.227,8889,NL,Church of Cyberology
+18.162.200.96,14023,DE,Stiftung Erneuerbare Freiheit
+175.100.37.171,1080,KH,ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
+115.231.107.228,43366,CN,Chinanet
+111.119.162.248,10938,JP,Alibaba (US) Technology Co.  Ltd.
+197.248.16.109,8080,KE,Safaricom Limited
+15.188.238.238,3128,DE,Stiftung Erneuerbare Freiheit
+45.174.108.140,999,MX,IPTVTEL COMUNICACIONES S DE RL DE CV
+45.190.85.4,999,VE,TELECOM.CORPORATIVAS TELECORP C.A
+119.95.176.156,8082,PH,Philippine Long Distance Telephone Company
+157.10.88.180,8080,ID,PT Infonusa Teknologi Telekomunikasi Nusantara
+43.198.22.151,49017,DE,F3 Netze e.V.
+34.224.98.75,13127,NL,Sabotage LLC
+150.109.247.86,8443,KR,Tencent Building  Kejizhongyi Avenue
+112.64.135.45,8080,CN,China Unicom Shanghai network
+49.144.31.164,8082,PH,Philippine Long Distance Telephone Company
+222.128.168.101,8888,CN,China Unicom Beijing Province Network
+221.221.144.75,8888,CN,China Unicom Beijing Province Network
+51.92.173.133,9298,NL,Sabotage LLC
+123.121.123.216,8888,CN,China Unicom Beijing Province Network
+111.119.162.248,10932,SG,Alibaba (US) Technology Co.  Ltd.
+116.196.150.180,17981,CN,Jinhua Weian InfoTech Co.  Ltd
+58.254.153.146,17981,CN,Chinanet
+103.185.250.136,1080,BD,L.J Broadband Network
+111.50.119.10,18701,CN,China Mobile Communications Group Co.  Ltd.
+206.135.38.38,999,MX,IENTC S DE RL DE CV
+43.153.84.220,9050,NL,Church of Cyberology
+123.112.214.167,9000,CN,China Unicom Beijing Province Network
+3.80.77.202,4423,NL,Church of Cyberology
+15.223.218.32,39696,DE,Florian Kolb
+123.121.122.126,8888,CN,China Unicom Beijing Province Network
+219.142.66.245,9090,CN,China Networks Inter-Exchange
+103.144.18.33,9000,ID,PT Gasatek Bintang Nusantara
+190.97.226.59,999,VE,VIGINET C.A
+185.108.76.197,9050,DE,F3 Netze e.V.
+51.17.84.111,22320,NL,Church of Cyberology
+38.183.146.183,1717,ID,PT Ikhlas Cipta Teknologi
+49.235.161.213,2080,NL,xTom GmbH
+16.18.37.186,27046,GB,International Hosting Solutions Llp
+103.147.246.93,88,ID,PT. Putra Lebak Banten
+63.179.134.206,1908,SE,QuxLabs AB
+160.25.242.250,8080,ID,PT Sarana Media Cemerlang
+114.246.192.158,8888,CN,China Unicom Beijing Province Network
+14.251.13.20,8080,VN,VNPT Corp
+180.191.137.251,5050,PH,Globe Telecoms
+45.74.31.30,7098,US,DigitalOcean  LLC
+13.51.196.44,7081,SE,QuxLabs AB
+114.249.218.6,8888,CN,China Unicom Beijing Province Network
+18.157.159.247,8846,NL,Church of Cyberology
+34.224.98.75,11223,AT,Foundation for Applied Privacy
+174.138.162.37,32726,US,Charter Communications LLC
+115.85.88.18,8080,ID,PT ARTHA TELEKOMINDO
+16.174.6.134,3128,BG,Internet Magnate (Pty) Ltd
+179.189.253.193,5432,BR,WorldNet Telecom Comercio e Servicos de Telecomuni
+58.69.250.43,8082,PH,Philippine Long Distance Telephone Company
+18.130.190.239,21452,FR,Association Gitoyen
+108.136.182.225,11261,NL,Church of Cyberology
+123.113.148.188,8888,CN,China Unicom Beijing Province Network
+124.64.57.186,8888,CN,China Unicom Beijing Province Network
+119.148.20.109,22122,BD,Agni Systems Limited
+223.206.49.162,8080,TH,Triple T Broadband Public Company Limited
+123.119.177.72,8888,CN,China Unicom Beijing Province Network
+119.235.50.78,4153,IN,VAINAVI INDUSTIES LTD  INTERNET SERVICE PROVIDER  INDIA
+16.174.6.134,1080,NL,Church of Cyberology
+54.193.36.147,9000,NL,Church of Cyberology
+16.174.78.75,3629,DE,Stiftung Erneuerbare Freiheit
+118.179.93.216,9090,BD,AmberIT Limited
+34.207.102.197,9050,DE,Stiftung Erneuerbare Freiheit
+15.160.16.72,34928,NL,Church of Cyberology
+51.17.130.167,47761,SE,KeFF Networks Ltd
+47.96.189.129,8888,CN,Hangzhou Alibaba Advertising Co. Ltd.
+3.38.94.2,23356,NL,Church of Cyberology
+114.245.154.118,8888,CN,China Unicom Beijing Province Network
+35.182.12.78,8090,LU,FranTech Solutions
+52.78.169.234,45612,NL,Church of Cyberology
+174.138.165.204,54270,US,Endeavor Communications
+45.190.87.233,999,EC,UFINET PANAMA S.A.
+123.115.180.136,8888,CN,China Unicom Beijing Province Network
+13.51.44.23,9103,NL,Church of Cyberology
+177.5.233.42,8080,BR,V tal
+13.38.27.183,1256,NL,Church of Cyberology
+103.147.134.65,8082,ID,PT.MURNI MAKMUR ABADI
+13.209.65.136,57869,NL,Church of Cyberology
+3.231.160.150,31628,NL,Church of Cyberology
+194.31.108.109,2080,IR,Avaye Segal Net Co. PJS
+177.55.68.68,8080,BR,Fibralink LTDA
+13.244.61.193,8118,NL,Church of Cyberology
+180.191.2.166,8081,PH,Globe Telecom Inc.
+115.231.107.228,31910,CN,Chinanet
+101.36.104.46,10808,JP,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+91.84.98.74,12546,NL,Servers Tech Fzco
+78.12.220.85,18467,NL,Church of Cyberology
+18.166.228.193,25137,NL,Church of Cyberology
+46.8.48.143,1080,RU,ZagorodTelecom LLC
+78.12.136.220,50982,DE,F3 Netze e.V.
+45.144.53.63,5005,US,Amazon.com  Inc.
+54.215.41.74,57223,NL,Church of Cyberology
+197.157.195.154,1080,BI,SPIDERNET SPRL BURUNDI
+18.185.116.137,2055,NL,Church of Cyberology
+210.211.113.37,80,VN,CHT Compamy Ltd
+18.163.182.106,9175,NL,Church of Cyberology
+202.61.110.162,8082,PH,Medrozo IT Solutions
+103.39.51.130,1080,ID,PT Mega Mentari Mandiri
+111.119.162.248,10936,MY,Alibaba (US) Technology Co.  Ltd.
+45.74.31.30,4705,JP,SAKURA Internet Inc.
+34.207.239.230,8079,SE,KeFF Networks Ltd
+13.208.41.249,27885,NL,Sabotage LLC
+43.202.0.209,1452,NO,Gigahost AS
+111.230.27.213,3128,CN,Shenzhen Tencent Computer Systems Company Limited
+78.12.83.81,57886,NL,The Infrastructure Group B.V.
+13.38.27.183,1082,SE,QuxLabs AB
+37.187.109.70,10111,FR,OVH SAS
+8.138.217.152,21001,CN,Hangzhou Alibaba Advertising Co. Ltd.
+190.97.238.160,999,VE,VIGINET C.A
+56.68.116.64,8079,NL,Church of Cyberology
+78.14.15.193,4444,LU,FranTech Solutions
+3.99.158.157,4040,DE,Stiftung Erneuerbare Freiheit
+115.231.107.228,40222,CN,Chinanet
+160.19.146.115,2022,ID,PT Taska Sarana Nusantara
+2.26.68.16,1080,FI,DpkgSoft International Limited
+72.56.76.200,1080,NL,Timeweb  LLP
+16.52.81.236,22576,NL,Church of Cyberology
+140.238.32.108,3128,JP,Oracle Corporation
+45.95.233.88,1082,FR,Global Connectivity Solutions Llp
+3.96.59.229,49148,NL,Church of Cyberology
+109.172.55.177,1082,FR,Global Connectivity Solutions Llp
+13.208.238.59,9080,NL,Church of Cyberology
+103.118.85.75,6321,BD,MD. Mokhlesur Rahman
+213.27.29.153,51000,RU,MTS PJSC
+54.46.48.167,22148,CH,Nine Internet Solutions AG
+111.119.162.248,10934,HK,Alibaba (US) Technology Co.  Ltd.
+102.216.117.18,8080,KE,SAVENET LIMITED
+122.52.184.149,8082,PH,Philippine Long Distance Telephone Company
+43.208.248.110,1080,CH,FranTech Solutions
+3.99.158.157,54236,RO,Unmanaged Ltd
+103.229.83.56,8080,BD,Fiber@Home Global Limited
+81.95.26.134,8080,RU,MT-Telecom LLC
+44.200.234.67,47857,NL,Church of Cyberology
+103.90.67.44,8087,ID,PT Rajawali Bintang Cemerlang Telkomedia
+111.119.162.248,10915,SG,Alibaba (US) Technology Co.  Ltd.
+16.164.109.133,30203,SE,QuxLabs AB
+40.177.104.199,37043,DE,Leaseweb Deutschland GmbH
+18.231.214.206,12385,NL,Church of Cyberology
+119.188.131.55,17981,CN,CHINA UNICOM China169 Backbone
+115.231.107.228,60220,CN,Chinanet
+150.241.105.252,1080,US,U1 Digital Services Ltd
+165.154.162.73,8888,US,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+80.78.73.120,65530,AL,Vodafone Albania Sh.A.
+95.214.123.54,8080,HU,Deltakon Kft.
+3.96.59.229,25780,SE,QuxLabs AB
+8.141.121.115,13126,CN,Hangzhou Alibaba Advertising Co. Ltd.
+43.218.232.39,9898,DE,Stiftung Erneuerbare Freiheit
+34.220.80.147,8890,NL,Church of Cyberology
+115.87.57.136,8080,TH,True Online
+15.229.231.89,8079,SE,QuxLabs AB
+103.154.12.17,8088,NP,Everest Wireless Network pvt. ltd
+16.208.77.160,7203,NL,Church of Cyberology
+111.119.162.248,10921,MX,Alibaba (US) Technology Co.  Ltd.
+54.153.32.181,8000,US,Emerald Onion
+84.54.217.219,1080,RU,Rostelecom
+93.187.25.12,58080,IT,Consorzio Terrecablate
+165.154.24.75,808,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+13.208.41.249,29171,NL,Church of Cyberology
+16.144.244.194,34210,NL,Church of Cyberology
+186.219.212.53,7080,BR,MEGAMINAS TELECOMUNICACOES LTDA
+16.208.77.160,36468,NL,Church of Cyberology
+82.114.228.67,1080,RU,LLC smart Center
+203.171.115.116,8080,AF,Etisalat Afghan
+103.125.160.185,83,IN,Pioneer Elabs Ltd.
+160.20.39.3,3125,ID,PT SAMUDRA DIGITAL NETWORK
+31.56.78.134,7777,ID,PT. NAP Info Lintas Nusa
+3.110.68.130,3129,NL,Church of Cyberology
+18.166.56.240,3128,FR,MOJI SAS
+65.2.6.2,6405,NL,Church of Cyberology
+27.147.143.102,3128,BD,Link3 Technologies Ltd.
+181.168.162.63,8080,AR,Telecom Argentina S.A.
+46.165.213.243,3128,DE,Leaseweb Deutschland GmbH
+13.208.238.59,8084,DE,Stiftung Erneuerbare Freiheit
+109.207.169.33,1080,NL,Itglobal.com Nl B.v.
+45.95.233.128,1082,FR,Global Connectivity Solutions Llp
+47.129.130.0,5063,NL,Church of Cyberology
+202.58.77.195,8080,ID,PT Data Buana Nusantara
+43.218.232.39,40230,NL,Church of Cyberology
+95.40.125.73,9889,DE,F3 Netze e.V.
+78.12.136.220,38918,NL,Church of Cyberology
+43.202.0.209,2773,NO,Gigahost AS
+111.192.25.85,8888,CN,China Unicom Beijing Province Network
+190.97.241.106,999,VE,VIGINET C.A
+15.152.75.215,8794,NL,Church of Cyberology
+181.57.178.146,1080,CO,Telmex Colombia S.A.
+51.17.209.199,45446,NL,Church of Cyberology
+13.229.183.165,18080,NL,Church of Cyberology
+188.132.249.99,8080,BR,High Speed For Internet Services L.L.C
+13.250.38.29,12471,NL,Church of Cyberology
+47.101.182.85,13443,CN,Hangzhou Alibaba Advertising Co. Ltd.
+13.245.183.150,1912,NL,Church of Cyberology
+65.108.159.129,3128,FI,Hetzner Online GmbH
+45.74.31.42,40554,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+108.136.169.204,2055,DE,F3 Netze e.V.
+147.45.60.250,1082,RU,Global Connectivity Solutions Llp
+54.186.207.218,1976,NL,Church of Cyberology
+115.231.107.228,49948,CN,Chinanet
+124.217.6.117,8080,PH,Philippine Long Distance Telephone Company
+202.5.47.60,1080,BD,Broad Band Telecom Services Ltd
+185.146.138.15,8080,TR,Alfateh Company for Communications
+190.43.231.101,999,PE,INTEGRATEL PERU S.A.A.
+44.247.106.98,4153,NL,Church of Cyberology
+54.211.208.156,36859,SE,KeFF Networks Ltd
+13.208.41.249,8087,NL,Church of Cyberology
+18.144.86.139,39688,DE,F3 Netze e.V.
+85.175.232.22,7999,RU,Rostelecom
+13.60.163.108,18355,DE,Stiftung Erneuerbare Freiheit
+115.231.107.228,51966,CN,Chinanet
+111.192.21.92,8888,CN,China Unicom Beijing Province Network
+51.34.28.236,10016,DE,Stiftung Erneuerbare Freiheit
+27.147.194.38,3128,BD,Link3 Technologies Ltd.
+78.189.153.164,3310,TR,Turk Telekom
+43.199.133.173,42911,NL,Church of Cyberology
+195.226.213.251,8888,UA,Private Enterprise KTV AIDA
+40.176.84.249,11622,NL,Church of Cyberology
+18.163.182.106,1976,NL,Church of Cyberology
+188.235.21.247,8080,RU,JSC ER-Telecom Holding
+115.231.107.228,38770,CN,Chinanet
+115.231.107.228,59212,CN,Chinanet
+122.246.4.6,17981,CN,NINGBO  ZHEJIANG Province  P.R.China.
+78.12.129.100,2884,NL,Church of Cyberology
+34.234.90.157,7777,NL,Church of Cyberology
+3.38.94.2,49290,NL,Church of Cyberology
+43.218.124.29,45557,NL,Church of Cyberology
+95.214.123.80,8080,HU,Deltakon Kft.
+58.69.248.180,8080,PH,Philippine Long Distance Telephone Company
+160.22.206.37,8082,ID,PT Teradata Bintang Selaras
+177.240.3.194,999,MX,Mega Cable  S.A. de C.V.
+192.135.210.14,8080,ID,PT Citalang Digital Network
+185.238.238.113,58080,PL,RADIO-NET
+115.231.107.228,65354,CN,Chinanet
+84.242.58.9,8080,PS,Mada Al-Arab General Services Company
+16.28.101.55,3540,DE,F3 Netze e.V.
+16.184.22.36,39186,NL,Church of Cyberology
+13.245.171.157,45089,NL,The Infrastructure Group B.V.
+131.153.163.141,36589,US,Strong Technology  LLC.
+13.57.49.6,8276,NL,Church of Cyberology
+111.192.45.151,8888,CN,China Unicom Beijing Province Network
+78.14.19.3,49561,NL,Church of Cyberology
+174.138.165.214,36065,US,Comcast Cable Communications  LLC
+80.74.25.157,3128,NL,Clodo Cloud Service Co. L.L.C
+95.46.148.11,8080,RU,Sannikov Kirill Vladimirovich
+1.32.48.243,8081,MY,TM TECHNOLOGY SERVICES SDN. BHD.
+43.198.22.151,5381,NL,Church of Cyberology
+115.231.107.228,33332,CN,Chinanet
+220.241.20.97,3129,SG,43/F  AIA Tower  183 Electric Road  North Point  Hong Kong
+47.129.239.222,8089,NL,Church of Cyberology
+43.218.128.7,58227,SE,QuxLabs AB
+82.114.228.67,1080,RU,LLC smart Center
+16.28.29.244,44607,NL,Church of Cyberology
+103.49.166.145,84,IN,Gigaline Teleservices Opc Private Limited
+52.207.237.127,11368,NL,Church of Cyberology
+51.20.254.126,53060,NL,Church of Cyberology
+115.231.107.228,28276,CN,Chinanet
+174.138.162.37,30824,US,Charter Communications LLC
+45.198.33.147,8080,ID,PT.Global Media Data Prima
+154.88.132.50,8080,DO,DOMINICAN TELECOM PRIME  DTP  S.R.L.
+176.208.93.34,8989,RU,Rostelecom
+81.12.89.74,4153,IR,Respina Networks & Beyond PJSC
+138.252.158.7,8080,ID,PT Server Nusantara Sejahtera
+38.60.126.87,1080,US,FASTNET DATA INC
+195.62.50.11,8080,SY,High Speed For Internet Services L.L.C
+115.231.107.228,60808,CN,Chinanet
+217.112.96.5,8080,IT,Digital Telecommunication Services S.r.l.
+54.253.183.151,20544,NL,Church of Cyberology
+45.61.129.165,9050,US,Emerald Onion
+52.62.103.7,4228,NO,Gigahost AS
+96.44.137.126,8118,CA,HostPapa
+103.173.163.199,8818,ID,PT Sinergi Multidata Utama
+212.34.230.102,4153,AM,Ucom CJSC
+52.62.103.7,53889,DE,Stiftung Erneuerbare Freiheit
+124.83.119.127,8085,PH,Philippine Long Distance Telephone Company
+102.208.166.30,8082,KE,Alwen Networks Co. Limited
+114.250.195.182,8888,CN,China Unicom Beijing Province Network
+103.167.156.92,1080,ID,PT Jaringan Tiang Indonesia Group
+3.99.158.157,15141,NL,Church of Cyberology
+49.48.115.62,8080,TH,Triple T Broadband Public Company Limited
+221.221.165.188,8888,CN,China Unicom Beijing Province Network
+154.201.16.86,8081,MX,Alestra  S. de R.L. de C.V.
+43.202.0.209,14715,NL,Church of Cyberology
+64.204.90.177,999,CO,U2RED S.A.S
+54.46.48.167,16894,NL,Church of Cyberology
+3.121.130.230,57714,NL,Church of Cyberology
+115.231.107.228,29548,CN,Chinanet
+16.28.29.244,3101,PL,Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski
+13.57.49.6,22960,NL,Church of Cyberology
+138.252.89.129,8890,BD,Orange Communication
+103.166.158.193,1080,ID,PT Timor Lintas Nusantara
+186.10.150.132,8080,CL,ENTEL CHILE S.A.
+13.244.61.193,23821,CA,HostPapa
+115.231.107.228,26978,CN,Chinanet
+43.198.22.151,7259,SE,QuxLabs AB
+111.119.162.248,10935,HK,Alibaba (US) Technology Co.  Ltd.
+18.163.33.4,40858,NL,Church of Cyberology
+165.99.100.31,8080,ID,PT TELEKOMUNIKASI INDO PRIMA
+188.132.249.145,8080,SY,High Speed For Internet Services L.L.C
+201.222.40.218,8080,CO,AULAS DIGITALES DE COLOMBIA SAS
+16.26.208.68,19907,NL,Church of Cyberology
+54.193.173.209,4145,SE,KeFF Networks Ltd
+47.103.30.64,8080,CN,Hangzhou Alibaba Advertising Co. Ltd.
+54.215.41.74,12004,NL,Church of Cyberology
+115.231.107.228,64244,CN,CHINATELECOM Jiangsu province Suzhou 5G network
+45.174.175.27,999,MX,Transtelco Inc
+103.153.159.217,80,PG,APCS Australia
+18.144.86.139,9898,NL,Church of Cyberology
+210.211.113.36,80,VN,CHT Compamy Ltd
+113.192.1.170,8181,ID,PT Surya Bestari Lestari
+83.143.24.29,5678,BW,VBN Services
+54.67.110.244,9145,US,Quintex Alliance Consulting
+13.208.166.217,8118,NL,Church of Cyberology
+103.18.79.197,8085,ID,PT. Usaha Adisanggoro
+193.178.203.141,8080,IR,Asmanfaraz Sepahan Company (P.J.S)
+170.254.173.6,1080,VE,TELECOMUNICACIONES ROCARLI C.A (CIX BROADBAND)
+78.12.18.120,17750,NL,Church of Cyberology
+115.231.107.228,59166,CN,Chinanet
+103.96.233.10,1080,AF,Easy Connect- ISP
+43.202.0.209,1976,US,Quintex Alliance Consulting
+187.85.151.57,5432,BR,GGNET TELECOMUNICACOES LTDA
+3.38.94.2,8800,NL,Church of Cyberology
+43.202.49.10,43919,NL,Church of Cyberology
+102.0.25.184,8080,KE,Airtel Networks Kenya Limited
+16.145.226.53,10267,NL,The Infrastructure Group B.V.
+16.174.124.173,39272,NL,Church of Cyberology
+116.90.234.106,1080,NP,Websurfer Nepal Internet Service Provider
+54.67.77.88,1163,AT,Foundation for Applied Privacy
+111.192.16.130,8888,CN,China Unicom Beijing Province Network
+46.17.99.217,1080,NL,Hostkey B.v.
+103.39.51.140,8181,ID,PT Mega Mentari Mandiri
+78.12.25.241,8788,NL,Church of Cyberology
+103.154.230.78,8090,ID,PT Digital Media Telematika
+64.49.67.164,5678,US,WNET TELECOM USA Corp.
+103.172.42.43,1111,ID,PT Media Solusi Sukses
+5.39.255.142,8118,DE,F3 Netze e.V.
+123.115.233.96,8888,CN,China Unicom Beijing Province Network
+103.146.38.89,3127,ID,PT Media Solusi Sukses
+217.177.44.80,3128,FI,Anton Levin
+54.193.173.209,2305,NL,Church of Cyberology
+177.136.124.47,56113,BR,ITS TELECOMUNICACOES LTDA
+115.231.107.228,43010,CN,Chinanet
+18.230.23.72,26881,AT,Foundation for Applied Privacy
+122.52.189.109,8080,PH,Philippine Long Distance Telephone Company
+111.119.162.248,10937,ID,Alibaba (US) Technology Co.  Ltd.
+180.191.252.107,8082,PH,Philippine Long Distance Telephone Company
+192.58.98.37,8080,ID,PT Sinergi Jaringan Telekomunikasi
+115.231.107.228,48774,CN,Chinanet
+119.148.7.10,22122,BD,Agni Systems Limited
+45.236.107.106,808,EC,Eliana Vanessa Morocho Ona
+103.110.31.155,8080,PG,CLICK PACIFIC LTD
+164.163.73.5,999,HN,GRUPO INMA S.A
+181.119.185.194,999,EC,UFINET PANAMA S.A.
+40.176.175.23,1082,NL,Sabotage LLC
+160.22.35.91,8080,ID,PT Takalink Access Indonesia
+103.180.126.235,8080,ID,PT Alam Media Data
+115.231.107.228,29210,CN,Chinanet
+103.7.120.141,8080,BD,EXABYTE LTD
+202.142.169.142,1080,PK,Multinet Pakistan Pvt. Ltd.
+103.142.255.32,1080,ID,PT.CITRA BERDIKARI NUSANTARA
+16.51.62.173,39780,NL,Church of Cyberology
+68.225.17.237,4228,US,Cox Communications Inc.
+16.51.148.102,26592,NL,Church of Cyberology
+203.177.139.12,8082,PH,Globe Telecoms
+203.150.128.34,8080,TH,Internet Thailand Company Limited
+13.208.166.217,23302,US,Fourplex Telecom LLC
+18.170.45.5,34625,NL,Church of Cyberology
+43.218.232.39,8180,NO,Gigahost AS
+124.40.249.114,8888,ID,Lintas Data Prima  PT
+16.51.62.173,25244,NL,Church of Cyberology
+51.17.50.68,18572,NL,Church of Cyberology
+81.177.175.251,1080,RU,JSC RTComm.RU
+179.189.249.137,5432,BR,WorldNet Telecom Comercio e Servicos de Telecomuni
+45.229.73.210,999,CO,INSITEL S.A.S.
+115.231.107.228,50724,CN,Chinanet
+115.231.107.228,37490,CN,Chinanet
+43.210.3.92,20803,NL,Church of Cyberology
+43.216.195.95,59976,SE,QuxLabs AB
+157.85.97.240,3128,TH,Siamdata Communication Co. Ltd.
+168.194.147.18,8080,BR,Link Net Provedor de Internet LTDA
+40.176.90.140,22112,NL,Church of Cyberology
+18.166.228.193,16178,NL,Church of Cyberology
+201.149.127.22,8080,BR,Garra Fibra
+45.174.242.144,999,MX,SISTEMAS Y SOLUCIONES DE CAMPECHE SAS DE CV
+43.200.179.23,39157,SE,QuxLabs AB
+160.19.16.6,8182,ID,PT Media Balai Nusa
+103.122.1.117,8181,ID,PT. Java Digital Nusantara
+27.147.181.34,3128,BD,Link3 Technologies Ltd.
+185.205.210.154,8102,CZ,Voxility LLP
+13.208.41.249,12105,HU,ATW Internet Kft.
+40.177.99.164,8650,DE,Stiftung Erneuerbare Freiheit
+103.149.194.23,32650,IN,Kavya Internet Services Pvt. Ltd.
+54.206.129.120,42285,NL,Church of Cyberology
+193.233.74.146,1080,RU,Global Connectivity Solutions Llp
+54.46.48.167,22194,NL,Church of Cyberology
+122.246.3.210,17981,CN,NINGBO  ZHEJIANG Province  P.R.China.
+115.231.107.228,31856,CN,Chinanet
+188.132.249.98,8080,BR,High Speed For Internet Services L.L.C
+78.159.131.108,1082,AL,Global Connectivity Solutions Llp
+45.61.129.165,9050,US,Unredacted Inc
+190.216.163.198,999,PE,Level 3 Parent  LLC
+174.138.165.211,36133,US,Comcast Cable Communications  LLC
+15.232.45.244,41685,NL,The Infrastructure Group B.V.
+43.217.201.189,31808,NL,Church of Cyberology
+43.208.116.69,8090,NL,Church of Cyberology
+103.160.68.143,80,ID,PT Gayatri Lintas Nusantara
+51.17.50.68,8090,US,StormyCloud Inc
+103.68.215.46,8080,ID,PT Media Grasi Internet
+103.250.128.18,8082,ID,PT Asri Global Investama
+174.138.165.213,38239,US,Clouvider Limited
+45.74.31.30,5934,IT,Aruba S.p.A.
+13.49.41.94,2055,NL,Church of Cyberology
+109.172.55.227,1082,FR,Global Connectivity Solutions Llp
+176.88.166.163,8080,TR,Superonline Iletisim Hizmetleri A.S.
+43.208.243.207,25382,NL,Church of Cyberology
+179.189.245.173,5432,BR,WorldNet Telecom Comercio e Servicos de Telecomuni
+54.193.173.209,46550,RO,Unmanaged Ltd
+16.192.185.227,19481,NL,Church of Cyberology
+160.187.221.206,5900,PH,Imtech Solution and Data Providers
+62.103.66.18,3128,GR,OTEnet S.A.
+3.27.62.106,15028,NL,Church of Cyberology
+103.156.74.209,3125,ID,PT Trika Global Media
+8.220.197.112,30001,KR,Alibaba (US) Technology Co.  Ltd.
+123.121.115.239,8888,CN,China Unicom Beijing Province Network
+5.161.50.82,8118,US,Unredacted Inc
+5.181.178.61,3125,ID,PT. Eka Mas Republik
+43.203.146.136,14721,DE,Stiftung Erneuerbare Freiheit
+40.176.84.249,29667,NL,Church of Cyberology
+47.129.130.0,12345,NL,Church of Cyberology
+38.145.218.142,3128,US,Enzu Inc
+195.62.50.237,8080,SY,High Speed For Internet Services L.L.C
+52.47.115.41,8447,NL,Church of Cyberology
+109.73.192.102,1080,RU,Jsc timeweb
+16.18.22.211,1976,DE,Stiftung Erneuerbare Freiheit
+174.138.165.202,36162,US,Comcast Cable Communications  LLC
+13.208.238.59,39178,NL,Church of Cyberology
+194.186.248.97,80,RU,PVimpelCom
+52.78.169.234,46833,DE,Stiftung Erneuerbare Freiheit
+103.87.149.133,8080,ID,Lintas Data Prima  PT
+54.67.77.88,14558,NL,Church of Cyberology
+31.187.64.243,10086,NL,HostHatch  LLC
+103.159.195.222,8181,ID,PT Giga Digital Nusantara
+13.51.44.23,41763,NL,Church of Cyberology
+45.74.31.42,4160,US,Hostinger International Limited
+15.152.34.197,58625,NL,Church of Cyberology
+195.62.50.30,8080,BR,High Speed For Internet Services L.L.C
+217.60.245.29,4080,DE,Loginov Vladislav
+212.33.246.11,3128,RU,JSC ER-Telecom Holding
+111.119.162.248,10900,GB,Alibaba (US) Technology Co.  Ltd.
+27.147.155.44,8128,BD,Link3 Technologies Ltd.
+15.134.33.120,18440,PL,1337 Services GmbH
+16.62.111.95,45444,SE,QuxLabs AB
+5.160.103.45,80,IR,Respina Networks & Beyond PJSC
+115.231.107.228,42180,CN,Chinanet
+103.154.12.63,8088,NP,Everest Wireless Network pvt. ltd
+54.117.6.131,2647,US,Emerald Onion
+52.62.103.7,43221,NL,Church of Cyberology
+103.180.126.138,8080,ID,PT Alam Media Data
+18.163.33.4,51156,NL,Church of Cyberology
+115.231.107.228,33330,CN,Chinanet
+174.138.165.213,54505,US,Comcast Cable Communications  LLC
+95.182.107.210,1080,KZ,TOO Kainar-Media
+13.60.163.108,53065,NL,Church of Cyberology
+110.38.234.74,1080,PK,National WiMAX/IMS environment
+185.204.170.179,1142,DE,Alibaba (US) Technology Co.  Ltd.
+56.155.73.215,7080,DE,F3 Netze e.V.
+18.134.208.86,22492,NL,Church of Cyberology
+85.163.43.208,48293,CZ,CETIN a.s.
+36.50.74.121,8083,BD,Rocket Signal
+18.142.95.213,55399,NL,Church of Cyberology
+190.93.179.125,999,PY,MULTI LINK S.A.
+223.85.21.195,8080,CN,CHINANET SiChuan Telecom Internet Data Center
+65.2.6.2,9595,IT,'Association Osservatorio Nessuno ODV'
+43.133.54.152,7890,SG,Tencent Building  Kejizhongyi Avenue
+126.209.106.104,8080,PH,Infinivan Incorporated
+15.164.225.200,2629,NL,Church of Cyberology
+192.188.80.42,1000,ID,PT Rayunet Broadcast Solution
+18.228.228.159,9834,SE,QuxLabs AB
+143.208.152.62,3180,BR,FIBRA EMPRESAS LTDA
+15.232.45.244,7057,NL,Church of Cyberology
+36.72.180.130,8080,ID,PT Telekomunikasi Indonesia
+103.180.122.64,8080,ID,PT Indo Telemedia Solusi
+13.245.171.157,8894,NL,Church of Cyberology
+43.133.54.152,7890,SG,Tencent Building  Kejizhongyi Avenue
+122.49.215.147,8084,PH,iRateNet Solutions
+18.228.228.159,6308,NL,The Infrastructure Group B.V.
+103.176.97.225,8082,ID,PT Global Sarana Elektronika
+45.43.60.220,8080,JP,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+111.119.162.248,10938,JP,Alibaba (US) Technology Co.  Ltd.
+115.231.107.228,41206,CN,Chinanet
+109.69.211.18,1080,CZ,LAN servis s.r.o.
+213.178.250.33,8080,SY,Syrian Telecommunication Private Closed Joint Stock Company
+103.132.53.139,8080,ID,PT. ADEAKSA INDO JAYATAMA
+150.241.70.126,1080,DE,Play2go International Limited
+103.81.175.137,22311,BD,ADN Telecom Ltd.
+49.151.193.51,8082,PH,Philippine Long Distance Telephone Company
+16.208.77.160,3125,NL,Church of Cyberology
+54.180.117.151,33357,NL,Church of Cyberology
+16.28.101.55,8800,SE,QuxLabs AB
+89.42.71.98,8097,MX,OPTICAL LINE TERMINAL SAS DE CV
+18.134.208.86,47876,SE,KeFF Networks Ltd
+43.160.219.223,1080,SG,Tencent Building  Kejizhongyi Avenue
+13.245.161.189,43046,CA,University of Waterloo
+38.46.214.177,8085,ID,PT. Usaha Adisanggoro
+123.121.112.4,8888,CN,China Unicom Beijing Province Network
+51.20.109.37,8123,SE,QuxLabs AB
+103.103.115.11,3125,ID,PT Handayani Fiber Media
+5.130.50.118,1080,RU,Novotelecom Ltd
+13.208.238.59,10866,NL,Church of Cyberology
+38.25.166.76,8088,VE,Airtek Solutions C.A.
+114.130.176.186,8080,BD,Bangladesh Telecommunications Company Limited (BTCL)  Nationwide PSTN Operator and Data and
+103.31.233.46,3128,ID,PT. Usaha Adisanggoro
+15.152.38.117,41787,DE,Stiftung Erneuerbare Freiheit
+16.50.48.241,1854,NL,Church of Cyberology
+43.202.0.209,19976,AT,Foundation for Applied Privacy
+160.22.207.95,8082,ID,PT Teradata Bintang Selaras
+51.94.221.175,10058,NL,Church of Cyberology
+51.20.109.37,11111,NL,Church of Cyberology
+43.208.243.207,3629,NL,Church of Cyberology
+115.231.107.228,49226,CN,Chinanet
+103.157.79.228,1080,ID,PT Super Media Indonesia
+103.139.99.173,8080,ID,PT. DIGITAL NETWORK SETIAWAN
+111.192.48.10,8888,CN,China Unicom Beijing Province Network
+79.133.66.110,81,RU,Rostelecom
+103.165.155.112,2016,ID,PT Jaringan Keluarga Bersama
+45.229.32.124,999,DO,SILKGLOBAL DOMINICANA SRL
+45.238.56.249,2010,EC,UFINET PANAMA S.A.
+153.80.242.105,8080,RU,Global Connectivity Solutions Llp
+13.208.246.143,8083,NL,Church of Cyberology
+178.130.47.21,1082,US,Global Connectivity Solutions Llp
+87.239.251.202,1081,NL,First Server Limited
+103.131.18.82,8011,ID,PT.Global Media Data Prima
+193.23.222.22,1087,US,Denis Terehov
+113.176.46.63,8080,VN,VNPT Corp
+103.208.101.17,1080,ID,PT Tidar Lintas Nusa
+108.137.70.33,32742,HU,ATW Internet Kft.
+160.25.35.4,8181,ID,PT AURORA SENTRAL INFORMATIKA
+103.158.210.24,8090,ID,PT Digital Media Telematika
+110.76.147.26,1111,ID,PT Tonggak Teknologi Netikom
+212.68.59.254,8080,SY,High Speed For Internet Services L.L.C
+103.41.97.225,83,IN,Pioneer Elabs Ltd.
+49.48.64.187,8080,TH,Triple T Broadband Public Company Limited
+163.223.150.21,8080,ID,PT Microcyber Data Indonesia
+103.26.131.10,3125,ID,PT Indonesia Media Komunikasi Masyarakat
+8.220.216.57,3128,KR,Alibaba (US) Technology Co.  Ltd.
+91.144.30.93,8080,SY,Syrian Telecommunication Private Closed Joint Stock Company
+52.78.169.234,13930,US,HostPapa
+16.50.56.246,35219,US,Emerald Onion
+190.61.85.225,999,PA,UFINET PANAMA S.A.
+45.70.200.146,999,EC,UFINET PANAMA S.A.
+123.121.132.32,8888,CN,China Unicom Beijing Province Network
+103.189.119.87,8080,ID,PT Tekling Media Telematika
+124.41.225.101,1080,NP,WorldLink Communications Pvt Ltd
+103.175.84.2,80,ID,PT Blackfaos Data Nusantara
+103.146.38.25,1111,ID,PT Media Solusi Sukses
+51.92.173.133,48815,NL,Church of Cyberology
+174.138.165.213,38431,US,Cox Communications Inc.
+103.208.102.1,8080,ID,PT Tidar Lintas Nusa
+16.26.180.163,50267,NL,Church of Cyberology
+51.250.6.232,1080,RU,Yandex.Cloud LLC
+118.69.182.184,8082,VN,FPT Telecom Company
+115.231.107.228,48066,CN,CHINATELECOM Jiangsu province Suzhou 5G network
+103.124.139.197,8181,ID,PT.Global Media Data Prima
+194.135.81.158,3128,LT,UAB Interneto vizija
+99.119.10.197,8888,US,Datacamp Limited
+103.227.187.241,6090,ID,PT Master Star Network
+174.138.165.202,38108,US,Optimum
+146.196.40.86,8082,ID,PT. Cahaya Buana Raksa
+103.49.166.145,83,IN,Gigaline Teleservices Opc Private Limited
+18.185.116.137,8998,NL,Church of Cyberology
+35.183.29.62,24603,SC,Datashield  Inc.
+154.0.157.196,8080,TZ,Habari Node Public Limited
+18.170.45.5,49885,NL,Church of Cyberology
+115.231.107.228,28046,CN,Chinanet
+178.159.52.208,8080,RU,Home Computer Networks ltd.
+16.26.143.154,42674,NL,Church of Cyberology
+63.180.203.233,21252,NL,Church of Cyberology
+13.239.253.213,3862,DE,Florian Kolb
+109.224.242.38,8080,TR,High Speed For Internet Services L.L.C
+49.151.78.142,8080,PH,Philippine Long Distance Telephone Company
+54.218.108.165,44050,NL,Church of Cyberology
+185.238.238.121,58080,PL,RADIO-NET
+174.138.165.202,32003,US,Cox Communications Inc.
+103.142.190.78,10808,HK,SonderCloud Limited
+111.200.188.89,8888,CN,China Unicom Beijing Province Network
+103.157.78.117,7777,ID,PT Super Media Indonesia
+219.94.75.224,8080,MY,TM TECHNOLOGY SERVICES SDN. BHD.
+16.26.154.68,16083,RO,FlokiNET ehf
+103.183.58.250,8082,ID,PT Core Digital Network
+16.18.22.211,31286,CH,FranTech Solutions
+123.121.121.123,8888,CN,China Unicom Beijing Province Network
+103.157.58.49,8080,ID,PT. Eka Mas Republik
+54.196.39.29,8888,NL,Church of Cyberology
+115.231.107.228,42698,CN,CHINATELECOM Guangdong province Zhuhai 5G network
+103.118.224.19,5678,ID,Varnion Technology Semesta  PT
+119.94.187.31,8082,PH,Philippine Long Distance Telephone Company
+51.16.42.227,35852,NL,Church of Cyberology
+5.255.103.55,1080,NL,The Infrastructure Group B.V.
+185.212.138.43,5678,ES,Free Technologies Excom S.L.
+84.255.40.228,8998,MT,Melita Limited
+15.134.33.120,1976,NL,Church of Cyberology
+43.210.3.92,9443,NL,Church of Cyberology
+35.180.201.54,5347,NL,Church of Cyberology
+124.83.99.75,8082,PH,Philippine Long Distance Telephone Company
+98.94.14.234,21004,DE,Stiftung Erneuerbare Freiheit
+51.17.250.13,52617,NL,Church of Cyberology
+16.26.180.163,36303,NL,Church of Cyberology
+103.155.196.166,3125,ID,PT Jembatan Data Pangrango
+63.180.203.233,2218,SE,KeFF Networks Ltd
+51.16.4.39,19491,NL,Church of Cyberology
+43.202.49.10,38928,FR,Association Gitoyen
+54.253.183.151,22213,NL,Church of Cyberology
+35.94.193.222,31153,NL,Church of Cyberology
+79.170.161.138,3128,RU,LLC Modern Communication Technologies
+43.218.233.2,1976,NL,Church of Cyberology
+36.137.204.11,1081,US,The Constant Company  LLC
+102.66.161.31,8888,ZA,HERO TELECOMS (PTY) LTD
+124.105.86.222,8090,PH,Philippine Long Distance Telephone Company
+43.216.181.42,49008,NL,Church of Cyberology
+186.180.20.18,8080,CO,UNE EPM TELECOMUNICACIONES S.A.
+103.155.196.81,8080,ID,PT Jembatan Data Pangrango
+16.50.48.241,10712,SE,Foreningen for digitala fri- och rattigheter
+47.81.56.193,8888,TH,Alibaba (US) Technology Co.  Ltd.
+45.222.101.111,8080,NG,Zeta-web Nigeria Limited
+72.56.106.48,443,DE,Timeweb  LLP
+16.62.111.95,12907,US,Quintex Alliance Consulting
+39.108.69.199,5980,CN,Hangzhou Alibaba Advertising Co. Ltd.
+217.177.44.80,1080,FI,Anton Levin
+103.82.246.27,6080,ID,PT Master Star Network
+45.177.16.136,999,PY,MSW S.A.
+3.27.62.106,36794,NL,Church of Cyberology
+103.146.38.47,8080,ID,PT Media Solusi Sukses
+43.203.146.136,3568,NL,Church of Cyberology
+98.94.14.234,20137,NL,Church of Cyberology
+13.51.44.23,7475,NL,Church of Cyberology
+103.159.195.193,3125,ID,PT Giga Digital Nusantara
+16.208.77.160,35249,NL,Sabotage LLC
+18.166.228.193,32401,CH,FranTech Solutions
+116.62.81.204,1081,CN,Hangzhou Alibaba Advertising Co. Ltd.
+111.119.162.248,10930,US,Alibaba (US) Technology Co.  Ltd.
+67.215.226.71,999,DO,REY CONNECT SRL
+36.88.242.103,1080,ID,PT Telekomunikasi Indonesia
+111.119.162.248,10930,US,Alibaba (US) Technology Co.  Ltd.
+111.206.4.163,18888,CN,China Unicom Beijing Province Network
+180.191.228.36,8082,PH,Globe Telecoms
+121.101.129.103,8080,ID,PT SELARAS CITRA TERABIT
+115.231.107.228,63670,CN,Chinanet
+45.198.32.207,8080,ID,PT.Global Media Data Prima
+18.208.158.27,49813,NL,Church of Cyberology
+38.54.116.154,3128,OM,LIGHT NODE LIMITED
+205.235.1.36,999,EC,UFINET PANAMA S.A.
+109.172.55.177,1082,FR,Global Connectivity Solutions Llp
+111.119.162.248,10931,SG,Alibaba (US) Technology Co.  Ltd.
+103.193.144.101,8080,ID,PT Lintas Jaringan Nusantara
+154.79.251.168,1080,KE,Airtel Networks Kenya Limited
+163.227.248.98,8818,ID,PT Rajasa Sinergi Komunikasi
 156.245.246.51,7890,SC,VpsQuan L.L.C.
+115.231.107.228,37598,CN,Chinanet
+165.99.194.184,8080,ID,PT Network Bumi Saridin
+92.42.8.20,4145,RU,Stavtelecom LLC
+45.198.10.43,8080,ID,PT JARINGAN LINTAS ARTHA
+43.209.212.140,8083,NL,Church of Cyberology
+47.242.207.71,9898,HK,Alibaba (US) Technology Co.  Ltd.
+45.175.171.71,8085,BR,Inffotreini Provedores e Informatica LTDA - ME
+103.42.203.60,8090,BD,SKYNET CHOWMUHANI
+13.208.166.217,4207,SC,Datashield  Inc.
+103.154.231.61,8090,ID,PT Digital Media Telematika
+200.251.41.61,8002,BR,CLARO S.A.
+47.110.226.74,19991,JP,263 Global Communications Limited
+111.119.162.248,10931,SG,Alibaba (US) Technology Co.  Ltd.
+195.62.50.140,8080,SY,High Speed For Internet Services L.L.C
+103.189.116.6,1111,ID,PT Callysta Total Solusindo
+147.45.221.111,1082,RU,Global Connectivity Solutions Llp
+78.12.194.85,26182,NL,Church of Cyberology
+188.191.18.66,1080,UA,CrimeaCom South LLC
+120.77.34.183,5980,CN,Hangzhou Alibaba Advertising Co. Ltd.
+13.57.49.6,58326,DE,Stiftung Erneuerbare Freiheit
+78.159.131.108,1082,AL,Global Connectivity Solutions Llp
+91.210.25.75,8080,RU,Dagomys Telecom LLC
+56.68.116.64,53556,NL,Church of Cyberology
+54.253.183.151,17656,NL,Church of Cyberology
+89.221.51.116,3128,RU,Svyaz-Holding Ltd.
+43.164.3.124,1080,TH,Tencent Building  Kejizhongyi Avenue
+43.164.136.189,1080,KR,Tencent Building  Kejizhongyi Avenue
+54.253.167.61,47927,DE,Stiftung Erneuerbare Freiheit
+103.156.57.135,9988,ID,PT Filltech Antar Nusa
+78.12.136.220,16856,DE,F3 Netze e.V.
+174.138.165.202,33178,US,Charter Communications LLC
+45.181.123.185,999,CL,REDCENTRAL TELECOMUNICACIONES LTDA
+181.78.9.234,999,CO,UFINET PANAMA S.A.
+103.160.216.105,8080,IN,Uteleservices
+47.95.206.224,45003,CN,China Mobile Communications Group Co.  Ltd.
+34.220.80.147,35750,NL,Church of Cyberology
+103.130.61.61,8081,ID,PT. Fiqran Solusindo Mediatama
+41.242.72.68,8080,NG,General Telecommunication Networks (NIG) Limited
+115.231.107.228,56954,CN,Chinanet
+109.172.55.227,1082,FR,Global Connectivity Solutions Llp
+35.177.65.228,57665,LU,FranTech Solutions
+213.210.67.186,3629,RU,Rostelecom
+15.217.214.40,23319,NL,Church of Cyberology
+187.223.27.196,8080,MX,UNINET
+51.84.101.19,1495,NL,Church of Cyberology
+115.231.107.228,40050,CN,Chinanet
+16.174.124.173,9898,NL,Church of Cyberology
+175.139.255.25,8181,MY,TM TECHNOLOGY SERVICES SDN. BHD.
+82.132.19.108,4153,HR,Croatian Academic and Research Network
+117.50.179.251,8081,CN,China Unicom Beijing Province Network
+43.216.195.95,2055,NL,Church of Cyberology
+109.245.110.145,4145,RS,CETIN Ltd. Belgrade
+45.174.251.11,999,MX,Wifmax S.A de C.V.
+103.74.144.4,82,IN,ANJANI BROADBAND SOLUTIONS PVT.LTD.
+78.12.129.100,19730,DK,Zencurity ApS
+54.67.77.88,3128,HU,ATW Internet Kft.
+103.82.20.76,8080,VN,Viettel Group
+103.137.35.2,80,ID,PT Parsaoran Global Datatrans
+3.96.59.229,3125,SE,QuxLabs AB
+5.157.64.213,1080,GB,IP River Limited
+35.183.46.164,48704,NL,Church of Cyberology
+16.26.99.200,26468,NL,Church of Cyberology
+198.15.30.202,8080,ID,PT Trimafa Computindo Networking
+118.172.125.214,8080,TH,TOT Public Company Limited
+208.72.154.139,8462,US,The Constant Company  LLC
+212.220.13.98,4153,RU,Rostelecom
+43.205.242.234,33108,NL,Church of Cyberology
+111.119.162.248,10916,SG,Alibaba (US) Technology Co.  Ltd.
+5.160.103.246,8080,IR,Respina Networks & Beyond PJSC
+161.248.176.2,8080,IN,SNA INTERNET PRIVATE LIMITED
+103.80.215.98,8080,ID,PT Redi Revolusi Digital Solusi
+45.225.205.5,999,CL,NETDELSUR TELECOMUNICACIONES SPA
+41.220.217.53,8080,UG,IDDQD-AS
+31.47.38.2,80,IR,Afranet
+103.177.8.119,10263,ID,PT Helium Sinergi Telekomunikasi
+87.241.198.70,8080,RU,Sibirskie Seti Ltd.
+66.94.104.255,3128,FR,Ielo-liazo Services SAS
+89.251.21.11,8080,SY,High Speed For Internet Services L.L.C
+43.160.255.142,7890,SG,Tencent Building  Kejizhongyi Avenue
+78.13.202.170,3128,NL,Church of Cyberology
+13.126.183.60,47712,NL,Church of Cyberology
+40.176.90.140,1082,SE,Foreningen for digitala fri- och rattigheter
+160.19.146.82,2022,ID,PT Taska Sarana Nusantara
+103.49.166.185,83,IN,Gigaline Teleservices Opc Private Limited
+13.208.166.217,9623,DE,Stiftung Erneuerbare Freiheit
+8.243.163.58,999,CO,Level 3 Parent  LLC
+95.40.125.73,3125,NL,Church of Cyberology
+103.112.68.25,3128,NL,Mastersoft S.R.L.
+147.45.60.139,1082,RU,Global Connectivity Solutions Llp
+49.156.23.65,8082,ID,PT Palapa Global Nusantara
+102.213.179.113,8080,KE,Maisha Home Broadband Limited
+213.230.121.41,1080,UZ,Uzbektelekom Joint Stock Company
+18.163.182.106,40458,NL,Church of Cyberology
+103.172.42.129,1111,ID,PT Media Solusi Sukses
+147.45.60.110,1082,RU,Global Connectivity Solutions Llp
+50.238.47.86,32100,US,Comcast Cable Communications  LLC
+126.209.13.13,8087,PH,Infinivan Incorporated
+176.119.244.20,81,RU,NPF KTS Ltd.
+103.166.158.213,8080,ID,PT Timor Lintas Nusantara
+38.7.223.130,999,CL,INVERSIONES TECNOLOGICAS UNO SPA
+103.156.15.73,8080,ID,PT Telekomunikasi Indonesia
+163.227.87.123,5050,PH,Globe Telecom Inc.
+47.95.206.224,45178,CN,Chinanet
+137.220.171.209,7890,CA,OVH SAS
+43.198.94.82,13167,SE,KeFF Networks Ltd
+177.53.155.28,999,PE,MORENO YANOC NEMIAS BERNARDO
+160.22.206.83,8082,ID,PT Teradata Bintang Selaras
+89.135.59.65,8090,HU,2Connect Telecommunications Infrastructure & Network Services Ltd.
+130.255.94.39,5080,IQ,Tarin General Trading and Setting Up Internet Device LTD
+35.183.46.164,25087,NO,Gigahost AS
+103.179.183.223,8089,ID,PT Internusa Duta Makmur
+43.209.173.229,8097,DE,NUXOA GmbH
+51.16.4.39,55921,NL,Church of Cyberology
+188.132.249.140,8080,SY,High Speed For Internet Services L.L.C
+115.231.107.228,41886,CN,Chinanet
+124.120.48.22,8080,TH,True Online
+18.145.194.21,10101,NL,Church of Cyberology
+3.111.49.148,37146,NL,Church of Cyberology
+45.225.204.192,999,CL,NETDELSUR TELECOMUNICACIONES SPA
+115.231.107.228,48848,CN,Chinanet
+18.162.230.142,3128,NL,Church of Cyberology
+52.42.110.59,3128,FR,Contabo GmbH
+159.255.164.163,1080,IQ,Tarin General Trading and Setting Up Internet Device LTD
+192.232.48.2,8181,ID,PT Axindo Infinitas Network
+177.139.174.81,8080,BR,TELEFONICA BRASIL S.A
+223.204.206.88,8080,TH,Triple T Broadband Public Company Limited
+43.205.242.234,3129,NL,Church of Cyberology
+103.139.98.118,8080,ID,PT. DIGITAL NETWORK SETIAWAN
+103.11.107.142,3125,ID,PT. Palapa Media Indonesia
+103.155.196.160,8181,ID,PT Jembatan Data Pangrango
+202.175.221.173,4153,PH,Eastern Telecoms Phils.  Inc.
+175.136.239.174,8181,MY,TM TECHNOLOGY SERVICES SDN. BHD.
+35.183.29.62,3128,NL,Church of Cyberology
+174.138.165.204,36220,US,Charter Communications LLC
+161.49.223.198,8082,PH,Philippine Long Distance Telephone Company
+111.119.162.248,10936,MY,Alibaba (US) Technology Co.  Ltd.
+176.88.191.150,1080,TR,Superonline Iletisim Hizmetleri A.S.
+192.58.98.65,8080,ID,PT Sinergi Jaringan Telekomunikasi
+143.246.197.187,1082,SE,Alexhost Srl
+54.215.41.74,14040,NL,Church of Cyberology
+204.152.192.24,10808,US,HostPapa
+160.20.36.109,80,ID,PT AJI RAFASYA ROSO ANTENG BERKAH
+116.232.80.133,1080,CN,China Telecom (Group)
+160.20.37.109,80,ID,PT AJI RAFASYA ROSO ANTENG BERKAH
+54.218.108.165,42687,NL,Church of Cyberology
+36.64.193.226,8080,ID,PT Telekomunikasi Indonesia
+201.71.2.61,999,VE,GOLD DATA USA INC
+165.101.102.27,8083,PH,iRateNet Solutions
+174.138.165.213,36670,US,Datacamp Limited
+160.22.205.66,1080,ID,PT. PANCA DUTA UTAMA
+8.219.97.248,80,SG,Alibaba (US) Technology Co.  Ltd.
+16.147.49.157,9595,SE,QuxLabs AB
+174.138.165.211,38560,US,CenturyLink Communications  LLC
+103.169.134.114,8080,ID,PT Neo Santara Solusi
+115.231.107.228,35028,CN,Chinanet
+111.206.4.163,18888,CN,China Unicom Beijing Province Network
+43.216.181.42,47014,NL,The Infrastructure Group B.V.
+123.231.252.218,8080,ID,PT Aplikanusa Lintasarta
+163.61.191.7,3128,ID,PT INTER MEDIALINK SOLUSI
+78.13.203.169,3128,NL,Church of Cyberology
+103.179.252.235,8080,ID,PT Pusaka Kreasi Mandiri
+186.33.40.241,999,EC,UFINET PANAMA S.A.
+118.179.81.91,81,BD,AmberIT Limited
+111.119.162.248,10930,US,Alibaba (US) Technology Co.  Ltd.
+43.160.219.223,1080,SG,Tencent Building  Kejizhongyi Avenue
+179.160.71.58,8085,BR,TELEFONICA BRASIL S.A
+103.147.247.65,8080,ID,PT. Putra Lebak Banten
+102.215.245.6,4153,ZA,INFINITY CONNECT (PTY) LTD
+103.103.8.222,8080,IN,F2h Networks Pvt Ltd
+31.187.64.243,10086,NL,HostHatch  LLC
+111.119.162.248,10924,US,Alibaba (US) Technology Co.  Ltd.
+103.193.145.1,8080,ID,PT Lintas Jaringan Nusantara
+13.245.183.150,3128,AT,Foundation for Applied Privacy
+95.182.97.238,1081,FR,Cgi Global Limited
+138.252.89.65,8890,BD,Orange Communication
+157.20.35.35,8181,ID,PT DATA PRIMA SOLUSINDO
+103.119.229.140,8080,ID,PT Telekomunikasi Indonesia
+54.188.236.206,55879,NL,Church of Cyberology
+138.59.233.59,8080,BR,RZ NET LTDA.
+195.160.223.99,9050,NL,Church of Cyberology
+131.153.163.141,37339,US,Datacamp Limited
+16.26.208.68,58018,US,HashIT
+13.246.6.135,18372,NL,Sabotage LLC
+43.252.106.66,8080,ID,Lintas Data Prima  PT
+45.74.31.42,31473,US,Microsoft Corporation
+123.119.179.101,8888,CN,China Unicom Beijing Province Network
+43.199.29.225,9566,DE,Florian Kolb
+45.174.108.143,999,MX,IPTVTEL COMUNICACIONES S DE RL DE CV
+18.166.56.240,8079,CH,FranTech Solutions
+103.161.62.5,1080,ID,PT. Union Routelink Communication
+144.24.146.160,3128,IN,Oracle Corporation
+160.19.18.243,8080,ID,PT Indo Telemedia Solusi
+182.253.109.133,1256,ID,BIZNET NETWORKS
+177.131.119.185,5432,BR,ACESSOLINE TELECOMUNICACOES LTDA
+49.145.186.77,8081,PH,Philippine Long Distance Telephone Company
+205.235.1.34,999,EC,UFINET PANAMA S.A.
+18.231.214.206,5384,NL,Church of Cyberology
+111.119.162.248,10925,US,Alibaba (US) Technology Co.  Ltd.
+13.229.183.165,19691,NL,Church of Cyberology
+59.153.30.16,8888,BD,Yournet Communications
+107.191.44.214,1081,US,The Constant Company  LLC
+115.231.107.228,25838,CN,Chinanet
+95.214.123.140,8080,HU,Deltakon Kft.
+222.128.173.231,8888,CN,China Unicom Beijing Province Network
+16.50.48.241,6011,NL,Church of Cyberology
+15.229.231.89,41639,NL,Church of Cyberology
+221.221.162.189,8888,CN,China Unicom Beijing Province Network
+16.50.48.241,58898,NL,The Infrastructure Group B.V.
+18.166.228.193,53025,SE,QuxLabs AB
+111.119.162.248,10917,DE,Alibaba (US) Technology Co.  Ltd.
+15.232.152.216,9933,NL,Church of Cyberology
+78.14.19.3,3889,NL,Church of Cyberology
+43.217.201.189,4863,NL,Church of Cyberology
+115.231.107.228,43056,CN,Chinanet
+13.229.183.165,2410,DE,F3 Netze e.V.
+43.205.125.76,19008,SE,QuxLabs AB
+3.38.94.2,35533,NL,Church of Cyberology
+16.26.99.200,14009,FR,MilkyWan Association
+16.51.148.102,10198,NL,Church of Cyberology
+207.244.69.164,50005,US,Emerald Onion
+43.203.140.58,4867,SE,QuxLabs AB
+16.184.22.36,49827,NL,Church of Cyberology
+115.231.107.228,62698,CN,Chinanet
+51.20.254.126,5355,NL,Church of Cyberology
+115.231.107.228,41106,CN,Chinanet
+111.119.162.248,10921,MX,Alibaba (US) Technology Co.  Ltd.
+2.27.52.111,1080,FI,DpkgSoft International Limited
+210.211.113.34,80,VN,CHT Compamy Ltd
+115.231.107.228,38094,CN,Chinanet
+111.119.162.248,10932,SG,Alibaba (US) Technology Co.  Ltd.
+39.101.175.37,17691,CN,Hangzhou Alibaba Advertising Co. Ltd.
+156.245.246.51,7890,SC,VpsQuan L.L.C.
+111.119.162.248,10936,MY,Alibaba (US) Technology Co.  Ltd.
+95.182.97.238,1081,FR,Cgi Global Limited
