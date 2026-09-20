@@ -1,916 +1,1320 @@
-5.129.249.123,1080,RU,Jsc timeweb
-5.129.254.129,8888,RU,Jsc timeweb
-147.45.249.29,1080,RU,Jsc timeweb
-95.182.120.7,443,RU,Gilmutdinov Ildar Aydarovich
-45.132.252.25,49156,RU,Ihor Hosting Ltd
-5.129.254.70,8888,RU,Jsc timeweb
-85.8.47.207,7080,SE,Bredband2 AB
-85.8.47.210,7080,SE,Bredband2 AB
-85.8.47.198,7080,SE,Bredband2 AB
-85.8.47.212,7080,SE,Bredband2 AB
-5.129.254.60,8888,RU,Jsc timeweb
-195.133.197.14,1080,RU,JSC Mediasoft ekspert
-85.8.47.208,7080,SE,Bredband2 AB
-85.8.47.211,7080,SE,Bredband2 AB
-85.8.47.209,7080,SE,Bredband2 AB
-84.38.187.157,1080,RU,JSC Selectel
-5.129.254.154,8888,RU,Jsc timeweb
-5.129.254.5,8888,RU,Jsc timeweb
-5.129.254.51,8888,RU,Jsc timeweb
-5.129.254.49,8888,RU,Jsc timeweb
-18.157.123.132,3128,DE,Amazon.com  Inc.
-185.200.188.234,10001,RU,Ihor Hosting Ltd
-5.45.119.70,1080,EE,Cloud.dog Ou
-138.124.51.151,1080,DE,Aeza Group LLC
-213.111.146.36,18080,NL,SOLLUTIUM EU Sp z.o.o.
-176.111.37.5,39811,HK,Cogento Backbone Limited
 5.129.249.123,61925,RU,Jsc timeweb
-2.26.172.89,3128,DE,Freakhosting Ltd
-185.195.71.218,18080,CH,Datasource AG
-89.19.215.51,7687,RU,Timeweb  LLP
-91.186.214.229,2080,GR,First Server Limited
+213.248.39.166,4153,RU,LLC Digital Network
+46.188.2.42,5678,RU,Joint-stock Company teleport Telecom
+5.129.254.5,8888,RU,Jsc timeweb
+5.129.254.49,8888,RU,Jsc timeweb
+5.129.254.60,8888,RU,Jsc timeweb
+85.8.47.198,7080,SE,Bredband2 AB
+45.132.252.25,49156,RU,Ihor Hosting Ltd
+85.8.47.211,7080,SE,Bredband2 AB
+85.8.47.210,7080,SE,Bredband2 AB
+85.8.47.209,7080,SE,Bredband2 AB
+85.8.47.212,7080,SE,Bredband2 AB
+85.8.47.208,7080,SE,Bredband2 AB
+185.49.110.155,1080,RU,Semantic LLC
+85.8.47.207,7080,SE,Bredband2 AB
+5.129.254.51,8888,RU,Jsc timeweb
+5.129.254.129,8888,RU,Jsc timeweb
+5.129.254.70,8888,RU,Jsc timeweb
+176.214.78.230,5678,RU,JSC ER-Telecom Holding
+5.129.254.154,8888,RU,Jsc timeweb
+194.190.98.110,60606,RU,Ooo W-internet
+18.157.123.132,3128,DE,Amazon.com  Inc.
+216.173.68.250,1080,LV,SIA VEESP
+212.46.242.185,1080,RU,PVimpelCom
+89.208.232.117,1080,RU,LLC Digital Network
+212.154.169.90,3128,KZ,JSC Kazakhtelecom
+5.253.59.150,1082,NL,Global Connectivity Solutions Llp
+95.211.174.135,3128,NL,LeaseWeb Netherlands B.V.
+178.57.106.43,4145,RU,Sever Telecom JSC
+85.208.51.228,1443,FR,Contabo GmbH
+85.113.204.41,8080,RU,Rostelecom
+4.245.104.69,1080,NL,Microsoft Corporation
+46.8.104.176,1080,RU,Evro Telecom OOO
+185.239.51.58,10808,AT,Aeza Group LLC
+91.134.141.4,3128,FR,OVH SAS
+216.173.68.250,1080,LV,SIA VEESP
+188.143.169.22,33333,RU,Petersburg Internet Network ltd.
+91.150.189.122,60647,PL,Skyware Sp. z o.o.
+213.111.146.36,18080,NL,SOLLUTIUM EU Sp z.o.o.
+91.202.195.221,5678,PL,Netservice
+213.165.32.177,1080,SE,Aeza Group LLC
+83.220.46.106,4145,RU,PJSC MegaFon
+77.65.50.118,34159,PL,INEA sp. z o.o.
+185.87.255.47,1080,GB,Fast Panda Limited
+185.238.236.226,58080,PL,RADIO-NET
+185.87.255.54,1080,GB,Fast Panda Limited
+95.181.160.37,1080,DE,Aeza Group LLC
+81.18.90.43,4153,RO,Digi Romania S.A.
+81.162.195.35,4153,CZ,Martin Vicenik
+89.250.148.154,4145,RU,JSC ER-Telecom Holding
+62.60.239.67,1080,AT,Aeza Group LLC
+79.137.196.250,1080,NL,Aeza Group LLC
+45.74.31.42,43086,FR,OVH SAS
+4.245.104.69,1080,NL,Microsoft Corporation
+80.78.74.66,65530,AL,Vodafone Albania Sh.A.
+45.74.31.42,9937,NL,LeaseWeb Netherlands B.V.
+45.74.31.42,8536,NL,LeaseWeb Netherlands B.V.
+91.224.77.229,8090,RU,LLC Telecom MPK
+95.182.78.18,5678,UA,PE UAinet
+37.193.125.68,1090,RU,Novotelecom Ltd
+81.90.158.110,3128,TR,Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti.
+82.132.19.108,4153,HR,Croatian Academic and Research Network
+77.221.158.175,3128,FI,Aeza Group LLC
+45.74.31.22,8923,DE,IONOS SE
+81.12.169.254,4153,RO,Vodafone Romania S.A.
 2.59.43.253,22222,RU,Jsc timeweb
 213.111.146.36,18080,NL,SOLLUTIUM EU Sp z.o.o.
-193.233.223.47,1080,RU,Aeza Group LLC
-62.60.231.45,10808,SE,Aeza Group LLC
-45.82.13.77,3128,AL,Global Connectivity Solutions Llp
-91.134.141.4,3128,FR,OVH SAS
-167.233.76.72,3128,DE,Hetzner Online GmbH
-2.56.178.63,3128,RU,UFO Hosting LLC
-216.173.68.250,1080,LV,SIA VEESP
-2.27.63.250,8118,US,Kyonix Networks Limited
-4.245.104.69,1080,NL,Microsoft Corporation
-89.19.215.51,7687,RU,Timeweb  LLP
-185.195.71.218,18080,CH,Datasource AG
-51.38.120.110,10013,FR,OVH SAS
-185.87.255.47,1080,GB,Fast Panda Limited
-91.186.214.229,2080,GR,First Server Limited
-95.181.160.37,1080,DE,Aeza Group LLC
+45.74.31.50,11680,FR,OVH SAS
+81.162.249.129,4153,UA,PP TRCCity TV center
+95.3.69.222,8080,TR,Turk Telekom
+45.74.31.42,4443,DE,IONOS SE
+46.146.210.123,1080,RU,JSC ER-Telecom Holding
+45.74.31.25,6700,FR,OVH SAS
+45.74.31.25,4926,FR,OVH SAS
+5.129.249.123,1080,RU,Jsc timeweb
+5.255.103.55,1080,NL,The Infrastructure Group B.V.
 213.111.146.36,18080,NL,SOLLUTIUM EU Sp z.o.o.
-62.60.231.45,10808,SE,Aeza Group LLC
-109.70.206.178,5678,IT,LA Wireless Srl
-94.103.82.138,8889,NL,Servers Tech Fzco
-5.175.192.43,1080,NL,Simon Mariacher
-185.87.255.54,1080,GB,Fast Panda Limited
-62.60.231.45,10808,SE,Aeza Group LLC
-77.65.50.118,34159,PL,INEA sp. z o.o.
-212.154.169.90,3128,KZ,JSC Kazakhtelecom
-185.110.124.76,1080,DE,Friedrich Kecht t/a Friedrich Kecht & Gerhard Guggenbichler Gbr
-45.74.31.23,4957,FR,OVH SAS
-176.124.205.244,1080,SE,Aeza Group LLC
-45.74.31.42,6652,CH,METANET AG
-45.74.31.42,41985,FR,OVH SAS
-45.74.31.22,16495,FR,Scaleway SAS
-193.233.86.198,1080,RU,Chsl One Ltd
-94.230.130.239,1090,DE,Baykov Ilya Sergeevich
-45.74.31.42,14896,FR,OVH SAS
-103.112.68.25,1080,NL,Mastersoft S.R.L.
-62.103.186.66,4153,GR,OTEnet S.A.
-45.74.31.22,21248,FR,OVH SAS
-45.74.31.23,7763,FR,OVH SAS
-45.74.31.23,6875,FR,OVH SAS
-81.29.249.82,5071,IR,Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS
-147.45.66.116,1082,DE,Global Connectivity Solutions Llp
-95.31.92.14,10808,NL,UAB Cherry Servers
-151.243.196.252,1080,AE,Hostkey B.v.
-81.225.76.66,1080,SE,Telia Company AB
-62.90.73.225,3128,IL,Cellcom Fixed Line Communication L.P
-43.157.98.90,8080,DE,Tencent Building  Kejizhongyi Avenue
-45.74.31.40,11969,FR,Scaleway SAS
-45.74.31.42,40091,FR,OVH SAS
-165.101.26.18,8080,AF,ARYAN DUNYA ICT
-37.9.4.101,1088,NL,DigitalOcean  LLC
-147.45.224.100,1080,RU,Timeweb  LLP
-185.62.48.126,5678,IT,Elektronica Sistemi Di Muro Mauro E Turcinovic Walter S.n.c.
-83.229.123.29,4080,HK,LUCIDACLOUD LIMITED
-45.74.31.42,6347,DE,IONOS SE
-85.133.250.27,80,AE,Arvancloud Global Technologies L.L.C
-52.254.114.3,8443,US,Microsoft Corporation
-45.74.31.40,9845,US,Microsoft Corporation
-212.175.50.76,8085,TR,Turk Telekom
-150.5.166.194,1080,HK,Byteplus Pte. Ltd.
-178.236.16.4,8888,KZ,Nls Astana Llp
-185.100.45.93,8080,IR,Fara Ertebat Mabna PJS
-18.221.147.109,3128,US,Amazon.com  Inc.
-178.92.72.54,8080,IN,Micro Hosting Private Limited
-45.74.31.23,14359,FR,OVH SAS
-31.24.251.15,1080,FR,BitWeb LLC
-83.147.217.103,1080,GR,CloudExa-Hosting LTD
-178.92.72.194,8080,IN,Micro Hosting Private Limited
-216.173.68.250,1080,LV,SIA VEESP
-37.195.116.105,1080,RU,Novotelecom Ltd
-45.74.31.23,16353,US,Contabo Inc.
-89.31.189.39,1080,RU,PVimpelCom
-45.74.31.23,13518,US,Oracle Corporation
-178.92.72.162,8080,IN,Micro Hosting Private Limited
-178.92.72.73,8080,IN,Micro Hosting Private Limited
-45.74.31.23,9975,US,Oracle Corporation
-144.91.73.196,18080,FR,Contabo GmbH
-102.212.104.129,8082,NG,Teltwine Networks Limited
-178.92.72.165,8080,IN,Micro Hosting Private Limited
-178.92.72.149,8080,IN,Micro Hosting Private Limited
-103.25.167.177,4153,ID,PT Citra Jelajah Informatika
-157.173.115.35,1081,FR,Contabo GmbH
-103.176.96.163,8082,ID,PT Global Sarana Elektronika
-45.74.31.23,7840,FR,OVH SAS
-45.74.31.42,8306,US,Namecheap  Inc.
-160.22.207.13,8082,ID,PT Teradata Bintang Selaras
-45.143.130.157,1080,US,xTom
-43.159.139.115,32080,US,Tencent Building  Kejizhongyi Avenue
-203.205.49.2,10228,VN,CMC Telecom Infrastructure Company
-205.209.66.105,1080,SY,RCell LLC
-107.174.30.93,1080,US,DataWagon LLC
-104.168.15.151,4080,US,HostPapa
-45.74.31.23,9374,LT,UAB Baltnetos komunikacijos
-178.92.72.154,8080,IN,Micro Hosting Private Limited
-154.62.226.187,9051,SE,KeFF Networks Ltd
-45.74.31.42,12081,US,Namecheap  Inc.
-206.135.56.50,8080,MX,IENTC S DE RL DE CV
-43.153.195.69,80,SG,Tencent Building  Kejizhongyi Avenue
-45.74.31.40,4906,FR,Contabo GmbH
-103.162.54.157,8080,ID,PT Pratama Asia Globalindo
-45.174.248.46,999,MX,Wifmax S.A de C.V.
-45.74.31.22,17087,US,DigitalOcean  LLC
-178.92.72.94,8080,IN,Micro Hosting Private Limited
-178.92.72.129,8080,IN,Micro Hosting Private Limited
-43.156.120.151,80,SG,Tencent Building  Kejizhongyi Avenue
-171.6.122.196,8080,TH,Triple T Broadband Public Company Limited
-45.74.31.23,10480,FR,OVH SAS
-45.74.31.23,4282,US,DigitalOcean  LLC
-5.200.72.62,3128,IR,Respina Networks & Beyond PJSC
-43.128.112.151,80,SG,Tencent Building  Kejizhongyi Avenue
-103.147.134.121,3125,ID,PT.MURNI MAKMUR ABADI
-43.134.79.76,8080,SG,Tencent Building  Kejizhongyi Avenue
-210.211.113.35,80,VN,CHT Compamy Ltd
-178.92.72.68,8080,IN,Micro Hosting Private Limited
-95.153.31.228,3128,EE,Tele2 SWIPnet
-43.128.76.140,8081,SG,Tencent Building  Kejizhongyi Avenue
-207.148.124.152,6868,SG,The Constant Company  LLC
-102.141.177.61,8080,ZA,Level 7 Wireless (Pty) Ltd
-45.74.31.23,13647,US,Oracle Corporation
-45.74.31.23,13319,US,Oracle Corporation
-112.207.174.245,8080,PH,Philippine Long Distance Telephone Company
-31.31.74.185,9898,CZ,WEDOS Internet  a.s.
-105.214.104.26,5678,ZA,MTN SA
-41.216.191.186,8080,ID,PT Link Data Sumber Barokah
-188.17.148.68,1080,US,Global Connectivity Solutions Llp
-45.74.31.42,8536,NL,LeaseWeb Netherlands B.V.
-163.53.150.141,1080,BD,InterCloud ltd
-45.74.31.42,16681,DE,Hetzner Online GmbH
-95.153.31.226,3128,EE,Tele2 SWIPnet
-171.234.162.101,1088,VN,Viettel Group
-152.70.198.2,1080,US,Oracle Corporation
-43.99.60.244,8089,HK,Alibaba (US) Technology Co.  Ltd.
-181.233.94.101,1080,BR,ALGAR TELECOM S/A
-190.97.236.130,999,VE,VIGINET C.A
-116.204.182.120,80,TH,Bangmod Enterprise Co.  Ltd.
-45.74.31.23,16738,FR,OVH SAS
-45.74.31.42,8652,US,Namecheap  Inc.
-165.225.120.37,11070,IN,ZSCALER  INC.
-185.113.10.22,9080,DE,Stiftung Erneuerbare Freiheit
-45.74.31.23,4707,FR,OVH SAS
-160.25.83.52,1088,VN,HTTVSERVER TECHNOLOGY COMPANY LIMITED
-200.229.76.160,3128,BR,Saveincloud Hospedagem na Internet Ltda
-223.204.50.245,8080,TH,Triple T Broadband Public Company Limited
-45.74.31.23,4274,US,CoreSpace  Inc.
-168.144.84.188,3129,IN,DigitalOcean  LLC
-188.113.182.218,1080,RU,Sakhalin Cable Telesystems Ltd
-45.74.31.23,13864,US,Oracle Corporation
-43.159.139.115,32080,US,Tencent Building  Kejizhongyi Avenue
-45.74.31.23,4814,FR,OVH SAS
-203.150.128.222,8080,TH,Internet Thailand Company Limited
-153.51.201.35,999,VE,GLOBALNET S&P  C.A.
-160.25.83.52,1088,VN,HTTVSERVER TECHNOLOGY COMPANY LIMITED
-45.74.31.22,4113,FR,Contabo GmbH
-160.30.104.170,1080,PK,S. B Link Network
-182.253.62.166,8080,ID,BIZNET NETWORKS
-177.93.41.212,999,CO,TV AZTECA SUCURSAL COLOMBIA
-41.216.186.222,1080,ID,PT Perwira Media Solusi
-43.156.153.104,8080,SG,Tencent Building  Kejizhongyi Avenue
-45.74.31.42,11520,NL,LeaseWeb Netherlands B.V.
-41.216.186.222,1080,ID,PT Perwira Media Solusi
-184.82.170.190,8080,TH,AIS Fibre
-45.74.31.40,4494,US,Unified Layer
-50.192.195.69,52018,US,Comcast Cable Communications  LLC
-43.134.79.76,8081,SG,Tencent Building  Kejizhongyi Avenue
-45.74.31.22,17064,US,Oracle Corporation
-185.238.236.226,58080,PL,RADIO-NET
-158.94.216.206,9080,DE,OVH SAS
-49.147.48.96,8099,PH,Philippine Long Distance Telephone Company
-203.156.190.5,5678,TH,JasTel Network
-45.74.31.42,9857,TW,Floppy Ltd.
-160.25.83.52,1082,VN,HTTVSERVER TECHNOLOGY COMPANY LIMITED
-77.95.201.16,9150,DE,Stiftung Erneuerbare Freiheit
-45.174.176.9,8087,BR,M & G TELECON LTDA
-185.113.10.22,9080,DE,Stiftung Erneuerbare Freiheit
-45.74.31.42,22457,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-45.74.31.42,4857,TW,Floppy Ltd.
-152.42.177.32,8888,SG,DigitalOcean  LLC
-209.13.96.172,39921,AR,Telefonica de Argentina
-45.74.31.40,8762,NL,Microsoft Corporation
-77.104.76.230,9001,IR,Respina Networks & Beyond PJSC
-113.167.83.98,1080,VN,VNPT Corp
-190.235.208.51,8081,PE,INTEGRATEL PERU S.A.A.
-45.74.31.42,16961,DE,IONOS SE
-110.232.92.228,2404,ID,PT. NAP Info Lintas Nusa
-196.61.42.26,3128,GH,Comsys (GH) Limited
-103.76.108.99,80,ID,PT Mahawira Nusantara Grup
-129.226.89.151,80,SG,Tencent Building  Kejizhongyi Avenue
-187.172.58.137,8080,MX,UNINET
-43.156.227.68,80,SG,Tencent Building  Kejizhongyi Avenue
-43.156.248.220,80,SG,Tencent Building  Kejizhongyi Avenue
-49.145.251.48,8081,PH,Philippine Long Distance Telephone Company
-212.3.132.16,1080,RU,Rostelecom
-45.74.31.22,16368,FR,Scaleway SAS
-219.99.219.56,1080,JP,NSK Co. Ltd.
-43.163.124.191,8080,SG,Tencent Building  Kejizhongyi Avenue
-213.27.29.153,51000,RU,MTS PJSC
-43.156.40.114,8081,SG,Tencent Building  Kejizhongyi Avenue
-45.74.31.22,12380,FR,OVH SAS
-45.74.31.23,13440,US,Oracle Corporation
-58.69.179.40,8085,PH,Philippine Long Distance Telephone Company
-45.74.31.23,5147,FR,OVH SAS
-94.72.158.129,4153,BG,Telehouse EAD
+72.56.94.27,1081,NL,Timeweb  LLP
 85.190.106.223,1080,NL,dogado GmbH
-178.92.72.205,1080,IN,Micro Hosting Private Limited
-93.127.133.109,1082,US,GTT Communications Inc.
-109.124.73.231,1080,RU,PJSC MegaFon
-195.19.217.200,3128,RU,MTS PJSC
-45.74.31.40,4244,VN,TaDu Joint Stock Company
-147.45.224.100,1080,RU,Timeweb  LLP
-27.124.12.186,1080,HK,CTG Server Limited
-183.128.122.15,1080,CN,Chinanet
-95.31.92.14,10808,DE,UAB Cherry Servers
-210.211.113.37,80,VN,CHT Compamy Ltd
-183.173.36.156,10795,SG,Akari Networks
-122.246.112.107,7890,CN,Chinanet
-45.74.31.23,12437,US,Oracle Corporation
-45.74.31.22,4471,VN,TaDu Joint Stock Company
-43.134.230.44,8080,SG,Tencent Building  Kejizhongyi Avenue
-36.155.23.163,10808,HK,Zenlayer Inc
-45.74.31.40,9573,ID,BIZNET NETWORKS
-113.45.195.147,3128,CN,Huawei Cloud Service data center
-45.74.31.22,17695,US,Oracle Corporation
-182.253.121.105,8080,ID,BIZNET NETWORKS
-45.74.31.23,8018,FR,OVH SAS
-77.235.31.24,8080,KG,Mega-Line Ltd.
-45.74.31.42,4280,FR,Contabo GmbH
-45.74.31.23,8603,ID,BIZNET NETWORKS
-94.158.46.228,1080,UA,Dovecom LLC
-46.241.57.29,1080,RU,Joint Stock Company TransTeleCom
-45.74.31.22,15229,US,Oracle Corporation
-45.74.31.23,5009,US,Unified Layer
-180.191.234.194,5050,PH,Globe Telecoms
-45.74.31.22,12207,US,Oracle Corporation
-103.189.110.50,8082,ID,Morizt ID
-45.74.31.23,13220,US,Oracle Corporation
-45.74.31.23,6971,FR,OVH SAS
-201.7.31.230,8080,SY,High Speed For Internet Services L.L.C
-45.74.31.23,16533,FR,OVH SAS
-45.74.31.23,8133,FR,OVH SAS
-45.74.31.23,11842,US,Network Solutions  LLC
-45.74.31.23,6040,AR,Telecom Argentina S.A.
-210.211.113.36,80,VN,CHT Compamy Ltd
-120.24.109.171,3128,CN,Hangzhou Alibaba Advertising Co. Ltd.
-183.128.122.15,1080,CN,Chinanet
-41.216.186.68,80,ID,PT. Simaya Jejaring Mandiri
-45.74.31.23,4617,VN,TaDu Joint Stock Company
-103.175.238.122,8085,ID,PT Uliz Netmedia Solusindo
-163.128.149.200,3128,ID,PT METROMATIKA TEKNOLOGI REKAYASA
-45.74.31.22,11981,FR,OVH SAS
-45.74.31.23,11833,US,Oracle Corporation
-45.74.31.42,4894,US,Namecheap  Inc.
-45.74.31.22,16498,FR,Scaleway SAS
-43.163.7.224,8081,SG,Tencent Building  Kejizhongyi Avenue
-13.143.128.118,3128,DE,DpkgSoft International Limited
-5.160.103.246,8080,IR,Respina Networks & Beyond PJSC
-45.74.31.23,6778,US,Microsoft Corporation
-47.84.65.214,3128,CN,Hangzhou Alibaba Advertising Co. Ltd.
-114.252.15.18,8888,CN,China Unicom Beijing Province Network
-123.121.99.191,8888,CN,China Unicom Beijing Province Network
-45.74.31.23,5668,US,Liquid Web  L.L.C
-36.155.23.163,10808,HK,Zenlayer Inc
-91.211.100.35,44744,PL,Lukman Multimedia Sp. z o.o
-36.111.33.167,13128,CN,CHINANET Guangdong province network
-114.244.214.18,8888,CN,China Unicom Beijing Province Network
-43.163.7.224,8080,SG,Tencent Building  Kejizhongyi Avenue
-45.74.31.42,14967,FR,OVH SAS
-111.196.26.27,8888,CN,China Unicom Beijing Province Network
-111.200.188.89,8888,CN,China Unicom Beijing Province Network
-114.246.197.196,8888,CN,China Unicom Beijing Province Network
-83.234.87.145,1080,RU,Rostelecom
-111.192.50.153,8888,CN,China Unicom Beijing Province Network
-186.246.31.197,9050,AT,Foundation for Applied Privacy
-45.74.31.40,10924,BI,Burundi Backbone System SM
-114.244.217.102,8888,CN,China Unicom Beijing Province Network
-103.208.103.34,8080,ID,PT Tidar Lintas Nusa
-221.221.162.6,8888,CN,China Unicom Beijing Province Network
-47.121.139.13,3128,CN,Hangzhou Alibaba Advertising Co. Ltd.
-123.119.25.143,8888,CN,China Unicom Beijing Province Network
-123.113.155.128,8888,CN,China Unicom Beijing Province Network
-114.246.196.248,8888,CN,China Unicom Beijing Province Network
-45.74.31.22,16628,FR,Scaleway SAS
-114.244.221.178,8888,CN,China Unicom Beijing Province Network
-120.232.115.170,17981,CN,China Mobile Communications Group Co.  Ltd.
-41.209.57.199,80,KE,MTN SA
-124.109.105.44,3128,BD,Head Office
-47.107.107.24,80,CN,Hangzhou Alibaba Advertising Co. Ltd.
-114.246.202.44,8888,CN,China Unicom Beijing Province Network
-184.82.139.28,8081,TH,AIS Fibre
-45.74.31.23,14065,FR,OVH SAS
-45.74.31.23,7818,FR,OVH SAS
-45.74.31.23,6529,FR,OVH SAS
-45.74.31.22,10063,SE,Internet Vikings International AB
-45.74.31.23,6821,FR,OVH SAS
-210.211.113.33,80,VN,CHT Compamy Ltd
-123.121.129.198,8888,CN,China Unicom Beijing Province Network
-45.74.31.23,4211,DE,IONOS SE
-45.74.31.40,31246,FR,OVH SAS
-45.74.31.22,14787,IN,DigitalOcean  LLC
-45.74.31.23,13717,US,Oracle Corporation
-45.74.31.42,13555,FR,OVH SAS
-45.74.31.22,15444,US,Liquid Web  L.L.C
-213.232.192.215,4567,RU,JSC Selectel
-45.74.31.23,4427,FR,OVH SAS
-45.74.31.40,10291,BI,Burundi Backbone System SM
-123.121.121.123,8888,CN,China Unicom Beijing Province Network
-46.72.32.18,1080,RU,PJSC MegaFon
-160.187.174.132,3128,ID,PT Netindo Persada Nusantara
-114.246.200.25,8888,CN,China Unicom Beijing Province Network
-212.175.50.80,8085,TR,Turk Telekom
-45.74.31.23,6223,US,Unified Layer
-223.205.188.115,8080,TH,Triple T Broadband Public Company Limited
-45.74.31.23,4086,US,Unified Layer
-114.254.49.43,8888,CN,China Unicom Beijing Province Network
-114.42.20.24,8080,TW,Data Communication Business Group
-114.245.151.61,8888,CN,China Unicom Beijing Province Network
-221.221.160.159,8888,CN,China Unicom Beijing Province Network
-160.187.0.89,1080,VN,ONLINE DATA COMPANY LIMITED
-45.74.31.23,5795,IN,DigitalOcean  LLC
-45.172.142.186,999,AR,TECHTRON ARGENTINA S.A.
-62.60.230.196,1080,SE,Aeza Group LLC
-82.157.136.211,3128,CN,Shenzhen Tencent Computer Systems Company Limited
-103.248.9.95,8080,ID,PT Flashnet Inovasi Teknologi
-123.121.210.208,8888,CN,China Unicom Beijing Province Network
-113.249.111.67,1080,CN,Chongqing Telecom
-123.121.113.161,8888,CN,China Unicom Beijing Province Network
-45.74.31.23,5275,US,CoreSpace  Inc.
-123.113.156.113,8888,CN,China Unicom Beijing Province Network
-45.74.31.42,23105,US,Microsoft Corporation
-45.74.31.23,5602,US,Unified Layer
-43.134.16.72,8080,SG,Tencent Building  Kejizhongyi Avenue
-50.192.195.69,39792,US,Comcast Cable Communications  LLC
-216.9.224.173,1080,TR,Fiba Cloud Operation Company  LLC
-5.101.231.207,10808,RU,Jsc timeweb
-114.246.207.105,8888,CN,China Unicom Beijing Province Network
-167.172.84.23,3128,SG,DigitalOcean  LLC
-114.252.13.224,8888,CN,China Unicom Beijing Province Network
-45.74.31.23,15914,US,Contabo Inc.
-49.147.100.52,5050,PH,Philippine Long Distance Telephone Company
-139.196.95.28,7890,CN,Hangzhou Alibaba Advertising Co. Ltd.
-114.244.214.40,8888,CN,China Unicom Beijing Province Network
-45.74.31.42,18640,DE,IONOS SE
-45.74.31.42,19255,DE,Hetzner Online GmbH
-45.74.31.42,23864,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-101.36.112.205,1081,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
-45.74.31.23,4644,US,DigitalOcean  LLC
-45.74.31.23,4482,VN,EZ TECHNOLOGY COMPANY LIMITED
-45.74.31.23,13366,FR,OVH SAS
-45.74.31.23,16611,NL,LeaseWeb Netherlands B.V.
-45.74.31.23,8065,FR,OVH SAS
-194.88.150.90,8443,UA,NetCrafters OU
-123.121.132.32,8888,CN,China Unicom Beijing Province Network
-45.74.31.23,5184,VN,TaDu Joint Stock Company
-123.121.123.115,8888,CN,China Unicom Beijing Province Network
-45.74.31.22,16308,FR,Scaleway SAS
-43.134.230.44,8081,SG,Tencent Building  Kejizhongyi Avenue
-45.74.31.42,4842,FR,Contabo GmbH
-36.155.23.163,10808,HK,Zenlayer Inc
-93.100.133.197,1080,RU,SkyNet Ltd.
-45.74.31.22,10379,FR,OVH SAS
-45.74.31.23,13955,FR,OVH SAS
-45.74.31.22,17031,US,Oracle Corporation
-45.74.31.22,17149,US,Oracle Corporation
-45.74.31.22,10239,US,DigitalOcean  LLC
-43.163.120.171,8080,SG,Tencent Building  Kejizhongyi Avenue
-45.74.31.23,15211,FR,OVH SAS
-45.74.31.42,16530,SG,Contabo Asia Private Limited
-185.49.110.155,1080,RU,Semantic LLC
-115.231.181.40,8128,CN,NINGBO  ZHEJIANG Province  P.R.China.
-45.74.31.42,4189,FR,Contabo GmbH
-160.25.83.52,1086,IT,M247 Europe SRL
-190.235.208.166,8080,PE,INTEGRATEL PERU S.A.A.
-45.74.31.42,12674,BI,Burundi Backbone System SM
-45.74.31.23,12052,US,Oracle Corporation
-45.74.31.23,5684,US,Unified Layer
-205.177.85.130,39593,JP,CDS Global Cloud Co.  Ltd
-45.74.31.23,4381,FR,OVH SAS
-45.74.31.40,4881,FR,Contabo GmbH
-45.74.31.22,10981,ID,BIZNET NETWORKS
-123.113.169.44,8888,CN,China Unicom Beijing Province Network
-160.25.83.52,1082,VN,HTTVSERVER TECHNOLOGY COMPANY LIMITED
-45.74.31.23,6791,FR,OVH SAS
-45.74.31.42,28613,US,Unified Layer
-202.58.75.98,7777,ID,PT Data Buana Nusantara
-45.74.31.22,10702,FR,OVH SAS
-45.76.104.147,40001,JP,Cloudflare  Inc.
-181.74.82.91,999,CL,Telmex Servicios Empresariales S.A.
-45.74.31.22,13400,BI,Burundi Backbone System SM
-45.74.31.23,4687,ID,BIZNET NETWORKS
-45.74.31.23,4997,FR,OVH SAS
-45.74.31.23,15692,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-106.52.136.68,1081,CN,Shenzhen Tencent Computer Systems Company Limited
-180.190.24.218,8080,PH,Philippine Long Distance Telephone Company
-45.74.31.23,9774,FR,OVH SAS
-176.124.205.244,1080,SE,Aeza Group LLC
-93.123.30.53,1080,FI,Baykov Ilya Sergeevich
-45.74.31.42,5997,CH,METANET AG
-138.124.85.83,8080,CH,Baykov Ilya Sergeevich
-49.151.9.2,8080,PH,Philippine Long Distance Telephone Company
-45.74.31.22,12302,FR,OVH SAS
-45.74.31.23,8923,US,Network Solutions  LLC
-45.74.31.23,16023,NL,LeaseWeb Netherlands B.V.
-45.74.31.42,40039,LT,UAB Baltnetos komunikacijos
-101.6.42.125,7898,SG,Akari Networks
-174.138.162.37,33645,US,Charter Communications LLC
-185.136.185.120,8080,RU,OOO L-Telecom
-45.74.31.22,15681,US,Oracle Corporation
-45.74.31.23,5286,FR,OVH SAS
-45.74.31.22,9348,ID,BIZNET NETWORKS
-95.31.19.190,1080,RU,PVimpelCom
-45.74.31.23,15883,FR,OVH SAS
-120.232.115.57,17981,CN,China Mobile Communications Group Co.  Ltd.
-95.220.82.101,1080,RU,PJSC MegaFon
-45.74.31.42,25340,US,Oracle Corporation
-45.74.31.42,11191,BI,Burundi Backbone System SM
-46.151.113.10,5678,PL,NET-KONT@KT P. Janicki i M. Pastuszka S.C.
-115.196.174.207,7890,CN,Chinanet
-45.74.31.40,13905,DE,Hetzner Online GmbH
-45.74.31.40,14304,SG,Contabo Asia Private Limited
-49.148.6.159,8080,PH,Philippine Long Distance Telephone Company
-103.81.175.146,22311,BD,ADN Telecom Ltd.
-123.121.142.252,8888,CN,China Unicom Beijing Province Network
-45.74.31.22,4488,FR,Contabo GmbH
-45.74.31.22,12520,ID,BIZNET NETWORKS
-45.74.31.22,15082,US,Oracle Corporation
-93.184.72.130,8080,SK,VNET a.s.
-45.74.31.22,10760,VN,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
-45.74.31.23,4072,ID,BIZNET NETWORKS
-43.156.153.104,8081,SG,Tencent Building  Kejizhongyi Avenue
-45.74.31.22,13751,US,Network Solutions  LLC
-45.74.31.23,10291,US,Network Solutions  LLC
-45.74.31.42,11420,US,DigitalOcean  LLC
-181.209.125.237,999,AR,Empresa Argentina de Soluciones Satelitales S.A.
-45.74.31.23,13917,ID,BIZNET NETWORKS
-45.74.31.40,10079,FR,Scaleway SAS
-45.74.31.23,5665,US,Liquid Web  L.L.C
-45.74.31.42,11413,US,DigitalOcean  LLC
-185.146.138.151,8080,TR,Alfateh Company for Communications
-171.221.240.100,10800,CN,Chinanet
-123.121.123.216,8888,CN,China Unicom Beijing Province Network
-45.74.31.23,8144,FR,OVH SAS
-194.88.150.90,1080,UA,NetCrafters OU
-49.150.252.231,5050,PH,Philippine Long Distance Telephone Company
-45.74.31.42,15655,FR,OVH SAS
-45.74.31.23,12951,US,Oracle Corporation
-160.25.83.52,1084,VN,HTTVSERVER TECHNOLOGY COMPANY LIMITED
-45.74.31.23,10487,US,Network Solutions  LLC
-45.74.31.42,14727,US,DigitalOcean  LLC
-45.74.31.42,10896,BI,Burundi Backbone System SM
-95.31.92.14,10808,NL,UAB Cherry Servers
-45.74.31.23,9092,FR,Contabo GmbH
-45.74.31.42,10869,US,DigitalOcean  LLC
-45.74.31.40,11838,ID,BIZNET NETWORKS
-103.142.114.25,8080,IN,A C N Fiber Private Limited
-45.74.31.40,11745,US,Network Solutions  LLC
-45.74.31.40,17923,US,Unified Layer
-45.74.31.23,13381,US,Oracle Corporation
-45.74.31.42,7172,US,Namecheap  Inc.
-45.74.31.23,7325,US,Unified Layer
-102.208.228.90,8080,ZA,Sahdsoft Technologies CC
-45.175.237.141,999,MX,HULUX TELECOMUNICACIONES
-45.74.31.22,8439,US,Unified Layer
-45.74.31.23,11625,US,Oracle Corporation
-45.74.31.23,6089,US,Unified Layer
-45.74.31.23,8045,FR,OVH SAS
-203.205.49.2,10140,VN,CMC Telecom Infrastructure Company
-195.123.212.87,3056,LV,Route 95 LLC
-45.74.31.22,17696,US,Oracle Corporation
-147.45.72.31,45700,SE,Aeza Group LLC
-45.74.31.23,14050,FR,OVH SAS
-124.156.194.52,8081,SG,Tencent Building  Kejizhongyi Avenue
-45.74.31.23,13593,ID,BIZNET NETWORKS
-45.74.31.40,4854,VN,TaDu Joint Stock Company
-45.74.31.42,5642,TW,Floppy Ltd.
-45.74.31.23,13791,ID,BIZNET NETWORKS
-172.86.76.137,3128,AE,RouterHosting LLC
-45.74.31.23,5882,BR,Oracle Corporation
-45.74.31.42,14767,FR,Contabo GmbH
-45.74.31.23,13089,US,Oracle Corporation
-114.246.204.134,8888,CN,China Unicom Beijing Province Network
-103.11.132.213,8080,ID,PT Capoeng Digital Nusantara
-13.212.214.47,8090,SG,Amazon.com  Inc.
-45.74.31.23,4396,ID,BIZNET NETWORKS
-103.124.136.219,8080,ID,PT.Global Media Data Prima
-45.74.31.23,10057,US,Oracle Corporation
-160.25.83.52,1081,US,M247 Europe SRL
-78.108.110.171,8080,CZ,FreeTel  s.r.o.
-45.74.31.23,5028,VN,TaDu Joint Stock Company
-114.244.223.68,8888,CN,China Unicom Beijing Province Network
-45.74.31.23,5121,US,Unified Layer
-160.25.58.254,3125,ID,PT Tuxsindo Cyber Networks
-103.19.78.127,1080,ID,PT Persada Data Multimedia
-45.74.31.22,4395,VN,TaDu Joint Stock Company
-182.253.135.137,3128,ID,BIZNET NETWORKS
-45.74.31.22,10241,US,DigitalOcean  LLC
-45.74.31.22,15240,US,Oracle Corporation
-45.74.31.22,4934,FR,Contabo GmbH
-160.25.83.52,1086,IT,M247 Europe SRL
-83.234.14.211,1080,RU,Joint Stock Company TransTeleCom
-174.138.162.37,35884,US,Cablevision Systems Corp.
-45.74.31.23,7294,FR,Scaleway SAS
-45.74.31.23,5925,FR,OVH SAS
-45.74.31.22,15288,DE,Hetzner Online GmbH
-187.147.164.22,8080,MX,UNINET
-45.74.31.42,15110,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-45.74.31.23,12341,FR,OVH SAS
-45.74.31.23,13927,US,Oracle Corporation
-45.74.31.23,5298,FR,OVH SAS
-45.74.31.42,11601,ID,BIZNET NETWORKS
-157.15.211.48,8080,ID,PT Gaisar Teknologi Bersama
-160.25.83.52,1081,US,M247 Europe SRL
-115.74.7.224,8080,VN,Viettel Group
-45.74.31.42,14570,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-45.74.31.23,7836,AR,Telecom Argentina S.A.
-45.74.31.23,6944,FR,OVH SAS
-45.74.31.23,6947,FR,OVH SAS
-45.74.31.23,5334,VN,TaDu Joint Stock Company
-45.74.31.22,9346,ID,BIZNET NETWORKS
-123.121.122.28,8888,CN,China Unicom Beijing Province Network
-45.74.31.42,12571,NL,LeaseWeb Netherlands B.V.
-45.74.31.23,8141,FR,OVH SAS
-174.138.162.37,36088,US,DigitalOcean  LLC
-45.74.31.40,11241,FR,Contabo GmbH
-45.74.31.23,4523,FR,OVH SAS
-152.200.218.28,80,CO,COLOMBIA TELECOMUNICACIONES S.A. ESP BIC
-103.248.9.69,80,ID,PT Flashnet Inovasi Teknologi
-45.74.31.40,4459,VN,TaDu Joint Stock Company
-45.74.31.40,12718,FR,OVH SAS
-45.74.31.23,5773,FR,OVH SAS
-103.248.8.35,8090,ID,PT Flashnet Inovasi Teknologi
-45.74.31.42,40117,FR,OVH SAS
-45.74.31.23,6782,NZ,EOL (Enternet Online Ltd)
-45.74.31.23,8176,FR,OVH SAS
-159.194.228.40,8888,US,Datacamp Limited
-45.74.31.42,15911,VN,TaDu Joint Stock Company
-160.191.173.52,8080,ID,PT Citra Angkasa Lintas Media
-45.74.31.23,15859,FR,OVH SAS
-174.138.165.211,38237,US,Wyyerd Group
-45.74.31.23,13976,FR,OVH SAS
-45.74.31.23,5738,US,Microsoft Corporation
-45.74.31.23,12197,US,Network Solutions  LLC
-45.74.31.42,4836,FR,Contabo GmbH
-45.74.31.23,11246,SG,Contabo Asia Private Limited
-161.248.176.2,8080,IN,SNA INTERNET PRIVATE LIMITED
-45.74.31.40,12720,FR,OVH SAS
-82.202.163.222,1080,RU,JSC IOT
-45.74.31.42,23446,FR,OVH SAS
-79.137.196.250,1080,NL,Aeza Group LLC
-89.111.170.4,1080,RU,Domain names registrar REG.RU  Ltd
-45.74.31.23,4310,ID,BIZNET NETWORKS
-45.74.31.23,5676,US,Network Solutions  LLC
-45.74.31.23,13127,FR,OVH SAS
-195.190.107.62,3389,RU,PVimpelCom
-45.74.31.23,12705,US,Network Solutions  LLC
-183.91.88.226,8087,ID,PT Cyberindo Aditama
-185.94.164.182,8080,NL,First Server Limited
-45.74.31.22,15880,US,Liquid Web  L.L.C
-38.76.199.239,3128,US,Contabo Inc.
-45.74.31.23,4800,US,DigitalOcean  LLC
-45.74.31.23,4795,ID,BIZNET NETWORKS
-45.74.31.23,7861,FR,OVH SAS
-45.74.31.42,14959,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-45.74.31.42,11570,US,Oracle Corporation
-138.124.85.83,1081,CH,Baykov Ilya Sergeevich
-45.74.31.42,9182,VN,TaDu Joint Stock Company
-45.74.31.23,14360,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-45.74.31.22,11994,US,DigitalOcean  LLC
-45.74.31.22,15076,US,Oracle Corporation
-5.202.191.225,8080,IR,Pishgaman Toseeh Ertebatat Company (Private Joint Stock)
-45.74.31.23,12754,US,Network Solutions  LLC
-45.74.31.23,9791,LT,UAB Baltnetos komunikacijos
-45.74.31.23,5890,FR,Contabo GmbH
-45.74.31.23,12898,US,Oracle Corporation
-114.246.207.184,8888,CN,China Unicom Beijing Province Network
-160.25.83.52,1083,US,M247 Europe SRL
-45.74.31.23,10364,ID,BIZNET NETWORKS
-45.74.31.22,4120,VN,TaDu Joint Stock Company
-103.122.1.188,8181,ID,PT. Java Digital Nusantara
-45.74.31.23,11285,SG,Contabo Asia Private Limited
-45.74.31.40,10554,ID,BIZNET NETWORKS
-45.74.31.42,4143,FR,Contabo GmbH
-45.74.31.23,8911,US,Oracle Corporation
-91.107.122.209,1080,GB,JSC IOT
-45.74.31.23,6113,US,Unified Layer
-36.88.247.75,8081,ID,PT Telekomunikasi Indonesia
-49.149.223.6,8082,PH,Philippine Long Distance Telephone Company
-160.25.83.52,1084,CA,M247 Europe SRL
-45.74.31.22,11188,ID,BIZNET NETWORKS
-45.74.31.42,5152,DE,IONOS SE
-45.74.31.22,11083,FR,Scaleway SAS
-103.179.218.14,8080,ID,PT Wistel Teknologi Solusi
-88.204.22.105,8080,RU,JSC ER-Telecom Holding
-45.74.31.22,14146,US,Microsoft Corporation
-45.74.31.22,10271,ID,BIZNET NETWORKS
-45.74.31.40,11527,US,Network Solutions  LLC
-114.252.234.243,3128,CN,China Unicom Beijing Province Network
-45.74.31.22,13192,SG,Contabo Asia Private Limited
-174.138.165.211,33416,US,Cox Communications Inc.
-41.251.36.103,80,MA,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM
-47.95.206.224,45194,CN,China Mobile communications corporation
-45.74.31.40,11751,US,Unified Layer
-45.74.31.22,8803,US,Namecheap  Inc.
-157.20.35.38,8080,ID,PT Desible Eradata Komunikasi
-201.7.31.170,8080,SY,High Speed For Internet Services L.L.C
-45.74.31.22,12670,US,Unified Layer
-62.245.48.172,1080,RU,JSC ER-Telecom Holding
-27.124.12.186,1080,HK,CTG Server Limited
-45.74.31.40,9308,BI,Burundi Backbone System SM
-148.224.47.211,3128,MX,JOSE MANUEL JACINTO GARCIA
-102.208.228.90,3128,ZA,Sahdsoft Technologies CC
-45.74.31.23,15901,FR,OVH SAS
-45.74.31.40,13524,FR,OVH SAS
-45.74.31.40,11438,BI,Burundi Backbone System SM
-45.74.31.23,4217,US,DigitalOcean  LLC
-43.159.54.178,80,SG,Tencent Building  Kejizhongyi Avenue
-197.248.193.143,8080,KE,Safaricom Limited
-203.205.49.2,10222,VN,CMC Telecom Infrastructure Company
-120.76.101.238,8080,CN,Hangzhou Alibaba Advertising Co. Ltd.
-203.205.49.2,10107,VN,CMC Telecom Infrastructure Company
-45.74.31.40,21466,US,Unified Layer
-49.146.49.176,8082,PH,Philippine Long Distance Telephone Company
-200.107.206.9,999,DO,DLD SERVICIO SRL
-45.74.31.42,13103,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-103.151.22.130,8082,ID,PT TERABYTE INDONESIA
-45.74.31.23,4889,VN,TaDu Joint Stock Company
-45.74.31.42,41954,FR,OVH SAS
-45.74.31.40,17933,US,Oracle Corporation
-114.246.205.76,8888,CN,China Unicom Beijing Province Network
-45.74.31.42,16030,US,DigitalOcean  LLC
-103.231.172.117,1080,HK,Netsec Limited
-45.74.31.40,16850,US,Unified Layer
-45.74.31.23,12806,US,Oracle Corporation
-45.74.31.23,7945,US,Network Solutions  LLC
-45.74.31.42,11080,US,DigitalOcean  LLC
-160.20.37.126,80,ID,PT AJI RAFASYA ROSO ANTENG BERKAH
-43.134.16.198,8081,SG,Tencent Building  Kejizhongyi Avenue
-190.60.61.50,999,CO,UFINET PANAMA S.A.
-89.43.132.219,8080,SY,High Speed For Internet Services L.L.C
-64.188.71.169,3128,DE,Senko Digital LLC
-27.147.138.166,8158,BD,Link3 Technologies Ltd.
-181.209.96.157,999,AR,Empresa Argentina de Soluciones Satelitales S.A.
-45.74.31.23,5696,US,Unified Layer
-45.74.31.23,5353,US,Unified Layer
-45.74.31.22,9529,BI,Burundi Backbone System SM
-45.74.31.42,12501,TW,Floppy Ltd.
-163.223.118.83,8087,ID,PT Dra Net Solution
-45.74.31.23,6765,AR,Telecom Argentina S.A.
-180.191.252.107,8082,PH,Philippine Long Distance Telephone Company
-45.74.31.23,6111,ID,BIZNET NETWORKS
-103.97.141.80,8081,ID,PT Jembatan Data Pangrango
-45.74.31.22,10937,US,Unified Layer
-45.74.31.40,9394,US,DigitalOcean  LLC
-45.74.31.40,10867,US,Network Solutions  LLC
-36.25.247.27,6256,CN,CT-HangZhou-IDC
-103.208.103.35,8080,ID,PT Tidar Lintas Nusa
-182.253.143.181,8080,ID,BIZNET NETWORKS
-45.74.31.23,4595,FR,OVH SAS
-117.102.115.156,4153,ID,BIZNET NETWORKS
-45.74.31.22,9235,ID,BIZNET NETWORKS
-89.17.35.213,8080,RU,LLC ER-Telecom Moscow
-79.133.66.110,81,RU,Rostelecom
-45.74.31.22,4743,US,Namecheap  Inc.
-174.138.162.38,30234,US,Charter Communications LLC
-193.17.183.172,8080,ES,ZhouyiSat Communications
-117.121.204.9,8989,ID,PT. SEKAWAN GLOBAL KOMUNIKA
-45.74.31.23,6491,FR,Scaleway SAS
-45.74.31.40,9527,US,Interserver  Inc
+45.74.31.41,4772,FR,Contabo GmbH
 89.186.119.50,8080,HU,DIGI Tavkozlesi es Szolgaltato Kft.
-45.74.31.23,4578,VN,TaDu Joint Stock Company
-45.74.31.23,8178,FR,OVH SAS
-174.138.165.211,32586,US,Cox Communications Inc.
-45.74.31.23,15590,FR,OVH SAS
-45.74.31.42,19015,SE,Internet Vikings International AB
-188.132.222.142,8080,TR,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-103.160.68.143,80,ID,PT Gayatri Lintas Nusantara
-45.74.31.23,12361,US,Network Solutions  LLC
-45.74.31.23,6668,FR,OVH SAS
-45.74.31.42,4376,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-194.124.36.18,8080,TR,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
-1.4.198.212,8080,TH,TOT Public Company Limited
-45.74.31.23,6369,US,Microsoft Corporation
-45.74.31.42,13390,FR,OVH SAS
-103.24.215.249,8082,ID,PT Adau Putra Network
-45.74.31.22,12053,FR,OVH SAS
-45.74.31.23,8104,FR,OVH SAS
-45.74.31.42,40389,FR,OVH SAS
-45.74.31.23,5333,FR,OVH SAS
-45.74.31.23,4447,FR,OVH SAS
-203.95.198.172,1256,KH,Today Communication Co. Ltd
-45.74.31.23,5127,FR,OVH SAS
-45.74.31.23,6946,FR,OVH SAS
-103.112.139.174,8080,ID,PT Telekomunikasi Indonesia
-190.235.208.150,8080,PE,INTEGRATEL PERU S.A.A.
-45.74.31.22,9270,FR,Scaleway SAS
-45.225.204.11,999,CL,NETDELSUR TELECOMUNICACIONES SPA
-45.74.31.23,5416,FR,OVH SAS
-45.74.31.23,13437,US,Oracle Corporation
-45.74.31.23,5223,US,Unified Layer
-45.74.31.23,16540,NL,LeaseWeb Netherlands B.V.
-45.74.31.23,8174,FR,OVH SAS
-45.74.31.42,13688,ID,BIZNET NETWORKS
-45.74.31.42,4808,FR,Contabo GmbH
-160.19.18.165,8181,ID,PT Indo Telemedia Solusi
-115.74.200.4,1080,VN,Viettel Group
-217.142.24.106,8085,SY,Space Exploration Technologies Corporation
-45.74.31.22,16373,FR,Scaleway SAS
-45.74.31.22,15525,US,Oracle Corporation
-45.74.31.23,6217,US,Unified Layer
-180.191.235.152,8082,PH,Globe Telecoms
-45.74.31.22,8317,US,DigitalOcean  LLC
-45.74.31.23,6664,US,Microsoft Corporation
-45.74.31.23,5325,FR,OVH SAS
-45.74.31.23,4930,FR,OVH SAS
-77.50.183.34,8080,RU,Megasvyaz LLC
-45.74.31.23,4594,ID,BIZNET NETWORKS
-45.74.31.23,16440,NL,LeaseWeb Netherlands B.V.
-45.74.31.23,9646,US,Oracle Corporation
-45.74.31.22,10996,FR,Scaleway SAS
-45.74.31.23,14878,FR,OVH SAS
-45.74.31.42,9151,FR,Contabo GmbH
-45.74.31.23,12926,US,Network Solutions  LLC
-156.230.176.245,8080,ID,PT. Eka Mas Republik
-49.233.205.10,3128,CN,Shenzhen Tencent Computer Systems Company Limited
-82.115.25.57,9898,AU,BitCommand LLC
-45.74.31.22,15773,US,Oracle Corporation
-45.74.31.23,13035,ID,BIZNET NETWORKS
-45.74.31.23,6191,US,Unified Layer
-45.74.31.23,11064,FR,OVH SAS
-45.74.31.23,12941,ID,BIZNET NETWORKS
-197.248.18.97,8080,KE,Safaricom Limited
-45.74.31.23,13782,FR,OVH SAS
-45.74.31.23,14376,FR,OVH SAS
-45.74.31.23,6229,US,Interserver  Inc
-45.74.31.23,4467,VN,TaDu Joint Stock Company
-45.74.31.22,9971,NZ,EOL (Enternet Online Ltd)
-45.74.31.22,12109,US,Oracle Corporation
-45.74.31.22,12498,US,DigitalOcean  LLC
-45.74.31.42,4063,FR,Contabo GmbH
-45.74.31.42,17049,SG,Contabo Asia Private Limited
-45.74.31.22,11097,FR,OVH SAS
-45.74.31.23,12881,US,Oracle Corporation
-45.74.31.22,15426,US,Oracle Corporation
-45.74.31.22,13283,US,Unified Layer
-45.74.31.40,13106,US,DigitalOcean  LLC
-45.74.31.22,11226,US,Unified Layer
-45.74.31.22,10989,FR,Scaleway SAS
-114.246.196.242,8888,CN,China Unicom Beijing Province Network
-45.74.31.40,4909,US,Namecheap  Inc.
-185.238.238.169,58080,PL,RADIO-NET
-45.74.31.23,6102,US,Unified Layer
-2.56.108.184,1080,TR,Pembe Gul Isguzar Karagoz
-49.0.156.20,32000,MN,YOKOZUNANET LLC
+88.247.31.164,4153,TR,Turk Telekom
+193.233.86.198,1080,RU,Chsl One Ltd
 85.133.250.27,80,AE,Arvancloud Global Technologies L.L.C
-45.74.31.22,4840,FR,Contabo GmbH
-45.74.31.22,21222,FR,OVH SAS
-45.177.20.243,65535,PE,P&P BUSINESS GROUP SAC
-45.74.31.42,14241,ID,BIZNET NETWORKS
-185.103.109.59,9050,DE,F3 Netze e.V.
-45.74.31.23,9785,US,Microsoft Corporation
+109.224.242.247,8080,TR,High Speed For Internet Services L.L.C
+85.105.194.113,4153,TR,Turk Telekom
+159.65.233.169,54321,US,DigitalOcean  LLC
+95.31.19.190,1080,RU,PVimpelCom
+95.182.107.210,1080,KZ,TOO Kainar-Media
 88.245.138.87,1080,TR,Turk Telekom
-103.184.181.103,8181,ID,Lintas Data Prima  PT
-163.61.112.243,8080,ID,PT VESAKHA SECEPAT KILAT
-202.47.188.189,1111,ID,Lintas Data Prima  PT
-47.95.206.224,45088,CN,China Mobile Communications Group Co.  Ltd.
-149.210.15.139,18080,GR,OTEnet S.A.
-45.74.31.40,12956,ID,BIZNET NETWORKS
-45.74.31.22,4238,US,Namecheap  Inc.
-103.247.14.138,7778,ID,PT SELARAS CITRA TERABIT
-45.74.31.40,14117,US,Unified Layer
-103.151.88.65,8080,AF,AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK
-94.24.236.42,8080,RU,Intersvyaz-2 JSC
-45.74.31.23,15494,US,Namecheap  Inc.
-45.74.31.40,13361,ID,BIZNET NETWORKS
-45.74.31.22,11835,US,Unified Layer
-45.74.31.42,25520,US,Unified Layer
-45.74.31.23,14322,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-45.74.31.40,11055,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-45.74.31.23,8534,FR,OVH SAS
-45.74.31.40,12834,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-110.76.144.119,8082,ID,PT Tonggak Teknologi Netikom
-45.74.31.42,22470,DE,Deutsche Telekom AG
-144.79.180.37,8080,ID,PT SAHABAT INDONESIA INTERNET
-45.74.31.23,10054,US,Microsoft Corporation
-45.74.31.40,17408,US,Microsoft Corporation
-185.58.115.185,8080,NL,AltusHost B.V.
-174.138.162.37,37405,US,Cablevision Systems Corp.
-45.74.31.23,6134,US,Unified Layer
-117.18.20.102,8081,ID,PT Data Buana Nusantara
-124.109.105.44,80,BD,Head Office
-45.74.31.23,8612,FR,Scaleway SAS
-174.138.165.211,30051,US,Frontier Communications of America  Inc.
-45.74.31.23,11706,US,Network Solutions  LLC
-111.196.31.158,8888,CN,China Unicom Beijing Province Network
-203.205.49.2,10013,VN,CMC Telecom Infrastructure Company
-45.74.31.23,5860,US,DigitalOcean  LLC
-103.162.106.21,1080,ID,PT Kafilah Intermedia Nusantara
-96.36.50.99,39593,US,Charter Communications LLC
-177.93.60.7,8080,CO,TV AZTECA SUCURSAL COLOMBIA
-45.74.31.23,11529,US,Network Solutions  LLC
-174.138.162.37,38226,US,Cyberzone S.A.
-45.74.31.23,16671,NL,LeaseWeb Netherlands B.V.
-45.74.31.22,13056,BI,Burundi Backbone System SM
-45.74.31.23,16020,FR,OVH SAS
-45.74.31.23,4043,US,Unified Layer
-45.74.31.22,11101,US,Network Solutions  LLC
-45.74.31.23,5354,FR,OVH SAS
-45.74.31.23,13829,ID,BIZNET NETWORKS
-45.74.31.22,9628,US,Unified Layer
-103.172.42.129,1111,ID,PT Media Solusi Sukses
-45.74.31.23,12969,ID,BIZNET NETWORKS
-160.20.36.126,80,ID,PT AJI RAFASYA ROSO ANTENG BERKAH
-45.74.31.22,12271,ID,BIZNET NETWORKS
-49.48.84.178,8080,TH,Triple T Broadband Public Company Limited
-45.74.31.40,13846,US,Network Solutions  LLC
-45.74.31.23,13832,US,Oracle Corporation
-45.74.31.22,4993,US,Unified Layer
-45.74.31.23,6186,US,Unified Layer
-45.74.31.23,4066,ID,BIZNET NETWORKS
-45.74.31.42,5554,TW,Floppy Ltd.
-45.74.31.22,10319,VN,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
-45.74.31.40,16325,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-45.74.31.23,11532,US,Network Solutions  LLC
-180.191.153.87,5050,PH,Infinivan Incorporated
-49.151.189.78,8082,PH,Philippine Long Distance Telephone Company
-67.210.146.50,11080,US,JAB Wireless  INC.
-45.74.31.42,4076,VN,TaDu Joint Stock Company
-174.138.162.37,36093,US,Comcast Cable Communications  LLC
-194.67.67.184,8181,RU,Domain names registrar REG.RU  Ltd
-45.74.31.22,8527,US,DigitalOcean  LLC
-45.74.31.23,4058,ID,BIZNET NETWORKS
-45.74.31.23,9343,FR,Contabo GmbH
-105.214.51.155,5678,ZA,MTN SA
-45.74.31.22,9163,ID,BIZNET NETWORKS
-157.10.97.43,8080,ID,PT Lintas Jaringan Nusantara
-95.214.123.141,8080,HU,Deltakon Kft.
-45.74.31.23,10484,US,Network Solutions  LLC
-45.74.31.23,6581,FR,Contabo GmbH
-45.74.31.22,11846,US,Unified Layer
-43.251.225.168,8080,HK,cognetcloud INC
-45.74.31.22,10526,US,Network Solutions  LLC
-45.74.31.22,4308,VN,TaDu Joint Stock Company
-116.204.166.36,8080,SY,High Speed For Internet Services L.L.C
-45.74.31.23,4899,US,Unified Layer
-45.74.31.23,5475,BR,Oracle Corporation
-45.74.31.23,10368,ID,BIZNET NETWORKS
-123.200.28.149,1080,BD,Link3 Technologies Ltd.
-45.74.31.23,5033,ID,BIZNET NETWORKS
-45.74.31.23,5616,US,Unified Layer
-5.101.231.207,10808,DE,UAB Cherry Servers
-45.74.31.23,4802,VN,TaDu Joint Stock Company
-45.74.31.23,4892,VN,TaDu Joint Stock Company
-45.74.31.40,17407,IN,DigitalOcean  LLC
-45.74.31.23,5233,US,Unified Layer
-45.74.31.23,12283,US,Network Solutions  LLC
-190.181.45.6,3128,BO,AXS Bolivia S. A.
-203.91.76.32,1080,HK,AROSSCLOUD INC.
-45.74.31.23,10361,ID,BIZNET NETWORKS
-45.74.31.22,4918,FR,Contabo GmbH
-45.74.31.40,10665,ID,BIZNET NETWORKS
-171.213.154.157,7890,CN,Chinanet
-45.74.31.23,16741,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
-114.246.194.63,8888,CN,China Unicom Beijing Province Network
-45.74.31.42,31923,TW,Floppy Ltd.
-45.74.31.40,12744,ID,BIZNET NETWORKS
-174.138.162.37,36297,US,Comcast Cable Communications  LLC
-45.74.31.23,5446,US,Unified Layer
-103.141.164.203,8080,KH,ANGKOR DATA COMMUNICATION
-45.74.31.22,4039,VN,TaDu Joint Stock Company
-158.94.216.206,9080,DE,OVH SAS
-45.74.31.23,9987,US,Network Solutions  LLC
-45.74.31.23,5318,US,CoreSpace  Inc.
-45.74.31.23,6090,BR,Oracle Corporation
-45.74.31.42,9176,US,Namecheap  Inc.
-45.74.31.23,6076,US,Unified Layer
-45.74.31.23,6045,ID,BIZNET NETWORKS
-45.74.31.22,8807,US,Unified Layer
-45.74.31.23,16676,US,Namecheap  Inc.
-45.74.31.23,5204,US,Unified Layer
-45.74.31.42,10191,US,Namecheap  Inc.
-221.179.242.6,11111,CN,China Mobile Communications Group Co.  Ltd.
-45.74.31.22,16252,ID,BIZNET NETWORKS
-45.74.31.23,10181,US,Oracle Corporation
+85.190.106.223,1080,NL,dogado GmbH
+90.188.92.116,36335,RU,Rostelecom
+47.252.47.39,1080,US,Alibaba (US) Technology Co.  Ltd.
+165.227.220.70,40001,US,Cloudflare  Inc.
+151.243.196.252,1080,AE,Hostkey B.v.
+94.158.49.82,3128,UZ,IPLUS LLC
+45.74.31.42,4884,FR,Contabo GmbH
+3.84.245.86,3128,US,Amazon.com  Inc.
+38.18.230.153,8888,US,Tier.Net Technologies LLC
+62.133.60.5,3128,DE,Global Connectivity Solutions Llp
+64.49.67.166,5678,US,WNET TELECOM USA Corp.
+45.74.31.23,9944,US,Microsoft Corporation
+18.221.147.109,3128,US,Amazon.com  Inc.
+38.18.230.153,8888,US,Tier.Net Technologies LLC
+188.132.249.141,8080,SY,High Speed For Internet Services L.L.C
+67.43.112.129,8080,US,Wisper ISP  LLC
+45.74.31.30,12106,FR,OVH SAS
+45.74.31.30,7606,DE,IONOS SE
+45.74.31.40,9570,US,Network Solutions  LLC
+45.74.31.50,14321,US,Microsoft Corporation
+5.95.121.180,4153,IT,Fastweb
+109.206.143.77,1080,RU,OOO Creative Direct Marketing Solutions
+45.74.31.47,5281,UA,Hosting Ukraine LTD
+45.74.31.30,7708,US,Newfold Digital  Inc.
+83.147.217.103,1080,GR,CloudExa-Hosting LTD
+77.85.171.92,4153,BG,GEC BG Ltd.
+85.187.5.66,48293,BG,ET ASNET - Altan Halim
+45.74.31.25,11281,FR,OVH SAS
+45.74.31.47,15319,US,Oracle Corporation
+178.92.72.94,8080,IN,Micro Hosting Private Limited
+65.108.203.35,28080,US,HERN Labs AB
+45.74.31.41,4059,FR,Contabo GmbH
+38.18.230.153,8888,US,Tier.Net Technologies LLC
+178.92.72.194,8080,IN,Micro Hosting Private Limited
+31.31.74.185,9898,CZ,WEDOS Internet  a.s.
+45.74.31.50,11133,US,Unified Layer
+203.205.49.2,10232,VN,CMC Telecom Infrastructure Company
+178.92.72.134,8080,IN,Micro Hosting Private Limited
+160.22.206.21,8082,ID,PT Teradata Bintang Selaras
+50.172.193.250,1080,US,Comcast Cable Communications  LLC
+45.73.0.118,5678,CA,Videotron Ltee
+45.74.31.50,24086,US,Oracle Corporation
+67.207.92.87,3129,US,DigitalOcean  LLC
+43.252.238.238,4153,ID,PT. Usaha Adisanggoro
+178.92.72.68,8080,IN,Micro Hosting Private Limited
+178.92.72.129,8080,IN,Micro Hosting Private Limited
+45.74.31.22,4666,US,Microsoft Corporation
+45.74.31.47,5373,US,Namecheap  Inc.
+45.74.31.42,7314,GB,WHG Hosting Services Ltd
+101.36.112.205,1081,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+78.38.67.210,3636,IR,Iran Telecommunication Company PJS
+27.124.12.186,1080,HK,CTG Server Limited
+138.68.60.8,3128,US,DigitalOcean  LLC
+210.211.113.37,80,VN,CHT Compamy Ltd
+47.254.36.25,11080,US,Alibaba (US) Technology Co.  Ltd.
+61.7.147.227,4145,TH,National Telecom Public Company Limited
+43.134.16.72,8080,SG,Tencent Building  Kejizhongyi Avenue
+43.153.195.69,80,SG,Tencent Building  Kejizhongyi Avenue
+160.25.83.52,1082,VN,HTTVSERVER TECHNOLOGY COMPANY LIMITED
+43.128.76.140,8080,SG,Tencent Building  Kejizhongyi Avenue
+43.163.120.171,8080,SG,Tencent Building  Kejizhongyi Avenue
+171.4.85.65,5678,TH,Triple T Broadband Public Company Limited
+103.176.96.131,8082,ID,PT Global Sarana Elektronika
 43.156.40.114,8080,SG,Tencent Building  Kejizhongyi Avenue
-45.74.31.23,13898,ID,BIZNET NETWORKS
-139.196.95.28,7890,CN,Hangzhou Alibaba Advertising Co. Ltd.
-45.74.31.23,4929,VN,TaDu Joint Stock Company
+43.110.40.117,8888,US,Alibaba (US) Technology Co.  Ltd.
+8.215.25.3,2080,ID,Alibaba (US) Technology Co.  Ltd.
+103.126.86.130,8080,ID,PT. Rasi Bintang Perkasa
+166.111.50.241,10090,SG,Eons Data Communications Limited
+45.74.31.25,5076,FR,OVH SAS
+45.74.31.25,5535,DE,Hetzner Online GmbH
+170.106.183.206,8088,US,Tencent Building  Kejizhongyi Avenue
+43.134.230.44,8081,SG,Tencent Building  Kejizhongyi Avenue
+160.20.37.109,80,ID,PT AJI RAFASYA ROSO ANTENG BERKAH
+43.156.199.63,8080,SG,Tencent Building  Kejizhongyi Avenue
+45.238.57.1,3629,EC,INSTALACION DE SISTEMAS EN REDES INSYSRED S.A.
+43.128.112.151,80,SG,Tencent Building  Kejizhongyi Avenue
+43.156.227.68,80,SG,Tencent Building  Kejizhongyi Avenue
+8.215.25.3,2080,ID,Alibaba (US) Technology Co.  Ltd.
+45.74.31.50,9218,US,Oracle Corporation
+45.117.29.137,10888,IN,Allnet Broadband Network Pvt Ltd
+49.48.84.178,8080,TH,Triple T Broadband Public Company Limited
+45.198.10.229,80,ID,PT JARINGAN LINTAS ARTHA
+50.192.195.69,39792,US,Comcast Cable Communications  LLC
+45.74.31.41,10264,IN,Oracle Corporation
+67.206.213.202,55555,PR,Liberty Mobile Puerto Rico Inc.
+95.55.250.253,1080,FR,MOJI SAS
+8.215.25.3,2081,ID,Alibaba (US) Technology Co.  Ltd.
+74.62.23.242,39593,US,Charter Communications Inc
+43.156.248.220,80,SG,Tencent Building  Kejizhongyi Avenue
+45.74.31.41,15827,SG,Contabo Asia Private Limited
+91.211.100.35,44744,PL,Lukman Multimedia Sp. z o.o
+120.28.82.207,8082,PH,Globe Telecom Inc.
+43.156.237.221,80,SG,Tencent Building  Kejizhongyi Avenue
+203.150.113.234,14153,TH,Internet Thailand Company Limited
+105.214.104.26,5678,ZA,MTN SA
+103.187.227.126,1111,ID,PT Arsya Bintang Nusantara
+193.233.86.198,1080,RU,Chsl One Ltd
+103.147.134.179,8080,ID,PT.MURNI MAKMUR ABADI
+180.191.122.190,8181,PH,Globe Telecoms
+195.19.217.200,3128,RU,MTS PJSC
+62.90.73.225,3128,IL,Cellcom Fixed Line Communication L.P
+59.153.81.234,5678,ID,PT Asia Teknologi Solusi
+116.204.182.120,80,TH,Bangmod Enterprise Co.  Ltd.
+43.99.60.244,8089,HK,Alibaba (US) Technology Co.  Ltd.
+190.97.236.130,999,VE,VIGINET C.A
+181.119.224.25,8080,EC,UFINET PANAMA S.A.
+47.254.36.25,11080,US,Alibaba (US) Technology Co.  Ltd.
+45.74.31.42,37802,FR,OVH SAS
+171.244.199.151,1337,VN,CHT Compamy Ltd
+160.25.83.52,1088,VN,HTTVSERVER TECHNOLOGY COMPANY LIMITED
+45.74.31.23,5871,FR,OVH SAS
+45.74.31.40,22422,US,Oracle Corporation
+160.187.0.89,1080,VN,ONLINE DATA COMPANY LIMITED
+45.74.31.50,13413,VN,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
+45.74.31.30,10265,US,Namecheap  Inc.
+45.74.31.41,10748,ML,Orange Mali SA
+64.227.162.18,3129,IN,DigitalOcean  LLC
+188.17.148.68,1080,US,Global Connectivity Solutions Llp
+45.74.31.23,4720,US,Unified Layer
+37.195.116.105,1080,RU,Novotelecom Ltd
+43.134.79.76,8080,SG,Tencent Building  Kejizhongyi Avenue
+45.74.31.42,7762,NL,LeaseWeb Netherlands B.V.
+45.74.31.42,28218,US,Unified Layer
+46.241.57.29,1080,RU,Joint Stock Company TransTeleCom
+168.144.84.188,3129,IN,DigitalOcean  LLC
+142.93.217.232,3129,IN,DigitalOcean  LLC
+14.225.68.207,1337,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.23,15699,GB,WHG Hosting Services Ltd
+8.215.25.3,2080,ID,Alibaba (US) Technology Co.  Ltd.
+45.32.57.211,1080,JP,The Constant Company  LLC
+186.246.31.197,9050,DE,F3 Netze e.V.
+45.74.31.25,6342,US,DigitalOcean  LLC
+45.74.31.30,7339,ID,BIZNET NETWORKS
+41.216.186.222,1080,ID,PT Perwira Media Solusi
+68.183.88.189,3129,IN,DigitalOcean  LLC
+45.74.31.41,5036,US,Unified Layer
+45.228.151.157,1088,BR,CUIABA FIBRA INTERNET EIRELI
+5.157.64.213,1080,GB,IP River Limited
+171.234.162.101,1083,VN,Viettel Group
+45.74.31.40,15231,US,Namecheap  Inc.
+153.51.201.35,999,VE,GLOBALNET S&P  C.A.
+35.207.215.104,8899,IN,Google LLC
+109.232.106.150,52435,RU,Thyphone Communications LLC
+94.247.241.70,51006,RU,JSC ER-Telecom Holding
+124.156.194.52,8081,SG,Tencent Building  Kejizhongyi Avenue
+103.160.68.143,80,ID,PT Gayatri Lintas Nusantara
+45.74.31.41,11149,FR,Scaleway SAS
+45.74.31.30,9461,GB,WHG Hosting Services Ltd
+45.74.31.25,5981,FR,OVH SAS
+45.74.31.47,15622,US,Oracle Corporation
+179.191.39.221,1028,BR,MHNET TELECOM
+45.74.31.30,9704,FR,OVH SAS
+45.74.31.42,30088,US,Network Solutions  LLC
+167.172.84.23,3128,SG,DigitalOcean  LLC
+47.245.165.201,1080,DE,Alibaba (US) Technology Co.  Ltd.
+43.163.7.224,8080,SG,Tencent Building  Kejizhongyi Avenue
+183.172.126.63,10808,SG,CTG Server Limited
+45.74.31.42,6963,GB,WHG Hosting Services Ltd
+45.95.2.232,2080,DE,Baykov Ilya Sergeevich
+45.74.31.42,5143,GB,WHG Hosting Services Ltd
+43.134.230.44,8080,SG,Tencent Building  Kejizhongyi Avenue
+45.74.31.23,15167,US,Oracle Corporation
+177.53.215.196,1812,EC,Eliana Vanessa Morocho Ona
+171.234.162.101,1088,VN,Viettel Group
+200.16.211.68,4153,AR,Telefonica de Argentina
+43.156.114.4,80,SG,Tencent Building  Kejizhongyi Avenue
+45.74.31.22,8386,FR,Scaleway SAS
+43.134.49.34,8080,SG,Tencent Building  Kejizhongyi Avenue
+14.225.68.207,1337,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.40,13524,FR,OVH SAS
+89.22.236.32,3128,SE,Aeza Group LLC
+45.74.31.47,15886,US,Oracle Corporation
+185.195.71.218,18080,CH,Datasource AG
+45.74.31.40,14796,US,CoreSpace  Inc.
+43.156.153.104,8080,SG,Tencent Building  Kejizhongyi Avenue
+45.74.31.30,9844,FR,OVH SAS
+157.173.115.35,1081,FR,Contabo GmbH
+45.74.31.50,4741,FR,Contabo GmbH
+45.74.31.40,13381,US,Unified Layer
+45.74.31.42,40882,FR,OVH SAS
+46.29.116.3,4145,RU,Stavtelecom LLC
+45.74.31.23,7324,US,Liquid Web  L.L.C
+45.74.31.23,16639,FR,OVH SAS
+77.238.79.111,5678,BG,Fiber 1 Ltd.
+200.229.76.160,3128,BR,Saveincloud Hospedagem na Internet Ltda
+45.74.31.42,4496,CH,METANET AG
+93.93.61.153,1080,LT,UAB Ogmios Centras
+45.74.31.40,12300,US,DigitalOcean  LLC
+78.128.124.108,5678,BG,Sarnica-Net LTD
+45.74.31.25,6932,FR,OVH SAS
+185.195.71.218,18080,CH,Datasource AG
+85.163.43.208,48293,CZ,CETIN a.s.
+118.179.144.142,9090,BD,AmberIT Limited
+171.234.162.101,1083,VN,Viettel Group
+171.244.199.151,1337,VN,CHT Compamy Ltd
+45.74.31.42,11048,US,DigitalOcean  LLC
+45.74.31.30,5074,DE,IONOS SE
+45.74.31.23,14490,US,Oracle Corporation
+45.74.31.42,7408,US,DigitalOcean  LLC
+45.74.31.25,9184,DE,Hetzner Online GmbH
+58.218.169.186,10800,CN,Chinanet
+59.66.23.99,29290,US,DMIT Cloud Services
+45.74.31.42,40295,FR,OVH SAS
+45.190.76.16,999,MX,META NETWORKS SA DE CV
+45.74.31.42,25520,US,Unified Layer
+45.74.31.30,8384,FR,OVH SAS
+103.171.182.57,1111,ID,PT Hayat Teknologi Informatika
+45.74.31.23,4897,FR,OVH SAS
+45.74.31.42,4978,NL,LeaseWeb Netherlands B.V.
+113.45.195.147,3128,CN,Huawei Cloud Service data center
+160.25.83.52,1088,VN,HTTVSERVER TECHNOLOGY COMPANY LIMITED
+41.216.186.68,80,ID,PT. Simaya Jejaring Mandiri
+45.74.31.23,16536,NL,LeaseWeb Netherlands B.V.
+45.74.31.25,5555,FR,OVH SAS
+92.42.8.5,4145,RU,Stavtelecom LLC
+45.74.31.23,9647,LT,UAB Baltnetos komunikacijos
+45.74.31.25,6924,FR,OVH SAS
+45.74.31.23,14342,US,Oracle Corporation
+45.74.31.30,9000,FR,OVH SAS
+45.74.31.42,10896,BI,Burundi Backbone System SM
+176.192.41.172,4444,DE,Nekobyte International Limited
+45.74.31.23,14191,US,Oracle Corporation
+45.74.31.42,4495,DE,DigitalOcean  LLC
+45.74.31.42,5224,US,Namecheap  Inc.
+82.26.171.189,1081,FI,Hostkey B.v.
+45.74.31.42,9285,NL,LeaseWeb Netherlands B.V.
+14.225.68.207,1337,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.23,14452,US,Oracle Corporation
+45.74.31.30,5040,FR,OVH SAS
+171.233.24.44,5000,VN,Viettel Group
+31.58.158.214,8080,ID,PT Telekomunikasi Indonesia
+88.87.69.240,1080,RU,JSC ER-Telecom Holding
+45.74.31.22,4830,FR,Contabo GmbH
+45.74.31.40,11497,US,Oracle Corporation
+45.74.31.47,15878,US,Oracle Corporation
+45.74.31.41,9846,US,Microsoft Corporation
+45.74.31.41,10584,US,Interserver  Inc
+45.74.31.42,4927,GB,WHG Hosting Services Ltd
+81.12.157.98,5678,RO,Vodafone Romania S.A.
+89.191.226.51,1080,DE,Timeweb  LLP
+45.74.31.22,13751,US,Network Solutions  LLC
+107.149.92.23,8443,HK,Ansheng Network Technology Co.  Limited
+59.66.23.99,29290,US,DMIT Cloud Services
+45.74.31.22,4391,US,Namecheap  Inc.
+45.74.31.47,7333,FR,Scaleway SAS
+45.74.31.22,10173,ID,BIZNET NETWORKS
+45.74.31.23,13042,US,Oracle Corporation
+45.74.31.22,13429,US,Unified Layer
+45.74.31.30,13737,NL,LeaseWeb Netherlands B.V.
+43.159.35.15,8080,SG,Tencent Building  Kejizhongyi Avenue
+45.74.31.42,4956,US,Namecheap  Inc.
+45.74.31.40,4379,US,Namecheap  Inc.
+45.74.31.23,15232,US,Oracle Corporation
+45.74.31.40,14113,US,Network Solutions  LLC
+45.74.31.41,21089,IE,Microsoft Corporation
+45.74.31.22,9138,US,Microsoft Corporation
+43.157.98.90,8080,DE,Tencent Building  Kejizhongyi Avenue
+78.189.153.164,3310,TR,Turk Telekom
+45.74.31.41,12246,FR,OVH SAS
+45.74.31.30,11360,FR,OVH SAS
+129.226.89.151,80,SG,Tencent Building  Kejizhongyi Avenue
+45.74.31.25,4434,US,Namecheap  Inc.
+116.204.166.149,8080,SY,High Speed For Internet Services L.L.C
+45.74.31.23,7003,US,Unified Layer
+45.74.31.30,4466,FR,OVH SAS
+45.74.31.30,8146,FR,OVH SAS
+45.74.31.23,16174,GB,WHG Hosting Services Ltd
+45.61.129.165,9050,NL,Church of Cyberology
+45.74.31.42,17381,US,CoreSpace  Inc.
+45.74.31.23,14649,US,Oracle Corporation
+45.74.31.22,13239,US,Network Solutions  LLC
+180.149.45.45,10808,AZ,G-Core Labs S.A.
+80.191.40.131,5678,IR,Iran Telecommunication Company PJS
+195.68.145.5,80,RU,PVimpelCom
+43.230.192.242,1080,KH,Cogetel Online  Cambodia  ISP
+45.74.31.40,9170,US,DigitalOcean  LLC
+61.149.134.158,8888,CN,China Unicom Beijing Province Network
+103.147.135.19,8082,ID,PT.MURNI MAKMUR ABADI
+45.74.31.40,9208,US,DigitalOcean  LLC
+45.74.31.40,10287,BI,Burundi Backbone System SM
+45.74.31.30,9024,FR,OVH SAS
+93.127.133.109,1081,CZ,Datacamp Limited
+45.74.31.25,16263,FR,OVH SAS
+115.217.210.79,1080,HK,Avenstore Assets Co.  Limited
+45.74.31.40,14117,US,Unified Layer
+45.74.31.23,15472,GB,WHG Hosting Services Ltd
+47.95.206.224,45120,CN,Henan Mobile Communications Co. Ltd
+45.74.31.42,7262,NL,LeaseWeb Netherlands B.V.
+45.74.31.47,22014,US,Unified Layer
+45.74.31.50,15421,DE,Hetzner Online GmbH
+126.209.49.150,8082,PH,Infinivan Incorporated
+45.74.31.30,7465,FR,OVH SAS
+94.232.62.170,1080,RU,Infanet Ltd.
+123.115.177.103,8888,CN,China Unicom Beijing Province Network
+45.74.31.30,7764,US,Unified Layer
+45.74.31.25,5442,VN,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
+47.107.107.24,80,CN,Hangzhou Alibaba Advertising Co. Ltd.
+43.134.186.82,8080,SG,Tencent Building  Kejizhongyi Avenue
+45.74.31.25,8860,DE,IONOS SE
+123.113.169.44,8888,CN,China Unicom Beijing Province Network
+49.229.36.214,4153,TH,SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX
+45.74.31.30,20300,US,Namecheap  Inc.
+45.74.31.40,15307,US,Microsoft Corporation
+45.74.31.22,12498,US,DigitalOcean  LLC
+83.234.137.154,1080,RU,Joint Stock Company TransTeleCom
+45.74.31.30,10430,NL,LeaseWeb Netherlands B.V.
+45.74.31.22,4818,US,Namecheap  Inc.
+45.74.31.23,15382,US,Namecheap  Inc.
+45.74.31.42,10192,US,Namecheap  Inc.
+45.74.31.47,21969,US,Unified Layer
+45.74.31.50,14641,US,Network Solutions  LLC
+45.74.31.42,40091,FR,OVH SAS
+8.219.97.248,80,SG,Alibaba (US) Technology Co.  Ltd.
+171.244.199.151,1337,VN,CHT Compamy Ltd
+45.74.31.47,5533,US,DigitalOcean  LLC
+45.74.31.23,5788,VN,TaDu Joint Stock Company
+45.74.31.23,4552,FR,OVH SAS
+43.156.166.134,8080,SG,Tencent Building  Kejizhongyi Avenue
+45.126.169.217,4145,IN,NET 4 U SERVICES PVT LTD
+45.74.31.23,4130,FR,OVH SAS
+45.74.31.50,11654,FR,OVH SAS
+45.74.31.42,43118,FR,OVH SAS
+45.74.31.25,13519,FR,OVH SAS
+103.248.9.69,80,ID,PT Flashnet Inovasi Teknologi
+171.234.162.101,1088,VN,Viettel Group
+45.74.31.30,7062,FR,OVH SAS
+103.167.156.34,1080,ID,PT Jaringan Tiang Indonesia Group
+120.232.115.170,17981,CN,China Mobile Communications Group Co.  Ltd.
+45.74.31.47,21334,BI,Burundi Backbone System SM
+103.147.134.39,8082,ID,PT.MURNI MAKMUR ABADI
+45.74.31.25,14356,US,Unified Layer
+45.74.31.40,18068,US,Microsoft Corporation
+45.74.31.42,4613,US,Namecheap  Inc.
+45.74.31.47,46329,BR,Oracle Corporation
+50.250.205.21,32100,US,Comcast Cable Communications  LLC
+45.74.31.50,14843,US,CoreSpace  Inc.
+45.74.31.22,4947,VN,TaDu Joint Stock Company
+45.74.31.23,4147,ID,BIZNET NETWORKS
+45.74.31.23,6709,BR,Oracle Corporation
+203.205.49.2,10039,VN,CMC Telecom Infrastructure Company
+123.113.155.128,8888,CN,China Unicom Beijing Province Network
+45.74.31.23,9975,US,Oracle Corporation
+45.74.31.22,4957,FR,Contabo GmbH
+45.74.31.42,4296,DE,IONOS SE
+45.74.31.40,8999,US,DigitalOcean  LLC
+223.25.109.146,8199,ID,PT Satunol Digital Teknologi
+47.104.170.144,21056,CN,Hangzhou Alibaba Advertising Co. Ltd.
+47.120.24.152,21056,CN,Hangzhou Alibaba Advertising Co. Ltd.
+45.74.31.30,8648,LT,UAB Baltnetos komunikacijos
+105.214.67.202,5678,ZA,MTN SA
+45.74.31.50,15855,US,CoreSpace  Inc.
+43.155.215.149,20000,KR,Tencent Building  Kejizhongyi Avenue
+89.43.135.181,1080,SY,High Speed For Internet Services L.L.C
+43.134.17.145,8081,SG,Tencent Building  Kejizhongyi Avenue
+43.230.196.98,48200,IN,Precious netcom pvt ltd
+45.74.31.23,15023,US,Oracle Corporation
+45.74.31.41,4391,FR,Contabo GmbH
+91.191.228.126,3128,RU,LLC KomTehCentr
+45.74.31.25,7108,FR,OVH SAS
+177.136.124.45,56113,BR,ITS TELECOMUNICACOES LTDA
+181.115.207.115,1080,BO,EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA
+85.93.9.12,1080,DE,PFWeb Solutions
+45.74.31.23,6805,US,Unified Layer
+177.125.212.244,4145,BR,GIGA MAIS FIBRA TELECOMUNICACOES S.A.
+45.74.31.30,4938,FR,OVH SAS
+45.74.31.42,13445,US,Oracle Corporation
+61.245.9.172,5050,PH,TOSLINK INC.
+45.74.31.40,4205,FR,Contabo GmbH
+162.243.172.237,8118,SE,QuxLabs AB
+43.163.124.191,8080,SG,Tencent Building  Kejizhongyi Avenue
+45.74.31.23,4441,US,Unified Layer
+45.74.31.23,14450,US,Oracle Corporation
+58.65.167.165,4145,PK,Nayatel (Pvt) Ltd
+124.156.194.52,8080,SG,Tencent Building  Kejizhongyi Avenue
+49.149.208.160,8082,PH,Philippine Long Distance Telephone Company
+45.74.31.42,25340,US,Oracle Corporation
+45.74.31.23,7720,FR,OVH SAS
+210.211.113.36,80,VN,CHT Compamy Ltd
+109.68.189.22,54643,RU,OOO Suntel
+45.74.31.23,6778,US,Microsoft Corporation
+45.74.31.23,16599,GB,WHG Hosting Services Ltd
+45.74.31.30,8742,FR,OVH SAS
+106.52.136.68,1081,CN,Shenzhen Tencent Computer Systems Company Limited
+45.74.31.23,13647,US,Oracle Corporation
+45.74.31.23,4334,FR,OVH SAS
+45.74.31.30,28707,FR,OVH SAS
+45.74.31.41,14138,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.23,7301,FR,OVH SAS
+174.138.162.38,39793,DE,Vodafone GmbH
+193.23.201.58,1080,FI,Play2go International Limited
+45.74.31.50,15253,US,DigitalOcean  LLC
+45.168.244.16,1080,BR,MAXIMA INTERNET BANDA LARGA
+45.74.31.30,11820,NL,LeaseWeb Netherlands B.V.
+45.74.31.30,8886,FR,OVH SAS
+45.74.31.23,5834,FR,Contabo GmbH
+202.59.75.7,8080,PK,Autonomous System Number for Nexlinx
+45.74.31.40,9592,DE,IONOS SE
+45.74.31.50,20826,US,Unified Layer
+45.74.31.30,39055,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.30,9855,FR,OVH SAS
+188.93.64.242,4153,RU,Timer  LLC
+27.124.12.186,1080,HK,CTG Server Limited
+160.187.0.89,1080,VN,ONLINE DATA COMPANY LIMITED
+45.74.31.23,6668,FR,OVH SAS
+43.155.215.149,20000,KR,Tencent Building  Kejizhongyi Avenue
+45.74.31.41,15522,US,Microsoft Corporation
+115.74.200.4,1080,VN,Viettel Group
+45.74.31.42,14445,FR,OVH SAS
+45.74.31.30,5226,US,Oracle Corporation
+120.76.101.238,8080,CN,Hangzhou Alibaba Advertising Co. Ltd.
+85.237.62.189,3629,RU,Rostelecom
+45.74.31.47,6461,FR,OVH SAS
+45.74.31.30,9027,FR,OVH SAS
+45.74.31.22,13245,SG,Contabo Asia Private Limited
+45.74.31.30,7778,FR,OVH SAS
+45.74.31.25,9068,FR,OVH SAS
+45.74.31.42,16960,US,CoreSpace  Inc.
+46.29.116.6,4145,RU,Stavtelecom LLC
+45.74.31.30,36692,FR,Scaleway SAS
+103.147.134.121,3125,ID,PT.MURNI MAKMUR ABADI
+45.74.31.50,10251,BI,Burundi Backbone System SM
+45.74.31.22,4461,VN,TaDu Joint Stock Company
+45.74.31.41,14585,US,Oracle Corporation
+45.74.31.47,5449,US,Namecheap  Inc.
+45.74.31.42,15188,US,CoreSpace  Inc.
+45.74.31.50,13796,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.30,5185,FR,OVH SAS
+203.205.49.2,10120,VN,CMC Telecom Infrastructure Company
+91.186.214.229,2080,GR,First Server Limited
+81.16.9.222,3629,AM,Ucom CJSC
+45.74.31.25,10185,US,CoreSpace  Inc.
+190.228.33.42,1085,AR,Telecom Argentina S.A.
+45.74.31.41,4527,FR,Contabo GmbH
+45.74.31.42,15239,FR,OVH SAS
+45.74.31.23,4211,DE,IONOS SE
+210.211.113.33,80,VN,CHT Compamy Ltd
+93.55.126.184,8080,IT,Fastweb
+122.246.4.30,17981,CN,NINGBO  ZHEJIANG Province  P.R.China.
+45.74.31.23,14296,US,Oracle Corporation
+45.74.31.41,5183,VN,TaDu Joint Stock Company
+45.74.31.50,8546,FR,OVH SAS
+45.74.31.22,15444,US,Liquid Web  L.L.C
+45.74.31.40,12840,FR,OVH SAS
+45.74.31.30,10808,FR,OVH SAS
+45.74.31.30,5707,US,Oracle Corporation
+87.21.209.230,8081,IT,TIM
+46.8.31.104,1080,KZ,Fedinyak Sergey Vyacheslavovich
+45.74.31.25,5766,FR,OVH SAS
+45.230.39.225,999,CL,SERVICIOS ZONALES DE INTERNET LIMITADA
+95.46.105.163,4145,RU,Kompleks Media LLC
+160.25.83.52,1083,US,M247 Europe SRL
+45.74.31.25,7337,US,Network Solutions  LLC
+45.74.31.23,9086,FR,OVH SAS
+45.74.31.30,8570,FR,OVH SAS
+5.255.99.75,1080,NL,The Infrastructure Group B.V.
+45.74.31.22,17148,ID,BIZNET NETWORKS
+45.74.31.50,4766,FR,Contabo GmbH
+45.74.31.22,13823,US,Unified Layer
+147.45.66.116,1082,DE,Global Connectivity Solutions Llp
+146.19.143.200,1080,EE,BlueVPS OU
+45.74.31.30,5599,FR,OVH SAS
+45.74.31.23,16167,NL,LeaseWeb Netherlands B.V.
+45.198.20.223,8080,ID,PT Ikhlas Cipta Teknologi
+45.74.31.50,16816,DE,Hetzner Online GmbH
+45.74.31.25,4073,FR,OVH SAS
+47.121.139.13,3128,CN,Hangzhou Alibaba Advertising Co. Ltd.
+171.233.24.44,5000,VN,Viettel Group
+45.74.31.42,40628,FR,OVH SAS
+103.176.97.62,8082,ID,PT Global Sarana Elektronika
+45.74.31.23,16611,NL,LeaseWeb Netherlands B.V.
+146.19.143.200,1080,EE,BlueVPS OU
+45.74.31.22,14146,US,Microsoft Corporation
+45.74.31.23,4315,US,CoreSpace  Inc.
+45.74.31.22,17956,US,Oracle Corporation
+45.74.31.23,8154,FR,OVH SAS
+87.107.9.171,3128,IR,Mobin Arvand Infrastructure Company LTD
+45.74.31.22,22882,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.23,4154,US,Network Solutions  LLC
+45.74.31.22,10241,US,DigitalOcean  LLC
+45.74.31.30,9451,GB,Akamai Connected Cloud
+59.152.97.233,1080,BD,Star IT
+45.74.31.23,13258,US,Oracle Corporation
+45.74.31.23,6495,FR,OVH SAS
+45.74.31.25,7482,US,Namecheap  Inc.
+45.74.31.30,8363,US,Microsoft Corporation
+45.143.108.118,8080,GE,AIRMAX LLC
+45.74.31.42,4425,DE,IONOS SE
+45.74.31.25,7720,FR,OVH SAS
+45.74.31.25,10585,FR,OVH SAS
+45.74.31.42,6347,DE,IONOS SE
+45.74.31.23,16435,FR,OVH SAS
+45.74.31.42,9182,VN,TaDu Joint Stock Company
+45.74.31.22,9389,FR,Scaleway SAS
+45.74.31.25,16451,FR,OVH SAS
+45.74.31.30,11013,FR,OVH SAS
+45.74.31.25,6663,FR,OVH SAS
+92.86.92.126,42740,RO,Orange Romania S.A.
+45.74.31.42,10822,US,Oracle Corporation
+45.74.31.23,13795,US,Oracle Corporation
+45.74.31.23,11837,US,Oracle Corporation
+45.74.31.47,4319,US,Namecheap  Inc.
+157.15.211.48,8080,ID,PT Gaisar Teknologi Bersama
+120.232.115.57,17981,CN,China Mobile Communications Group Co.  Ltd.
+185.74.44.172,1080,FI,Anton Levin
+45.74.31.23,9372,US,Network Solutions  LLC
+45.74.31.30,6976,US,CoreSpace  Inc.
+45.74.31.41,16899,US,CoreSpace  Inc.
+45.74.31.25,4166,FR,OVH SAS
+45.74.31.30,7908,FR,OVH SAS
+45.74.31.25,10470,VN,TaDu Joint Stock Company
+46.214.153.223,5678,RO,Nextgen Communications Srl
+45.74.31.42,7186,US,CoreSpace  Inc.
+45.74.31.23,5426,VN,TaDu Joint Stock Company
+45.74.31.25,12796,FR,OVH SAS
+45.74.31.23,5882,BR,Oracle Corporation
+45.74.31.41,16297,US,DigitalOcean  LLC
+45.74.31.30,43163,US,Oracle Corporation
+45.74.31.23,5325,FR,OVH SAS
+45.74.31.41,4423,FR,Contabo GmbH
+191.241.184.5,8080,BR,Netgloria Servicos de Internet Ltda
+45.74.31.42,14573,FR,OVH SAS
+45.74.31.50,8427,NL,Microsoft Corporation
+103.97.141.45,1111,ID,PT Jembatan Data Pangrango
+45.74.31.41,11176,US,Microsoft Corporation
+45.74.31.30,38469,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.25,8110,US,DigitalOcean  LLC
+188.164.201.197,666,GR,INTERWORKS Single Member S.A.
+103.172.71.172,1111,ID,PT JARINGAN LINTAS ARTHA
+79.134.4.192,1080,RU,Joint Stock Company TransTeleCom
+45.74.31.30,10420,NL,LeaseWeb Netherlands B.V.
+45.74.31.22,4207,US,Namecheap  Inc.
+46.245.123.30,1080,IR,Asiatech Data Transmission company
+45.74.31.25,7255,FR,OVH SAS
+45.74.31.42,43743,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.22,17002,US,CoreSpace  Inc.
+45.74.31.42,5004,GB,WHG Hosting Services Ltd
+64.64.152.248,39593,US,Great Plains Communications LLC
+45.74.31.22,10985,ID,BIZNET NETWORKS
+45.74.31.50,8695,US,DigitalOcean  LLC
+45.74.31.23,16556,NL,LeaseWeb Netherlands B.V.
+45.74.31.30,36714,FR,Scaleway SAS
+45.74.31.41,5304,VN,TaDu Joint Stock Company
+45.74.31.42,14896,FR,OVH SAS
+45.74.31.23,8018,FR,OVH SAS
+45.74.31.30,9237,US,Oracle Corporation
+112.208.162.30,8082,PH,Philippine Long Distance Telephone Company
+45.74.31.30,8022,US,Oracle Corporation
+45.74.31.23,4017,US,Unified Layer
+45.74.31.23,5827,FR,Contabo GmbH
+45.74.31.25,4363,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+171.22.182.164,1080,IT,BlueVPS OU
+45.74.31.22,10760,VN,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
+45.74.31.42,22521,DE,Deutsche Telekom AG
+193.233.223.47,1080,RU,Aeza Group LLC
+115.178.50.69,1080,ID,PT. Simaya Jejaring Mandiri
+45.74.31.40,15236,US,Network Solutions  LLC
+45.74.31.40,12919,FR,OVH SAS
+45.74.31.30,9801,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.23,12705,US,Network Solutions  LLC
+45.74.31.50,4686,US,CoreSpace  Inc.
+109.201.65.165,1080,RU,MTS PJSC
+47.85.13.198,1080,US,Alibaba (US) Technology Co.  Ltd.
+45.183.11.246,8080,BR,V1 Informatica
+45.74.31.30,10410,US,Unified Layer
+41.59.112.250,3030,TZ,TANZANIA TELECOMMUNICATIONS CO. LTD
+45.74.31.30,37240,US,Microsoft Corporation
+45.74.31.25,7883,VN,TaDu Joint Stock Company
+45.74.31.40,16589,US,Unified Layer
+45.74.31.30,39620,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+103.112.68.25,1080,NL,Mastersoft S.R.L.
+45.74.31.47,15728,ID,BIZNET NETWORKS
+147.45.224.100,1080,RU,Timeweb  LLP
+45.74.31.40,9458,ID,BIZNET NETWORKS
+45.74.31.25,6291,FR,OVH SAS
+45.74.31.40,14264,US,Network Solutions  LLC
+69.36.63.128,1080,US,Point Broadband Fiber Holding  LLC
+45.74.31.30,6378,BI,Burundi Backbone System SM
+45.74.31.50,14639,US,Unified Layer
+45.74.31.30,43077,US,Oracle Corporation
+45.74.31.42,10920,BI,Burundi Backbone System SM
+45.74.31.23,4097,FR,OVH SAS
+203.205.49.2,10035,VN,CMC Telecom Infrastructure Company
+45.74.31.30,4157,VN,NhanHoa Software company
+45.74.31.30,4620,US,Oracle Corporation
+45.74.31.41,16066,US,CoreSpace  Inc.
+45.74.31.23,16711,NL,LeaseWeb Netherlands B.V.
+45.74.31.42,14785,US,Unified Layer
+45.74.31.41,12276,US,Unified Layer
+45.26.30.144,8888,US,Datacamp Limited
+45.74.31.25,5918,US,Namecheap  Inc.
+103.199.215.43,6262,IN,RailTel Corporation of India Ltd
+45.74.31.42,4089,DE,IONOS SE
+190.7.214.134,8080,CR,American Data Networks
+80.72.180.122,1080,KG,OJSC Kyrgyztelecom
+174.138.165.204,8149,MA,MEDITELECOM
+45.74.31.30,15263,US,Oracle Corporation
+45.74.31.30,4823,GB,WHG Hosting Services Ltd
+45.74.31.22,5087,VN,TaDu Joint Stock Company
+160.22.65.16,8097,ID,Lintas Data Prima  PT
+45.74.31.30,28909,US,Microsoft Corporation
+45.74.31.30,4859,US,Namecheap  Inc.
+45.74.31.30,37747,US,Microsoft Corporation
+144.126.137.165,1080,US,Contabo Inc.
+176.124.205.244,1080,SE,Aeza Group LLC
+45.74.31.50,10759,ID,BIZNET NETWORKS
+114.252.13.224,8888,CN,China Unicom Beijing Province Network
+45.74.31.30,4281,US,CoreSpace  Inc.
+45.74.31.30,7233,BR,Oracle Corporation
+45.74.31.42,7893,NL,LeaseWeb Netherlands B.V.
+45.74.31.30,37215,US,Microsoft Corporation
+45.74.31.30,9097,GB,Akamai Connected Cloud
+125.24.24.59,8080,TH,Triple T Broadband Public Company Limited
+105.214.51.155,5678,ZA,MTN SA
+67.210.146.50,11080,US,JAB Wireless  INC.
+45.74.31.30,42425,ID,BIZNET NETWORKS
+45.74.31.23,4043,US,Unified Layer
+45.74.31.25,6237,FR,OVH SAS
+45.74.31.47,15341,US,Oracle Corporation
+41.203.76.166,8080,NG,Globacom Limited
+82.39.174.98,8080,ID,PT Citra Celebas Multimedia
+45.74.31.30,8283,US,Unified Layer
+114.248.179.223,8888,CN,China Unicom Beijing Province Network
+45.74.31.22,13681,US,CoreSpace  Inc.
+45.74.31.22,13127,SG,Contabo Asia Private Limited
+95.3.38.90,8088,TR,Turk Telekom
+45.74.31.23,11624,SG,Contabo Asia Private Limited
+45.74.31.30,8951,FR,OVH SAS
+45.74.31.23,6543,ID,BIZNET NETWORKS
+45.74.31.22,10981,ID,BIZNET NETWORKS
+45.74.31.40,14408,US,CoreSpace  Inc.
+38.54.63.7,1080,ZA,LIGHT NODE LIMITED
+45.74.31.41,12043,US,Unified Layer
+45.74.31.23,6703,BR,Oracle Corporation
+45.74.31.23,14323,US,Oracle Corporation
+45.74.31.40,12367,US,Unified Layer
+45.74.31.23,5235,FR,OVH SAS
+45.74.31.41,5182,VN,TaDu Joint Stock Company
+124.217.67.142,8082,PH,Philippine Long Distance Telephone Company
+45.74.31.30,5643,DE,Hetzner Online GmbH
+45.174.168.12,999,MX,TELECOMUNICACIONES OTOMIES
+45.186.106.145,3128,GT,UFINET PANAMA S.A.
+45.74.31.30,5570,FR,OVH SAS
+45.74.31.23,5430,US,Interserver  Inc
+45.74.31.42,26185,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.189.60.72,999,MX,Mega Cable  S.A. de C.V.
+45.74.31.23,13425,FR,OVH SAS
+45.74.31.30,4058,DE,Hetzner Online GmbH
+45.74.31.42,15116,FR,OVH SAS
+45.74.31.22,5129,VN,TaDu Joint Stock Company
+45.74.31.23,5392,VN,TaDu Joint Stock Company
+45.74.31.42,4051,DE,IONOS SE
+45.74.31.25,4587,GB,WHG Hosting Services Ltd
+45.74.31.23,13885,US,Unified Layer
+49.148.17.137,9999,PH,Philippine Long Distance Telephone Company
+45.74.31.47,34360,US,Network Solutions  LLC
+45.74.31.42,28481,US,Oracle Corporation
+45.74.31.41,16452,US,CoreSpace  Inc.
+160.25.83.52,1082,VN,HTTVSERVER TECHNOLOGY COMPANY LIMITED
+202.59.75.8,8080,PK,Autonomous System Number for Nexlinx
+201.7.31.55,8080,SY,High Speed For Internet Services L.L.C
+45.74.31.47,4243,US,DigitalOcean  LLC
+45.74.31.42,20302,FR,OVH SAS
+45.74.31.47,15826,US,Oracle Corporation
+45.74.31.30,7521,DE,IONOS SE
+89.222.132.31,3629,RU,Netorn LLC
+45.74.31.23,4671,FR,OVH SAS
+45.74.31.22,4917,FR,Contabo GmbH
+45.74.31.41,10815,US,Interserver  Inc
+96.9.77.71,51080,KH,SINET  Cambodia's specialist Internet and Telecom Service Provider.
+45.74.31.25,8809,FR,OVH SAS
+45.74.31.41,15936,US,Unified Layer
+45.74.31.50,12595,FR,OVH SAS
+45.74.31.23,14785,US,Oracle Corporation
+45.74.31.23,7325,US,Unified Layer
+45.74.31.50,14495,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+41.70.106.1,5678,MW,Malawi Research and Education Network - MAREN
+45.74.31.41,12363,FR,OVH SAS
+45.74.31.23,15159,US,Namecheap  Inc.
+45.74.31.22,4566,FR,Contabo GmbH
+45.74.31.30,7039,FR,OVH SAS
+45.74.31.23,10191,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.25,6417,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.50,10891,ID,BIZNET NETWORKS
+45.74.31.25,5594,FR,OVH SAS
+47.81.56.193,8888,TH,Alibaba (US) Technology Co.  Ltd.
+103.141.164.203,8080,KH,ANGKOR DATA COMMUNICATION
+142.93.140.6,3128,NL,DigitalOcean  LLC
+45.74.31.47,5238,NL,LeaseWeb Netherlands B.V.
+45.74.31.30,8273,FR,OVH SAS
+113.167.83.98,1080,VN,VNPT Corp
+45.74.31.40,9162,US,DigitalOcean  LLC
+45.74.31.25,7261,US,Unified Layer
+45.74.31.42,17278,US,CoreSpace  Inc.
+45.74.31.50,5122,VN,TaDu Joint Stock Company
+115.214.204.130,7777,CN,Chinanet
+45.74.31.42,4825,DE,IONOS SE
+45.74.31.50,4784,US,Namecheap  Inc.
+45.74.31.42,4378,DE,IONOS SE
+45.74.31.23,6423,US,Unified Layer
+196.216.133.18,1080,ZA,HERO TELECOMS (PTY) LTD
+45.74.31.22,4113,FR,Contabo GmbH
+85.133.250.27,80,AE,Arvancloud Global Technologies L.L.C
+45.74.31.47,15881,US,Oracle Corporation
+45.74.31.30,9943,FR,OVH SAS
+45.74.31.23,6563,FR,OVH SAS
+213.27.29.153,51000,RU,MTS PJSC
+45.74.31.22,13953,US,CoreSpace  Inc.
+45.74.31.42,10570,US,Namecheap  Inc.
+45.74.31.30,5172,US,CoreSpace  Inc.
+45.74.31.23,6555,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.236.65.201,8520,BR,TCPNET INFORMATICA E COMUNICACAO EIRELI - ME
+45.74.31.30,4930,US,Microsoft Corporation
+203.91.76.32,1080,HK,AROSSCLOUD INC.
+45.74.31.25,16076,FR,Scaleway SAS
+45.174.175.26,999,MX,JAVIER TAMAYO GARCIA
+45.74.31.30,39309,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,17354,US,CoreSpace  Inc.
+45.74.31.41,4803,FR,Contabo GmbH
+45.74.31.22,13107,US,CoreSpace  Inc.
+46.171.28.162,59311,PL,Orange Polska Spolka Akcyjna
+45.74.31.22,16990,US,CoreSpace  Inc.
+45.74.31.23,6102,US,Unified Layer
+45.74.31.50,9410,US,Oracle Corporation
+45.74.31.25,6883,NL,LeaseWeb Netherlands B.V.
+45.74.31.23,6090,BR,Oracle Corporation
+45.74.31.25,4814,US,Namecheap  Inc.
+45.74.31.41,16198,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.30,6191,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.30,5939,US,Unified Layer
+45.114.144.67,32650,IN,Tejays Dynamic Limited
+185.200.188.234,10001,RU,Ihor Hosting Ltd
+195.190.121.154,1080,RU,PVimpelCom
+45.74.31.40,14519,US,CoreSpace  Inc.
+45.74.31.22,16973,ID,BIZNET NETWORKS
+45.74.31.25,18746,US,Unified Layer
+45.74.31.50,5118,VN,TaDu Joint Stock Company
+45.74.31.23,9389,US,Oracle Corporation
+45.74.31.41,4005,FR,Contabo GmbH
+88.220.133.87,4153,PL,Exatel S.A.
+45.74.31.42,13985,US,Oracle Corporation
+45.74.31.23,7813,FR,OVH SAS
+45.74.31.50,14023,SG,Contabo Asia Private Limited
+36.77.215.197,8080,ID,PT Telekomunikasi Indonesia
+45.74.31.41,14956,US,Oracle Corporation
+45.74.31.30,10052,FR,OVH SAS
+45.74.31.23,4800,US,DigitalOcean  LLC
+45.74.31.30,10118,NL,LeaseWeb Netherlands B.V.
+85.117.32.166,4153,GE,Caucasus Online Ltd.
+45.74.31.50,15012,US,DigitalOcean  LLC
+194.88.150.90,8443,UA,NetCrafters OU
+45.74.31.25,5453,LT,UAB Baltnetos komunikacijos
+45.74.31.42,4122,FR,Contabo GmbH
+45.74.31.23,4435,FR,OVH SAS
+160.25.83.52,1090,VN,HTTVSERVER TECHNOLOGY COMPANY LIMITED
+116.100.193.198,8080,VN,Viettel Corporation
+45.74.31.22,17254,ID,BIZNET NETWORKS
+45.74.31.23,14157,US,Oracle Corporation
+45.74.31.41,9838,US,DigitalOcean  LLC
+45.74.31.25,6026,FR,OVH SAS
+45.188.76.100,999,MX,ONT NETWORKS SA de CV
+45.74.31.25,7709,DE,Hetzner Online GmbH
+194.124.36.14,8080,TR,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+45.74.31.22,10394,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.40,14304,SG,Contabo Asia Private Limited
+38.7.195.53,999,CL,VALLENET SPA
+45.198.10.82,8080,ID,PT JARINGAN LINTAS ARTHA
+45.74.31.41,15547,US,Unified Layer
+64.188.64.135,1080,DE,Play2go International Limited
+45.74.31.30,6826,DE,IONOS SE
+45.74.31.23,6818,FR,OVH SAS
+45.74.31.30,7003,FR,OVH SAS
+45.74.31.42,13316,US,Unified Layer
+45.74.31.30,8804,FR,OVH SAS
+45.74.31.23,10487,US,Network Solutions  LLC
+45.74.31.22,4933,FR,Contabo GmbH
+45.74.31.23,4233,US,Unified Layer
+45.74.31.41,15768,SG,Contabo Asia Private Limited
+45.74.31.42,5544,US,DigitalOcean  LLC
+45.74.31.25,4582,ID,BIZNET NETWORKS
+46.55.3.113,4145,MD,Moldtelecom SA
+161.248.171.25,8585,ID,PT JALUR DATA INDONESIA
+45.74.31.30,7057,DE,Hetzner Online GmbH
+77.221.136.53,8443,SE,Aeza Group LLC
+45.74.31.25,4475,US,Unified Layer
+45.74.31.30,34149,US,Microsoft Corporation
+45.74.31.23,14112,US,Oracle Corporation
+45.74.31.23,4481,US,CoreSpace  Inc.
+45.74.31.23,4007,US,Unified Layer
+45.74.31.42,15110,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.23,10391,FR,OVH SAS
+45.74.31.41,13313,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.22,10590,ID,BIZNET NETWORKS
+45.74.31.30,34178,VN,TaDu Joint Stock Company
+171.33.246.100,1080,RU,Igra-service LLC
+43.134.17.145,8080,SG,Tencent Building  Kejizhongyi Avenue
+45.178.74.52,999,MX,ABIX TELECOMUNICACIONES S.A. DE C.V.
+5.160.103.246,8080,IR,Respina Networks & Beyond PJSC
+45.74.31.30,8964,US,DigitalOcean  LLC
+103.147.134.209,8082,ID,PT.MURNI MAKMUR ABADI
+45.74.31.47,8623,US,Microsoft Corporation
+45.74.31.47,4068,VN,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
+45.74.31.22,5050,VN,TaDu Joint Stock Company
+45.74.31.22,7919,US,Namecheap  Inc.
+45.74.31.42,13054,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+185.30.43.65,60606,RU,SerDi TeleCom  LTD
+45.74.31.23,4141,FR,OVH SAS
+45.74.31.50,9746,ID,BIZNET NETWORKS
+45.74.31.23,9092,FR,Contabo GmbH
+45.74.31.30,8044,IN,BHARAT DATACENTER
+180.149.44.118,10808,AZ,G-Core Labs S.A.
+103.124.136.219,8080,ID,PT.Global Media Data Prima
+45.74.31.50,15407,US,CoreSpace  Inc.
+45.74.31.50,21935,US,Oracle Corporation
+45.74.31.30,13801,US,Namecheap  Inc.
+185.62.48.126,5678,IT,Elektronica Sistemi Di Muro Mauro E Turcinovic Walter S.n.c.
+45.74.31.25,6379,US,Unified Layer
+58.136.100.104,8080,TH,AIS Fibre
+203.205.49.2,10140,VN,CMC Telecom Infrastructure Company
+45.74.31.42,42568,FR,OVH SAS
+45.74.31.40,12961,US,Unified Layer
+45.74.31.40,4456,VN,TaDu Joint Stock Company
+45.74.31.25,4987,US,Unified Layer
+45.74.31.22,8374,BI,Burundi Backbone System SM
+101.36.112.205,1081,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+8.242.153.168,999,CO,Level 3 Parent  LLC
+45.74.31.23,5254,FR,OVH SAS
+45.74.31.22,15880,US,Liquid Web  L.L.C
+79.110.118.15,1080,BG,Rutil Ltd.
+45.74.31.42,24645,US,Network Solutions  LLC
+45.74.31.23,8534,FR,OVH SAS
+45.74.31.23,10170,US,Network Solutions  LLC
+45.74.31.25,43441,US,Oracle Corporation
+45.74.31.50,11585,US,Network Solutions  LLC
+45.74.31.41,4349,VN,TaDu Joint Stock Company
+45.74.31.42,4963,US,Unified Layer
+176.124.205.244,1080,SE,Aeza Group LLC
+45.74.31.23,4270,US,CoreSpace  Inc.
+45.74.31.23,7763,FR,OVH SAS
+103.138.14.29,8080,ID,PT Adidaya Infocom Lestari
+45.74.31.40,14784,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.174.243.160,999,MX,SISTEMAS Y SOLUCIONES DE CAMPECHE SAS DE CV
+45.74.31.41,16587,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+91.26.188.170,8080,DE,Deutsche Telekom AG
+45.74.31.22,14115,US,CoreSpace  Inc.
+45.74.31.50,15851,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.30,7125,DE,Hetzner Online GmbH
+45.74.31.23,13440,US,Oracle Corporation
+45.74.31.42,4364,US,Namecheap  Inc.
+45.74.31.41,16303,US,Microsoft Corporation
+85.117.61.112,8080,GE,Caucasus Online Ltd.
+43.156.199.63,8081,SG,Tencent Building  Kejizhongyi Avenue
+45.74.31.22,15240,US,Oracle Corporation
+45.74.31.50,12778,US,Network Solutions  LLC
+45.74.31.47,7320,US,Oracle Corporation
+45.74.31.30,34558,VN,TaDu Joint Stock Company
+185.225.41.228,7890,SY,Syrian Telecommunication Private Closed Joint Stock Company
+43.160.245.155,8080,SG,Tencent Building  Kejizhongyi Avenue
+45.74.31.23,4491,US,Unified Layer
+95.131.10.134,1080,RU,MTS PJSC
+45.74.31.30,20896,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.23,11591,FR,OVH SAS
+147.45.224.100,3128,RU,Timeweb  LLP
+45.74.31.40,18147,US,Unified Layer
+46.8.31.104,1080,KZ,Fedinyak Sergey Vyacheslavovich
+45.74.31.23,15857,GB,WHG Hosting Services Ltd
+45.74.31.30,6673,ID,BIZNET NETWORKS
+45.74.31.22,17086,IN,Ishan's Network
+45.74.31.30,39609,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.30,7261,FR,OVH SAS
+45.74.31.30,4966,US,Network Solutions  LLC
+45.249.79.105,3629,IN,CtrlS
+45.187.105.196,8080,BR,GPR NET COMUNICACOES EIRELI
+45.74.31.30,7215,FR,OVH SAS
+45.74.31.30,4444,US,Unified Layer
+45.74.31.50,13265,US,Unified Layer
+45.74.31.23,6887,US,Unified Layer
+45.74.31.23,5710,US,Unified Layer
+45.162.225.114,59341,BR,RIONET TECNOLOGIA EM INTERNET EIRELI - ME
+45.74.31.41,5013,US,CoreSpace  Inc.
+45.74.31.30,9846,FR,OVH SAS
+45.74.31.23,10364,ID,BIZNET NETWORKS
+45.74.31.22,14852,AR,Telecom Argentina S.A.
+45.74.31.41,12275,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.41,13745,US,Oracle Corporation
+45.74.31.30,9648,FR,OVH SAS
+45.61.129.165,9050,DE,Stiftung Erneuerbare Freiheit
+45.74.31.50,16100,DE,Hetzner Online GmbH
+45.74.31.25,8404,VN,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
+45.74.31.30,7048,US,Oracle Corporation
+45.74.31.40,26852,US,New Dream Network  LLC
+160.250.6.18,8082,PH,G Links Solution
+45.74.31.23,14518,US,Oracle Corporation
+45.74.31.40,16850,US,Unified Layer
+45.74.31.41,4979,FR,Contabo GmbH
+45.74.31.25,6954,US,Unified Layer
+45.74.31.30,8807,FR,OVH SAS
+45.74.31.25,25149,BI,Burundi Backbone System SM
+45.74.31.42,6353,DE,IONOS SE
+45.74.31.30,10208,ID,BIZNET NETWORKS
+31.76.50.159,3128,FI,DpkgSoft International Limited
+45.74.31.23,8844,FR,OVH SAS
+45.74.31.25,8443,SG,Contabo Asia Private Limited
+200.31.12.188,999,CO,Level 3 Parent  LLC
+202.59.75.4,8080,PK,Autonomous System Number for Nexlinx
+45.136.13.110,12366,HK,LUCIDACLOUD LIMITED
+45.74.31.47,7952,US,Oracle Corporation
+45.74.31.41,12242,FR,OVH SAS
+110.232.92.228,2404,ID,PT. NAP Info Lintas Nusa
+45.74.31.22,15269,US,DigitalOcean  LLC
+45.229.204.122,999,AR,VISIO RED SRL
+49.48.81.115,8080,TH,Triple T Broadband Public Company Limited
+45.74.31.41,4148,VN,TaDu Joint Stock Company
+45.74.31.23,16668,GB,WHG Hosting Services Ltd
+45.74.31.41,11884,US,Oracle Corporation
+45.74.31.23,13717,US,Oracle Corporation
+45.74.31.42,15212,FR,OVH SAS
+45.74.31.41,11493,FR,OVH SAS
+45.74.31.22,11958,US,Network Solutions  LLC
+45.74.31.40,9895,FR,Scaleway SAS
+45.74.31.50,15408,US,Network Solutions  LLC
+103.155.196.83,8082,ID,PT Jembatan Data Pangrango
+45.74.31.40,15759,US,CoreSpace  Inc.
+45.74.31.23,6971,FR,OVH SAS
+45.74.31.23,16025,DE,Hetzner Online GmbH
+213.108.199.97,3128,NL,Scalaxy B.V.
+45.74.31.42,15289,FR,OVH SAS
+45.74.31.30,8889,FR,OVH SAS
+45.74.31.30,4976,BR,Oracle Corporation
+45.74.31.30,9391,FR,OVH SAS
+45.74.31.30,5641,FR,OVH SAS
+45.74.31.22,4918,FR,Contabo GmbH
+45.74.31.23,9618,FR,Contabo GmbH
+45.74.31.23,8141,FR,OVH SAS
+45.74.31.23,14422,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.41,11874,ID,BIZNET NETWORKS
+45.74.31.30,7630,FR,OVH SAS
+45.74.31.25,11584,US,CoreSpace  Inc.
+45.74.31.30,4101,US,Namecheap  Inc.
+45.74.31.25,6204,FR,OVH SAS
+45.74.31.30,4295,GB,WHG Hosting Services Ltd
+216.250.96.123,10805,HK,HKBN Enterprise Solutions Limited
+45.74.31.47,5838,US,Namecheap  Inc.
+45.74.31.23,5184,VN,TaDu Joint Stock Company
+45.74.31.42,13397,ID,BIZNET NETWORKS
+45.74.31.23,14017,US,Oracle Corporation
+45.74.31.40,17682,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.22,4234,FR,Contabo GmbH
+103.87.26.161,8080,IN,Falconet Internet Pvt.ltd.
+45.74.31.40,10782,US,Oracle Corporation
+45.74.31.41,14221,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+223.204.55.166,8080,TH,Triple T Broadband Public Company Limited
+169.255.77.150,8865,ZA,HERO TELECOMS (PTY) LTD
+45.74.31.22,12358,US,Oracle Corporation
+45.74.31.30,9459,FR,OVH SAS
+85.133.162.37,8080,IR,Shabakieh Isfahan Co PJSC
+165.101.102.239,8080,PH,iRateNet Solutions
+83.56.15.57,5678,ES,Telefonica De Espana S.a.u.
+45.74.31.30,9983,FR,OVH SAS
+45.74.31.50,5164,VN,TaDu Joint Stock Company
+45.74.31.23,6438,FR,OVH SAS
+45.74.31.30,4406,US,CoreSpace  Inc.
+45.74.31.30,4774,US,Namecheap  Inc.
+45.74.31.30,9106,GB,Akamai Connected Cloud
+45.74.31.30,21472,FR,OVH SAS
+45.74.31.30,7025,US,CoreSpace  Inc.
+58.65.142.254,8125,PK,Nayatel (Pvt) Ltd
+45.74.31.23,6964,US,Network Solutions  LLC
+45.74.31.30,7926,US,Namecheap  Inc.
+45.74.31.30,9273,FR,OVH SAS
+45.74.31.30,8038,FR,OVH SAS
+45.74.31.30,6360,US,Namecheap  Inc.
+45.74.31.23,8552,FR,OVH SAS
+45.74.31.22,14191,US,Oracle Corporation
+45.74.31.22,9991,FR,Scaleway SAS
+203.205.49.2,10048,VN,CMC Telecom Infrastructure Company
+45.74.31.30,5870,US,CoreSpace  Inc.
+45.74.31.30,5833,FR,OVH SAS
+190.109.126.44,1010,AR,INTERNET CORDOBA S.A.S
+45.74.31.41,15672,US,Network Solutions  LLC
+45.74.31.23,11209,US,Oracle Corporation
+202.59.75.3,8080,PK,Autonomous System Number for Nexlinx
+45.74.31.40,14424,US,Microsoft Corporation
+45.74.31.25,7342,VN,TaDu Joint Stock Company
+45.74.31.50,13254,US,Oracle Corporation
+85.117.56.115,8080,GE,Caucasus Online Ltd.
+45.74.31.42,22752,US,Unified Layer
+176.88.166.219,8080,TR,Superonline Iletisim Hizmetleri A.S.
+45.74.31.22,8803,US,Namecheap  Inc.
+45.74.31.47,5351,US,Namecheap  Inc.
+45.74.31.30,4250,US,CoreSpace  Inc.
+45.74.31.23,12953,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.50,13111,FR,OVH SAS
+91.223.52.141,5678,PL,InterWan Sp. z o.o.
+45.74.31.30,7349,FR,OVH SAS
+45.188.125.49,999,MX,DIGY NETWORKS
+45.74.31.25,4419,GB,WHG Hosting Services Ltd
+45.74.31.42,17705,US,Unified Layer
+45.74.31.41,10441,US,Oracle Corporation
+43.241.247.43,8080,ID,PT Mega Cipta Netindo
+38.7.195.51,999,CL,VALLENET SPA
+45.74.31.25,15912,FR,OVH SAS
+8.138.217.152,21001,CN,Hangzhou Alibaba Advertising Co. Ltd.
+45.74.31.30,36713,FR,Scaleway SAS
+45.178.55.2,999,AR,SITERNET SRL
+45.74.31.22,17031,US,Oracle Corporation
+45.74.31.23,4999,US,Unified Layer
+45.74.31.22,4459,VN,TaDu Joint Stock Company
+45.74.31.22,8338,US,DigitalOcean  LLC
+45.232.152.2,8080,AR,VICENTE CLAUDIO ORLANDO
+43.252.106.147,8080,ID,Lintas Data Prima  PT
+45.74.31.30,6069,US,Microsoft Corporation
+45.74.31.30,9628,FR,OVH SAS
+45.74.31.30,11741,FR,OVH SAS
+182.253.143.181,8080,ID,BIZNET NETWORKS
+45.74.31.42,14727,US,DigitalOcean  LLC
+45.74.31.40,15674,US,Network Solutions  LLC
+45.74.31.22,20910,US,Oracle Corporation
+45.74.31.30,38921,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.23,14073,US,Oracle Corporation
+45.74.31.25,14728,ID,BIZNET NETWORKS
+45.74.31.41,13869,US,CoreSpace  Inc.
+174.138.165.211,36207,US,Charter Communications Inc
+116.204.166.51,8080,SY,High Speed For Internet Services L.L.C
+45.74.31.22,9170,ID,BIZNET NETWORKS
+45.74.31.22,4238,US,Namecheap  Inc.
+45.74.31.25,5640,FR,OVH SAS
+45.74.31.23,4900,FR,OVH SAS
+165.101.26.18,8080,AF,ARYAN DUNYA ICT
+45.74.31.40,8497,US,Namecheap  Inc.
+45.74.31.40,5114,VN,TaDu Joint Stock Company
+45.74.31.23,11970,US,Network Solutions  LLC
+45.74.31.23,4685,US,DigitalOcean  LLC
+45.74.31.22,13524,US,DigitalOcean  LLC
+45.74.31.22,14126,US,CoreSpace  Inc.
+45.74.31.47,15577,ID,BIZNET NETWORKS
+45.74.31.42,4424,US,Namecheap  Inc.
+45.74.31.47,7724,US,Microsoft Corporation
+45.74.31.22,4346,US,Namecheap  Inc.
+45.74.31.25,16586,US,Oracle Corporation
+45.74.31.42,28402,US,Unified Layer
+192.232.48.24,8181,ID,PT Axindo Infinitas Network
+45.74.31.40,21466,US,Unified Layer
+186.246.31.197,9050,NL,Church of Cyberology
+45.74.31.30,17954,US,Namecheap  Inc.
+45.74.31.23,15384,US,Oracle Corporation
+45.74.31.42,41791,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.30,5194,GB,WHG Hosting Services Ltd
+124.109.105.44,3128,BD,Head Office
+45.74.31.30,20918,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+79.133.66.110,81,RU,Rostelecom
+45.74.31.30,6114,US,Namecheap  Inc.
+45.74.31.40,8936,US,Oracle Corporation
+45.74.31.30,16137,VN,TaDu Joint Stock Company
+45.74.31.50,15050,US,Microsoft Corporation
+45.74.31.30,10364,FR,OVH SAS
+45.189.252.130,999,MX,TRACERED SA DE CV
+45.74.31.23,6209,BR,Oracle Corporation
+45.74.31.23,16449,CH,METANET AG
+45.74.31.40,9785,ID,BIZNET NETWORKS
+45.74.31.25,9065,US,Namecheap  Inc.
+45.74.31.25,6874,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.42,13933,US,Oracle Corporation
+62.201.212.198,4673,IQ,IQ Networks for Data and Internet Services Ltd
+45.74.31.40,13523,FR,OVH SAS
+45.74.31.23,4266,US,CoreSpace  Inc.
+49.213.59.105,8082,ID,PT GUNUNG SUGIH BESAR NETWORK
+45.74.31.25,6966,FR,OVH SAS
+45.74.31.42,30596,ID,BIZNET NETWORKS
+45.74.31.42,17049,SG,Contabo Asia Private Limited
+85.117.61.108,8080,GE,Caucasus Online Ltd.
+45.74.31.25,5922,US,Namecheap  Inc.
+45.175.59.17,61950,BR,Informatica & Tecnologia Ltda - ME
+45.74.31.40,13230,US,Oracle Corporation
+45.74.31.25,6920,FR,OVH SAS
+45.74.31.30,9379,FR,OVH SAS
+45.74.31.22,12678,US,Unified Layer
+45.74.31.50,10664,US,Network Solutions  LLC
+41.216.186.222,1080,ID,PT Perwira Media Solusi
+45.74.31.22,8725,US,Unified Layer
+45.74.31.22,11100,US,Unified Layer
+186.194.62.91,999,CO,GIGA FIBRA SAS
+45.74.31.41,15288,SG,Contabo Asia Private Limited
+45.198.20.166,8080,ID,PT Ikhlas Cipta Teknologi
+45.74.31.22,10434,US,Network Solutions  LLC
+201.159.20.108,999,MX,Konecta de Mexico  S. de R.L. de C.V.
+45.249.50.137,4153,IN,VAINAVI INDUSTIES LTD  INTERNET SERVICE PROVIDER  INDIA
+80.246.16.2,3128,RU,PJSC MegaFon
+102.219.209.86,3346,KE,Unwired Communications Limited
+174.138.162.37,39868,DE,Universitaet Stuttgart
+45.74.31.41,14596,US,Unified Layer
+45.74.31.50,5050,VN,TaDu Joint Stock Company
+45.74.31.30,9009,BR,Oracle Corporation
+45.74.31.22,4371,US,Unified Layer
+45.74.31.23,4364,US,CoreSpace  Inc.
+43.134.79.76,8081,SG,Tencent Building  Kejizhongyi Avenue
+45.74.31.22,10735,US,Unified Layer
+45.74.31.23,10160,FR,OVH SAS
+45.177.20.243,65535,PE,P&P BUSINESS GROUP SAC
+45.74.31.22,4945,US,Unified Layer
+45.74.31.40,12782,FR,OVH SAS
+45.74.31.22,10144,US,Network Solutions  LLC
+45.74.31.23,9620,FR,Contabo GmbH
+45.74.31.42,4189,FR,Contabo GmbH
+45.74.31.30,10606,GB,Enix Ltd
+45.74.31.42,28358,DE,Hetzner Online GmbH
+45.74.31.40,17199,US,Oracle Corporation
+45.74.31.22,12361,US,Unified Layer
+45.74.31.22,17074,US,Oracle Corporation
+45.74.31.23,8889,VN,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
+45.74.31.30,7659,US,Oracle Corporation
+5.189.138.17,3128,FR,Contabo GmbH
+64.204.90.17,999,CO,U2RED S.A.S
+8.243.163.58,999,US,Level 3 Parent  LLC
+45.74.31.22,13312,SG,Contabo Asia Private Limited
+45.74.31.23,5739,ID,BIZNET NETWORKS
+49.229.36.172,4153,TH,SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX
+45.74.31.30,10405,US,Unified Layer
+45.74.31.22,4170,VN,TaDu Joint Stock Company
+45.74.31.42,13688,ID,BIZNET NETWORKS
+45.174.77.224,999,MX,NIDIX NETWORKS S.A. DE C.V.
+45.74.31.23,14492,US,Oracle Corporation
+45.74.31.30,8231,FR,OVH SAS
+45.74.31.23,4242,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.23,15231,US,Oracle Corporation
+45.74.31.50,10799,US,Unified Layer
+103.130.61.60,8081,ID,PT. Fiqran Solusindo Mediatama
+45.74.31.23,12785,US,Network Solutions  LLC
+38.7.195.49,999,CL,VALLENET SPA
+186.22.246.60,3128,AR,Telecentro S.A.
+45.74.31.30,6257,US,Namecheap  Inc.
+45.74.31.47,18883,NZ,EOL (Enternet Online Ltd)
+45.74.31.22,4821,VN,TaDu Joint Stock Company
+45.74.31.41,14236,US,Unified Layer
+45.74.31.22,9263,US,Microsoft Corporation
+45.74.31.25,7425,VN,TaDu Joint Stock Company
+45.74.31.41,15705,SG,Contabo Asia Private Limited
+45.74.31.30,5198,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.23,6217,US,Unified Layer
+45.74.31.42,17041,US,CoreSpace  Inc.
+45.74.31.22,13104,US,Network Solutions  LLC
+45.74.31.23,5946,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.25,7445,VN,TaDu Joint Stock Company
+157.20.35.41,8080,ID,PT Desible Eradata Komunikasi
+45.74.31.22,5039,US,Unified Layer
+45.74.31.30,4216,BI,Burundi Backbone System SM
+45.74.31.47,15729,ID,BIZNET NETWORKS
+45.74.31.30,14912,VN,TaDu Joint Stock Company
+45.74.31.41,15949,US,Oracle Corporation
+45.74.31.23,10484,US,Network Solutions  LLC
+45.74.31.40,12883,US,CoreSpace  Inc.
+45.74.31.40,9434,ID,BIZNET NETWORKS
+45.74.31.30,39115,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.30,4865,US,Unified Layer
+45.74.31.25,6316,US,Network Solutions  LLC
+45.74.31.30,39537,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.22,4456,VN,TaDu Joint Stock Company
+103.162.54.157,8080,ID,PT Pratama Asia Globalindo
+45.74.31.30,6243,US,Oracle Corporation
+45.74.31.23,10057,US,Oracle Corporation
+45.74.31.25,5844,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+43.157.200.223,40001,ID,Cloudflare  Inc.
+45.74.31.41,12865,US,Network Solutions  LLC
+45.74.31.23,8625,LT,UAB Baltnetos komunikacijos
+45.74.31.22,17528,DE,Hetzner Online GmbH
+160.25.83.52,1081,US,M247 Europe SRL
+45.74.31.25,5083,DE,Hetzner Online GmbH
+45.74.31.50,14369,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.22,15665,US,Oracle Corporation
+45.74.31.41,15947,US,Network Solutions  LLC
+45.74.31.23,5574,US,Unified Layer
+45.74.31.50,12829,ID,BIZNET NETWORKS
+45.74.31.40,12834,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.25,17924,US,Oracle Corporation
+114.246.204.134,8888,CN,China Unicom Beijing Province Network
+45.74.31.23,6223,US,Unified Layer
+45.74.31.47,4406,ID,BIZNET NETWORKS
+45.74.31.30,4536,US,DigitalOcean  LLC
+45.74.31.30,4441,US,Unified Layer
+45.74.31.30,16445,VN,TaDu Joint Stock Company
+45.74.31.42,12036,ID,BIZNET NETWORKS
+45.74.31.22,11213,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.22,4179,VN,TaDu Joint Stock Company
+45.74.31.40,14692,DE,Hetzner Online GmbH
+45.74.31.23,6949,FR,OVH SAS
+45.74.31.22,17237,ID,BIZNET NETWORKS
+124.109.105.44,80,BD,Head Office
+45.74.31.23,4472,AR,Telecom Argentina S.A.
+45.74.31.25,8886,ID,BIZNET NETWORKS
+45.74.31.22,12199,ID,BIZNET NETWORKS
+45.74.31.23,7219,US,Unified Layer
+45.74.31.25,5256,US,CoreSpace  Inc.
+45.74.31.23,4102,US,Interserver  Inc
+45.74.31.25,4721,VN,TaDu Joint Stock Company
+203.20.42.90,8082,PH,RNDS Network
+45.74.31.50,14842,US,Oracle Corporation
+45.74.31.23,5616,US,Unified Layer
+61.247.186.234,1111,BD,OptiMax Communication Ltd.
+45.74.31.25,11224,US,CoreSpace  Inc.
+45.74.31.22,11443,ID,BIZNET NETWORKS
+45.74.31.42,29372,US,Network Solutions  LLC
+62.60.210.173,1080,FI,Hetzner Online GmbH
+45.74.31.30,34467,VN,TaDu Joint Stock Company
+45.74.31.25,8663,VN,TaDu Joint Stock Company
+45.74.31.30,5076,BR,Oracle Corporation
+45.74.31.23,6710,ID,BIZNET NETWORKS
+45.74.31.42,9594,US,Namecheap  Inc.
+62.60.231.45,10808,SE,Aeza Group LLC
+45.74.31.42,16460,US,CoreSpace  Inc.
+45.74.31.47,5375,ID,BIZNET NETWORKS
+45.74.31.30,6902,US,DigitalOcean  LLC
+217.145.227.122,60000,US,Charter Communications Inc
+45.74.31.23,5026,AR,Telecom Argentina S.A.
+45.74.31.40,16852,US,Oracle Corporation
+194.88.150.90,1080,UA,NetCrafters OU
+45.74.31.42,7558,US,Namecheap  Inc.
+45.74.31.50,9499,US,Oracle Corporation
+45.74.31.42,17044,US,Oracle Corporation
+45.74.31.23,12057,US,Network Solutions  LLC
+183.173.145.45,29290,US,EASY LINK LLC
+45.74.31.41,13077,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.30,5262,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.22,12662,US,CoreSpace  Inc.
+45.74.31.23,6581,FR,Contabo GmbH
+45.74.31.23,4078,US,CoreSpace  Inc.
+45.74.31.30,43199,US,Oracle Corporation
+183.91.68.211,8080,ID,PT Aplikanusa Lintasarta
+85.93.9.12,1080,DE,PFWeb Solutions
+45.74.31.30,5853,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+45.74.31.30,6401,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+47.95.206.224,45065,CN,CHINA UNICOM China169 Backbone
