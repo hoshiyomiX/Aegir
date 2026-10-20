@@ -1,1289 +1,1648 @@
 46.8.48.143,1080,RU,ZagorodTelecom LLC
-31.148.136.107,2080,RU,Mikron-Media LLC
-5.129.254.129,8888,RU,Jsc timeweb
-5.129.254.5,8888,RU,Jsc timeweb
-82.202.130.176,1010,RU,Beget LLC
-5.129.254.215,8888,RU,Jsc timeweb
-85.237.62.189,3629,RU,Rostelecom
-5.129.254.60,8888,RU,Jsc timeweb
-5.129.254.49,8888,RU,Jsc timeweb
-147.45.164.178,8888,RU,Jsc timeweb
+46.188.2.42,5678,RU,Joint-stock Company teleport Telecom
+77.37.203.137,1080,RU,Rostelecom
+89.151.134.157,3629,RU,Rostelecom
+195.91.129.101,1337,RU,JSC ER-Telecom Holding
+212.46.242.185,1080,RU,PVimpelCom
+85.30.222.99,2080,RU,Rostelecom
+87.242.118.172,2080,RU,Cloud.ru
 5.129.254.51,8888,RU,Jsc timeweb
+188.143.169.22,33333,RU,Petersburg Internet Network ltd.
+5.129.254.5,8888,RU,Jsc timeweb
 5.129.254.154,8888,RU,Jsc timeweb
 91.223.224.238,48293,RU,LLC ATK Telecom
-5.129.254.243,8888,RU,Jsc timeweb
-87.236.23.100,1080,RU,Cloudflare  Inc.
-5.129.254.70,8888,RU,Jsc timeweb
-195.68.145.5,80,RU,PVimpelCom
-46.232.249.209,40001,DE,Cloudflare  Inc.
-195.13.169.219,4153,LV,SIA Tet
-161.35.70.249,3128,DE,DigitalOcean  LLC
-109.194.199.198,10808,NL,Servers Tech Fzco
-87.236.23.100,1080,RU,Cloudflare  Inc.
-94.72.158.129,4153,BG,Telehouse EAD
-169.58.165.34,8118,FR,Cloudflare  Inc.
-212.34.230.102,4153,AM,Ucom CJSC
-46.29.116.6,4145,RU,Stavtelecom LLC
-80.65.211.149,8888,DE,netcup GmbH
-195.9.192.50,1080,RU,PJSC Moscow city telephone network
-185.73.39.117,3128,GB,Atlantic.net  Inc.
-95.182.78.14,5678,UA,PE UAinet
-194.67.120.148,10809,SE,UAB Cherry Servers
-77.239.96.194,1081,DE,International Hosting Company Limited
-89.208.232.117,1080,RU,LLC Digital Network
-91.150.189.122,1080,PL,Skyware Sp. z o.o.
-109.68.189.22,54643,RU,OOO Suntel
-35.228.49.168,9443,FI,Google LLC
-80.78.78.106,65530,AL,Vodafone Albania Sh.A.
-84.236.185.247,61710,ES,Aire Networks Del Mediterraneo Sl Unipersonal
-31.130.59.142,1080,RU,Kom lan Ltd
-91.92.78.207,4145,BG,Netguard LLC
-92.255.190.64,4153,RU,JSC ER-Telecom Holding
-91.193.238.172,10808,EE,RJ Network OU
-31.58.144.19,1080,AE,dataforest GmbH
-93.115.174.1,1080,RO,Alter-NET SRL
-80.254.115.122,2080,DE,Leaseweb Deutschland GmbH
-83.171.113.43,3128,RU,PVimpelCom
-87.228.228.101,4145,CY,Cyprus Telecommunications Authority
-91.193.238.172,10808,US,FDCservers.net
-78.138.185.81,3128,RU,Pjsc tattelecom
-212.175.50.76,8085,TR,Turk Telekom
-43.155.62.157,443,HK,Tencent Building  Kejizhongyi Avenue
-87.99.130.93,11080,US,Cloudflare  Inc.
-44.216.83.206,3128,US,Amazon.com  Inc.
-80.78.128.94,8080,ES,Cloudwifi  Sl
-94.183.225.168,1080,IR,Mizban Gostar Dade Alvand Ltd
-92.63.225.173,3128,US,HIVELOCITY  Inc.
-45.74.31.46,6209,FR,Contabo GmbH
-46.232.249.209,40001,DE,Cloudflare  Inc.
-71.26.9.161,3128,US,Comcast Cable Communications  LLC
-45.74.31.40,9505,FR,Contabo GmbH
-76.26.114.253,39593,US,Comcast Cable Communications  LLC
-45.74.31.46,5835,CH,Infomaniak Network SA
-194.67.207.95,19080,RU,Ihor Hosting Ltd
-45.74.31.46,10740,FR,OVH SAS
-103.242.2.206,1083,HK,Cloudie Limited
-178.252.74.29,1081,NL,Netrouting B.V.
-45.74.31.46,43144,US,Oracle Corporation
-45.194.41.70,8080,IN,YOTTA NETWORK SERVICES PRIVATE LIMITED
-185.142.156.203,80,IR,Asre Pardazeshe Ettelaate Amin Institute
-45.74.31.42,4803,FR,Contabo GmbH
-23.141.116.9,9000,VN,MINIUM NET LLC
-209.141.46.67,20001,US,FranTech Solutions
-45.74.31.40,9084,FR,Contabo GmbH
-154.201.126.94,8080,IN,CtrlS
-171.254.218.17,1080,VN,Viettel Group
-45.125.64.215,443,HK,Tele Asia Limited
-171.4.85.65,5678,TH,Triple T Broadband Public Company Limited
-158.220.80.184,3129,GB,Contabo GmbH
-45.74.31.40,40966,FR,Contabo GmbH
-1.20.169.32,8080,TH,TOT Public Company Limited
-103.164.55.81,3128,SG,Contabo Asia Private Limited
-45.74.31.42,19105,AT,IONOS SE
-45.74.31.40,4878,DE,Host Europe GmbH
-27.65.29.102,1080,VN,Viettel Group
-165.99.90.2,1080,BD,Future Communication and Network
-165.99.90.1,1080,BD,Future Communication and Network
-160.187.0.89,1080,VN,ONLINE DATA COMPANY LIMITED
-4.144.146.21,80,SG,Microsoft Corporation
-152.67.191.232,6800,IN,Oracle Corporation
-116.100.222.79,1080,VN,Viettel Corporation
-15.217.107.97,57074,NL,Church of Cyberology
-93.93.61.153,1080,LT,UAB Ogmios Centras
-103.248.9.69,80,ID,PT Flashnet Inovasi Teknologi
-195.19.50.130,1080,RU,JSC GTNT
-45.74.31.40,6205,FR,Contabo GmbH
-45.74.31.42,6442,US,Oracle Corporation
-45.74.31.46,12377,DE,Hetzner Online GmbH
-121.46.226.221,10808,HK,Zenlayer Inc
-45.74.31.42,10402,FR,OVH SAS
-171.250.223.2,1080,VN,Viettel Group
-45.74.31.40,10514,SG,DigitalOcean  LLC
-171.247.97.206,1080,VN,Viettel Group
-45.74.31.40,6060,DE,Host Europe GmbH
-43.245.199.34,1080,HK,IPTELECOM ASIA
-8.215.25.3,2080,ID,Alibaba (US) Technology Co.  Ltd.
-83.143.29.161,1080,BW,VBN Services
-45.74.31.42,5297,DE,Hetzner Online GmbH
-116.106.111.181,1080,VN,Viettel Corporation
-194.87.89.112,9150,SC,Datashield  Inc.
-182.252.89.134,8080,BD,Agni Systems Limited
-181.205.207.66,1080,CO,UNE EPM TELECOMUNICACIONES S.A.
-154.201.127.230,8080,IN,CtrlS
-105.214.51.182,5678,ZA,MTN SA
-43.99.60.244,8089,HK,Alibaba (US) Technology Co.  Ltd.
-23.141.116.9,9000,VN,MINIUM NET LLC
-43.166.153.83,1080,US,Tencent Building  Kejizhongyi Avenue
-171.248.210.30,1080,VN,Viettel Group
-45.74.31.46,4961,FR,OVH SAS
-50.234.24.129,32100,US,Comcast Cable Communications  LLC
-113.161.93.6,8080,VN,VNPT Corp
-103.137.148.253,1080,IN,Rainbow communications India Pvt Ltd
-139.162.78.109,3128,JP,Akamai Connected Cloud
-83.143.24.29,5678,BW,VBN Services
-45.74.31.40,9926,US,GoDaddy.com  LLC
-202.57.46.138,4145,PH,Philippine Global Communications Corporation
-103.80.214.177,8080,ID,PT Redi Revolusi Digital Solusi
-45.74.31.42,6905,US,Google LLC
-176.97.210.116,1010,DE,Tube-Hosting
-45.74.31.46,12499,US,Google LLC
-45.74.31.42,8841,FR,OVH SAS
-45.74.31.42,16405,US,IONOS SE
-150.251.152.212,80,FI,Inios Oy
-8.215.25.3,2080,ID,Alibaba (US) Technology Co.  Ltd.
-166.0.22.78,40001,JP,Cloudflare  Inc.
-45.74.31.40,14202,US,GoDaddy.com  LLC
-157.10.243.18,1080,BD,Star IT
-217.17.112.98,1080,RU,OOO KISS
-160.187.0.89,1080,VN,ONLINE DATA COMPANY LIMITED
-45.194.3.132,8080,IN,CtrlS
-45.74.31.40,7777,DE,Host Europe GmbH
-45.74.31.40,14055,US,Google LLC
-4.157.29.42,3001,US,Microsoft Corporation
-42.114.69.91,20001,VN,FPT Telecom Company
-45.74.31.46,4184,DE,Host Europe GmbH
-45.74.31.40,8758,FR,Contabo GmbH
-45.74.31.42,16645,FR,Contabo GmbH
-45.74.31.46,9292,MY,Shinjiru Technology Sdn Bhd
-45.74.31.46,15630,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-188.113.171.120,1080,RU,Sakhalin Cable Telesystems Ltd
-45.74.31.46,12538,US,GoDaddy.com  LLC
-195.9.146.246,3629,RU,PJSC Moscow city telephone network
-178.57.106.43,4145,RU,Sever Telecom JSC
-45.74.31.40,4209,US,GoDaddy.com  LLC
-45.74.31.46,15419,IN,Tier 4 Cloud Services
-45.74.31.40,10124,AT,IONOS SE
-45.74.31.46,9283,FR,Contabo GmbH
-119.94.119.26,8081,PH,Philippine Long Distance Telephone Company
-45.74.31.42,6629,AT,IONOS SE
-91.92.134.21,3128,IR,Iran Telecommunication Company PJS
-89.237.35.10,51549,RU,Joint Stock Company TransTeleCom
-45.74.31.40,8812,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.40,12985,US,GoDaddy.com  LLC
-62.146.180.4,3000,US,RingSquared CC
-31.76.127.171,3128,DE,H2nexus Cloud Services - Fzco
-43.156.154.226,12345,SG,Cloudflare  Inc.
-103.204.211.103,443,BD,Level3 Carrier Ltd.
-90.154.61.187,1080,RU,Rostelecom
-89.250.148.158,1080,RU,JSC ER-Telecom Holding
-5.175.192.43,1080,NL,Simon Mariacher
-45.74.31.46,5527,FR,OVH SAS
-45.74.31.42,6893,FR,Contabo GmbH
-45.74.31.42,16554,FR,Scaleway SAS
-83.56.15.57,5678,ES,Telefonica De Espana S.a.u.
-45.74.31.42,20521,FR,Contabo GmbH
-45.74.31.40,6440,US,Oracle Corporation
-82.132.19.108,4153,HR,Croatian Academic and Research Network
-45.74.31.46,14148,US,Google LLC
-45.74.31.40,15244,US,GoDaddy.com  LLC
-157.20.35.40,9090,ID,PT Desible Eradata Komunikasi
-47.236.168.243,1080,SG,Alibaba (US) Technology Co.  Ltd.
-185.21.141.238,1080,RU,Directive LLC
-109.106.196.250,4145,RU,PJSC MegaFon
-121.46.226.221,10808,HK,Zenlayer Inc
-47.95.193.186,8080,CN,Hangzhou Alibaba Advertising Co. Ltd.
-45.74.31.40,8084,FR,Contabo GmbH
-45.74.31.40,4324,DE,Host Europe GmbH
-110.93.205.254,1080,PK,Transworld Associates (Pvt.) Ltd.
-45.74.31.40,7488,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,13750,US,Google LLC
-147.236.181.86,50009,IL,ITC NG ltd
-45.74.31.46,14093,US,Google LLC
-212.220.13.98,4153,RU,Rostelecom
-149.248.194.233,9000,GB,Datacamp Limited
-45.74.31.46,8196,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-1.20.101.16,80,TH,TOT Public Company Limited
-45.74.31.40,8693,FR,Contabo GmbH
-45.74.31.40,7968,FR,Contabo GmbH
-45.74.31.40,10061,SG,DigitalOcean  LLC
-45.74.31.42,6930,ID,Biznet NAP - Internet Exchange Provider
-8.210.36.244,1080,HK,Alibaba (US) Technology Co.  Ltd.
-183.106.215.208,1080,KR,Korea Telecom
-52.128.241.106,1080,US,N963 PTE. LTD.
-104.219.55.50,40001,US,Cloudflare  Inc.
-45.74.31.42,12496,FR,Contabo GmbH
-129.226.89.151,80,SG,Tencent Building  Kejizhongyi Avenue
-113.22.224.63,1083,VN,Cloudflare  Inc.
-45.74.31.42,12908,US,Unified Layer
-58.27.213.133,1080,PK,National WiMAX/IMS environment
-45.74.31.42,24165,FR,O2switch SAS
-45.74.31.42,6404,AT,IONOS SE
-116.237.180.55,7001,SG,Zenlayer Inc
-194.150.68.101,6010,IR,Gostaresh Ertebat Azin Kia Company PJSC
-155.103.158.243,1080,US,VH Global Limited
-45.74.31.40,6953,FR,Contabo GmbH
-45.74.31.42,12869,US,Google LLC
-113.20.7.76,30001,US,MULTACOM CORPORATION
-45.74.31.46,14711,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,13320,ID,Biznet NAP - Internet Exchange Provider
-50.233.111.162,32100,US,Comcast Cable Communications  LLC
-45.74.31.40,17100,US,Google LLC
-45.74.31.40,7937,FR,Contabo GmbH
-183.106.215.208,1080,KR,Korea Telecom
-120.232.115.170,17981,CN,China Mobile Communications Group Co.  Ltd.
-45.139.85.2,3128,US,Cloudflare  Inc.
-103.242.12.177,1082,HK,cognetcloud INC
-45.74.31.40,16937,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.42,12792,US,Google LLC
-111.192.27.83,8888,CN,China Unicom Beijing Province Network
-1.20.101.24,80,TH,TOT Public Company Limited
-93.118.135.176,1080,IR,Iran Telecommunication Company PJS
-45.74.31.40,7533,FR,Contabo GmbH
-45.74.31.40,5119,US,GoDaddy.com  LLC
-111.192.54.230,8888,CN,China Unicom Beijing Province Network
-102.244.78.61,8089,CM,Orange Cameroun SA
-20.33.10.79,80,ZA,Microsoft Corporation
-77.238.79.111,5678,BG,Fiber 1 Ltd.
-45.74.31.42,4446,US,Google LLC
-95.84.138.67,1080,RU,Rostelecom
-123.121.137.55,8888,CN,China Unicom Beijing Province Network
-45.74.31.42,12408,FR,OVH SAS
-102.244.78.61,8080,CM,Orange Cameroun SA
-103.125.117.118,5555,ID,PT Baraya Telematika Nusantara
-102.244.78.61,8090,CM,Orange Cameroun SA
-45.74.31.42,4755,AT,IONOS SE
-114.245.153.111,8888,CN,China Unicom Beijing Province Network
-102.244.78.61,8083,CM,Orange Cameroun SA
-45.74.31.42,4747,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.40,8737,FR,Contabo GmbH
-95.66.212.45,10808,NL,Servers Tech Fzco
-197.224.185.3,3128,MU,Mauritius Telecom Ltd
-45.74.31.40,14867,US,GoDaddy.com  LLC
-45.74.31.40,14587,US,GoDaddy.com  LLC
-45.74.31.42,5228,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-122.246.4.30,17981,CN,NINGBO  ZHEJIANG Province  P.R.China.
-102.244.78.61,8084,CM,Orange Cameroun SA
-88.245.138.87,1080,TR,Turk Telekom
-45.74.31.42,18570,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.40,6821,FR,Contabo GmbH
-102.244.78.61,8086,CM,Orange Cameroun SA
-45.74.31.40,5402,SG,DigitalOcean  LLC
-45.74.31.40,5850,US,GoDaddy.com  LLC
-66.59.197.63,4000,TH,Datacamp Limited
-45.74.31.42,22170,US,Newfold Digital  Inc.
-45.74.31.42,5004,SG,Akamai Connected Cloud
-123.121.112.126,8888,CN,China Unicom Beijing Province Network
-45.74.31.42,23000,US,Oracle Corporation
-103.112.163.46,8080,ID,PT Telekomunikasi Indonesia
-45.74.31.40,16670,US,GoDaddy.com  LLC
-45.74.31.42,9170,US,Google LLC
-58.89.82.209,1080,JP,NTT DOCOMO BUSINESS Inc.
-111.192.23.52,8888,CN,China Unicom Beijing Province Network
-45.74.31.46,5810,CH,Infomaniak Network SA
-45.74.31.40,4443,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-13.38.27.183,50680,DE,F3 Netze e.V.
-98.94.14.234,8689,NL,Church of Cyberology
-95.140.18.238,22993,RU,Sputnik LLC
-45.141.177.0,1080,SC,Aeza Group LLC
-45.74.31.42,7228,SG,DigitalOcean  LLC
-110.232.92.228,2404,ID,PT. NAP Info Lintas Nusa
-69.36.63.128,1080,US,Point Broadband Fiber Holding  LLC
-104.219.55.50,40001,US,Cloudflare  Inc.
-203.201.190.33,1080,ID,PT WIRA HASTA JITU
-45.74.31.42,17841,AT,IONOS SE
-47.107.107.24,80,CN,Hangzhou Alibaba Advertising Co. Ltd.
-154.221.24.92,1080,SC,YISU CLOUD LTD
-45.74.31.42,5139,DE,Hetzner Online GmbH
-188.72.43.129,47193,IQ,Pirmam For Information Technology Services Ltd
-45.74.31.42,24082,ID,PT INDONESIA COMNETS PLUS
-45.74.31.40,6888,FR,Contabo GmbH
-45.74.31.42,22069,US,Oracle Corporation
-45.74.31.42,5674,FR,Contabo GmbH
-112.211.38.208,8081,PH,Globe Telecom Inc.
-45.74.31.46,13038,US,Google LLC
-2.50.191.129,10800,AE,Emirates Telecommunications Group Company (etisalat Group) Pjsc
-45.74.31.42,6565,SG,DigitalOcean  LLC
-45.74.31.42,4177,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-79.110.118.15,1080,BG,Rutil Ltd.
-45.74.31.40,15613,FR,Contabo GmbH
-45.74.31.40,9140,US,GoDaddy.com  LLC
-45.74.31.40,8941,FR,Contabo GmbH
-45.74.31.42,18914,DE,Host Europe GmbH
-45.74.31.40,16319,FR,Contabo GmbH
-45.74.31.42,7050,FR,Contabo GmbH
-166.0.22.78,40001,JP,Cloudflare  Inc.
-45.74.31.40,17009,US,Google LLC
-45.74.31.42,20084,FR,Contabo GmbH
-111.192.45.218,8888,CN,China Unicom Beijing Province Network
-45.74.31.46,9934,US,GoDaddy.com  LLC
-45.74.31.42,6214,US,Oracle Corporation
-45.74.31.46,17448,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.42,14758,FR,Contabo GmbH
-45.74.31.42,10121,SG,DigitalOcean  LLC
-103.36.10.79,1010,ID,PT Awinet Global Mandiri
-45.74.31.40,8262,DE,Host Europe GmbH
-18.175.170.244,8466,IT,'Association Osservatorio Nessuno ODV'
-45.74.31.46,15965,US,Oracle Corporation
-45.74.31.40,4978,US,Oracle Corporation
-103.125.15.43,8085,ID,PT. RACKH LINTAS ASIA
-123.121.134.141,8888,CN,China Unicom Beijing Province Network
-160.25.155.85,8080,ID,PT Kuning Media Nusantara
-163.61.245.53,1080,ID,PT NAOMI AURORA TEKNOLOGI
-102.244.78.61,8081,CM,Orange Cameroun SA
-45.74.31.42,15144,FR,OVH SAS
-45.74.31.40,5389,FR,OVH SAS
-44.200.234.67,25479,DE,Stiftung Erneuerbare Freiheit
-45.74.31.42,6704,FR,Contabo GmbH
-163.61.245.53,8080,ID,PT NAOMI AURORA TEKNOLOGI
-45.74.31.42,6875,US,Unified Layer
-45.74.31.46,5238,US,Oracle Corporation
-45.74.31.40,9416,US,GoDaddy.com  LLC
-45.74.31.42,8439,SG,DigitalOcean  LLC
-45.74.31.42,11794,CH,Infomaniak Network SA
-45.74.31.42,8380,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-102.244.78.61,8085,CM,Orange Cameroun SA
-34.142.210.154,40001,SG,Cloudflare  Inc.
-45.74.31.46,6163,FR,Scaleway SAS
-45.74.31.46,4073,DE,Host Europe GmbH
-103.158.236.84,8080,PK,GNS Solutions Private Limited
-45.74.31.40,13720,US,GoDaddy.com  LLC
-45.74.31.46,5210,US,Unified Layer
-176.88.166.201,8080,TR,Superonline Iletisim Hizmetleri A.S.
-45.74.31.40,14857,FR,OVH SAS
-105.214.95.149,5678,ZA,MTN SA
-186.33.41.48,999,EC,TURBONET S.A.
-194.87.197.21,8080,US,NovoServe B.V.
-90.161.220.67,3128,ES,Orange Espagne SA
-103.186.97.193,8080,ID,PT Jaringan Datamedia Nusantara
-45.74.31.40,8354,US,GoDaddy.com  LLC
-147.15.126.122,28080,BR,Oracle Corporation
-112.5.33.179,999,CN,China Mobile Communications Group Co.  Ltd.
-45.74.31.40,12812,US,GoDaddy.com  LLC
-45.74.31.46,13163,US,Google LLC
-118.179.135.69,9090,BD,AmberIT Limited
-105.214.90.230,5678,ZA,MTN SA
-45.74.31.42,5493,GB,Enix Ltd
-82.180.145.170,3129,IN,Contabo Asia Private Limited
-45.74.31.42,5532,DE,Hetzner Online GmbH
-82.200.30.126,13129,RU,Joint Stock Company TransTeleCom
-45.74.31.46,5650,DE,Host Europe GmbH
-45.74.31.42,7284,US,Unified Layer
-45.74.31.40,5088,TH,UNINET-TH
-45.74.31.40,7956,US,Oracle Corporation
-37.228.139.149,8080,IR,Parsan Lin Co. PJS
-87.126.64.193,4145,BG,Vivacom Bulgaria EAD
-45.74.31.46,10258,AT,IONOS SE
-45.74.31.40,4639,DE,Host Europe GmbH
-171.245.71.236,1086,VN,Viettel Group
-45.74.31.46,4202,US,Oracle Corporation
-222.71.205.37,1083,SG,Amazon.com  Inc.
-49.87.33.209,8989,CN,Chinanet
-45.74.31.46,10342,FR,Contabo GmbH
-45.74.31.40,5949,US,Oracle Corporation
-45.74.31.42,5288,SG,DigitalOcean  LLC
-45.74.31.40,10757,US,Oracle Corporation
-45.74.31.46,7574,FR,Contabo GmbH
-149.248.201.109,9000,GB,Datacamp Limited
-74.62.23.242,39593,US,Charter Communications Inc
-45.74.31.46,5563,DE,Host Europe GmbH
 46.8.104.176,1080,RU,Evro Telecom OOO
-46.175.148.45,1080,NL,Serverius Holding B.V.
-37.152.91.187,8080,ES,Soluciones Corporativas IP  SL
-95.66.212.45,10808,AM,Edge Core FZE
-45.74.31.40,14695,US,GoDaddy.com  LLC
-102.244.78.61,8082,CM,Orange Cameroun SA
-45.74.31.40,14683,SG,DigitalOcean  LLC
-45.74.31.42,13065,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.42,21289,US,GoDaddy.com  LLC
-83.237.214.70,1080,RU,MTS PJSC
-45.74.31.42,9593,US,GoDaddy.com  LLC
-45.74.31.46,12880,SG,DigitalOcean  LLC
-45.74.31.40,19454,FR,OVH SAS
-45.74.31.42,9575,IN,DigitalOcean  LLC
-45.74.31.46,8530,AT,IONOS SE
-143.105.48.163,1080,MZ,Space Exploration Technologies Corporation
-109.232.106.150,52435,RU,Thyphone Communications LLC
-103.155.196.183,8080,ID,PT Jembatan Data Pangrango
-5.23.104.251,1080,RU,Vidikon-K  CJSC
-45.74.31.46,11098,US,Google LLC
-45.74.31.42,17929,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-151.158.133.153,8080,ID,PT SANET MEDIA TEKNOLOGI
-149.130.173.58,9443,CO,Oracle Corporation
-77.37.203.137,1080,RU,Rostelecom
-160.19.146.115,2022,ID,PT Taska Sarana Nusantara
-8.242.153.166,999,CO,Level 3 Parent  LLC
-45.74.31.40,7981,US,GoDaddy.com  LLC
-103.182.22.245,9000,VN,INTERDIGI JOINT STOCK COMPANY
-114.9.29.166,8080,ID,INDOSAT Internet Network Provider
-176.195.231.44,1080,RU,PJSC MegaFon
-78.154.10.164,3128,BG,Vivacom Bulgaria EAD
-45.74.31.40,6169,AT,IONOS SE
-45.74.31.42,8680,FR,Contabo GmbH
-45.74.31.42,9119,US,Oracle Corporation
-45.74.31.42,11029,US,Unified Layer
-77.65.50.118,34159,PL,INEA sp. z o.o.
-45.74.31.40,6757,FR,Contabo GmbH
-91.234.96.45,9001,RU,Virtual Station LLC
-45.74.31.42,10182,CH,Infomaniak Network SA
-45.74.31.46,13713,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,7292,CH,Infomaniak Network SA
-31.170.18.1,4153,LV,Sia Nano IT
-45.74.31.42,22043,US,Oracle Corporation
-45.74.31.42,17326,FR,Contabo GmbH
-45.74.31.42,9973,TH,UNINET-TH
+185.75.189.76,1081,RU,JSC Selectel
+83.237.92.106,1080,RU,MTS PJSC
+5.129.254.60,8888,RU,Jsc timeweb
+5.129.254.70,8888,RU,Jsc timeweb
+185.215.53.129,3629,AM,Fnet LLC
+46.232.249.209,40001,DE,Cloudflare  Inc.
+217.14.192.183,1080,RU,OOO NI
+5.129.254.49,8888,RU,Jsc timeweb
+178.57.106.43,4145,RU,Sever Telecom JSC
+5.129.254.243,8888,RU,Jsc timeweb
+147.45.164.178,8888,RU,Jsc timeweb
+50.114.58.15,1080,DE,Sculk Ltd.
+169.58.165.34,8118,FR,Cloudflare  Inc.
+83.171.113.43,3128,RU,PVimpelCom
+161.35.70.249,3128,DE,DigitalOcean  LLC
+5.129.254.215,8888,RU,Jsc timeweb
 37.193.71.189,1080,RU,Novotelecom Ltd
-164.92.105.30,1080,US,DigitalOcean  LLC
-34.142.210.154,40001,SG,Cloudflare  Inc.
-45.74.31.42,8968,US,GoDaddy.com  LLC
-45.74.31.46,11360,IN,Tier 4 Cloud Services
-45.74.31.40,4357,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.40,9541,DE,Host Europe GmbH
-45.74.31.40,5653,US,GoDaddy.com  LLC
-45.74.31.40,8783,FR,Contabo GmbH
-45.74.31.40,9262,US,Microsoft Corporation
-45.74.31.40,8334,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-116.204.166.48,8080,US,High Speed For Internet Services L.L.C
-45.74.31.40,17421,FR,Scaleway SAS
-45.74.31.46,13285,US,GoDaddy.com  LLC
-194.186.248.97,80,RU,PVimpelCom
-115.236.37.105,2411,US,Zenlayer Inc
-45.74.31.46,14322,IN,Tier 4 Cloud Services
-45.74.31.46,9409,IN,Tier 4 Cloud Services
-45.74.31.40,13153,DE,Hetzner Online GmbH
-45.74.31.40,16138,US,GoDaddy.com  LLC
-149.248.213.249,9000,GB,Datacamp Limited
-45.74.31.46,7559,US,GoDaddy.com  LLC
-182.52.113.61,80,TH,TOT Public Company Limited
-103.180.127.116,8080,ID,PT Alam Media Data
-103.66.62.105,8080,ID,PT Buana Visualnet Sentra
-45.74.31.42,8082,US,Oracle Corporation
-203.252.142.217,80,KR,Konkuk University
-45.74.31.40,6982,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,12732,US,Google LLC
-45.74.31.40,8095,US,GoDaddy.com  LLC
-45.74.31.42,9241,FR,OVH SAS
-88.247.31.164,4153,TR,Turk Telekom
-45.74.31.46,7309,IN,Tier 4 Cloud Services
-45.74.31.46,8026,US,GoDaddy.com  LLC
-45.74.31.42,17139,FR,Contabo GmbH
-45.74.31.46,10736,US,GoDaddy.com  LLC
-112.208.174.83,8080,PH,Philippine Long Distance Telephone Company
-104.251.93.168,16062,US,Frontier Communications of America  Inc.
-103.4.95.90,1080,PK,PERN AS Content Servie Provider  Islamabad  Pakistan
-45.74.31.42,21984,ID,PT INDONESIA COMNETS PLUS
-45.74.31.40,7770,SG,DigitalOcean  LLC
-45.74.31.40,8133,CH,Infomaniak Network SA
-45.74.31.40,5098,FR,Contabo GmbH
-45.74.31.40,4768,IN,Tier 4 Cloud Services
-78.110.158.176,1080,RU,Limited Liability Company Irtelcom
-45.74.31.42,5052,DE,Hetzner Online GmbH
-45.74.31.42,11716,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.149.92.160,1080,HK,HGC Global Communications Limited
-182.52.113.85,443,TH,TOT Public Company Limited
-45.74.31.40,28206,IN,Tier 4 Cloud Services
-45.74.31.42,8147,US,New Dream Network  LLC
-103.151.88.201,8080,AF,AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK
-206.135.62.8,999,MX,IENTC S DE RL DE CV
-45.74.31.46,5044,DE,Host Europe GmbH
-45.74.31.42,7019,US,GoDaddy.com  LLC
-45.74.31.40,4064,TR,Cenuta Telekomunikasyon Anonim Sirketi
-14.36.232.55,1080,KR,Korea Telecom
-45.74.31.42,4673,FR,Contabo GmbH
-90.156.160.235,8080,UZ,Uzbektelekom Joint Stock Company
-92.86.92.126,42740,RO,Orange Romania S.A.
-45.74.31.46,4770,US,Unified Layer
-45.74.31.46,14887,IN,Tier 4 Cloud Services
-45.74.31.46,9043,US,Google LLC
-85.105.194.113,4153,TR,Turk Telekom
-45.74.31.40,4631,FR,Contabo GmbH
-45.74.31.40,5064,FR,OVH SAS
-202.142.153.220,1080,PK,GERRYS INFORMATION TECHNOLOGY PVT LTD.
-45.74.31.42,10562,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.42,9756,US,Oracle Corporation
-45.74.31.46,5416,FR,Contabo GmbH
-45.74.31.42,12946,CH,Infomaniak Network SA
-111.192.26.109,8888,CN,China Unicom Beijing Province Network
-45.74.31.46,7202,ID,BIZNET NETWORKS
-45.74.31.42,8446,US,Oracle Corporation
-45.74.31.40,16041,US,Unified Layer
-180.180.156.126,80,TH,TOT Public Company Limited
-45.74.31.42,14780,IN,Hostinger International Limited
-45.74.31.46,16996,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.42,8819,US,Oracle Corporation
-45.74.31.40,17829,US,Google LLC
-103.253.124.94,80,ID,Pemerintah Kota Batam
-45.74.31.42,20504,FR,OVH SAS
-1.20.178.251,80,TH,TOT Public Company Limited
-45.74.31.46,9715,US,GoDaddy.com  LLC
-45.74.31.42,11041,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,11159,IN,DigitalOcean  LLC
-45.74.31.42,5828,FR,Contabo GmbH
-45.74.31.46,10044,FR,Contabo GmbH
-45.74.31.42,9020,FR,OVH SAS
-45.74.31.46,12459,US,Oracle Corporation
-45.74.31.40,4609,ID,BIZNET NETWORKS
-171.221.240.100,10800,CN,Chinanet
-85.117.248.36,1080,ES,Connecta 1876 Slu
-45.74.31.46,6478,DE,Host Europe GmbH
-45.74.31.42,5898,US,Oracle Corporation
-45.74.31.42,8889,FR,OVH SAS
-45.74.31.42,10180,FR,Contabo GmbH
-45.74.31.46,4226,DE,Host Europe GmbH
-45.74.31.40,6997,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.40,9633,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,11871,US,Network Solutions  LLC
-45.74.31.40,9905,US,Oracle Corporation
-45.74.31.40,10333,US,DigitalOcean  LLC
-188.226.89.87,8080,RU,LLC KomTehCentr
-160.30.204.24,50005,US,Strong Technology  LLC.
-45.74.31.46,17551,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.42,11872,FR,Contabo GmbH
-180.211.161.26,8080,BD,Bangladesh Telecommunications Company Limited (BTCL)  Nationwide PSTN Operator and Data and
-45.74.31.40,8780,TH,UNINET-TH
-45.74.31.40,17587,US,GoDaddy.com  LLC
-45.74.31.42,22119,US,GoDaddy.com  LLC
-153.80.242.105,8080,RU,Global Connectivity Solutions Llp
-45.74.31.42,8572,US,Oracle Corporation
-85.117.56.117,8080,GE,Caucasus Online Ltd.
-45.74.31.40,7003,US,Google LLC
-45.74.31.42,4229,AT,IONOS SE
-45.74.31.46,8186,AT,IONOS SE
-45.74.31.46,13689,US,GoDaddy.com  LLC
-92.247.12.130,9510,BG,A1 Bulgaria EAD
-45.74.31.40,7474,FR,Contabo GmbH
-183.91.68.214,8080,ID,PT Aplikanusa Lintasarta
-45.74.31.42,15215,IN,Tier 4 Cloud Services
-45.74.31.40,11913,DE,Hetzner Online GmbH
-45.74.31.40,4688,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.42,16369,FR,Scaleway SAS
-45.74.31.40,6404,FR,Contabo GmbH
-45.74.31.40,10352,US,GoDaddy.com  LLC
-45.74.31.46,11302,US,Network Solutions  LLC
-45.38.22.64,999,VE,CORPORACION GALA IT  C.A.
-45.74.31.42,7210,FR,Contabo GmbH
-86.110.236.27,8080,SK,VNET a.s.
-151.158.133.143,8080,ID,PT SANET MEDIA TEKNOLOGI
-13.208.246.143,8090,DE,Stiftung Erneuerbare Freiheit
-45.74.31.46,13546,US,Oracle Corporation
-176.97.210.116,1010,DE,Tube-Hosting
-95.169.7.214,8080,US,IT7 Networks Inc
-45.74.31.40,15205,FR,OVH SAS
-45.74.31.46,8017,DE,Host Europe GmbH
-45.74.31.40,11702,US,GoDaddy.com  LLC
-45.74.31.42,5232,DE,Hetzner Online GmbH
-45.74.31.42,22470,FR,Contabo GmbH
-123.121.139.85,8888,CN,China Unicom Beijing Province Network
-45.74.31.42,5706,SG,DigitalOcean  LLC
-20.33.10.79,443,ZA,Microsoft Corporation
-45.74.31.40,17289,US,Unified Layer
-77.221.152.210,36219,FR,Aeza Group LLC
-45.74.31.42,6314,US,Oracle Corporation
-45.74.31.40,12622,AT,IONOS SE
-103.183.58.230,8080,ID,PT Core Digital Network
-63.180.203.233,8447,NL,Church of Cyberology
-45.74.31.42,8269,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.42,15271,US,Oracle Corporation
-182.52.136.32,80,TH,TOT Public Company Limited
-45.74.31.40,8105,US,GoDaddy.com  LLC
-103.46.11.160,8080,ID,Lintas Data Prima  PT
-160.30.204.24,50009,US,Strong Technology  LLC.
-45.74.31.46,10970,US,Google LLC
-45.74.31.42,14051,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-52.128.241.109,1080,US,N963 PTE. LTD.
-159.194.228.40,8888,US,Datacamp Limited
-157.15.144.81,1111,ID,PT. INDOTEK SOLUTION NETWORK
-176.115.146.232,8080,RU,Link Telecom NN Ltd.
-103.195.65.199,8080,ID,PT. NAP Info Lintas Nusa
-45.74.31.46,8191,FR,Contabo GmbH
-45.74.31.40,7243,DE,Hetzner Online GmbH
-45.74.31.42,21096,DE,Host Europe GmbH
-45.74.31.42,7123,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-54.198.140.56,5598,NL,Church of Cyberology
-103.162.55.2,8050,ID,Institut Agama Islam Negeri Madura
-103.18.78.156,1080,ID,PT. Usaha Adisanggoro
-113.11.179.218,8080,ID,BIZNET NETWORKS
-45.74.31.42,5602,FR,Contabo GmbH
-45.74.31.46,13419,US,Google LLC
-45.74.31.40,10633,DE,Hetzner Online GmbH
-178.248.7.114,58080,RU,Consumer Internet Cooperative PG-19
-95.87.73.121,8080,KG,Cjsc Saima Telecom
-45.74.31.42,13328,US,Google LLC
-45.74.31.42,15180,US,Google LLC
-190.94.212.216,999,VE,IFX Networks Venezuela C.A.
-45.74.31.40,5039,US,Unified Layer
-181.48.159.22,3128,CO,Telmex Colombia S.A.
-45.74.31.40,10191,US,Oracle Corporation
-160.22.207.73,8082,ID,PT Teradata Bintang Selaras
-45.74.31.42,5833,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.46,11067,US,Google LLC
-45.74.31.42,5977,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-103.182.22.245,9000,VN,INTERDIGI JOINT STOCK COMPANY
-45.74.31.42,11631,FR,Scaleway SAS
-14.36.232.55,1080,KR,Korea Telecom
-165.101.43.155,8080,ID,PT Lintas Jaringan Nusantara
-45.74.31.40,12344,AT,IONOS SE
-45.74.31.40,8104,FR,Scaleway SAS
-45.74.31.42,11706,FR,Contabo GmbH
-45.74.31.42,5554,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.40,8213,FR,Contabo GmbH
-45.74.31.42,6657,SG,DigitalOcean  LLC
-24.152.58.125,999,CO,ATENEA TELECOMUNICACIONES S.A.S
-45.74.31.42,4010,BR,Hostinger International Limited
-45.74.31.40,16436,FR,OVH SAS
-45.74.31.46,9372,US,GoDaddy.com  LLC
-46.17.43.219,7890,DE,TOKALA COMMUNICATIONS INC.
-45.74.31.46,17726,SG,DigitalOcean  LLC
-103.119.19.218,3128,CZ,Mastersoft S.R.L.
-45.65.224.74,999,AR,SOLUTION LAN S.A
-45.74.31.40,7394,FR,OVH SAS
-192.147.114.177,8080,ID,PT Global Asta Systelematika
-45.74.31.40,15175,FR,OVH SAS
-196.204.80.108,1981,EG,Vodafone Data
-45.74.31.42,7333,ID,BIZNET NETWORKS
-45.74.31.40,13398,US,GoDaddy.com  LLC
-45.74.31.42,7161,IN,Tier 4 Cloud Services
-45.74.31.40,8807,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.40,8287,FR,Contabo GmbH
-45.74.31.42,10346,CH,Infomaniak Network SA
-45.74.31.46,9803,DE,Hetzner Online GmbH
-186.33.51.14,999,CO,UFINET PANAMA S.A.
-45.74.31.46,14228,IN,Tier 4 Cloud Services
-45.74.31.40,14377,US,GoDaddy.com  LLC
-192.238.196.211,8080,HK,Antbox Networks Limited
-89.151.134.157,3629,RU,Rostelecom
-45.74.31.42,9874,US,GoDaddy.com  LLC
-45.74.31.40,7300,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.40,10845,DE,Hetzner Online GmbH
-201.4.69.92,8080,SY,High Speed For Internet Services L.L.C
-140.207.114.166,10080,CN,China Unicom Shanghai network
-200.94.38.45,2604,MX,Alestra  S. de R.L. de C.V.
-45.74.31.42,10356,US,GoDaddy.com  LLC
-45.74.31.42,12097,FR,Contabo GmbH
-88.218.92.64,3128,AM,GNC-Alfa CJSC
-45.74.31.42,6203,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.42,5864,IN,Tier 4 Cloud Services
-45.74.31.42,8126,FR,Contabo GmbH
-45.74.31.46,9833,US,GoDaddy.com  LLC
-45.74.31.42,5217,DE,Hetzner Online GmbH
-45.74.31.42,14981,US,GoDaddy.com  LLC
-45.74.31.40,8178,US,Google LLC
-83.237.213.34,1080,RU,MTS PJSC
-177.234.217.93,999,EC,UFINET PANAMA S.A.
-222.129.142.219,9000,CN,China Unicom Beijing Province Network
-45.74.31.46,10164,US,Oracle Corporation
-45.74.31.42,7908,ID,Biznet NAP - Internet Exchange Provider
-67.43.112.129,8080,US,Wisper ISP  LLC
-190.235.208.51,8081,PE,INTEGRATEL PERU S.A.A.
-113.192.12.225,8080,ID,PT Parsaoran Global Datatrans
-45.74.31.42,10128,FR,OVH SAS
-45.74.31.40,9535,FR,Contabo GmbH
-85.117.56.42,8080,GE,Caucasus Online Ltd.
-45.74.31.42,6802,US,GoDaddy.com  LLC
-103.75.84.192,8080,ID,MEGADATA-ISP
-45.74.31.42,7640,DE,Host Europe GmbH
-45.74.31.40,16021,US,GoDaddy.com  LLC
-103.134.222.163,8080,ID,PT Global Media Pratama Solusindo
-103.142.240.56,8080,ID,PT Multi Teknologi Telematika
-45.74.31.40,40559,FR,Contabo GmbH
-45.74.31.40,29809,IN,Tier 4 Cloud Services
-45.74.31.46,4055,TH,UNINET-TH
-163.61.245.73,1081,ID,PT NAOMI AURORA TEKNOLOGI
-45.74.31.42,13511,US,GoDaddy.com  LLC
-111.192.51.172,8888,CN,China Unicom Beijing Province Network
-45.74.31.42,13044,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-94.103.183.19,1080,NL,Aeza Group LLC
-45.74.31.40,12197,US,GoDaddy.com  LLC
-45.74.31.40,5925,DE,Host Europe GmbH
-45.74.31.42,8742,SG,DigitalOcean  LLC
-45.74.31.40,8563,US,GoDaddy.com  LLC
-157.10.226.93,8080,PK,ROUTE 1 DIGITAL (PVT.) LIMITED
-45.74.31.42,17492,ID,Biznet NAP - Internet Exchange Provider
-202.4.123.220,9090,BD,AmberIT Limited
-45.74.31.42,17077,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.42,5984,TR,Cenuta Telekomunikasyon Anonim Sirketi
-45.74.31.42,12184,FR,Contabo GmbH
-89.132.170.211,4145,HU,2Connect Telecommunications Infrastructure & Network Services Ltd.
-45.74.31.42,4364,US,Unified Layer
-45.74.31.42,4568,FR,Contabo GmbH
-124.217.33.228,5050,PH,Philippine Long Distance Telephone Company
-89.186.8.107,1080,PL,VIP AGENCJA REKLAMY sp. z o.o
-138.94.236.100,8080,BR,NETTCON PROVEDOR DE INTERNET EIRELI EPP
-223.206.138.192,8080,TH,Triple T Broadband Public Company Limited
-45.74.31.42,4294,IN,TECHNO FAQ DIGITAL MEDIA
-45.74.31.42,18231,FR,Contabo GmbH
-5.189.17.23,9050,DK,Forening for DotSrc
-94.198.188.140,81,KZ,7sat LLP
-91.247.92.63,5678,UA,Privately owned enterprise Alexsandrov Yuriy Viktorovich
-143.105.74.183,1080,NE,Space Exploration Technologies Corporation
-45.74.31.40,15627,FR,Contabo GmbH
-45.74.31.46,12979,US,GoDaddy.com  LLC
-45.74.31.40,6233,US,Oracle Corporation
-45.74.31.40,4610,AT,IONOS SE
-103.112.139.174,8080,ID,PT Telekomunikasi Indonesia
-45.74.31.42,13494,FR,Contabo GmbH
-45.74.31.40,6406,US,Oracle Corporation
-45.74.31.42,11303,FR,Contabo GmbH
-45.74.31.46,10395,US,Oracle Corporation
-45.74.31.42,7379,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.40,9039,US,GoDaddy.com  LLC
-45.74.31.40,16200,US,GoDaddy.com  LLC
-45.74.31.40,8699,FR,Contabo GmbH
-45.225.207.172,999,CL,VALLENET SPA
-45.74.31.40,5195,FR,OVH SAS
-45.74.31.42,11417,US,GoDaddy.com  LLC
-103.208.100.67,8082,ID,PT Tidar Lintas Nusa
-45.74.31.46,13599,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.42,9557,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-103.169.225.58,8080,ID,PT Superspace Teknologi Indonesia
+78.138.185.81,3128,RU,Pjsc tattelecom
+91.92.155.207,1080,CH,Akenes SA
+178.252.74.29,1081,NL,Netrouting B.V.
+95.182.78.2,5678,UA,PE UAinet
+45.74.31.42,4444,NL,Hostinger International Limited
+89.208.232.117,1080,RU,LLC Digital Network
+194.31.175.75,1080,DE,Timeweb  LLP
+185.238.236.226,58080,PL,RADIO-NET
+45.74.31.42,4423,FR,Contabo GmbH
+92.255.190.64,4153,RU,JSC ER-Telecom Holding
+45.74.31.40,4291,FR,Scaleway SAS
+91.211.100.35,44744,PL,Lukman Multimedia Sp. z o.o
+45.74.31.46,4344,FR,Contabo GmbH
+45.74.31.46,5174,FR,OVH SAS
+87.236.23.100,1080,RU,Cloudflare  Inc.
+35.228.49.168,9443,FI,Google LLC
+45.74.31.46,4419,FR,Contabo GmbH
+45.74.31.46,4091,DE,Host Europe GmbH
+45.74.31.46,4216,DE,Host Europe GmbH
+45.74.31.46,4178,FR,OVH SAS
+45.74.31.46,4731,FR,Contabo GmbH
+158.220.80.184,3129,GB,Contabo GmbH
+45.74.31.42,5519,GB,Hostinger International Limited
+45.74.31.46,4090,FR,Contabo GmbH
+45.74.31.40,5259,FR,OVH SAS
+161.230.153.228,3128,PT,Vodafone Portugal - Communicacoes Pessoais S.A.
+213.210.67.186,3629,RU,Rostelecom
+45.74.31.46,8119,FR,OVH SAS
+45.74.31.40,4163,FR,OVH SAS
+45.74.31.46,4063,AT,IONOS SE
+95.178.108.189,5678,FR,Eurofiber France SAS
+178.44.254.241,10808,NL,WEYRO LTD
+45.74.31.42,4593,AT,IONOS SE
+45.74.31.42,4553,FR,Scaleway SAS
+45.74.31.46,4206,AT,IONOS SE
+45.74.31.46,4484,FR,Scaleway SAS
+45.74.31.46,7495,DE,Hetzner Online GmbH
+45.74.31.40,5356,FR,OVH SAS
+45.74.31.40,6332,AT,IONOS SE
+45.74.31.42,5576,MY,Shinjiru Technology Sdn Bhd
+45.74.31.46,7210,DE,Hetzner Online GmbH
+5.129.254.129,8888,RU,Jsc timeweb
+45.74.31.42,8854,FR,OVH SAS
+45.74.31.40,13087,AT,IONOS SE
+213.27.29.153,51000,RU,MTS PJSC
+45.74.31.46,4631,FR,Contabo GmbH
+45.74.31.42,4465,AT,IONOS SE
+45.74.31.42,4850,AT,IONOS SE
+45.74.31.46,11107,DE,Hetzner Online GmbH
+45.74.31.46,4256,AT,IONOS SE
+45.74.31.42,4278,FR,Contabo GmbH
+45.74.31.46,5899,AT,IONOS SE
+45.74.31.42,8872,FR,OVH SAS
+45.74.31.46,6375,MY,Shinjiru Technology Sdn Bhd
+89.43.135.181,1080,SY,High Speed For Internet Services L.L.C
+45.74.31.46,4300,MY,Shinjiru Technology Sdn Bhd
+109.254.26.27,2080,NL,Greenhost BV
+45.74.31.42,4571,CH,Infomaniak Network SA
+45.74.31.40,4987,FR,Contabo GmbH
+45.74.31.46,5326,FR,Contabo GmbH
+45.74.31.46,4107,TR,Cenuta Telekomunikasyon Anonim Sirketi
+92.205.186.129,1080,FR,Host Europe GmbH
+45.74.31.42,6422,AT,IONOS SE
+79.98.32.135,8080,GB,High Speed For Internet Services L.L.C
+45.74.31.46,6548,CH,METANET AG
+81.16.9.222,3629,AM,Ucom CJSC
+84.44.39.159,9090,TR,Vodafone Net Iletisim Hizmetler AS
+37.140.67.59,10808,FR,FDCservers.net
+44.216.83.206,3128,US,Amazon.com  Inc.
+45.74.31.46,5415,AT,IONOS SE
+45.74.31.40,4076,US,Oracle Corporation
+45.74.31.42,4337,FR,Contabo GmbH
+45.74.31.46,4328,US,Oracle Corporation
+3.224.130.91,3128,US,Amazon.com  Inc.
+45.74.31.42,5705,US,Oracle Corporation
+45.74.31.40,9067,FR,Contabo GmbH
+109.61.117.11,1080,HU,Dravanet Co Ltd.
+45.74.31.46,4129,US,Oracle Corporation
+92.63.225.173,3128,US,HIVELOCITY  Inc.
+217.77.102.18,3128,RU,Rostelecom
+45.74.31.46,5096,US,Oracle Corporation
+45.74.31.42,4459,US,Oracle Corporation
 45.74.31.42,7319,MY,Shinjiru Technology Sdn Bhd
-95.170.122.80,2080,RU,Limited Company Information and Consulting Agency
-45.74.31.40,9379,DE,Deutsche Telekom AG
-45.74.31.42,11075,US,Unified Layer
-45.74.31.40,10023,IN,Tier 4 Cloud Services
-45.74.31.40,14047,US,GoDaddy.com  LLC
-177.234.221.204,999,EC,UFINET PANAMA S.A.
-45.74.31.40,6637,FR,Contabo GmbH
-103.172.23.250,1080,ID,PT Tujuhlangit Lintas Nusantara
-45.74.31.42,10632,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.40,17668,US,Unified Layer
-103.13.221.149,20000,HK,MOACK.Co.LTD
-45.74.31.40,8033,IN,Tier 4 Cloud Services
-123.113.129.17,1081,TW,Data Communication Business Group
-45.74.31.42,16704,FR,Contabo GmbH
-176.88.166.219,8080,TR,Superonline Iletisim Hizmetleri A.S.
-157.20.121.131,3128,ID,PT Timor Lintas Nusantara
-103.84.231.31,8080,ID,PT. Cemerlang Multimedia
-45.74.31.40,5605,FR,Contabo GmbH
-45.74.31.42,6696,AT,IONOS SE
-160.19.18.173,3125,ID,PT Indo Telemedia Solusi
-45.74.31.42,10568,IN,Tier 4 Cloud Services
-1.20.101.15,8080,TH,TOT Public Company Limited
-221.221.154.253,8888,CN,China Unicom Beijing Province Network
-152.0.252.83,8080,DO,Compania Dominicana de Telefonos S. A.
-160.30.204.24,50005,US,Strong Technology  LLC.
-45.74.31.46,10279,US,GoDaddy.com  LLC
-101.255.151.246,8080,ID,PT Remala Abadi
-45.74.31.46,15067,IN,Tier 4 Cloud Services
-121.46.226.221,10808,HK,Zenlayer Inc
-181.78.94.188,999,PY,UFINET PANAMA S.A.
-45.74.31.40,8298,SG,DigitalOcean  LLC
-45.74.31.40,10522,US,GoDaddy.com  LLC
-45.74.31.42,8243,SG,DigitalOcean  LLC
-45.74.31.40,15779,US,GoDaddy.com  LLC
-45.74.31.40,10650,DE,Hetzner Online GmbH
-45.74.31.46,7284,CH,Infomaniak Network SA
-45.74.31.46,6325,US,Google LLC
-45.74.31.42,16986,FR,Contabo GmbH
-45.74.31.46,12868,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.46,10496,FR,Contabo GmbH
-45.74.31.46,8560,DE,Hetzner Online GmbH
-221.179.242.6,11111,CN,China Mobile Communications Group Co.  Ltd.
-5.189.17.23,9050,DK,Forening for DotSrc
-45.74.31.40,12489,US,Oracle Corporation
-45.74.31.46,17000,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,13958,US,GoDaddy.com  LLC
-45.74.31.46,13567,SG,Akamai Connected Cloud
-45.74.31.40,9339,US,Oracle Corporation
-45.74.31.42,5208,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.40,16227,US,GoDaddy.com  LLC
-161.22.33.226,999,VE,THUNDERNET  C.A.
-45.74.31.40,4726,CH,Infomaniak Network SA
-45.74.31.42,8047,MY,Shinjiru Technology Sdn Bhd
-190.97.250.230,999,VE,VIGINET C.A
-181.79.157.171,999,CO,UFINET PANAMA S.A.
-151.158.133.145,8080,ID,PT SANET MEDIA TEKNOLOGI
-137.59.195.198,1080,PK,SKY TELECOM
-45.74.31.42,5509,AT,IONOS SE
-45.74.31.42,8685,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,12992,US,GoDaddy.com  LLC
-45.74.31.46,6497,US,Oracle Corporation
-45.74.31.42,4495,DE,Host Europe GmbH
-45.74.31.46,6856,IN,Tier 4 Cloud Services
-45.74.31.40,17128,US,Oracle Corporation
-45.74.31.42,5686,IN,Hostinger International Limited
-102.244.78.61,8088,CM,Orange Cameroun SA
-45.74.31.46,13671,SG,Akamai Connected Cloud
-82.86.112.48,999,VE,360NET C.A.
-45.74.31.42,23388,FR,OVH SAS
-45.74.31.40,6113,US,GoDaddy.com  LLC
-195.91.129.101,1337,RU,JSC ER-Telecom Holding
-95.66.212.45,10809,DE,aurologic GmbH
-1.4.198.212,8080,TH,TOT Public Company Limited
-110.93.244.44,1080,PK,Trans World Enterprise Services (Private) Limited
-45.74.31.46,13210,ID,Biznet NAP - Internet Exchange Provider
-112.208.162.30,8082,PH,Philippine Long Distance Telephone Company
-45.74.31.40,7605,IN,Tier 4 Cloud Services
-160.22.206.210,8082,ID,PT Teradata Bintang Selaras
-192.203.0.70,999,PR,BOOM NET
-45.74.31.46,10297,US,GoDaddy.com  LLC
-87.225.98.158,81,RU,Rostelecom
-45.74.31.46,15031,US,GoDaddy.com  LLC
-45.74.31.46,7783,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-101.205.144.70,7890,HK,Eons Data Communications Limited
-45.74.31.46,13919,US,GoDaddy.com  LLC
-45.74.31.42,7204,US,Oracle Corporation
-95.165.97.185,8080,RU,PJSC Moscow city telephone network
-45.74.31.42,5858,FR,Contabo GmbH
-202.179.76.105,51951,IN,Juweriyah Networks Private Limited
-185.216.18.138,44550,RU,Mega Tec LLC
-45.74.31.46,15325,ID,Biznet NAP - Internet Exchange Provider
-181.174.231.153,999,CO,SINERGY SOLUCIONES INTEGRALES
-175.100.34.177,8080,KH,ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.
-79.170.161.138,3128,RU,LLC Modern Communication Technologies
-45.74.31.40,14462,US,GoDaddy.com  LLC
-45.74.31.40,16046,US,GoDaddy.com  LLC
-78.155.66.90,8080,SY,Syrian Telecommunication Private Closed Joint Stock Company
-45.74.31.40,4435,US,Unified Layer
-45.74.31.46,8179,US,GoDaddy.com  LLC
-103.23.236.9,8080,IN,Kappa Internet Services Private Limited
-103.7.4.15,8082,BD,HPLink
-45.74.31.40,17109,FR,Contabo GmbH
-45.74.31.42,21672,CH,Infomaniak Network SA
-45.74.31.46,11973,AT,IONOS SE
-45.74.31.42,7099,ID,Biznet NAP - Internet Exchange Provider
-45.198.11.164,9191,ID,PT JARINGAN LINTAS ARTHA
-45.74.31.40,4725,FR,Contabo GmbH
-103.208.103.34,8080,ID,PT Tidar Lintas Nusa
-45.74.31.42,4741,ID,Biznet NAP - Internet Exchange Provider
-96.30.70.8,8081,TH,Symphony Communication (Thailand) PCL.
-45.74.31.40,16386,US,Oracle Corporation
-45.74.31.40,27652,IN,Tier 4 Cloud Services
-78.110.155.229,1080,RU,Limited Liability Company Irtelcom
-110.39.13.162,1080,PK,National WiMAX/IMS environment
-45.8.88.156,8095,RU,Voronezh Telecom LLC
-171.241.0.216,41433,VN,Viettel Group
-45.74.31.40,6259,TH,UNINET-TH
-45.144.64.162,8899,DE,Latitude.sh LTDA
-45.74.31.40,15984,US,GoDaddy.com  LLC
-45.74.31.42,6711,AT,IONOS SE
-103.76.108.165,3125,ID,PT Mahawira Nusantara Grup
-47.52.223.161,5872,HK,Alibaba (US) Technology Co.  Ltd.
-45.74.31.46,5164,US,Oracle Corporation
-45.74.31.46,43135,US,Oracle Corporation
-45.74.31.46,8838,FR,Contabo GmbH
-161.22.33.72,999,VE,THUNDERNET  C.A.
-45.74.31.40,7284,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,8163,CH,Infomaniak Network SA
-123.121.140.205,8888,CN,China Unicom Beijing Province Network
-45.118.77.67,1080,KH,EZECOM CO.  LTD.
-45.74.31.42,8272,CH,Infomaniak Network SA
-45.74.31.46,13625,US,Google LLC
-45.74.31.42,5034,FR,Contabo GmbH
-45.74.31.40,6600,CH,Infomaniak Network SA
-103.74.103.37,1080,VN,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
-45.230.174.21,4153,MX,OPSICOME SA DE CV
-45.74.31.46,6854,US,GoDaddy.com  LLC
-105.214.51.178,5678,ZA,MTN SA
-79.106.229.115,8989,AL,One Albania Sh.a.
-18.157.159.247,7774,US,StormyCloud Inc
-119.159.233.2,8080,PK,Pakistan Telecommunication Company Limited
-45.74.31.40,7812,US,GoDaddy.com  LLC
-202.70.156.250,8080,PK,Paknet Limited Merged into PTCL
-45.74.31.46,12731,AT,IONOS SE
-220.135.195.152,10801,TW,Data Communication Business Group
-45.74.31.40,13684,US,GoDaddy.com  LLC
-45.74.31.40,12754,ID,Biznet NAP - Internet Exchange Provider
-45.198.10.197,9191,ID,PT JARINGAN LINTAS ARTHA
-45.74.31.40,17936,US,Unified Layer
-45.74.31.40,6286,CH,Infomaniak Network SA
-45.74.31.40,8028,CH,Infomaniak Network SA
-45.74.31.40,7238,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-103.51.44.41,4145,ID,PT CITRA INFOMEDIA
-45.74.31.46,15018,IN,Tier 4 Cloud Services
-45.74.31.40,5944,FR,Contabo GmbH
-103.23.100.9,1080,ID,Universitas Negeri Semarang
-45.74.31.42,15219,FR,OVH SAS
-45.74.31.46,4415,TH,UNINET-TH
-45.74.31.46,10080,DE,Hetzner Online GmbH
-182.253.144.20,4153,ID,BIZNET NETWORKS
-45.74.31.46,9705,AT,IONOS SE
-45.74.31.46,4281,MY,Shinjiru Technology Sdn Bhd
-45.74.31.46,16906,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,4659,FR,Scaleway SAS
-103.191.218.214,8080,ID,PT Replay Inti Media
-103.203.234.144,3127,ID,PT Nesta Indo Media
-103.169.133.118,8080,ID,PT Alfa Omega Interkoneksi
-163.61.245.58,8383,ID,PT NAOMI AURORA TEKNOLOGI
-45.74.31.42,7945,IN,Tier 4 Cloud Services
-45.74.31.40,16458,US,Unified Layer
-123.121.132.234,8888,CN,China Unicom Beijing Province Network
-193.168.198.240,1080,FI,Baykov Ilya Sergeevich
-45.74.31.42,5263,DE,Hetzner Online GmbH
-45.74.31.46,10809,FR,Scaleway SAS
-45.74.31.42,8515,US,GoDaddy.com  LLC
-182.53.202.228,80,TH,TOT Public Company Limited
-45.74.31.46,7401,FR,Contabo GmbH
-45.74.31.40,12652,FR,OVH SAS
-160.250.6.18,8082,PH,G Links Solution
-79.174.63.25,8081,RU,JSC Ufanet
-45.74.31.40,12755,US,Oracle Corporation
-177.234.217.92,999,EC,UFINET PANAMA S.A.
-45.74.31.40,4177,FR,Contabo GmbH
-45.74.31.42,10151,FR,Scaleway SAS
-45.74.31.40,12100,AT,IONOS SE
-45.149.24.239,8080,UA,High Speed For Internet Services L.L.C
-89.43.132.197,8080,HU,High Speed For Internet Services L.L.C
-45.74.31.40,8938,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-200.63.104.131,8089,EC,Eliana Vanessa Morocho Ona
-45.74.31.42,17105,FR,OVH SAS
-45.74.31.42,8548,MY,Shinjiru Technology Sdn Bhd
-203.190.53.210,8080,ID,PT. Power Telecom Indonesia
-45.74.31.42,17182,FR,Contabo GmbH
-45.74.31.40,11488,US,GoDaddy.com  LLC
-45.74.31.40,12354,CN,Hangzhou Alibaba Advertising Co. Ltd.
-202.142.170.115,1080,PK,Multinet Pakistan Pvt. Ltd.
-102.244.78.61,8087,CM,Orange Cameroun SA
-193.23.216.176,8080,DE,Oc Networks Limited
-162.4.219.145,8080,ID,PT Nexzet Network Digital
-161.22.33.194,999,VE,THUNDERNET  C.A.
-45.74.31.46,11396,IR,Green Web Samaneh Novin PJSC
-45.74.31.42,8428,IN,Tier 4 Cloud Services
-90.188.92.116,36335,RU,Rostelecom
-45.74.31.40,15162,US,GoDaddy.com  LLC
-45.74.31.42,8516,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.65.224.125,999,AR,SOLUTION LAN S.A
-103.97.141.80,8081,ID,PT Jembatan Data Pangrango
-123.57.0.163,8888,CN,Hangzhou Alibaba Advertising Co. Ltd.
-45.74.31.42,9988,ID,Biznet NAP - Internet Exchange Provider
-94.253.95.241,3629,RU,Ivanteevskie telecommunicacii Ltd
-45.74.31.42,10895,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.40,4445,FR,Scaleway SAS
-45.74.31.42,6360,SG,DigitalOcean  LLC
-45.74.31.40,6963,US,GoDaddy.com  LLC
-111.192.57.123,8888,CN,China Unicom Beijing Province Network
-45.74.31.40,4735,US,Oracle Corporation
-45.74.31.40,15362,IN,DigitalOcean  LLC
-45.74.31.42,7267,FR,Contabo GmbH
-45.74.31.46,6225,TH,UNINET-TH
-45.74.31.46,4814,US,Oracle Corporation
-45.74.31.42,5304,ID,Biznet NAP - Internet Exchange Provider
-200.41.149.66,12323,AR,Telefonica de Argentina
-45.74.31.40,7617,US,GoDaddy.com  LLC
-45.74.31.42,15066,US,Oracle Corporation
-72.255.38.180,1080,PK,Cyber Internet Services (Pvt) Ltd.
-45.74.31.40,15836,US,Oracle Corporation
-45.74.31.46,8720,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,14952,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.42,4818,US,Google LLC
-180.191.234.200,2020,PH,Globe Telecoms
-45.74.31.46,12267,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.42,12759,US,Google LLC
-156.200.123.170,8080,EG,IDDQD-AS
-45.74.31.42,4975,DE,Hetzner Online GmbH
-45.74.31.40,7517,US,GoDaddy.com  LLC
-82.200.30.126,11080,RU,Joint Stock Company TransTeleCom
-45.74.31.42,7835,IN,Tier 4 Cloud Services
-45.74.31.46,14471,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.46,12575,US,GoDaddy.com  LLC
-45.74.31.40,9763,US,Oracle Corporation
-89.43.133.231,8080,SY,High Speed For Internet Services L.L.C
-45.74.31.42,22521,IN,Tier 4 Cloud Services
-45.74.31.42,16742,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,5870,US,GoDaddy.com  LLC
-45.74.31.40,15094,US,GoDaddy.com  LLC
-45.74.31.42,18449,FR,Contabo GmbH
-203.205.49.2,10194,VN,CMC Telecom Infrastructure Company
-91.206.92.212,9050,DE,Stiftung Erneuerbare Freiheit
-45.74.31.42,17805,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.46,10251,TH,UNINET-TH
-45.74.31.42,9678,MY,Shinjiru Technology Sdn Bhd
-175.136.209.251,8080,MY,TM TECHNOLOGY SERVICES SDN. BHD.
-103.250.69.190,9249,BD,Next Online Limited.
-45.74.31.42,8915,US,Google LLC
-45.74.31.42,9992,IN,DigitalOcean  LLC
-203.205.49.2,10089,VN,CMC Telecom Infrastructure Company
-45.74.31.42,20232,ID,Biznet NAP - Internet Exchange Provider
-190.60.44.4,999,CO,UFINET PANAMA S.A.
-181.79.217.1,8080,AR,UFINET PANAMA S.A.
-95.46.105.163,4145,RU,Kompleks Media LLC
-45.74.31.42,8881,US,Unified Layer
-45.74.31.42,19953,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.40,16255,SG,Akamai Connected Cloud
-45.74.31.46,9253,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.42,8070,FR,Scaleway SAS
-1.20.101.23,80,TH,TOT Public Company Limited
-45.74.31.42,8048,IN,Tier 4 Cloud Services
-43.200.174.95,1069,NL,Church of Cyberology
-45.74.31.42,6573,IN,Tier 4 Cloud Services
-92.113.147.54,1080,DK,Webdock.io ApS
-180.190.238.62,8080,PH,Globe Telecom Inc.
-45.74.31.40,10227,US,Oracle Corporation
-45.74.31.40,14626,US,GoDaddy.com  LLC
-45.74.31.40,9508,US,Oracle Corporation
-45.74.31.42,10889,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.40,7690,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.46,4116,US,Oracle Corporation
-45.74.31.40,8011,US,GoDaddy.com  LLC
-45.74.31.40,16965,US,Oracle Corporation
-104.251.93.55,16062,US,Frontier Communications of America  Inc.
-45.74.31.40,6083,AT,IONOS SE
-112.202.230.201,8082,PH,Philippine Long Distance Telephone Company
-45.74.31.42,12045,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,15159,ID,Biznet NAP - Internet Exchange Provider
-78.155.65.204,8080,SY,Syrian Telecommunication Private Closed Joint Stock Company
-45.74.31.46,17480,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,12042,US,Google LLC
-45.74.31.42,9194,AT,IONOS SE
-172.86.84.97,1083,PR,WorldNet Telecommunications  LLC
-45.74.31.46,17388,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,9377,IN,Tier 4 Cloud Services
-49.147.96.57,8082,PH,Philippine Long Distance Telephone Company
-120.28.200.84,5050,PH,Globe Telecom Inc.
-45.74.31.46,10483,US,GoDaddy.com  LLC
-45.74.31.46,9497,FR,Scaleway SAS
-45.74.31.42,9494,IN,DigitalOcean  LLC
-45.74.31.42,7787,FR,Contabo GmbH
-45.74.31.42,22610,ID,PT INDONESIA COMNETS PLUS
-45.74.31.40,9195,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.42,23086,US,Unified Layer
-45.74.31.46,4078,DE,Host Europe GmbH
-45.74.31.46,12874,ID,Biznet NAP - Internet Exchange Provider
-119.93.82.236,1080,PH,Philippine Long Distance Telephone Company
-45.74.31.42,6748,US,Oracle Corporation
-45.74.31.40,8140,FR,Contabo GmbH
-182.52.136.68,80,TH,TOT Public Company Limited
-45.74.31.40,4489,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,14392,IN,Tier 4 Cloud Services
-20.33.10.132,80,ZA,Microsoft Corporation
-45.74.31.40,8106,FR,Contabo GmbH
-45.74.31.42,15078,CH,Infomaniak Network SA
-163.47.25.50,8080,ID,PT STAR HOME INDONESIA
-45.74.31.46,17716,FR,OVH SAS
-45.74.31.46,17255,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.42,6944,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.42,9967,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.40,15797,US,GoDaddy.com  LLC
-45.74.31.40,7601,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.42,4310,FR,Contabo GmbH
-45.74.31.42,5599,SG,DigitalOcean  LLC
-45.74.31.40,9167,US,GoDaddy.com  LLC
-45.74.31.42,5075,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-116.204.166.51,8080,US,High Speed For Internet Services L.L.C
-45.74.31.46,4345,DE,Host Europe GmbH
-109.224.242.133,8585,UA,Unknown
-45.74.31.42,10116,IN,Hostinger International Limited
-45.74.31.42,5502,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-95.66.212.45,10808,DE,aurologic GmbH
-45.74.31.42,14522,US,GoDaddy.com  LLC
-45.74.31.46,4587,DE,Host Europe GmbH
-45.74.31.42,7209,SG,Akamai Connected Cloud
-193.233.84.18,1080,RU,Global Internet Solutions LLC
-154.221.24.92,1080,SC,YISU CLOUD LTD
-89.43.133.131,8080,HU,High Speed For Internet Services L.L.C
-45.74.31.46,13798,US,GoDaddy.com  LLC
-45.74.31.42,4307,DE,Hetzner Online GmbH
-45.74.31.40,8836,FR,Contabo GmbH
-45.74.31.40,8393,US,Google LLC
-182.52.113.54,80,TH,TOT Public Company Limited
-45.74.31.42,4153,BR,Hostinger International Limited
-188.132.150.250,8080,SY,High Speed For Internet Services L.L.C
-45.74.31.40,5240,FR,OVH SAS
-45.74.31.46,15375,US,GoDaddy.com  LLC
-45.74.31.42,6034,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,8475,AT,IONOS SE
-45.74.31.42,14991,IN,Tier 4 Cloud Services
-45.74.31.46,7301,FR,OVH SAS
-45.74.31.42,7465,US,Unified Layer
-95.84.164.92,8998,RU,Rostelecom
-45.74.31.40,9037,FR,Scaleway SAS
-45.74.31.42,5515,ID,Biznet NAP - Internet Exchange Provider
-201.7.31.60,8080,PL,High Speed For Internet Services L.L.C
-103.147.134.139,1080,ID,PT.MURNI MAKMUR ABADI
-45.74.31.42,5516,FR,Scaleway SAS
-45.74.31.42,9640,US,GoDaddy.com  LLC
-45.74.31.46,12432,TR,Cenuta Telekomunikasyon Anonim Sirketi
-115.236.37.105,2411,US,Zenlayer Inc
-45.74.31.42,5223,IN,Tier 4 Cloud Services
-45.74.31.40,4961,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.40,8650,FR,Contabo GmbH
-45.74.31.46,4881,FR,Contabo GmbH
-45.74.31.40,16083,US,GoDaddy.com  LLC
-45.74.31.46,7601,DE,Host Europe GmbH
-177.234.221.197,999,EC,UFINET PANAMA S.A.
-149.210.7.33,18080,GR,OTEnet S.A.
-45.74.31.42,4183,FR,Contabo GmbH
-45.74.31.40,5950,US,Microsoft Corporation
-45.74.31.46,4459,FR,OVH SAS
-103.74.103.37,1080,VN,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
-45.74.31.46,10309,US,GoDaddy.com  LLC
-45.74.31.46,6828,FR,OVH SAS
-45.74.31.40,16850,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-92.86.207.198,8080,RO,Orange Romania S.A.
-45.74.31.42,14675,MY,Shinjiru Technology Sdn Bhd
-37.255.238.188,88,IR,Iran Telecommunication Company PJS
-45.74.31.46,9203,US,GoDaddy.com  LLC
-45.171.129.1,8080,BR,Stok Info Telecom Ltda-me
-45.74.31.46,13200,IN,Tier 4 Cloud Services
-8.243.163.126,3128,CO,TV COLOMBIA DIGITAL SAS
-113.11.179.87,8080,ID,BIZNET NETWORKS
-45.74.31.46,4052,TH,UNINET-TH
-45.74.31.42,7834,US,Oracle Corporation
-45.74.31.42,5574,US,DigitalOcean  LLC
-45.74.31.42,15425,US,Unified Layer
-203.201.190.31,8080,ID,PT WIRA HASTA JITU
-45.74.31.42,11172,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.42,6713,US,Unified Layer
-45.74.31.40,16015,US,Oracle Corporation
-82.162.57.129,1080,RU,Rostelecom
-45.175.167.130,999,EC,CUBOTELECOM CIA. LTDA.
-45.74.31.40,8497,US,GoDaddy.com  LLC
-45.74.31.46,15302,FR,Contabo GmbH
-120.28.139.29,8081,PH,Globe Telecoms
-45.74.31.42,5761,IN,DigitalOcean  LLC
-45.74.31.46,15262,US,GoDaddy.com  LLC
-45.74.31.40,12749,US,GoDaddy.com  LLC
-45.74.31.46,11970,SG,DigitalOcean  LLC
-45.74.31.42,7729,US,Oracle Corporation
-45.74.31.42,14272,US,GoDaddy.com  LLC
-45.74.31.40,16097,US,GoDaddy.com  LLC
-45.74.31.46,13477,ID,Biznet NAP - Internet Exchange Provider
-8.242.153.173,999,CO,Level 3 Parent  LLC
-45.74.31.42,10085,US,GoDaddy.com  LLC
-45.74.31.40,7454,US,GoDaddy.com  LLC
-45.74.31.40,15241,US,GoDaddy.com  LLC
+45.74.31.46,4147,DE,Host Europe GmbH
+45.74.31.42,6330,US,Oracle Corporation
+185.182.110.74,1080,US,DigitalOcean  LLC
+45.74.31.42,7524,FR,Contabo GmbH
+45.74.31.40,5314,US,Network Solutions  LLC
+45.74.31.46,6978,FR,Contabo GmbH
+45.74.31.46,5115,US,Google LLC
+45.74.31.42,6405,US,Oracle Corporation
+45.74.31.40,4254,FR,Contabo GmbH
+45.74.31.42,7377,US,Google LLC
+45.74.31.42,5779,US,IONOS SE
+45.74.31.40,5658,US,Google LLC
+45.74.31.40,4948,US,Microsoft Corporation
+45.74.31.42,4680,US,IONOS SE
+45.74.31.42,5320,US,Google LLC
+45.74.31.40,6000,US,Google LLC
+45.74.31.42,7010,IN,Hostinger International Limited
+45.74.31.40,12788,AT,IONOS SE
+77.42.95.221,8888,US,Clouvider Limited
+45.74.31.46,7189,US,Google LLC
+45.74.31.46,4545,US,Google LLC
+45.74.31.46,4472,IN,Tier 4 Cloud Services
+45.74.31.46,4416,US,Google LLC
+176.215.246.216,1080,RU,JSC ER-Telecom Holding
+45.74.31.46,5081,US,Oracle Corporation
+203.205.49.2,10215,VN,CMC Telecom Infrastructure Company
+203.205.49.2,10094,VN,CMC Telecom Infrastructure Company
+45.74.31.42,5448,US,Google LLC
+45.74.31.40,6899,US,Google LLC
+45.74.31.46,8558,DE,Hetzner Online GmbH
+45.74.31.40,4378,TR,Cenuta Telekomunikasyon Anonim Sirketi
+45.74.31.40,5839,US,Google LLC
+45.74.31.42,5910,US,Oracle Corporation
+109.254.8.23,2080,DE,Baykov Ilya Sergeevich
+45.194.41.155,8080,IN,YOTTA NETWORK SERVICES PRIVATE LIMITED
+45.74.31.42,6772,IN,Hostinger International Limited
+45.74.31.40,4392,US,Microsoft Corporation
+183.87.145.150,2080,HK,Cloudflare  Inc.
+45.195.105.20,8080,IN,YOTTA NETWORK SERVICES PRIVATE LIMITED
+45.74.31.40,8178,US,Google LLC
+45.74.31.42,4664,DE,Hetzner Online GmbH
+45.74.31.42,5631,US,Oracle Corporation
+45.74.31.42,6661,FR,OVH SAS
+45.74.31.42,4628,DE,Hetzner Online GmbH
+45.74.31.46,5469,IN,DigitalOcean  LLC
+45.74.31.42,7412,US,Google LLC
+45.74.31.46,4874,IN,Tier 4 Cloud Services
+62.146.180.4,3000,US,Contabo Inc.
+45.74.31.42,8252,US,Oracle Corporation
+45.74.31.40,5116,FR,Contabo GmbH
+45.74.31.46,4630,US,Oracle Corporation
+70.60.132.130,5678,US,Charter Communications Inc
+45.74.31.40,5312,FR,Contabo GmbH
+45.74.31.42,9661,DE,Host Europe GmbH
+45.74.31.46,4556,IN,DigitalOcean  LLC
+45.74.31.46,4700,IN,Tier 4 Cloud Services
+45.74.31.46,8156,US,Google LLC
+45.74.31.42,4150,IN,DigitalOcean  LLC
+46.100.44.35,1085,IR,Iran Telecommunication Company PJS
+45.74.31.40,13730,DE,Hetzner Online GmbH
+23.185.168.181,3128,US,FASTNET DATA INC
+45.74.31.42,6952,IN,Hostinger International Limited
+45.74.31.40,7401,FR,Scaleway SAS
+45.74.31.40,15858,FR,OVH SAS
+45.74.31.42,5835,IN,Tier 4 Cloud Services
+45.74.31.46,4658,FR,Contabo GmbH
+45.74.31.40,4721,IN,Tier 4 Cloud Services
+45.74.31.42,6900,IN,Hostinger International Limited
+45.74.31.42,7610,US,Google LLC
+69.36.63.128,1080,US,Point Broadband Fiber Holding  LLC
+45.74.31.46,4174,DE,Contabo GmbH
+103.161.1.114,1111,ID,PT Metro Ring Bersama
+103.164.55.81,3128,SG,Contabo Asia Private Limited
+158.220.93.104,3128,GB,Contabo GmbH
+203.205.49.2,10118,VN,CMC Telecom Infrastructure Company
+45.74.31.46,16430,DE,Hetzner Online GmbH
+45.74.31.42,5083,DE,Hetzner Online GmbH
+45.74.31.40,4031,CH,Infomaniak Network SA
+45.74.31.40,5016,DE,Hetzner Online GmbH
+56.228.13.15,49833,NL,Church of Cyberology
+45.74.31.46,5937,SG,DigitalOcean  LLC
+45.74.31.40,15065,US,Oracle Corporation
+45.74.31.46,7491,US,Google LLC
+95.65.99.157,1080,MD,StarNet Solutii SRL
+45.74.31.40,9172,FR,OVH SAS
+4.144.146.21,80,SG,Microsoft Corporation
+149.130.173.58,9443,CO,Oracle Corporation
+45.74.31.46,5580,IR,Vandad Vira Hooman LLC
+45.74.31.40,4891,US,Oracle Corporation
+45.74.31.46,5867,FR,Contabo GmbH
+45.74.31.46,4984,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.125.64.215,443,HK,Tele Asia Limited
+180.180.151.173,8080,TH,National Telecom Public Company Limited
+185.182.110.74,1082,US,DigitalOcean  LLC
+27.65.114.229,1080,VN,Viettel Group
+210.79.140.130,8181,ID,PT Era Zia Sakti
 20.33.10.132,443,ZA,Microsoft Corporation
-45.74.31.46,8542,US,GoDaddy.com  LLC
-45.74.31.46,15820,IN,Tier 4 Cloud Services
-45.74.31.42,10212,IN,Tier 4 Cloud Services
-45.74.31.46,10486,IN,Tier 4 Cloud Services
-45.74.31.46,15171,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.46,16340,US,Unified Layer
-45.74.31.42,4738,AT,IONOS SE
-192.133.66.174,8081,PH,1RACE ICT INC.
-45.74.31.40,7348,FR,Contabo GmbH
-103.81.70.71,1080,BD,Independent Univeristy  Bangladesh
-45.74.31.42,7519,US,Unified Layer
-140.207.114.166,10080,CN,China Unicom Shanghai network
-45.74.31.42,12923,US,GoDaddy.com  LLC
-45.74.31.46,13551,US,GoDaddy.com  LLC
-45.74.31.40,15702,US,GoDaddy.com  LLC
-45.74.31.42,5170,SG,DigitalOcean  LLC
-45.74.31.46,9365,US,GoDaddy.com  LLC
-45.74.31.42,7402,FR,Scaleway SAS
-45.74.31.40,9292,FR,Contabo GmbH
-45.74.31.46,14105,SG,DigitalOcean  LLC
-45.74.31.46,9435,DE,Hetzner Online GmbH
-160.22.198.19,8082,ID,PT Ganesha Data Nusantara
-45.74.31.42,15665,VN,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
-45.74.31.42,4327,US,Google LLC
-45.74.31.46,15456,IN,Tier 4 Cloud Services
-45.74.31.40,7184,US,Oracle Corporation
-45.74.31.46,12428,US,DigitalOcean  LLC
-45.74.31.42,4317,FR,Contabo GmbH
-45.74.31.40,6774,US,Oracle Corporation
-45.74.31.40,13986,US,Oracle Corporation
-45.74.31.42,12137,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.42,10860,FR,Scaleway SAS
-45.74.31.46,9362,US,GoDaddy.com  LLC
-45.74.31.42,12957,US,GoDaddy.com  LLC
-217.171.94.166,1081,CD,Global Broadband Solution Inc
-45.74.31.46,4518,ID,BIZNET NETWORKS
-45.74.31.46,13942,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.46,7339,US,GoDaddy.com  LLC
-45.74.31.42,7401,SG,Akamai Connected Cloud
-45.74.31.42,7897,US,GoDaddy.com  LLC
-45.74.31.42,6687,CH,Infomaniak Network SA
-45.74.31.42,5934,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.42,4532,FR,Contabo GmbH
-45.74.31.42,5619,FR,Contabo GmbH
-45.74.31.46,4378,FR,Contabo GmbH
-213.217.34.2,8080,PL,High Speed For Internet Services L.L.C
-45.74.31.42,6194,IN,Tier 4 Cloud Services
-47.254.36.25,11080,US,Alibaba (US) Technology Co.  Ltd.
-45.74.31.46,8197,TH,UNINET-TH
-45.74.31.40,4683,US,Oracle Corporation
-45.74.31.46,9151,CH,Infomaniak Network SA
-45.74.31.46,5596,US,Oracle Corporation
-45.74.31.42,7913,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-13.215.184.250,3927,GR,Global Connectivity Solutions Llp
-45.74.31.40,7531,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.40,8305,US,Microsoft Corporation
-45.74.31.40,7881,US,GoDaddy.com  LLC
-45.74.31.42,7301,US,Unified Layer
-45.74.31.42,5460,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.42,22231,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.42,20680,FR,Contabo GmbH
-45.74.31.42,5195,SG,DigitalOcean  LLC
+181.205.207.66,1080,CO,UNE EPM TELECOMUNICACIONES S.A.
+152.67.191.232,6800,IN,Oracle Corporation
+45.74.31.46,11432,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.46,11957,ID,Biznet NAP - Internet Exchange Provider
+8.215.25.3,2081,ID,Alibaba (US) Technology Co.  Ltd.
+45.74.31.42,5177,ID,Biznet NAP - Internet Exchange Provider
+171.245.71.217,1081,VN,Viettel Group
+116.106.111.202,1080,VN,Viettel Corporation
+154.201.126.94,8080,IN,CtrlS
+45.74.31.40,5797,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.46,8168,IN,Tier 4 Cloud Services
+45.74.31.40,5559,AT,IONOS SE
+112.207.166.195,8082,PH,Philippine Long Distance Telephone Company
+165.99.90.1,1080,BD,Future Communication and Network
+45.74.31.46,11164,DE,Host Europe GmbH
+45.74.31.46,4016,US,GoDaddy.com  LLC
+171.248.210.30,1080,VN,Viettel Group
+5.180.242.216,8080,RU,Timer  LLC
+45.74.31.42,5340,TH,UNINET-TH
+45.74.31.42,6439,AT,IONOS SE
+45.74.31.40,4520,US,GoDaddy.com  LLC
+45.74.31.42,6201,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+91.150.189.122,1080,PL,Skyware Sp. z o.o.
+45.74.31.42,6458,US,GoDaddy.com  LLC
+8.215.25.3,2080,ID,Alibaba (US) Technology Co.  Ltd.
+8.215.25.3,2080,ID,Alibaba (US) Technology Co.  Ltd.
 34.142.210.154,40001,SG,Cloudflare  Inc.
-45.74.31.46,8823,US,GoDaddy.com  LLC
-45.74.31.46,17613,FR,Contabo GmbH
-47.129.105.10,41552,DE,Stiftung Erneuerbare Freiheit
-45.74.31.42,14047,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.40,15470,US,GoDaddy.com  LLC
-45.74.31.42,9875,US,GoDaddy.com  LLC
-45.74.31.40,4483,ID,BIZNET NETWORKS
-45.74.31.46,10501,DE,Hetzner Online GmbH
-45.74.31.46,13709,US,GoDaddy.com  LLC
-45.74.31.46,4985,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,10563,IN,Tier 4 Cloud Services
-45.74.31.42,4527,IN,Hostinger International Limited
-45.74.31.42,17715,AT,IONOS SE
-45.74.31.42,7399,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.42,6640,AT,IONOS SE
-45.74.31.42,18162,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.46,14423,US,GoDaddy.com  LLC
-45.74.31.40,7840,IN,Tier 4 Cloud Services
-45.74.31.46,9024,US,GoDaddy.com  LLC
-45.74.31.46,14496,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.40,9717,US,Unified Layer
-45.74.31.42,17306,IN,Tier 4 Cloud Services
-45.74.31.40,11098,US,GoDaddy.com  LLC
-45.74.31.46,8362,AT,IONOS SE
-45.74.31.40,5336,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-171.241.0.216,50001,VN,Viettel Group
-45.74.31.46,4493,ID,BIZNET NETWORKS
-45.74.31.40,12703,IE,Microsoft Corporation
-111.192.48.184,8888,CN,China Unicom Beijing Province Network
-45.74.31.42,13444,FR,OVH SAS
-45.74.31.42,6294,US,GoDaddy.com  LLC
-163.181.117.59,9898,HK,Zhejiang Taobao Network Co. Ltd
-45.74.31.42,5611,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.46,8042,US,GoDaddy.com  LLC
-160.30.204.24,50009,US,Strong Technology  LLC.
-45.74.31.46,13175,US,Google LLC
-45.74.31.42,8392,MY,Shinjiru Technology Sdn Bhd
-45.74.31.40,27695,IN,Tier 4 Cloud Services
-45.74.31.42,21890,FR,Contabo GmbH
-45.74.31.42,12424,IN,Tier 4 Cloud Services
-45.74.31.42,22259,US,Unified Layer
-45.74.31.42,7561,US,Unified Layer
-45.74.31.46,7390,FR,Contabo GmbH
-45.74.31.40,6865,FR,Contabo GmbH
-45.74.31.42,7808,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.42,8586,MY,Shinjiru Technology Sdn Bhd
-45.74.31.42,6954,US,Wave Broadband
-45.74.31.46,10890,IN,Tier 4 Cloud Services
+46.26.218.209,8080,ES,Vodafone Spain
+41.216.186.68,80,ID,PT. Trans Indonesia Superkoridor
+130.193.165.54,1080,IQ,Allay Nawroz Telecom Company for Communication/Ltd.
+45.74.31.46,4730,US,GoDaddy.com  LLC
+45.74.31.42,4097,AT,IONOS SE
+45.74.31.40,4769,FR,Scaleway SAS
+45.74.31.42,5253,NL,Microsoft Corporation
+45.74.31.40,14143,IN,NEXTA WEB SOLUTION PRIVATE LIMITED
+171.248.213.38,1080,VN,Viettel Group
+45.74.31.46,4290,TH,UNINET-TH
+45.74.31.46,7447,FR,Contabo GmbH
+160.22.198.19,8082,ID,PT Ganesha Data Nusantara
+139.162.78.109,3128,JP,Akamai Connected Cloud
+45.74.31.40,5277,IN,Tier 4 Cloud Services
+45.74.31.46,7178,FR,Contabo GmbH
+45.74.31.46,11344,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.40,4951,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.46,4425,FR,Contabo GmbH
+45.74.31.42,8034,BR,Hostinger International Limited
+45.74.31.46,5686,IN,TECHNO FAQ DIGITAL MEDIA
+45.74.31.40,4620,US,Unified Layer
+45.74.31.40,6496,SG,DigitalOcean  LLC
+45.74.31.40,8685,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.42,5616,SG,DigitalOcean  LLC
+45.74.31.40,5484,US,GoDaddy.com  LLC
+43.99.60.244,8089,HK,Alibaba (US) Technology Co.  Ltd.
+45.74.31.40,4418,US,Unified Layer
+45.74.31.42,15704,FR,Contabo GmbH
+45.74.31.46,7205,US,Unified Layer
+171.245.71.217,1080,VN,FPT Telecom Company
+101.36.112.205,1081,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+45.74.31.46,5998,US,Unified Layer
+45.74.31.42,5159,DE,Host Europe GmbH
+45.74.31.42,4494,US,Unified Layer
+45.74.31.46,5241,US,Unified Layer
+45.74.31.40,6440,US,Oracle Corporation
+45.74.31.42,5212,DE,Hetzner Online GmbH
+41.216.191.85,8080,ID,PT Link Data Sumber Barokah
+34.142.210.154,40001,SG,Cloudflare  Inc.
+45.74.31.42,4977,US,Unified Layer
+150.107.107.152,1080,NP,VIA NET COMMUNICATION LTD.
+45.74.31.42,8019,FR,Contabo GmbH
+45.74.31.46,4218,US,Oracle Corporation
+45.74.31.42,10032,US,Google LLC
+45.74.31.40,4718,ID,PT INDONESIA COMNETS PLUS
+45.74.31.40,6185,FR,Contabo GmbH
+45.74.31.42,4863,US,GoDaddy.com  LLC
+45.74.31.46,7333,US,Unified Layer
+45.74.31.42,6312,US,Oracle Corporation
+45.140.165.128,40001,FR,Cloudflare  Inc.
+45.74.31.40,4408,FR,Contabo GmbH
+45.74.31.46,9333,IN,Tier 4 Cloud Services
+171.245.71.217,1080,VN,FPT Telecom Company
+45.74.31.46,4946,ID,PT INDONESIA COMNETS PLUS
+45.74.31.42,6534,VN,TaDu Joint Stock Company
+45.74.31.46,6732,US,GoDaddy.com  LLC
+45.74.31.46,6894,US,Unified Layer
+45.74.31.46,5512,DE,Hetzner Online GmbH
+45.74.31.46,8184,IN,Tier 4 Cloud Services
+45.74.31.46,5131,ID,PT INDONESIA COMNETS PLUS
+45.74.31.42,5141,US,Unified Layer
+45.74.31.46,7859,US,Google LLC
+45.74.31.46,5754,ID,PT INDONESIA COMNETS PLUS
+103.178.171.113,8181,ID,PT Trisari Data Indonusa
+45.74.31.40,4507,US,New Dream Network  LLC
+103.178.120.53,1080,PK,KK Networks (Pvt) Ltd.
+45.74.31.42,16444,FR,Contabo GmbH
+45.74.31.40,6834,US,GoDaddy.com  LLC
+45.74.31.46,5111,TR,Cenuta Telekomunikasyon Anonim Sirketi
+45.74.31.42,4849,AT,IONOS SE
+45.74.31.42,4479,US,Unified Layer
+45.74.31.42,5123,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,5338,FR,Contabo GmbH
+8.219.69.210,443,SG,Alibaba (US) Technology Co.  Ltd.
+45.74.31.46,5736,US,GoDaddy.com  LLC
+45.74.31.46,4157,US,Oracle Corporation
+85.117.63.207,8080,GE,Caucasus Online Ltd.
+45.74.31.46,6934,US,Alibaba (US) Technology Co.  Ltd.
+202.57.46.138,4145,PH,Philippine Global Communications Corporation
+45.194.90.225,8080,IN,CtrlS
+45.74.31.42,10893,FR,OVH SAS
+45.74.31.40,4997,TH,UNINET-TH
+45.74.31.46,4458,TR,Cenuta Telekomunikasyon Anonim Sirketi
+45.74.31.42,7005,ID,PT INDONESIA COMNETS PLUS
+45.65.224.74,999,AR,SOLUTION LAN S.A
+192.144.37.69,9050,NL,Church of Cyberology
+43.245.199.34,1080,HK,IPTELECOM ASIA
+61.247.188.30,1080,BD,OptiMax Communication Ltd.
+34.142.210.154,40001,SG,Cloudflare  Inc.
+45.74.31.40,8929,US,Unified Layer
+45.74.31.46,12242,AT,IONOS SE
+45.74.31.40,7249,US,GoDaddy.com  LLC
+5.23.104.251,1080,RU,Vidikon-K  CJSC
+45.74.31.40,4731,FR,Contabo GmbH
+45.74.31.42,4389,IN,DigitalOcean  LLC
+45.74.31.42,4808,US,Oracle Corporation
+45.74.31.42,4039,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+171.245.71.144,1080,VN,FPT Telecom Company
+45.74.31.42,6517,ID,Biznet NAP - Internet Exchange Provider
+31.76.58.136,3128,FI,Chsl One Ltd
+217.17.112.98,1080,RU,OOO KISS
+124.217.10.191,8081,PH,Philippine Long Distance Telephone Company
+45.74.31.40,4059,US,Oracle Corporation
+45.74.31.46,6165,FR,OVH SAS
+45.74.31.40,6382,IN,Tier 4 Cloud Services
+45.74.31.46,11422,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.40,5785,IN,DigitalOcean  LLC
+188.128.86.74,1080,RU,Rostelecom
+45.74.31.40,4609,AT,IONOS SE
+45.74.31.46,4703,AT,IONOS SE
+45.74.31.46,4175,DE,Host Europe GmbH
+45.74.31.40,4506,SG,Akamai Connected Cloud
+149.248.201.109,9000,GB,Datacamp Limited
+45.74.31.40,5382,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.46,4881,FR,Contabo GmbH
+45.74.31.40,10234,US,Unified Layer
+45.74.31.42,6366,IN,Hostinger International Limited
+45.74.31.40,7036,FR,Scaleway SAS
+45.74.31.42,5656,NL,Psychz Networks
+217.113.119.222,1080,RU,InfoLada Ltd
+45.74.31.42,10253,US,Google LLC
+185.142.156.203,80,IR,Asre Pardazeshe Ettelaate Amin Institute
+91.151.195.138,1080,RU,Resource-M LLC
+115.74.200.4,1080,VN,Viettel Group
+45.74.31.40,4382,FR,Contabo GmbH
+180.180.156.53,80,TH,TOT Public Company Limited
+45.74.31.42,7925,CL,Universidad Tecnica Federico Santa Maria
+45.74.31.42,4902,FR,Contabo GmbH
+45.74.31.40,16189,DE,Hetzner Online GmbH
+45.74.31.46,7931,IN,DigitalOcean  LLC
+45.74.31.42,7464,FR,Contabo GmbH
+185.215.53.201,3629,AM,Fnet LLC
+190.108.57.210,1085,AR,AGUAS DEL COLORADO SAPEM
+45.74.31.40,4060,CH,Infomaniak Network SA
+4.157.29.42,3001,US,Microsoft Corporation
+45.74.31.46,4958,US,Unified Layer
+45.74.31.40,4108,US,Alibaba (US) Technology Co.  Ltd.
+116.80.59.31,8443,JP,NTT PC Communications  Inc.
+45.74.31.46,4777,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,5379,IN,DigitalOcean  LLC
+45.74.31.40,4126,ID,Biznet NAP - Internet Exchange Provider
+47.236.168.243,1080,SG,Alibaba (US) Technology Co.  Ltd.
+46.8.60.2,1080,RU,LLC avanta Telecom
+45.74.31.42,6937,IN,Hostinger International Limited
+45.74.31.40,5139,US,Unified Layer
+45.74.31.42,4132,US,Google LLC
+45.74.31.40,7294,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+1.4.141.68,80,TH,TOT Public Company Limited
+45.74.31.40,5160,US,Unified Layer
+45.74.31.46,12358,ID,Biznet NAP - Internet Exchange Provider
+203.252.142.217,80,KR,Konkuk University
+45.74.31.46,5793,US,GoDaddy.com  LLC
+45.74.31.40,6991,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.40,7205,US,Oracle Corporation
+45.74.31.42,7506,FR,Contabo GmbH
+45.74.31.46,4903,ID,PT INDONESIA COMNETS PLUS
+45.74.31.46,4412,US,Oracle Corporation
+45.74.31.40,4586,FR,Contabo GmbH
+95.31.92.14,10808,NL,UAB Cherry Servers
+45.74.31.40,5412,US,Unified Layer
+45.74.31.46,6439,FR,Contabo GmbH
+45.74.31.46,9961,US,Google LLC
+45.74.31.40,5470,US,Oracle Corporation
+45.74.31.42,8067,UA,Hostpro Lab LLC
+45.74.31.46,5977,IN,Tier 4 Cloud Services
+177.37.167.172,3900,BR,BRISANET SERVICOS DE TELECOMUNICACOES S.A
+80.78.74.66,65530,AL,Vodafone Albania Sh.A.
+45.74.31.46,5099,US,Oracle Corporation
+116.204.166.149,8080,US,High Speed For Internet Services L.L.C
+45.74.31.46,4390,IN,DigitalOcean  LLC
+45.74.31.40,5638,FR,Contabo GmbH
+45.74.31.40,4671,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,5481,IN,Hostinger International Limited
+45.74.31.46,9744,IN,Tier 4 Cloud Services
+213.176.74.119,1080,NL,Cloudflare  Inc.
+45.74.31.40,6139,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.46,4584,BR,Oso Grande IP Services  LLC
+45.74.31.46,4331,AT,IONOS SE
+45.74.31.46,5666,FR,Contabo GmbH
+120.232.115.170,17981,CN,China Mobile Communications Group Co.  Ltd.
+45.74.31.42,4074,US,Google LLC
+45.74.31.46,4765,US,New Dream Network  LLC
+45.74.31.42,4388,AT,IONOS SE
+45.74.31.40,4042,DE,Host Europe GmbH
+45.74.31.46,6795,FR,OVH SAS
+45.74.31.40,15857,FR,Contabo GmbH
+178.92.72.205,1080,IN,Micro Hosting Private Limited
+45.74.31.40,4063,BR,Oso Grande IP Services  LLC
+45.74.31.46,4397,DE,Host Europe GmbH
+52.128.241.107,1080,US,N963 PTE. LTD.
+121.46.226.221,10808,HK,Zenlayer Inc
+45.74.31.46,5737,IN,Tier 4 Cloud Services
+45.74.31.42,8857,FR,OVH SAS
+31.76.58.136,1080,FI,Chsl One Ltd
+45.74.31.46,15019,FR,OVH SAS
+45.74.31.40,4090,BR,Oso Grande IP Services  LLC
+52.128.241.106,1080,US,N963 PTE. LTD.
+45.74.31.42,7133,NL,Microsoft Corporation
+45.74.31.46,5040,ID,PT INDONESIA COMNETS PLUS
+195.19.50.135,1080,RU,JSC GTNT
+45.74.31.42,5841,IN,Tier 4 Cloud Services
+45.74.31.46,4313,US,Network Solutions  LLC
+58.89.82.209,1080,JP,NTT DOCOMO BUSINESS Inc.
+45.74.31.46,5441,US,Oracle Corporation
+45.74.31.42,11640,AT,IONOS SE
+116.204.166.204,8080,US,High Speed For Internet Services L.L.C
+8.210.36.244,1080,HK,Alibaba (US) Technology Co.  Ltd.
+95.9.67.158,3310,TR,Turk Telekom
+45.74.31.42,5945,DE,Host Europe GmbH
+176.97.210.116,1010,DE,Tube-Hosting
+45.74.31.40,4066,DE,Host Europe GmbH
+45.74.31.46,5545,AT,IONOS SE
+80.82.55.71,80,RU,Rostelecom
+45.74.31.46,4368,DE,Host Europe GmbH
+45.74.31.46,4871,IN,DigitalOcean  LLC
+85.105.194.113,4153,TR,Turk Telekom
+45.74.31.46,4386,FR,Contabo GmbH
+102.244.78.61,8083,CM,Orange Cameroun SA
+45.74.31.46,10034,IN,DigitalOcean  LLC
+45.74.31.46,4618,ID,PT INDONESIA COMNETS PLUS
+45.74.31.40,13634,US,Unified Layer
+45.74.31.42,6877,IN,Hostinger International Limited
+47.95.193.186,8080,CN,Hangzhou Alibaba Advertising Co. Ltd.
+45.74.31.42,5708,US,Google LLC
+45.74.31.42,4816,US,Unified Layer
+183.106.215.208,1080,KR,Korea Telecom
+102.244.78.61,8088,CM,Orange Cameroun SA
+45.74.31.40,17011,US,Oracle Corporation
+102.244.78.61,8087,CM,Orange Cameroun SA
+23.141.116.9,9000,VN,MINIUM NET LLC
+50.234.24.129,32100,US,Comcast Cable Communications  LLC
+8.138.217.152,21001,CN,Hangzhou Alibaba Advertising Co. Ltd.
+102.244.78.61,8089,CM,Orange Cameroun SA
+102.244.78.61,8086,CM,Orange Cameroun SA
+45.74.31.42,7924,US,New Dream Network  LLC
+102.244.78.61,8090,CM,Orange Cameroun SA
+45.74.31.42,7262,IN,Hostinger International Limited
+45.74.31.40,4012,AT,IONOS SE
 159.138.24.221,3128,HK,HUAWEI CLOUDS
-45.74.31.46,8195,IE,Microsoft Corporation
-45.74.31.40,15238,US,Unified Layer
-45.74.31.42,5870,US,Google LLC
-45.74.31.42,4616,SG,Akamai Connected Cloud
-45.74.31.46,13413,CO,Empresa de Recursos Tecnologicos S.A E.S.P
-45.74.31.46,11840,US,GoDaddy.com  LLC
-13.215.184.250,8084,DE,netcup GmbH
-45.74.31.46,7117,MY,Shinjiru Technology Sdn Bhd
-45.74.31.40,15196,FR,Contabo GmbH
-45.74.31.46,7635,US,Google LLC
-45.74.31.46,5439,FR,Contabo GmbH
-45.74.31.40,16756,US,Unified Layer
-45.74.31.40,6565,US,GoDaddy.com  LLC
-45.74.31.40,27553,IN,Tier 4 Cloud Services
-45.74.31.42,20679,US,Unified Layer
-45.74.31.42,14895,US,Oracle Corporation
-171.241.0.216,41433,VN,Viettel Group
-45.74.31.40,6784,FR,Contabo GmbH
-45.74.31.42,20025,US,Oracle Corporation
-158.160.234.55,1080,UZ,Itglobalcom U LLC
-45.74.31.42,9574,US,Google LLC
-111.201.98.99,8888,CN,China Unicom Beijing Province Network
-45.74.31.40,10590,US,GoDaddy.com  LLC
-45.74.31.46,4217,CH,Infomaniak Network SA
-45.74.31.46,5902,CN,Hangzhou Alibaba Advertising Co. Ltd.
-45.74.31.40,13370,ID,Biznet NAP - Internet Exchange Provider
-45.74.31.46,5072,US,GoDaddy.com  LLC
-45.74.31.42,6421,AT,IONOS SE
-45.74.31.40,17322,US,Google LLC
-171.241.21.204,26220,VN,Viettel Group
-45.74.31.46,8210,US,GoDaddy.com  LLC
-45.74.31.46,7679,FR,Contabo GmbH
-221.232.102.228,8087,US,DigitalOcean  LLC
-45.74.31.42,6873,IN,Tier 4 Cloud Services
-45.74.31.42,7661,VN,TaDu Joint Stock Company
-45.74.31.46,10597,US,GoDaddy.com  LLC
-45.74.31.46,16009,CN,Hangzhou Alibaba Advertising Co. Ltd.
-45.74.31.42,11344,US,GoDaddy.com  LLC
-45.74.31.42,4728,AT,IONOS SE
+45.74.31.42,6404,AT,IONOS SE
+45.74.31.42,4683,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.40,4257,FR,Contabo GmbH
+45.74.31.40,5330,FR,OVH SAS
+45.74.31.42,4003,FR,Contabo GmbH
+45.74.31.40,11047,FR,OVH SAS
+50.233.111.162,32100,US,Comcast Cable Communications  LLC
+120.232.115.57,17981,CN,China Mobile Communications Group Co.  Ltd.
+45.74.31.40,7985,AT,IONOS SE
+45.74.31.40,5784,ID,PT INDONESIA COMNETS PLUS
+45.74.31.46,5286,US,GoDaddy.com  LLC
+45.74.31.42,5117,TH,UNINET-TH
+45.74.31.40,7626,US,Google LLC
+45.74.31.40,10408,SG,DigitalOcean  LLC
+45.74.31.40,5610,AT,IONOS SE
+45.74.31.40,5782,AT,IONOS SE
+203.205.49.2,10010,VN,CMC Telecom Infrastructure Company
+46.47.30.16,10809,RO,Interkvm Host Srl
+45.74.31.46,5280,AT,IONOS SE
+111.192.50.153,8888,CN,China Unicom Beijing Province Network
+45.74.31.42,9245,FR,OVH SAS
+45.74.31.46,4286,US,Microsoft Corporation
+45.74.31.46,9664,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,5381,DE,Host Europe GmbH
+194.124.36.162,8080,TR,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+45.74.31.40,4337,US,Unified Layer
+45.74.31.46,5770,IN,TECHNO FAQ DIGITAL MEDIA
+117.139.229.246,20000,US,Eons Data Communications Limited
+203.205.49.2,10251,VN,CMC Telecom Infrastructure Company
+45.74.31.42,4117,FR,Contabo GmbH
+45.74.31.42,7247,FR,Contabo GmbH
+45.74.31.40,6353,US,GoDaddy.com  LLC
+45.74.31.40,5488,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.40,8866,AT,IONOS SE
+203.205.49.2,10242,VN,CMC Telecom Infrastructure Company
+45.74.31.42,4867,AT,IONOS SE
+175.136.209.251,8080,MY,TM TECHNOLOGY SERVICES SDN. BHD.
+45.74.31.40,4045,TH,UNINET-TH
+149.248.201.109,9000,GB,Datacamp Limited
+45.74.31.42,5305,CL,Universidad Tecnica Federico Santa Maria
+45.74.31.42,4366,ID,Biznet NAP - Internet Exchange Provider
+221.221.154.253,8888,CN,China Unicom Beijing Province Network
+45.74.31.46,4252,MY,Shinjiru Technology Sdn Bhd
+45.74.31.46,10934,AT,IONOS SE
+45.74.31.42,4793,IN,TECHNO FAQ DIGITAL MEDIA
+45.74.31.42,4058,US,Google LLC
+45.74.31.40,5937,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.46,4683,ZA,Host Africa (Pty) Ltd
+91.192.25.158,4145,IT,T&T Tecnologie e Telecomunicazioni Srl
+193.233.84.18,1080,RU,Global Internet Solutions LLC
+94.131.230.127,1080,KZ,Freedom Telecom Operations LLP
+45.74.31.46,13364,ID,Biznet NAP - Internet Exchange Provider
+103.176.96.131,8082,ID,PT Global Sarana Elektronika
+45.74.31.46,5542,IN,Tier 4 Cloud Services
+89.191.226.51,1080,DE,Timeweb  LLP
+120.76.101.238,8080,CN,Hangzhou Alibaba Advertising Co. Ltd.
+45.74.31.40,5540,ID,PT INDONESIA COMNETS PLUS
+45.74.31.42,5586,FR,Contabo GmbH
+111.192.23.52,8888,CN,China Unicom Beijing Province Network
+45.74.31.42,5067,US,New Dream Network  LLC
+45.74.31.40,5305,IN,Tier 4 Cloud Services
+45.74.31.46,4263,AT,IONOS SE
+45.74.31.42,4920,NL,Hostinger International Limited
+91.186.211.105,1080,GR,First Server Limited
+160.187.0.89,1080,VN,ONLINE DATA COMPANY LIMITED
+45.74.31.40,5093,FR,Contabo GmbH
+113.20.7.76,30002,US,MULTACOM CORPORATION
+45.74.31.46,6933,AT,IONOS SE
+45.74.31.46,6223,FR,Contabo GmbH
+45.74.31.42,5435,IN,DigitalOcean  LLC
+115.236.37.105,2411,US,Zenlayer Inc
+45.74.31.46,4241,US,Oracle Corporation
+45.74.31.40,10453,US,Unified Layer
+45.74.31.40,5881,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.40,4615,US,Oracle Corporation
+45.74.31.46,6688,ID,PT INDONESIA COMNETS PLUS
+160.187.174.34,8080,ID,PT Netindo Persada Nusantara
+95.169.7.214,8080,US,IT7 Networks Inc
+45.149.92.160,1080,HK,HGC Global Communications Limited
+45.74.31.42,6642,FR,Contabo GmbH
+45.74.31.42,6130,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.42,4737,TH,UNINET-TH
+111.192.45.218,8888,CN,China Unicom Beijing Province Network
+45.74.31.46,9195,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,9102,IN,DigitalOcean  LLC
+45.74.31.46,8058,US,GoDaddy.com  LLC
+45.74.31.46,6750,US,Network Solutions  LLC
+45.74.31.40,16868,FR,Contabo GmbH
+188.235.21.247,8080,RU,JSC ER-Telecom Holding
+123.121.137.97,8888,CN,China Unicom Beijing Province Network
+45.74.31.42,6736,ID,PT INDONESIA COMNETS PLUS
+45.74.31.40,12268,US,Unified Layer
+45.74.31.42,9019,FR,OVH SAS
+157.254.20.12,10808,RU,LIGHT NODE LIMITED
+45.74.31.42,5213,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.40,11671,IN,DigitalOcean  LLC
+101.255.151.246,8080,ID,PT Remala Abadi
+45.74.31.40,5513,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.40,10147,US,Alibaba (US) Technology Co.  Ltd.
+45.74.31.40,4350,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.42,5142,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.40,5884,FR,Contabo GmbH
+45.74.31.46,11238,GB,Hostinger International Limited
+163.227.248.51,8818,ID,PT Rajasa Sinergi Komunikasi
+45.74.31.42,4349,IN,Tier 4 Cloud Services
+13.245.161.189,5051,NL,Church of Cyberology
+140.207.114.166,10080,CN,China Unicom Shanghai network
+105.214.51.178,5678,ZA,MTN SA
+45.74.31.42,4350,FR,Contabo GmbH
+181.143.45.218,1080,CO,UNE EPM TELECOMUNICACIONES S.A.
+45.74.31.42,8874,SG,DigitalOcean  LLC
+157.254.20.12,10808,RU,LIGHT NODE LIMITED
+123.121.134.141,8888,CN,China Unicom Beijing Province Network
+45.74.31.42,5894,US,Oracle Corporation
+45.74.31.40,17956,ID,PT INDONESIA COMNETS PLUS
+103.80.214.177,8080,ID,PT Redi Revolusi Digital Solusi
+45.74.31.46,6773,US,Oracle Corporation
+45.74.31.46,4956,US,Google LLC
+45.74.31.40,4119,IN,DigitalOcean  LLC
+45.74.31.40,4192,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+221.221.144.98,8888,CN,China Unicom Beijing Province Network
+45.74.31.40,9752,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.42,4262,FR,Contabo GmbH
+45.74.31.40,9250,US,Google LLC
+45.74.31.40,5979,FR,Contabo GmbH
+45.74.31.46,4490,US,Oracle Corporation
+45.74.31.46,4097,US,Oracle Corporation
+45.74.31.40,4361,IN,DigitalOcean  LLC
+45.74.31.42,7652,US,Google LLC
+112.5.33.179,999,CN,China Mobile Communications Group Co.  Ltd.
+45.74.31.42,7104,IN,Hostinger International Limited
+45.74.31.42,4167,FR,Contabo GmbH
+45.74.31.40,5274,ID,PT INDONESIA COMNETS PLUS
+45.74.31.40,12377,IN,Tier 4 Cloud Services
+45.74.31.40,4816,FR,Scaleway SAS
+45.74.31.42,7376,FR,Contabo GmbH
+45.74.31.46,5139,FR,Contabo GmbH
+72.255.29.169,1981,PK,Cyber Internet Services (Pvt) Ltd.
+193.233.84.18,1080,RU,Global Internet Solutions LLC
+45.74.31.40,4030,BI,Burundi Backbone System SM
+45.74.31.42,4756,AT,IONOS SE
+45.74.31.46,13285,US,GoDaddy.com  LLC
+45.74.31.42,4188,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.230.174.21,4153,MX,OPSICOME SA DE CV
+83.143.24.29,5678,BW,VBN Services
+197.224.185.3,3128,MU,Mauritius Telecom Ltd
+45.126.250.102,8080,ID,PT WIFIKCB LINTAS DATA
+45.74.31.40,5982,US,Oracle Corporation
+45.74.31.42,4989,CL,Universidad Tecnica Federico Santa Maria
+45.74.31.42,7345,FR,OVH SAS
+45.74.31.42,5287,ID,Biznet NAP - Internet Exchange Provider
+18.175.170.244,1080,NL,Church of Cyberology
+45.74.31.40,4174,DE,Host Europe GmbH
+45.74.31.46,4693,FR,Contabo GmbH
+143.105.74.183,1080,NE,Space Exploration Technologies Corporation
+206.135.47.106,999,MX,IENTC S DE RL DE CV
+45.74.31.42,4296,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,7579,IN,Hostinger International Limited
+14.36.232.55,1080,KR,Korea Telecom
+45.74.31.46,4117,TH,UNINET-TH
+45.74.31.40,4250,BR,Oso Grande IP Services  LLC
+31.223.16.134,8888,IN,M247 Europe SRL
+45.74.31.40,12156,ID,Biznet NAP - Internet Exchange Provider
+47.107.107.24,80,CN,Hangzhou Alibaba Advertising Co. Ltd.
+46.47.30.16,10808,RO,Interkvm Host Srl
+45.74.31.40,4447,FR,Contabo GmbH
+45.74.31.40,5588,IN,TECHNO FAQ DIGITAL MEDIA
+56.228.13.15,17094,TR,Fiba Cloud Operation Company  LLC
+45.74.31.46,5609,US,Oracle Corporation
+42.114.69.0,20001,VN,FPT Telecom Company
+45.74.31.46,7574,FR,Contabo GmbH
+160.236.4.53,8080,ID,PT Pandawa Nusantara Solusindo
+8.134.115.60,21056,CN,Hangzhou Alibaba Advertising Co. Ltd.
+154.222.29.105,8888,SC,cognetcloud INC
+43.156.83.6,3128,SG,Tencent Building  Kejizhongyi Avenue
+45.74.31.40,5141,FR,Contabo GmbH
+45.74.31.40,16850,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.46,6917,US,Google LLC
+45.74.31.40,13464,US,Oracle Corporation
+45.74.31.46,11265,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.40,4178,IN,DigitalOcean  LLC
+45.74.31.46,11709,DE,Host Europe GmbH
+45.74.31.40,4152,TH,UNINET-TH
+45.74.31.46,6167,ID,PT INDONESIA COMNETS PLUS
+103.157.117.116,8080,ID,PT Telekomunikasi Indonesia
+45.74.31.40,12939,US,Unified Layer
+110.39.13.162,1,PK,National WiMAX/IMS environment
+45.140.165.128,40001,FR,Cloudflare  Inc.
+45.74.31.40,10427,FR,OVH SAS
+45.74.31.40,5024,FR,Contabo GmbH
+45.74.31.40,4333,AT,IONOS SE
+49.233.205.10,3128,CN,Shenzhen Tencent Computer Systems Company Limited
+45.74.31.40,5553,FR,OVH SAS
+103.242.104.209,8080,ID,PT Lintas Jaringan Nusantara
+45.74.31.40,8076,FR,Contabo GmbH
+45.74.31.40,19310,MY,Shinjiru Technology Sdn Bhd
+45.74.31.40,7279,ID,Biznet NAP - Internet Exchange Provider
+160.19.41.49,80,IN,Bharti Airtel Ltd.  Telemedia Services
+45.74.31.42,6976,FR,Contabo GmbH
+45.74.31.46,4019,US,DigitalOcean  LLC
+45.74.31.46,6078,US,GoDaddy.com  LLC
+45.74.31.42,9259,FR,OVH SAS
+95.31.92.14,10808,DE,UAB Cherry Servers
+45.74.31.42,4370,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,10580,FR,OVH SAS
+45.74.31.40,5177,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+103.98.116.209,8080,ID,PT. LISAR INTERNATIONAL NETWORKING
+45.74.31.46,7501,US,GoDaddy.com  LLC
+45.74.31.42,6310,SG,DigitalOcean  LLC
+45.74.31.42,4718,US,Namecheap  Inc.
+190.167.38.11,999,DO,Compania Dominicana de Telefonos S. A.
+45.74.31.46,4249,AT,IONOS SE
+103.156.248.100,3128,ID,PT Rajawali Bintang Cemerlang Telkomedia
+182.52.113.71,80,TH,TOT Public Company Limited
+165.99.239.90,3125,ID,PT MERDEKA TELEKOMUNIKASI CENTER
+45.74.31.42,8984,US,Google LLC
+140.207.114.166,10080,CN,China Unicom Shanghai network
+45.74.31.42,5942,FR,Contabo GmbH
+45.74.31.42,4520,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.46,4815,FR,Scaleway SAS
+45.74.31.46,6150,US,Google LLC
+45.74.31.46,4669,US,Oracle Corporation
+45.74.31.42,7249,US,Google LLC
+45.74.31.40,12886,AT,IONOS SE
+45.74.31.46,6051,US,Google LLC
+103.251.153.75,8282,ID,Lintas Data Prima  PT
+206.135.47.107,999,MX,IENTC S DE RL DE CV
+45.74.31.42,4223,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.46,5554,FR,Contabo GmbH
+45.74.31.46,5577,US,Microsoft Corporation
+45.74.31.42,5323,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.40,5920,US,GoDaddy.com  LLC
+45.74.31.42,4208,FR,Contabo GmbH
+195.46.172.190,4153,RU,PVimpelCom
+176.118.232.12,5678,RU,Timer  LLC
+45.74.31.40,4803,ID,PT INDONESIA COMNETS PLUS
+45.74.31.46,12067,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.42,9668,FR,Contabo GmbH
+45.74.31.40,6651,AT,IONOS SE
+202.4.101.249,9090,BD,AmberIT Limited
+201.7.31.204,8080,SY,Syrian Telecommunication Private Closed Joint Stock Company
+113.22.224.63,1083,VN,Cloudflare  Inc.
+45.74.31.46,4074,BR,Oso Grande IP Services  LLC
+112.204.105.222,8082,PH,Philippine Long Distance Telephone Company
+89.237.32.161,51549,RU,Joint Stock Company TransTeleCom
+1.20.101.17,80,TH,TOT Public Company Limited
+177.136.124.45,56113,BR,ITS TELECOMUNICACOES LTDA
+45.74.31.46,6714,FR,Scaleway SAS
+45.74.31.42,8988,FR,OVH SAS
+45.74.31.42,4869,AT,IONOS SE
+45.74.31.46,5498,US,GoDaddy.com  LLC
+121.101.133.209,8081,ID,PT SELARAS CITRA TERABIT
+45.74.31.46,5071,US,Unified Layer
+138.94.236.100,8080,BR,NETTCON PROVEDOR DE INTERNET EIRELI EPP
+45.74.31.46,6020,US,Unified Layer
+45.74.31.40,12530,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.40,6894,IN,DigitalOcean  LLC
+45.74.31.46,4185,IN,Cloudlinks Technologies Pvt Ltd
+147.15.126.122,28080,BR,Oracle Corporation
+45.74.31.46,6856,IN,Tier 4 Cloud Services
+45.74.31.40,4153,FR,Contabo GmbH
+95.66.142.11,8080,RU,Limited Liability Company VLADINFO
+45.74.31.46,7815,US,Google LLC
+45.74.31.40,10734,US,New Dream Network  LLC
+49.213.59.108,8082,ID,PT GUNUNG SUGIH BESAR NETWORK
+45.74.31.42,4498,US,Google LLC
+103.182.22.245,9000,VN,INTERDIGI JOINT STOCK COMPANY
+45.74.31.42,10066,US,IONOS SE
+45.74.31.40,6149,FR,Contabo GmbH
+45.74.31.42,5399,ZA,AFRIHOST SP (PTY) LTD
+45.74.31.42,17511,FR,Contabo GmbH
+176.97.210.116,1010,DE,Tube-Hosting
+45.74.31.40,5568,IN,Tier 4 Cloud Services
+109.224.242.133,8585,UA,Unknown
+45.74.31.42,7080,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.42,16863,CL,Universidad Tecnica Federico Santa Maria
+152.89.168.44,8081,IT,Lumanex Srl
+45.74.31.46,5411,DE,Hetzner Online GmbH
+15.229.149.81,1080,NL,Sabotage LLC
+45.74.31.42,4336,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.40,8470,IN,Tier 4 Cloud Services
+95.70.235.241,8080,TR,TurkNet Iletisim Hizmetleri A.S.
+45.74.31.42,5101,IN,Tier 4 Cloud Services
+45.74.31.40,11906,FR,Contabo GmbH
+45.74.31.40,12346,US,Google LLC
+45.74.31.46,7119,US,GoDaddy.com  LLC
+45.74.31.40,11074,AT,IONOS SE
+69.75.140.157,8080,US,Charter Communications Inc
+45.74.31.42,10434,US,Oracle Corporation
+45.74.31.42,5050,ID,Biznet NAP - Internet Exchange Provider
+88.213.214.254,4145,BG,NETBOX LTD
+45.74.31.46,5330,ID,PT INDONESIA COMNETS PLUS
+45.74.31.40,5325,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,6515,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.46,8015,IN,Tier 4 Cloud Services
+192.238.196.211,8080,HK,Antbox Networks Limited
+45.74.31.40,6021,ID,PT INDONESIA COMNETS PLUS
+195.19.50.130,1080,RU,JSC GTNT
+45.74.31.40,12711,AT,IONOS SE
+45.74.31.40,8042,FR,OVH SAS
+45.74.31.46,6219,AT,IONOS SE
+45.74.31.42,27721,FR,Contabo GmbH
+101.205.144.70,7890,HK,Eons Data Communications Limited
+45.74.31.46,10805,SG,DigitalOcean  LLC
+45.74.31.42,8671,DE,Host Europe GmbH
+49.147.63.121,8080,PH,Philippine Long Distance Telephone Company
+45.74.31.42,7949,FR,Scaleway SAS
+45.74.31.46,4713,IN,DigitalOcean  LLC
+45.74.31.46,5757,AT,IONOS SE
+14.36.232.55,1080,KR,Korea Telecom
+181.78.94.188,999,PY,UFINET PANAMA S.A.
+110.93.244.217,8080,PK,Trans World Enterprise Services (Private) Limited
+45.74.31.42,5380,BR,Hostinger International Limited
+160.22.45.1,8080,ID,PT Celebes Multi Network
+45.74.31.42,4410,TH,UNINET-TH
+45.74.31.46,8883,US,Google LLC
+212.220.13.98,4153,RU,Rostelecom
+45.74.31.40,4070,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.42,6808,US,GoDaddy.com  LLC
+36.64.18.91,80,ID,PT Telekomunikasi Indonesia
+182.95.79.172,3128,IN,BHARTI Airtel Ltd.
+45.74.31.42,4588,AT,IONOS SE
+45.74.31.46,4179,US,GoDaddy.com  LLC
+45.74.31.40,5842,US,GoDaddy.com  LLC
+45.74.31.40,7375,US,GoDaddy.com  LLC
+45.74.31.46,4836,US,Google LLC
+45.74.31.46,12497,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.46,6349,IN,Tier 4 Cloud Services
+45.74.31.46,13506,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.46,4202,US,Oracle Corporation
+171.245.71.236,1086,VN,FPT Telecom Company
+45.74.31.40,7275,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.40,10237,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.46,12315,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.46,7083,FR,Contabo GmbH
+45.74.31.40,13632,SG,DigitalOcean  LLC
+90.146.196.18,8080,AT,LIWEST Kabelmedien GmbH
+45.74.31.40,10638,SG,DigitalOcean  LLC
+151.158.133.147,8080,ID,PT SANET MEDIA TEKNOLOGI
+1.4.141.66,80,TH,TOT Public Company Limited
+45.74.31.42,5892,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.46,11197,US,Google LLC
+103.124.136.219,8080,ID,PT.Global Media Data Prima
+185.30.43.65,60606,RU,SerDi TeleCom  LTD
+45.74.31.46,6623,US,Oracle Corporation
+161.22.39.97,999,VE,THUNDERNET  C.A.
+45.74.31.40,9626,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.46,5951,IN,Tier 4 Cloud Services
+45.74.31.42,6440,AT,IONOS SE
+45.74.31.46,4491,US,Unified Layer
+45.74.31.42,9792,US,Oracle Corporation
+45.74.31.42,4826,US,Google LLC
+45.74.31.46,4965,MY,Shinjiru Technology Sdn Bhd
+91.187.113.68,8080,XK,IPKO Telecommunications LLC
+13.215.184.250,30550,PL,Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski
+123.57.0.163,8888,CN,Hangzhou Alibaba Advertising Co. Ltd.
+45.74.31.42,7857,US,Oracle Corporation
+45.74.31.40,7194,AT,IONOS SE
+45.74.31.46,10094,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,13699,FR,Contabo GmbH
+166.1.61.101,1080,JP,Amarutu Technology Ltd
+45.74.31.40,5582,US,GoDaddy.com  LLC
+45.74.31.46,4399,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+80.51.61.1,8080,PL,Orange Polska Spolka Akcyjna
+45.74.31.42,5828,FR,Contabo GmbH
+45.74.31.40,4585,ID,BIZNET NETWORKS
+103.97.141.80,8081,ID,PT Jembatan Data Pangrango
+104.51.39.146,8080,US,AT&T Enterprises  LLC
+45.74.31.42,4569,DE,Hetzner Online GmbH
+203.205.49.2,10105,VN,CMC Telecom Infrastructure Company
+45.74.31.42,8657,FR,Contabo GmbH
+45.74.31.42,5799,IN,Hostinger International Limited
+45.74.31.40,13482,US,Oracle Corporation
+45.74.31.46,11478,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.40,4359,FR,Contabo GmbH
+45.74.31.40,6154,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,7374,FR,Contabo GmbH
+45.74.31.42,8856,FR,OVH SAS
+45.74.31.42,7359,MY,Shinjiru Technology Sdn Bhd
+45.74.31.42,4203,DE,Host Europe GmbH
+45.74.31.40,8573,US,Google LLC
+1.20.101.27,80,TH,TOT Public Company Limited
+45.74.31.42,4812,AT,IONOS SE
+45.74.31.40,6567,US,Google LLC
+45.74.31.40,5612,AT,IONOS SE
+45.74.31.46,7006,US,GoDaddy.com  LLC
+45.74.31.46,4487,FR,OVH SAS
+139.100.205.92,8080,RU,JSC Selectel
+45.74.31.46,5259,ID,PT INDONESIA COMNETS PLUS
+45.74.31.42,6866,FR,Contabo GmbH
+45.74.31.42,7741,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.42,4409,FR,Contabo GmbH
+45.74.31.40,4857,FR,Contabo GmbH
+45.74.31.40,7116,IN,Tier 4 Cloud Services
+45.74.31.46,4229,BR,Oso Grande IP Services  LLC
+45.74.31.46,7463,US,GoDaddy.com  LLC
+45.74.31.46,7930,US,GoDaddy.com  LLC
+45.74.31.40,11661,DE,Hetzner Online GmbH
+45.74.31.40,16262,US,GoDaddy.com  LLC
+45.74.31.40,15938,FR,OVH SAS
+176.88.65.163,8080,TR,Superonline Iletisim Hizmetleri A.S.
+45.74.31.40,10321,US,Oracle Corporation
+45.74.31.46,4327,MY,Shinjiru Technology Sdn Bhd
+103.184.56.146,8080,ID,PT Gading Bhakti Utama
+114.245.153.111,8888,CN,China Unicom Beijing Province Network
+45.74.31.40,16526,FR,OVH SAS
+45.74.31.46,9323,US,Google LLC
+45.74.31.42,4974,CL,Universidad Tecnica Federico Santa Maria
+45.74.31.46,4413,IN,DigitalOcean  LLC
+45.74.31.40,4334,FR,Contabo GmbH
+45.74.31.46,9488,US,GoDaddy.com  LLC
+45.74.31.40,4900,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.40,7474,FR,Contabo GmbH
+103.82.246.93,6080,ID,PT Master Star Network
+45.74.31.40,17309,US,Oracle Corporation
+45.74.31.46,9463,FR,Scaleway SAS
+45.74.31.42,9428,US,Oracle Corporation
+43.108.46.4,9050,NL,Church of Cyberology
+103.4.76.242,1111,ID,PT Khazanah Net Indonesia
+45.74.31.40,4148,IN,Tier 4 Cloud Services
+18.231.214.206,17958,US,Quintex Alliance Consulting
+45.74.31.42,17139,FR,Contabo GmbH
+45.74.31.46,9694,US,Google LLC
+109.73.192.102,1080,RU,Jsc timeweb
+176.97.210.116,1010,DE,Tube-Hosting
+45.74.31.46,5795,US,GoDaddy.com  LLC
+144.79.181.39,8090,ID,PT SAHABAT INDONESIA INTERNET
+160.30.204.24,50005,US,Strong Technology  LLC.
+45.74.31.46,6238,US,Google LLC
+45.74.31.40,7268,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.40,5623,US,Oracle Corporation
+89.43.134.39,8080,HU,High Speed For Internet Services L.L.C
+45.74.31.40,13623,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.46,7100,FR,Contabo GmbH
+43.202.114.177,4555,NL,Church of Cyberology
+89.43.135.9,8080,SY,High Speed For Internet Services L.L.C
+45.74.31.40,5855,ID,PT INDONESIA COMNETS PLUS
+45.74.31.42,19797,FR,Contabo GmbH
+103.97.141.85,8080,ID,PT Jembatan Data Pangrango
+45.74.31.42,5078,IN,Tier 4 Cloud Services
+103.208.101.17,1080,ID,PT Tidar Lintas Nusa
+54.117.6.131,45040,NL,Church of Cyberology
+45.74.31.40,4317,VN,SUPERDATA-VN
+1.20.101.32,443,TH,TOT Public Company Limited
+45.74.31.42,11095,US,Oracle Corporation
+45.74.31.40,7450,ID,Biznet NAP - Internet Exchange Provider
+123.121.126.253,8888,CN,China Unicom Beijing Province Network
+45.74.31.46,5882,US,Unified Layer
+45.74.31.40,5758,ID,PT INDONESIA COMNETS PLUS
+45.74.31.40,11062,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.42,7141,US,Unified Layer
+45.171.129.0,8080,BR,Stok Info Telecom Ltda-me
+45.74.31.40,4276,US,Liquid Web  L.L.C
+45.74.31.42,4233,SG,DigitalOcean  LLC
+45.74.31.40,4137,TH,UNINET-TH
+45.74.31.42,6132,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+103.81.65.74,8585,ID,PT Queen Network Nusantara
+45.74.31.42,7175,US,Oracle Corporation
+45.74.31.42,10522,CL,Universidad Tecnica Federico Santa Maria
+45.74.31.42,6499,US,GoDaddy.com  LLC
+103.155.199.185,8080,ID,PT Lintas Jaringan Nusantara
+85.133.162.37,8080,IR,Shabakieh Isfahan Co PJSC
+45.74.31.40,5941,US,Oracle Corporation
+103.31.103.71,1080,PK,Cyber Internet Services (Pvt) Ltd.
+45.74.31.40,5249,FR,OVH SAS
+45.74.31.46,4614,DE,Hetzner Online GmbH
+45.74.31.42,16991,FR,Contabo GmbH
+45.74.31.42,7688,FR,Contabo GmbH
+45.74.31.42,4151,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.40,7459,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+153.80.242.105,8080,RU,Global Connectivity Solutions Llp
+45.74.31.46,6224,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.46,10798,TH,UNINET-TH
+103.18.78.157,1080,ID,PT. Usaha Adisanggoro
+45.74.31.46,5650,DE,Host Europe GmbH
+103.23.100.9,1080,ID,Universitas Negeri Semarang
+103.195.65.199,8080,ID,PT. NAP Info Lintas Nusa
+45.74.31.46,4141,DE,Host Europe GmbH
+43.252.238.196,1080,ID,PT. Usaha Adisanggoro
+47.254.36.25,11080,US,Alibaba (US) Technology Co.  Ltd.
+45.175.173.20,8080,BR,NETMASTER PORTEIRINHA ME
+45.74.31.40,4536,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+87.241.198.70,8080,RU,Sibirskie Seti Ltd.
+45.74.31.46,4418,US,GoDaddy.com  LLC
+45.74.31.42,4721,US,Oracle Corporation
+45.74.31.40,4279,DE,Host Europe GmbH
+45.74.31.46,4740,US,Unified Layer
+45.74.31.42,4170,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.46,7745,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.40,5352,US,GoDaddy.com  LLC
+45.74.31.42,6697,ID,PT INDONESIA COMNETS PLUS
+45.74.31.40,5933,US,Oracle Corporation
+45.74.31.46,4493,ID,BIZNET NETWORKS
+45.74.31.46,4508,DE,Host Europe GmbH
+171.245.71.217,1086,VN,FPT Telecom Company
+45.74.31.42,4885,AT,IONOS SE
+45.74.31.46,7202,ID,BIZNET NETWORKS
+45.74.31.40,7121,US,GoDaddy.com  LLC
+152.231.81.19,1080,CL,ENTEL CHILE S.A.
+42.114.69.0,20001,VN,FPT Telecom Company
+45.74.31.42,5486,US,Unified Layer
+103.90.66.186,3128,ID,PT Rajawali Bintang Cemerlang Telkomedia
+45.74.31.40,4711,TR,Cenuta Telekomunikasyon Anonim Sirketi
+121.46.226.221,10808,HK,Zenlayer Inc
+202.73.27.115,8080,ID,PT. Usaha Adisanggoro
+103.177.177.250,8080,ID,PT Milenial Inti Telekomunikasi
+45.74.31.40,4019,ID,PT Data Kencang Hutama
+74.62.23.242,39593,US,Charter Communications Inc
+45.74.31.40,9678,FR,OVH SAS
+45.74.31.40,4399,DE,Host Europe GmbH
+103.86.135.98,8080,PK,Multan Cable & Internet Services (Pvt) Ltd
+18.142.95.213,10000,CA,OVH SAS
+103.174.123.134,8199,ID,PT Jaya Sejahtra Nugraha
+45.74.31.46,17563,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.46,7871,US,GoDaddy.com  LLC
+45.74.31.40,5184,ID,PT INDONESIA COMNETS PLUS
+45.74.31.42,10324,FR,Contabo GmbH
+45.74.31.40,4175,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.46,4363,FR,Contabo GmbH
+45.74.31.46,5097,US,Unified Layer
+45.74.31.46,4970,IN,Tier 4 Cloud Services
+45.74.31.46,8133,IN,Tier 4 Cloud Services
+45.74.31.46,9695,US,Oracle Corporation
+194.87.232.240,1080,RU,JSC Mediasoft ekspert
+45.74.31.40,5374,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+47.129.130.0,8087,NL,Church of Cyberology
+45.175.160.86,999,AR,OSORIO SERGIO ANGELINO(NETVDU).
+113.11.179.87,8080,ID,BIZNET NETWORKS
+45.74.31.46,5700,AT,IONOS SE
+45.74.31.40,4965,FR,Contabo GmbH
+45.65.224.125,999,AR,SOLUTION LAN S.A
+203.76.222.232,8090,BD,Business Network
+45.74.31.46,7699,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+190.235.208.51,8080,PE,INTEGRATEL PERU S.A.A.
+45.74.31.46,8112,US,Network Solutions  LLC
+161.22.33.121,999,VE,THUNDERNET  C.A.
+45.74.31.46,4920,SG,DigitalOcean  LLC
+45.74.31.40,5384,AT,IONOS SE
+45.74.31.46,7045,US,GoDaddy.com  LLC
+45.74.31.42,7510,US,Oracle Corporation
+45.74.31.42,26074,MY,Shinjiru Technology Sdn Bhd
+88.84.204.217,1080,RU,Flex Ltd.
+45.74.31.42,4517,DE,Host Europe GmbH
+45.74.31.46,12826,US,Unified Layer
+45.74.31.42,5781,ID,Biznet NAP - Internet Exchange Provider
+84.255.40.228,8998,MT,Melita Limited
 45.74.31.42,6423,AT,IONOS SE
-45.74.31.40,14331,FR,OVH SAS
-45.74.31.42,11364,IN,Tier 4 Cloud Services
-45.74.31.40,4430,DE,Host Europe GmbH
+45.74.31.42,6457,US,GoDaddy.com  LLC
+31.76.127.171,3128,DE,H2nexus Cloud Services - Fzco
+45.74.31.42,4947,VN,AZDIGI Corporation
+45.74.31.40,5453,US,Unified Layer
+45.74.31.40,7456,US,Google LLC
+45.74.31.40,5781,FR,Contabo GmbH
+45.74.31.40,4885,US,Microsoft Corporation
+45.74.31.42,4611,IN,Tier 4 Cloud Services
+45.74.31.46,4277,AT,IONOS SE
+212.252.73.66,8080,TR,Superonline Iletisim Hizmetleri A.S.
+177.234.217.92,999,EC,UFINET PANAMA S.A.
+103.203.233.134,8080,ID,PT Inti Data Guna
+45.74.31.42,6188,US,GoDaddy.com  LLC
+160.30.204.24,50001,US,Strong Technology  LLC.
+103.253.124.97,80,ID,Pemerintah Kota Batam
+205.209.66.81,8080,SY,RCell LLC
+45.74.31.40,4457,ID,BIZNET NETWORKS
+45.74.31.40,5121,US,GoDaddy.com  LLC
+1.4.141.34,8080,TH,TOT Public Company Limited
+45.74.31.42,4576,FR,Scaleway SAS
+62.245.48.172,1080,RU,JSC ER-Telecom Holding
+45.74.31.40,6565,US,GoDaddy.com  LLC
+45.74.31.46,6505,US,Oracle Corporation
+95.60.60.204,3128,ES,Vodafone Spain
+87.126.65.11,1388,BG,Vivacom Bulgaria EAD
+45.74.31.42,6459,AT,IONOS SE
+45.74.31.40,4280,TH,UNINET-TH
+45.74.31.42,6261,FR,OVH SAS
+45.74.31.46,4268,AT,IONOS SE
+116.204.166.183,8080,US,High Speed For Internet Services L.L.C
+45.74.31.42,4427,US,Oracle Corporation
+45.74.31.46,5439,FR,Contabo GmbH
+45.74.31.46,4047,IN,Tier 4 Cloud Services
+45.74.31.42,5956,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+2.27.98.183,8080,DE,Packet Loss LTD
+45.74.31.40,5354,FR,Contabo GmbH
+45.74.31.46,4146,US,Oracle Corporation
+85.239.156.66,5555,CZ,Ondrej Vrana
+62.60.230.21,1080,SE,Aeza Group LLC
+89.250.148.158,1080,RU,JSC ER-Telecom Holding
+45.74.31.40,4846,IN,TECHNO FAQ DIGITAL MEDIA
+45.74.31.42,8822,FR,Contabo GmbH
+45.74.31.46,9533,IN,Tier 4 Cloud Services
+45.74.31.40,10891,US,IONOS SE
+45.74.31.40,6426,FR,OVH SAS
+45.74.31.46,4106,TR,Cenuta Telekomunikasyon Anonim Sirketi
+45.74.31.46,12835,ID,PT INDONESIA COMNETS PLUS
+118.179.155.202,9090,BD,AmberIT Limited
+212.252.73.86,8080,TR,Superonline Iletisim Hizmetleri A.S.
+45.74.31.40,8578,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.46,8593,IN,Tier 4 Cloud Services
+95.188.83.253,1080,RU,Rostelecom
+45.74.31.40,5244,US,New Dream Network  LLC
+45.74.31.42,9793,FR,Contabo GmbH
+157.10.226.93,8080,PK,ROUTE 1 DIGITAL (PVT.) LIMITED
+45.74.31.40,5043,US,GoDaddy.com  LLC
+45.74.31.46,7331,MY,Shinjiru Technology Sdn Bhd
+45.74.31.42,9329,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,4061,FR,Contabo GmbH
+87.126.64.193,4145,BG,Vivacom Bulgaria EAD
+45.74.31.46,4452,ID,BIZNET NETWORKS
+45.74.31.46,9884,US,GoDaddy.com  LLC
+45.74.31.42,9423,US,Oracle Corporation
+88.84.223.156,5650,RU,Flex Ltd.
+37.221.202.30,8080,KZ,OBIT-telecommunications  LLC
+45.74.31.46,5777,IN,Tier 4 Cloud Services
+110.39.135.194,8080,PK,National WiMAX/IMS environment
+45.74.31.42,5984,TR,Cenuta Telekomunikasyon Anonim Sirketi
+47.129.130.0,1142,NL,Church of Cyberology
+45.74.31.42,5636,DE,Deutsche Telekom AG
+45.74.31.46,4244,DE,Host Europe GmbH
+45.74.31.42,6960,FR,Contabo GmbH
+45.74.31.46,10462,IN,Tier 4 Cloud Services
+45.74.31.46,4786,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,5561,IN,Tier 4 Cloud Services
+45.74.31.46,9801,IN,Tier 4 Cloud Services
+160.19.146.82,2022,ID,PT Taska Sarana Nusantara
+45.74.31.40,11397,FR,OVH SAS
+45.74.31.40,4866,TH,UNINET-TH
+160.22.45.10,8080,ID,PT Celebes Multi Network
+45.74.31.40,9226,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.40,5224,US,GoDaddy.com  LLC
+45.74.31.42,4098,NL,Hostinger International Limited
+45.74.31.40,14055,US,Google LLC
+45.232.77.153,9292,BR,GARCIA TELECOMUNICACOES LTDA
+177.234.221.197,999,EC,UFINET PANAMA S.A.
+45.74.31.46,4337,MY,Shinjiru Technology Sdn Bhd
+45.74.31.42,7778,FR,Contabo GmbH
+116.172.234.154,1181,HK,NetLab Global
+45.74.31.40,6307,US,GoDaddy.com  LLC
+103.183.10.211,8080,ID,PT. Yasmin Amanah Media
+45.74.31.40,12154,IN,TECHNO FAQ DIGITAL MEDIA
+103.176.96.178,1111,ID,PT Global Sarana Elektronika
+45.74.31.42,5176,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,7142,US,Oracle Corporation
+45.74.31.42,5801,IN,Hostinger International Limited
+45.74.31.46,7519,IN,Tier 4 Cloud Services
+23.141.116.9,9000,VN,MINIUM NET LLC
+45.74.31.40,4259,US,GoDaddy.com  LLC
+45.74.31.46,4767,FR,OVH SAS
+103.133.223.251,8080,ID,PT. Menaksopal Link Nusantara
+103.4.95.90,1080,PK,PERN AS Content Servie Provider  Islamabad  Pakistan
+45.74.31.42,7871,IN,Hostinger International Limited
+43.160.229.63,1080,MY,OCTOPUS WEB SOLUTION INC
+45.74.31.42,7818,IN,Hostinger International Limited
+45.74.31.46,7743,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,8586,MY,Shinjiru Technology Sdn Bhd
+49.145.58.197,8082,PH,Philippine Long Distance Telephone Company
+45.74.31.42,5581,FR,Scaleway SAS
+185.70.129.183,1080,RU,Trinity Ltd
+45.74.31.46,8086,IN,Tier 4 Cloud Services
+45.74.31.42,7875,IN,Hostinger International Limited
+45.74.31.42,19469,US,Unified Layer
+27.54.121.90,1080,PK,SKY TELECOM
+45.74.31.42,7706,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.40,4690,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+171.241.27.51,60062,VN,Viettel Group
+103.112.139.162,8080,ID,PT Power Networking Indonesia
+45.74.31.42,8071,CL,Universidad Tecnica Federico Santa Maria
+177.136.39.242,6666,BR,Softdados Telecomunicacoes
+103.175.238.122,8085,ID,PT Uliz Netmedia Solusindo
+45.74.31.42,4866,AT,IONOS SE
+103.152.148.31,8080,ID,PT Putra Garsel Interkoneksi
+45.74.31.46,5780,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+180.191.152.252,8082,PH,Globe Telecoms
+45.74.31.42,5858,FR,Contabo GmbH
+198.145.118.103,8080,TR,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.
+45.74.31.40,4602,IN,Tier 4 Cloud Services
+45.74.31.40,4471,US,GoDaddy.com  LLC
+45.74.31.46,4209,US,Microsoft Corporation
+45.74.31.46,4230,IN,Tier 4 Cloud Services
+84.22.48.28,8080,XK,Artmotion Sh.p.k.
+45.74.31.40,11042,US,Oracle Corporation
+46.175.148.45,1080,NL,Serverius Holding B.V.
+121.46.226.221,10808,HK,Zenlayer Inc
+45.74.31.40,4946,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.40,4920,US,GoDaddy.com  LLC
+45.74.31.40,6279,FR,Contabo GmbH
+45.74.31.46,4374,US,GoDaddy.com  LLC
+45.74.31.42,5391,US,Oracle Corporation
+45.74.31.42,4092,IN,DigitalOcean  LLC
+103.187.227.126,1111,ID,PT Arsya Bintang Nusantara
+45.74.31.46,6913,US,Oracle Corporation
+45.74.31.42,6716,AT,IONOS SE
+45.74.31.46,7390,FR,Contabo GmbH
+45.74.31.42,6004,IN,Tier 4 Cloud Services
+166.0.22.78,40001,JP,Cloudflare  Inc.
+103.208.103.30,8080,ID,PT Tidar Lintas Nusa
+45.74.31.46,8014,US,GoDaddy.com  LLC
+45.74.31.40,7531,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.40,5481,US,Oracle Corporation
+96.30.70.8,8081,TH,Symphony Communication (Thailand) PCL.
+45.74.31.40,5299,US,Oracle Corporation
+45.74.31.40,4813,FR,OVH SAS
+45.74.31.42,4177,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.46,4357,ID,BIZNET NETWORKS
+45.74.31.42,8927,FR,OVH SAS
+49.145.51.213,8082,PH,Philippine Long Distance Telephone Company
+45.224.62.149,1080,BR,LUZ E CUNHA LTDA - ME
+103.74.103.37,1080,VN,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
+201.219.194.114,8080,CO,ITELKOM
+45.74.31.42,7851,FR,Contabo GmbH
+103.255.222.1,80,IN,Swip Wifi Network Private Limited
+45.74.31.42,6831,IN,TECHNO FAQ DIGITAL MEDIA
+45.74.31.42,6298,AT,IONOS SE
+80.78.128.94,8080,ES,Cloudwifi  Sl
+45.74.31.42,6167,FR,Contabo GmbH
+120.28.82.207,8082,PH,Globe Telecom Inc.
+45.74.31.40,4644,US,GoDaddy.com  LLC
+45.74.31.42,7748,IN,Hostinger International Limited
+45.74.31.40,14890,US,Oracle Corporation
+45.74.31.40,6113,US,GoDaddy.com  LLC
+45.74.31.46,5598,US,Oracle Corporation
+77.238.79.111,5678,BG,Fiber 1 Ltd.
+123.121.132.234,8888,CN,China Unicom Beijing Province Network
+81.12.157.98,5678,RO,Vodafone Romania S.A.
+16.176.232.186,8120,TR,Fiba Cloud Operation Company  LLC
+183.106.215.208,1080,KR,Korea Telecom
+103.132.54.42,8080,ID,PT. ADEAKSA INDO JAYATAMA
+45.74.31.42,5566,FR,Contabo GmbH
+13.215.184.250,59981,DE,Stiftung Erneuerbare Freiheit
+45.74.31.42,27575,AT,IONOS SE
+45.74.31.46,13410,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+103.147.134.179,8080,ID,PT.MURNI MAKMUR ABADI
+45.74.31.42,11310,ID,PT INDONESIA COMNETS PLUS
+45.74.31.46,11102,US,Google LLC
+45.74.31.40,13139,US,Network Solutions  LLC
+45.74.31.46,4473,IN,DigitalOcean  LLC
+45.74.31.46,7753,FR,Contabo GmbH
+45.74.31.42,5859,IN,Tier 4 Cloud Services
+45.74.31.42,14553,CL,Universidad Tecnica Federico Santa Maria
+45.74.31.46,12907,ID,PT INDONESIA COMNETS PLUS
+45.74.31.40,8222,DE,Hetzner Online GmbH
+45.74.31.40,4902,VN,VIET DIGITAL TECHNOLOGY LIABILITY COMPANY
+43.216.197.62,8081,NL,Church of Cyberology
+45.74.31.46,12892,US,Oracle Corporation
+45.74.31.46,8326,US,GoDaddy.com  LLC
+160.20.37.126,80,ID,PT AJI RAFASYA ROSO ANTENG BERKAH
+45.74.31.46,13419,US,Google LLC
+45.74.31.40,5756,FR,Contabo GmbH
+103.180.126.90,8080,ID,PT Alam Media Data
+161.22.39.98,999,VE,THUNDERNET  C.A.
+45.74.31.40,4819,IN,Tier 4 Cloud Services
+45.74.31.46,8954,US,Oracle Corporation
+75.148.159.121,8080,US,Comcast Cable Communications  LLC
+154.88.137.50,999,DO,DOMINICAN TELECOM PRIME  DTP  S.R.L.
+103.234.35.121,3128,ID,PT. Exabit Group Network
+45.74.31.40,7263,US,GoDaddy.com  LLC
+45.74.31.40,4914,DE,Host Europe GmbH
+45.74.31.46,8426,US,GoDaddy.com  LLC
+45.74.31.42,6744,FR,Contabo GmbH
+45.74.31.42,4297,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.40,4563,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.46,14790,US,Oracle Corporation
+45.74.31.42,8398,FR,Contabo GmbH
+160.30.204.24,50009,US,Strong Technology  LLC.
+79.98.32.82,8080,GB,High Speed For Internet Services L.L.C
+45.74.31.42,4450,FR,Contabo GmbH
+45.74.31.42,16370,FR,Contabo GmbH
+45.232.76.98,9292,BR,GARCIA TELECOMUNICACOES LTDA
+45.74.31.42,7454,FR,Contabo GmbH
+221.217.54.146,9000,CN,China Unicom Beijing Province Network
+105.214.51.182,5678,ZA,MTN SA
+31.41.227.175,2080,RU,PE Pivovar Aleksej Nikolaevich
+124.217.6.168,5050,PH,Philippine Long Distance Telephone Company
+34.229.190.39,19929,NL,Church of Cyberology
+85.237.39.139,8080,RU,Rostelecom
+177.234.217.93,999,EC,UFINET PANAMA S.A.
+45.74.31.46,15971,FR,OVH SAS
+45.74.31.46,4459,FR,OVH SAS
+45.74.31.40,7505,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+94.141.178.190,3128,RU,Megasvyaz LLC
+45.74.31.46,5427,US,GoDaddy.com  LLC
+45.74.31.40,5176,IN,Tier 4 Cloud Services
+45.74.31.42,15672,US,Oracle Corporation
+91.150.189.122,30389,PL,Skyware Sp. z o.o.
+103.156.75.169,8181,ID,PT Trika Global Media
+82.180.145.170,3129,IN,Contabo Asia Private Limited
+45.74.31.46,4225,IN,Tier 4 Cloud Services
+45.74.31.42,4961,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.46,4792,FR,Contabo GmbH
+45.74.31.42,6370,US,Oracle Corporation
+1.10.133.83,8081,TH,TOT Public Company Limited
+45.74.31.40,14456,IN,Tier 4 Cloud Services
+45.74.31.40,15175,FR,OVH SAS
+95.87.73.121,8080,KG,Cjsc Saima Telecom
+36.64.18.91,8080,ID,PT Telekomunikasi Indonesia
+160.30.204.24,50001,US,Strong Technology  LLC.
+83.218.186.22,5678,AT,myNet GmbH
+49.149.174.69,8082,PH,Philippine Long Distance Telephone Company
+103.156.96.131,8080,ID,PT Karya Panca Telekomunikasi
+62.113.113.114,1080,RU,Hosting technology LTD
+45.74.31.46,4486,FR,Contabo GmbH
+45.74.31.46,7459,US,GoDaddy.com  LLC
+45.74.31.42,6350,US,Oracle Corporation
+194.87.197.21,8080,US,NovoServe B.V.
+45.74.31.42,4738,AT,IONOS SE
+49.213.43.6,8080,ID,PT MUSUBI BALI INTERKONEKSI
+190.60.62.51,999,CO,UFINET PANAMA S.A.
+45.74.31.46,15324,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+157.10.97.51,8080,ID,PT Lintas Jaringan Nusantara
+182.253.42.232,2026,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.46,5966,IN,Tier 4 Cloud Services
+45.74.31.46,4440,DE,Host Europe GmbH
+45.74.31.46,6194,IN,Tier 4 Cloud Services
+103.160.41.8,8080,ID,PT Wistel Teknologi Solusi
+209.150.151.90,1080,PK,Cyber Internet Services (Pvt) Ltd.
+121.101.133.96,8080,ID,PT SELARAS CITRA TERABIT
+8.137.127.197,9080,CN,Hangzhou Alibaba Advertising Co. Ltd.
+203.201.190.16,8080,ID,PT WIRA HASTA JITU
+180.191.142.188,8080,PH,Globe Telecoms
+45.74.31.46,9132,IN,Tier 4 Cloud Services
+112.202.40.128,8082,PH,Philippine Long Distance Telephone Company
+103.166.171.97,8080,BD,Shubas Broadband Internet Service
+45.74.31.40,5423,IN,DigitalOcean  LLC
+89.135.59.77,8090,HU,2Connect Telecommunications Infrastructure & Network Services Ltd.
+45.74.31.40,4489,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.40,6962,IN,TECHNO FAQ DIGITAL MEDIA
+54.249.49.32,8084,JP,Amazon.com  Inc.
+45.74.31.40,4561,ID,Biznet NAP - Internet Exchange Provider
+62.113.113.114,1080,RU,Hosting technology LTD
+161.22.32.31,8080,VE,TOP COMUNICATIONS ESTEGIA C.A.
+45.74.31.46,4926,TH,UNINET-TH
+177.12.140.107,8080,BR,MARIA P. FONTENELE SOUZA
+14.245.166.183,8080,VN,VNPT Corp
+45.74.31.40,15962,FR,OVH SAS
+45.74.31.42,7099,ID,Biznet NAP - Internet Exchange Provider
+94.253.95.241,3629,RU,Ivanteevskie telecommunicacii Ltd
+110.93.236.171,8080,PK,Trans World Enterprise Services (Private) Limited
+103.180.126.194,8080,ID,PT Alam Media Data
+45.74.31.42,7595,IN,Hostinger International Limited
+125.25.167.188,8080,TH,TOT Public Company Limited
+182.52.113.105,80,TH,TOT Public Company Limited
+95.84.164.92,8998,RU,Rostelecom
+202.142.170.115,1080,PK,Multinet Pakistan Pvt. Ltd.
+45.74.31.42,8877,US,Google LLC
+45.74.31.46,7963,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,6663,FR,Contabo GmbH
+62.60.230.21,1080,SE,Aeza Group LLC
+45.74.31.42,4068,SG,Akamai Connected Cloud
+45.74.31.46,13365,FR,OVH SAS
+45.74.31.42,8345,FR,Contabo GmbH
+45.74.31.40,5485,US,Oracle Corporation
+45.74.31.42,5470,DE,Hetzner Online GmbH
+157.100.52.68,999,EC,UFINET PANAMA S.A.
+202.142.176.130,1080,PK,Multinet Pakistan Pvt. Ltd.
+160.25.196.44,8090,ID,PT Rnet Mitra Sentosa
+45.74.31.46,4003,CH,Infomaniak Network SA
+161.22.33.129,999,VE,THUNDERNET  C.A.
+45.74.31.42,4441,DE,Hetzner Online GmbH
+210.87.93.98,8080,ID,PT Indo Telemedia Solusi
+45.74.31.42,5748,US,Oracle Corporation
+45.74.31.42,6315,US,Oracle Corporation
+45.74.31.42,6057,US,Oracle Corporation
+45.74.31.46,10116,US,Oracle Corporation
+103.151.42.242,1080,PK,PLAY BROADBAND (PRIVATE) LIMITED
+45.74.31.42,4094,US,Google LLC
+20.33.10.79,443,ZA,Microsoft Corporation
+45.74.31.42,13440,FR,Contabo GmbH
+45.74.31.42,7019,US,GoDaddy.com  LLC
+18.142.95.213,52980,NL,Church of Cyberology
+111.192.45.14,8888,CN,China Unicom Beijing Province Network
+8.242.245.230,999,MX,Level 3 Parent  LLC
+190.108.57.212,1085,AR,AGUAS DEL COLORADO SAPEM
+45.74.31.40,4101,BR,Oso Grande IP Services  LLC
+45.74.31.42,4518,FR,Contabo GmbH
+181.174.231.152,999,CO,SINERGY SOLUCIONES INTEGRALES
+45.74.31.46,7584,IN,Tier 4 Cloud Services
+45.74.31.40,6556,US,GoDaddy.com  LLC
+95.81.126.73,1080,FI,Ihor Hosting Ltd
+45.74.31.40,8174,AT,IONOS SE
+111.68.125.34,8080,ID,Varnion Technology Semesta  PT
+93.115.174.1,1080,RO,Alter-NET SRL
+45.74.31.46,5020,US,Oracle Corporation
+45.74.31.46,7309,IN,Tier 4 Cloud Services
+16.26.208.68,8579,NL,Church of Cyberology
+103.134.222.163,8080,ID,PT Global Media Pratama Solusindo
+113.192.48.253,8080,ID,PT.Global Media Data Prima
+185.238.238.169,58080,PL,RADIO-NET
+103.46.186.126,8080,ID,PT Air Lintas Komunikasi
+45.74.31.42,6901,IN,Tier 4 Cloud Services
+43.155.62.157,443,HK,Tencent Building  Kejizhongyi Avenue
+50.114.58.15,1080,DE,Sculk Ltd.
+45.74.31.46,7646,IN,Tier 4 Cloud Services
+45.74.31.42,7267,FR,Contabo GmbH
+45.74.31.46,7736,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+103.156.74.36,8181,ID,PT Trika Global Media
+82.117.78.58,1080,RU,Fibrenet Ltd
+45.74.31.42,7396,FR,Contabo GmbH
+45.74.31.42,4846,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.40,13452,US,Unified Layer
+45.74.31.42,6790,FR,Contabo GmbH
+77.221.152.210,36219,FR,Aeza Group LLC
+45.74.31.46,8630,AT,IONOS SE
+45.74.31.42,5249,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.42,9492,IN,DigitalOcean  LLC
+177.234.221.196,999,EC,UFINET PANAMA S.A.
+13.208.246.143,46557,CH,FranTech Solutions
+45.74.31.46,4271,US,Oracle Corporation
+123.253.145.165,8080,BD,ADN Telecom Ltd.
+80.78.74.8,65530,AL,Vodafone Albania Sh.A.
+45.74.31.42,7240,ID,BIZNET NETWORKS
+103.247.14.138,7778,ID,PT SELARAS CITRA TERABIT
+1.20.178.221,80,TH,TOT Public Company Limited
+45.74.31.46,7462,AT,IONOS SE
+173.205.202.241,8181,US,Swayzee Telephone Company  Inc.
+45.74.31.40,5479,US,Oracle Corporation
+103.129.205.151,8080,ID,PT MEISSA Berkah Teknologi
+141.147.19.47,12345,DE,Oracle Corporation
+45.74.31.46,4238,AT,IONOS SE
+183.91.88.226,8087,ID,PT Cyberindo Aditama
+45.74.31.42,7012,AT,IONOS SE
+45.74.31.40,8726,FR,Contabo GmbH
+45.74.31.40,7517,US,GoDaddy.com  LLC
+45.74.31.42,9550,AT,IONOS SE
+194.182.178.90,3128,BG,Akenes SA
+45.74.31.40,4377,ID,Biznet NAP - Internet Exchange Provider
+94.183.6.226,9090,IR,Aria Shatel PJSC
+111.192.59.105,8888,CN,China Unicom Beijing Province Network
+45.74.31.42,15646,DE,Host Europe GmbH
+195.209.208.53,1080,RU,Inetcom Carrier LLC
+89.237.35.10,37647,RU,Joint Stock Company TransTeleCom
+45.74.31.42,9459,DE,IONOS SE
+45.74.31.46,13219,ID,Biznet NAP - Internet Exchange Provider
+151.158.133.155,8080,ID,PT SANET MEDIA TEKNOLOGI
+45.74.31.42,4238,MY,Shinjiru Technology Sdn Bhd
+45.74.31.42,8680,FR,Contabo GmbH
+45.74.31.46,4069,FR,Scaleway SAS
+45.74.31.42,4190,US,Google LLC
+89.43.132.215,8080,HU,High Speed For Internet Services L.L.C
+45.74.31.46,5720,US,GoDaddy.com  LLC
+103.250.69.190,9249,BD,Next Online Limited.
+45.74.31.40,4043,BD,Wolast Technologies
+201.4.65.68,8080,PL,High Speed For Internet Services L.L.C
+45.74.31.40,6836,US,GoDaddy.com  LLC
+117.20.31.166,8080,PK,Pakistan Telecommunication Company Limited
+45.74.31.42,4700,IN,Hostinger International Limited
+191.102.72.74,8080,CO,TV AZTECA SUCURSAL COLOMBIA
+45.74.31.40,12300,AT,IONOS SE
+45.74.31.42,9889,FR,Contabo GmbH
+45.74.31.42,4814,US,Google LLC
+123.121.134.192,8888,CN,China Unicom Beijing Province Network
+45.74.31.40,8855,DE,Hetzner Online GmbH
+45.74.31.42,5547,IN,Hostinger International Limited
+45.74.31.46,4543,US,Google LLC
+45.74.31.40,13746,FR,Scaleway SAS
+203.99.54.238,8090,PK,Nayatel (Pvt) Ltd
+150.136.172.124,8082,US,Oracle Corporation
+45.74.31.42,10421,US,GoDaddy.com  LLC
+45.74.31.42,9002,ID,PT INDONESIA COMNETS PLUS
+45.74.31.46,17464,SG,DigitalOcean  LLC
+45.74.31.40,4614,FR,Contabo GmbH
+171.241.21.204,60000,VN,Viettel Group
+45.74.31.40,6213,IN,Tier 4 Cloud Services
+45.74.31.42,6039,US,Oracle Corporation
+45.74.31.46,4228,AT,IONOS SE
+188.132.150.51,8080,TR,High Speed For Internet Services L.L.C
+185.42.80.77,8082,RU,JSC ER-Telecom Holding
+125.25.167.164,80,TH,TOT Public Company Limited
+49.48.107.194,8081,TH,Triple T Broadband Public Company Limited
+90.188.250.169,1080,RU,Rostelecom
+45.74.31.46,7647,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.198.10.106,8080,ID,PT JARINGAN LINTAS ARTHA
+45.74.31.42,7614,US,Google LLC
+177.52.221.102,999,DO,TELERY NETWORKS  S.R.L
+45.74.31.40,9269,ID,Biznet NAP - Internet Exchange Provider
+47.52.223.161,5872,HK,Alibaba (US) Technology Co.  Ltd.
+45.198.20.239,3125,ID,PT Ikhlas Cipta Teknologi
+83.147.18.168,1080,ES,Regxa Company for Information Technology Ltd
+45.74.31.42,4331,US,GoDaddy.com  LLC
+45.74.31.46,5049,US,Microsoft Corporation
+13.209.65.136,51873,NL,Church of Cyberology
+89.43.133.165,8080,HU,High Speed For Internet Services L.L.C
+45.74.31.46,7244,US,GoDaddy.com  LLC
+180.191.122.227,5050,PH,Globe Telecoms
+160.191.173.52,8080,ID,PT Citra Angkasa Lintas Media
+154.18.255.49,1111,ID,PT Media Solusi Sukses
+45.74.31.46,7330,FR,Contabo GmbH
+45.172.223.190,999,CO,ATENEA TELECOMUNICACIONES S.A.S
+45.74.31.42,23000,US,Oracle Corporation
+45.74.31.42,12052,US,Google LLC
+45.74.31.46,6207,US,GoDaddy.com  LLC
+45.74.31.46,12250,US,Google LLC
+45.65.226.173,999,AR,SOLUTION LAN S.A
+45.74.31.42,8529,US,Oracle Corporation
+45.74.31.40,4385,BR,Oso Grande IP Services  LLC
+45.74.31.40,8945,US,Oracle Corporation
+45.74.31.40,5510,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+182.53.202.238,8080,TH,TOT Public Company Limited
+45.74.31.40,6508,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+201.4.69.37,8080,SY,High Speed For Internet Services L.L.C
+58.32.16.138,7000,JP,The Constant Company  LLC
+72.46.158.193,8087,PR,Dimelo Network
+45.74.31.40,4219,ID,Biznet NAP - Internet Exchange Provider
+157.15.144.81,1111,ID,PT. INDOTEK SOLUTION NETWORK
+103.180.126.140,8080,ID,PT Alam Media Data
+103.153.62.217,8181,ID,PT Ikhlas Cipta Teknologi
+45.74.31.46,4864,MY,Shinjiru Technology Sdn Bhd
+45.74.31.40,5683,IN,DigitalOcean  LLC
+222.167.236.247,8080,US,High Speed For Internet Services L.L.C
+45.74.31.46,11318,ID,Biznet NAP - Internet Exchange Provider
+138.94.236.71,8080,BR,NETTCON PROVEDOR DE INTERNET EIRELI EPP
+45.74.31.42,6704,FR,Contabo GmbH
+45.161.144.16,6666,BR,JS FIBRA
+45.74.31.42,8769,US,Unified Layer
+45.74.31.40,15036,US,Unified Layer
+45.184.103.172,999,VE,PRINTER-NET-SERVICE  C.A.
+103.151.22.130,8082,ID,PT TERABYTE INDONESIA
+45.74.31.42,9702,US,Oracle Corporation
+45.74.31.42,4373,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.42,16511,FR,Contabo GmbH
+45.74.31.40,7348,FR,Contabo GmbH
+38.250.183.132,8069,PE,DESARROLLO DE INFRAESTRUCTURA DE TELECOMUNICACIONES PERU S.A.C. (INFRATEL)
+45.74.31.46,10246,FR,Contabo GmbH
+45.74.31.42,4084,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,8403,FR,Contabo GmbH
+103.156.75.89,1717,ID,PT Trika Global Media
+45.74.31.40,6562,US,GoDaddy.com  LLC
+176.197.114.86,1080,RU,E-Light-Telecom Ltd.
+45.74.31.42,7600,FR,Contabo GmbH
+45.74.31.42,6636,FR,Contabo GmbH
+45.74.31.40,4258,US,GoDaddy.com  LLC
+45.74.31.42,9275,FR,Contabo GmbH
+45.74.31.40,6433,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.42,8058,IN,Hostinger International Limited
+45.74.31.40,9222,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.42,8298,IN,TECHNO FAQ DIGITAL MEDIA
+45.74.31.40,13864,SG,DigitalOcean  LLC
+45.74.31.40,7362,US,Google LLC
+45.74.31.42,4937,AT,IONOS SE
+45.74.31.42,9394,MY,Shinjiru Technology Sdn Bhd
+41.65.71.152,1981,EG,ETISALAT MISR
+1.20.101.23,80,TH,TOT Public Company Limited
+45.74.31.40,4665,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.40,10500,AT,IONOS SE
+45.74.31.42,7585,US,GoDaddy.com  LLC
+45.74.31.46,4456,IN,DigitalOcean  LLC
+45.74.31.42,7007,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.42,4327,US,Google LLC
+45.74.31.40,10776,US,GoDaddy.com  LLC
+103.76.109.123,8090,ID,PT Mahawira Nusantara Grup
+81.12.169.254,4153,RO,Vodafone Romania S.A.
+45.74.31.40,9197,ID,Biznet NAP - Internet Exchange Provider
+125.25.167.188,80,TH,TOT Public Company Limited
+45.74.31.42,7468,MY,Shinjiru Technology Sdn Bhd
+45.74.31.40,12329,US,Unified Layer
+45.74.31.42,6356,DE,Host Europe GmbH
+45.74.31.40,7298,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+88.218.206.170,22,NL,Joel Krause
+45.74.31.40,6166,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,22231,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.40,8220,US,Unified Layer
+45.74.31.42,5692,FR,OVH SAS
+165.101.231.107,1080,ID,PT Anugerah Cimanuk Raya
+78.153.130.53,9050,TR,Global Connectivity Solutions Llp
+45.74.31.46,8620,FR,Contabo GmbH
+45.74.31.46,7306,US,Network Solutions  LLC
+45.74.31.40,4199,BR,Oso Grande IP Services  LLC
+94.103.183.19,1080,NL,Aeza Group LLC
+203.96.224.81,8080,BD,IP Communications Limited
+186.33.51.12,999,CO,UFINET PANAMA S.A.
+45.74.31.42,6313,US,Oracle Corporation
+45.74.31.40,6200,FR,Contabo GmbH
+45.74.31.40,6174,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.40,9215,US,Unified Layer
+103.122.67.91,8080,ID,PT. Jinom Network Indonesia
+45.74.31.40,4534,US,GoDaddy.com  LLC
+45.74.31.42,10861,US,GoDaddy.com  LLC
+45.74.31.46,6485,BR,Oso Grande IP Services  LLC
+45.74.31.40,6017,US,Unified Layer
+201.219.218.4,8080,CO,UFINET PANAMA S.A.
+45.74.31.40,6352,IN,TECHNO FAQ DIGITAL MEDIA
+45.74.31.46,12230,ID,Biznet NAP - Internet Exchange Provider
+91.147.235.162,4153,HU,Magyar Telekom Plc.
+45.232.211.1,999,CL,NANOTIK TELECOMUNICACIONES SPA
+45.74.31.42,6552,IN,TECHNO FAQ DIGITAL MEDIA
+45.74.31.40,12761,US,Unified Layer
+45.74.31.40,4386,FR,Contabo GmbH
+45.74.31.42,7979,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.42,5010,ID,Biznet NAP - Internet Exchange Provider
+92.205.186.129,1080,FR,Host Europe GmbH
+45.74.31.40,8840,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.40,10520,IN,TECHNO FAQ DIGITAL MEDIA
+45.74.31.40,4132,AT,IONOS SE
+45.74.31.42,11715,ID,Biznet NAP - Internet Exchange Provider
+43.108.46.4,9050,NL,Church of Cyberology
+45.74.31.46,14441,SG,DigitalOcean  LLC
+45.74.31.46,7028,IN,Tier 4 Cloud Services
+37.122.149.46,1080,CA,Rockhoster Private Limited
+45.74.31.40,5044,US,GoDaddy.com  LLC
+45.74.31.42,7029,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.46,5012,US,Unified Layer
+119.93.69.83,8081,PH,Philippine Long Distance Telephone Company
+45.74.31.40,8836,FR,Contabo GmbH
+45.74.31.46,5392,US,Microsoft Corporation
+8.222.249.220,1080,SG,Alibaba (US) Technology Co.  Ltd.
+171.241.0.216,49276,VN,Viettel Group
+45.74.31.40,4277,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.40,13085,AT,IONOS SE
+45.74.31.42,7213,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.42,8783,US,Oracle Corporation
+45.74.31.42,9499,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.40,6150,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.46,11285,US,Unified Layer
+45.74.31.40,12134,FR,Contabo GmbH
+45.74.31.42,8826,US,Unified Layer
+45.74.31.42,18570,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.40,4643,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.46,4498,DE,Host Europe GmbH
+45.74.31.42,7910,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,16742,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.40,6404,FR,Contabo GmbH
+45.74.31.42,5292,US,GoDaddy.com  LLC
+45.74.31.42,9757,US,GoDaddy.com  LLC
+45.74.31.42,10983,US,Oracle Corporation
+45.74.31.42,8770,MY,Shinjiru Technology Sdn Bhd
+45.74.31.40,7361,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.46,5210,US,Unified Layer
+45.74.31.42,5620,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.40,4354,US,GoDaddy.com  LLC
+80.65.211.149,8888,US,Microsoft Corporation
+45.74.31.42,5529,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.40,4558,US,Unified Layer
+45.74.31.42,5160,US,Google LLC
+45.74.31.42,7566,IN,TECHNO FAQ DIGITAL MEDIA
+45.74.31.42,11882,US,Unified Layer
+20.33.10.132,80,ZA,Microsoft Corporation
+160.30.204.24,50008,US,Strong Technology  LLC.
+45.74.31.42,4615,SG,DigitalOcean  LLC
+45.74.31.42,6997,FR,Contabo GmbH
+45.74.31.46,5182,FR,Contabo GmbH
+45.74.31.46,5694,IN,Tier 4 Cloud Services
+45.74.31.42,4830,US,Oracle Corporation
+45.74.31.42,10248,US,Oracle Corporation
+219.128.23.206,10808,US,IT7 Networks Inc
+45.74.31.42,11036,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.46,12607,AT,IONOS SE
+45.74.31.46,5767,US,Oracle Corporation
+171.241.21.204,17024,VN,Viettel Group
+45.74.31.46,5495,US,Unified Layer
+45.74.31.42,8840,FR,OVH SAS
+45.74.31.46,7853,US,GoDaddy.com  LLC
+45.74.31.40,5496,CO,Empresa de Recursos Tecnologicos S.A E.S.P
+45.74.31.42,4300,US,Unified Layer
+45.74.31.42,6260,AT,IONOS SE
+45.74.31.40,5469,IN,Tier 4 Cloud Services
+45.74.31.46,4825,US,Oracle Corporation
+45.74.31.40,12784,US,DigitalOcean  LLC
+45.74.31.46,4949,IN,DigitalOcean  LLC
+45.74.31.40,4349,DE,Hetzner Online GmbH
+45.74.31.42,17433,FR,Contabo GmbH
+45.74.31.46,11757,ID,Biznet NAP - Internet Exchange Provider
+45.74.31.46,4910,IN,DigitalOcean  LLC
+85.121.179.160,1089,GB,Foxcloud Llp
+45.74.31.42,7725,FR,Contabo GmbH
+45.74.31.42,6461,US,GoDaddy.com  LLC
+45.74.31.46,4058,IN,Tier 4 Cloud Services
+45.74.31.40,21875,US,Oracle Corporation
+45.74.31.46,4936,US,Oracle Corporation
+45.74.31.46,4429,DE,Hetzner Online GmbH
+45.74.31.42,4341,FR,Contabo GmbH
+45.74.31.42,5085,IN,Tier 4 Cloud Services
+171.241.0.216,50001,VN,Viettel Group
+45.74.31.42,5331,US,GoDaddy.com  LLC
